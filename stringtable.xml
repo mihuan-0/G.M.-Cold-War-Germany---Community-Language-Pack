@@ -3730,7 +3730,7 @@
 				<Original>Add Toolbox</Original>
 				<English>Add Toolbox</English>
 				<German>Werkzeugkasten</German>
-				<Chinesesimp>工具箱</Chinesesimp>
+				<Chinesesimp>工具袋</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_TOOLS">
 				<Original>Add Tools</Original>
@@ -21862,336 +21862,392 @@
 				<English>Intro</English>
 				<German>Intro</German>
 				<Chinesesimp>介绍</Chinesesimp>
+				<Chinese>介紹</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_OVERVIEW">
 				<Original>1st August, 1983.</Original>
 				<English>1st August, 1983.</English>
 				<German>1. August, 1983</German>
 				<Chinesesimp>1983年8月1日</Chinesesimp>
+				<Chinese>1983年8月1日</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_01">
 				<Original>Germany is divided into West</Original>
 				<English>Germany is divided into West</English>
 				<German>Deutschland ist geteilt in West</German>
 				<Chinesesimp>德国被划分为西德</Chinesesimp>
+				<Chinese>德國被劃分為西德</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_02">
 				<Original>and East.</Original>
 				<English>and East.</English>
 				<German>und Ost.</German>
 				<Chinesesimp>和东德两部分。</Chinesesimp>
+				<Chinese>和東德兩部分。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_03">
 				<Original>East Germany</Original>
 				<English>East Germany</English>
 				<German>DDR</German>
 				<Chinesesimp>东德</Chinesesimp>
+				<Chinese>東德</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_04">
 				<Original>August 1983</Original>
 				<English>August 1983</English>
 				<German>August 1983</German>
 				<Chinesesimp>1983年8月</Chinesesimp>
+				<Chinese>1983年8月</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_01">
 				<Original>12 Hours Earlier...</Original>
 				<English>12 Hours Earlier...</English>
 				<German>12 Stunden Zuvor...</German>
 				<Chinesesimp>12小时前...</Chinesesimp>
+				<Chinese>12小時前...</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_02">
 				<Original>Julian Sänger</Original>
 				<English>Julian Sänger</English>
 				<German>Julian Sänger</German>
 				<Chinesesimp>Julian Sänger</Chinesesimp>
+				<Chinese>Julian Sänger</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_03">
 				<Original>Lars Transfeld</Original>
 				<English>Lars Transfeld</English>
 				<German>Lars Transfeld</German>
 				<Chinesesimp>Lars Transfeld</Chinesesimp>
+				<Chinese>Lars Transfeld</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_01">
 				<Original>----------------@Z01240108@@STATE SCARLET@STATE SCARLET@STATE SCARLET@@EXECUTE@STOP@</Original>
 				<English>----------------@Z01240108@@STATE SCARLET@STATE SCARLET@STATE SCARLET@@EXECUTE@STOP@</English>
 				<German>----------------@Z01240108@@STATE SCARLET@STATE SCARLET@STATE SCARLET@@EXECUTE@ENDE@</German>
 				<Chinesesimp>----------------@Z01240108@@血色国旗@血色国旗@血色国旗@@执行@完毕@</Chinesesimp>
+				<Chinese>----------------@Z01240108@@血色國旗@血色國旗@血色國旗@@執行@完畢@</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_02">
 				<Original>----------------@Z01250108@@Enemy crossed border@@BAB2 occupied@@BGS reports:@Helmstedt -@Wolfsburg -@Wittingen -@Uelzen@no contact.@@Enemy is GDR.@React immediately.@At will.@STOP.</Original>
 				<English>----------------@Z01250108@@Enemy crossed border@@BAB2 occupied@@BGS reports:@Helmstedt -@Wolfsburg -@Wittingen -@Uelzen@no contact.@@Enemy is GDR.@React immediately.@At will.@STOP.</English>
 				<German>----------------@Z01250108@@Feind ueberquert Grenze@@BAB2 besetzt@@BGS meldet:@Helmstedt -@Wolfsburg -@Wittingen -@Uelzen@kein Kontakt.@@Feind ist DDR.@Sofort Massnahmen ergreifen.@Nach eigenem Ermessen handeln.@ENDE.</German>
 				<Chinesesimp>----------------@Z01250108@@敌人越过了边境@@BAB2被占领@@BGS报告:@赫尔姆施泰特 -@沃尔夫斯堡 -@维廷根 -@埃尔岑@无联络.@@敌人是东德.@立即反击.@自行采取行动.@完毕.</Chinesesimp>
+				<Chinese>----------------@Z01250108@@敵人越過了邊境@@BAB2被佔領@@BGS報告:@赫爾姆施泰特 -@沃爾夫斯堡 -@維廷根 -@埃爾岑@無聯絡.@@敵人是東德.@立即反擊.@自行採取行動.@完畢.</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_03">
 				<Original>----------------@Z01260108@@Division order to @Panzerbrigade 2:@Assume defensive posture.@@STOP.</Original>
 				<English>----------------@Z01260108@@Division order to @Panzerbrigade 2:@Assume defensive posture.@@STOP.</English>
 				<German>----------------@Z01260108@@Divisionsbefehl an @Panzerbrigade 2:@Verteidigungsstreifen einnehmen.@@ENDE.</German>
 				<Chinesesimp>----------------@Z01260108@@师部命令@第2装甲旅:@采取防御姿态.@@完毕.</Chinesesimp>
+				<Chinese>----------------@Z01260108@@師部命令@第2裝甲旅:@採取防禦姿態.@@完畢.</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_04">
 				<Original>----------------@Z01270108@@Brigade orders to @PzGrenBtl 23:@Defend along designated line.@@STOP.</Original>
 				<English>----------------@Z01270108@@Brigade orders to @PzGrenBtl 23:@Defend along designated line.@@STOP.</English>
 				<German>----------------@Z01270108@@Brigadebefehl an @PzGrenBtl 23:@Verteidigung entlang des VRV.@@ENDE.</German>
 				<Chinesesimp>----------------@Z01270108@@旅部命令@第23装甲掷弹兵营:@沿着指定路线进行防守.@@完毕.</Chinesesimp>
+				<Chinese>----------------@Z01270108@@旅部命令@第23裝甲擲彈兵營:@沿著指定路線進行防守.@@完畢.</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TITLE">
 				<Original>First Impressions Matter</Original>
 				<English>First Impressions Matter</English>
 				<German>Der Erste Eindruck Zählt</German>
 				<Chinesesimp>第一印象很重要</Chinesesimp>
+				<Chinese>第一印像很重要</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_OVERVIEW">
 				<Original>3. PzGrenBtl 23 is tasked with seizing the bridges at Querenhorst.</Original>
 				<English>3. PzGrenBtl 23 is tasked with seizing the bridges at Querenhorst.</English>
 				<German>3. PzGrenBtl 23 hat den Auftrag die Brücken bei Querenhorst zu nehmen.</German>
 				<Chinesesimp>第23装甲掷弹兵营3连的任务是夺取Querenhorst的桥梁。</Chinesesimp>
+				<Chinese>第23裝甲擲彈兵營3連的任務是奪取Querenhorst的橋樑。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_01_TITLE">
 				<Original>Take Klein Sisbeck</Original>
 				<English>Take Klein Sisbeck</English>
 				<German>Klein Sisbeck Einnehmen</German>
 				<Chinesesimp>夺取Klein Sisbeck</Chinesesimp>
+				<Chinese>奪取Klein Sisbeck</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_01_TEXT">
 				<Original>Enter Klein Sisbeck and engage the enemy.</Original>
 				<English>Enter Klein Sisbeck and engage the enemy.</English>
 				<German>Stoßen Sie nach Klein Sisbeck vor.</German>
 				<Chinesesimp>进入Klein Sisbeck并与敌人交战。</Chinesesimp>
+				<Chinese>進入Klein Sisbeck並與敵人交戰。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02_TITLE">
 				<Original>Take Gross Sisbeck</Original>
 				<English>Take Gross Sisbeck</English>
 				<German>Gross Sisbeck Einnehmen</German>
 				<Chinesesimp>夺取Gross Sisbeck</Chinesesimp>
+				<Chinese>奪取Gross Sisbeck</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02_TEXT">
 				<Original>Enter Gross Sisbeck and engage the enemy.</Original>
 				<English>Enter Gross Sisbeck and engage the enemy.</English>
 				<German>Stoßen Sie nach Gross Sisbeck vor.</German>
 				<Chinesesimp>进入Gross Sisbeck并与敌人交战。</Chinesesimp>
+				<Chinese>進入Gross Sisbeck並與敵人交戰。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02A_TITLE">
 				<Original>Enter M113</Original>
 				<English>Enter M113</English>
 				<German>M113 Aufsitzen</German>
 				<Chinesesimp>登上M113</Chinesesimp>
+				<Chinese>登上M113</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02A_TEXT">
 				<Original>Board the M113 waiting for us at the junction south of Gross Sisbeck.</Original>
 				<English>Board the M113 waiting for us at the junction south of Gross Sisbeck.</English>
 				<German>Sitzen Sie auf den M113 auf, der südlich von Gross Sisbeck auf uns wartet.</German>
 				<Chinesesimp>登上在Gross Sisbeck以南的路口等待我们的M113。</Chinesesimp>
+				<Chinese>登上在Gross Sisbeck以南的路口等待我們的M113。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_04_TITLE">
 				<Original>Take Weapon</Original>
 				<English>Take Weapon</English>
 				<German>Panzerfaust Übernehmen</German>
 				<Chinesesimp>拿起武器</Chinesesimp>
+				<Chinese>拿起AT</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_04_TEXT">
 				<Original>Find Peters and take his Anti-Tank Weapon.</Original>
 				<English>Find Peters and take his Anti-Tank Weapon.</English>
 				<German>Finden Sie Peters und übernehmen Sie seine Panzerfaust.</German>
 				<Chinesesimp>找到Peters，拿起他的反坦克武器。</Chinesesimp>
+				<Chinese>找到Peters，拿起他的反坦克武器。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_03_TITLE">
 				<Original>Take Querenhorst</Original>
 				<English>Take Querenhorst</English>
 				<German>Querenhorst Einnehmen</German>
 				<Chinesesimp>夺取Querenhorst</Chinesesimp>
+				<Chinese>奪取Querenhorst</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_03_TEXT">
 				<Original>Enter Querenhorst and engage the enemy.</Original>
 				<English>Enter Querenhorst and engage the enemy.</English>
 				<German>Stoßen Sie nach Querenhorst vor.</German>
 				<Chinesesimp>进入Querenhorst并与敌人交战。</Chinesesimp>
+				<Chinese>進入Querenhorst並與敵人交戰。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_01">
 				<Original>Situation</Original>
 				<English>Situation</English>
 				<German>Feindlage</German>
 				<Chinesesimp>形势</Chinesesimp>
+				<Chinese>形勢</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_02">
 				<Original>Today at 0200 enemy forces of unknown strength have crossed the border into West Germany near Helmstedt.</Original>
 				<English>Today at 0200 enemy forces of unknown strength have crossed the border into West Germany near Helmstedt.</English>
 				<German>Feindkräfte in unbekannter Stärke haben heute Morgen um 0200 im Raum zwischen Wolfsburg und Helmstedt die Grenze überquert.</German>
 				<Chinesesimp>今天凌晨两点，兵力不详的敌军越过了赫尔姆施泰特附近的西德边境。</Chinesesimp>
+				<Chinese>今天凌晨兩點，兵力不詳的敵軍越過了赫爾姆施泰特附近的西德邊境。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_03">
 				<Original>Advanced forces have been spotted near Gross Sissbeck and Gross Twülpstedt.</Original>
 				<English>Advanced forces have been spotted near Gross Sissbeck and Gross Twülpstedt.</English>
 				<German>Vorderste Spitzen wurden auf Höhe Gross Sisbeck/Gross Twülpstedt aufgeklärt.</German>
 				<Chinesesimp>在Gross Sissbeck和Gross Twülpstedt附近发现了敌军先头部队。</Chinesesimp>
+				<Chinese>在Gross Sissbeck和Gross Twülpstedt附近發現了敵軍先頭部隊。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_04">
 				<Original>Their assumed intention is to set bridgeheads over the river Aller and to secure the advancement of following forces.</Original>
 				<English>Their assumed intention is to set bridgeheads over the river Aller and to secure the advancement of following forces.</English>
 				<German>Vermutete Absicht ist es dort Brückenköpfe über die Aller zu bilden, um das Nachrücken weiterer Kräfte zu sichern.</German>
-				<Chinesesimp>他们的意图可能是在Aller河边建立桥头堡，确保后续部队顺利推进。。</Chinesesimp>
+				<Chinesesimp>他们的意图可能是在Aller河边建立桥头堡，确保后续部队顺利推进。</Chinesesimp>
+				<Chinese>他們的意圖可能是在Aller河邊建立橋頭堡，確保後續部隊順利推進。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_05">
 				<Original>Our situation</Original>
 				<English>Our situation</English>
 				<German>Eigene Lage</German>
 				<Chinesesimp>我军处境</Chinesesimp>
+				<Chinese>我軍處境</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_06">
 				<Original>2nd Company of 22nd Armored Battalion has been attached.</Original>
 				<English>2nd Company of 22nd Armored Battalion has been attached.</English>
 				<German>2. PzBtl 22 wurde uns unterstellt.</German>
 				<Chinesesimp>第22装甲营2连已经部署完毕。</Chinesesimp>
+				<Chinese>第22裝甲營2連已經部署完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_07">
 				<Original>23rd reinforced mechanized infantry battalion has assumed positions north and south of Volkmarsdorf.</Original>
 				<English>23rd reinforced mechanized infantry battalion has assumed positions north and south of Volkmarsdorf.</English>
 				<German>Verstärktes PzGrenBtl 23 hat vorgeschobene Stellung nördlich und südlich von Volkmarsdorf bezogen.</German>
 				<Chinesesimp>第23装甲掷弹兵营已在Volkmarsdorf的北部和南部建立了阵地。</Chinesesimp>
+				<Chinese>第23裝甲擲彈兵營已在Volkmarsdorf的北部和南部建立了陣地。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_08">
 				<Original>Task</Original>
 				<English>Task</English>
 				<German>Auftrag</German>
 				<Chinesesimp>任务</Chinesesimp>
+				<Chinese>任務</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_09">
 				<Original>Destroy enemy forces west of the river Aller and take positions west of Querenhorst.</Original>
 				<English>Destroy enemy forces west of the river Aller and take positions west of Querenhorst.</English>
 				<German>Zerschlagen von feindlichen Kräften westlich der Aller und Gewinnen von Stellungen westlich von Querenhorst.</German>
 				<Chinesesimp>摧毁Aller河以西的敌军，并占领Querenhorst以西的阵地。</Chinesesimp>
+				<Chinese>摧毀Aller河以西的敵軍，並佔領Querenhorst以西的陣地。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_10">
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
 				<Chinesesimp>执行</Chinesesimp>
+				<Chinese>執行</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_11">
 				<Original>2nd Company to take positions north of Querenhorst and secure northern flank, more info on that later.</Original>
 				<English>2nd Company to take positions north of Querenhorst and secure northern flank, more info on that later.</English>
 				<German>2. Kompanie gewinnt Stellungen nördlich Querenhorst und sichert nördliche Flanke. Hierzu später mehr.</German>
 				<Chinesesimp>2连占领Querenhorst北面的阵地并确保北侧的安全，稍后会有更多的任务信息。</Chinesesimp>
+				<Chinese>2連佔領Querenhorst北面的陣地並確保北側的安全，稍後會有更多的任務信息。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_12">
 				<Original>3rd Company, in the center, to attack from Klein Sisbeck, towards Gross Sisbeck and Querenhorst, taking bridgeheads at Querenhorst.</Original>
 				<English>3rd Company, in the center, to attack from Klein Sisbeck, towards Gross Sisbeck and Querenhorst, taking bridgeheads at Querenhorst.</English>
 				<German>3. Kompanie, hier Schwerpunkt, greift von Klein Sisbeck, über Gross Sisbeck auf Querenhorst an, gewinnt Brückenköpfe bei Querenhorst.</German>
 				<Chinesesimp>位于中间的3连，从Klein Sisbeck向Gross Sisbeck和Querenhorst发起进攻，占领Querenhorst的桥头堡。</Chinesesimp>
+				<Chinese>位於中間的3連，從Klein Sisbeck向Gross Sisbeck和Querenhorst發起進攻，佔領Querenhorst的橋頭堡。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_13">
 				<Original>4th Company in reserve will secure southern flank.</Original>
 				<English>4th Company in reserve will secure southern flank.</English>
 				<German>4. Kompanie eingesetzt als Reserve überwacht südliche Flanke.</German>
 				<Chinesesimp>预备队4连将确保南侧的安全。</Chinesesimp>
+				<Chinese>預備隊4連將確保南側的安全。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_14">
 				<Original>Lets go!</Original>
 				<English>Lets go!</English>
 				<German>Ausführung!</German>
 				<Chinesesimp>行动！</Chinesesimp>
+				<Chinese>行動！</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_001">
 				<Original>Guys, ahead lies Klein Sisbeck. It looks quiet. So lets go and see what we find.</Original>
 				<English>Guys, ahead lies Klein Sisbeck. It looks quiet. So lets go and see what we find.</English>
 				<German>Jungs, voraus liegt Klein Sisbeck. Es schaut ruhig aus. Dann schauen wir mal wen wir dort finden.</German>
 				<Chinesesimp>伙计们，前面就是Klein Sisbeck。看起来很安静。让我们去看看能发现些什么。</Chinesesimp>
+				<Chinese>伙計們，前面就是Klein Sisbeck。看起來很安靜。讓我們去看看能發現些什麼。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_002A">
 				<Original>WESPE, This is HAMMER, over.</Original>
 				<English>WESPE, This is HAMMER, over.</English>
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
+				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_002B">
 				<Original>This is WESPE. Over.</Original>
 				<English>This is WESPE. Over.</English>
 				<German>Hier WESPE, Kommen.</German>
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_003A">
 				<Original>This is HAMMER. No enemy contact in Klein Sisbeck, Over.</Original>
 				<English>This is HAMMER. No enemy contact in Klein Sisbeck, Over.</English>
 				<German>Hier HAMMER. Kein Feindkontakt in Klein Sisbeck. Kommen.</German>
 				<Chinesesimp>这里是HAMMER。在Klein Sisbeck没有与敌军接触，完毕。</Chinesesimp>
+				<Chinese>這裡是HAMMER。在Klein Sisbeck沒有與敵軍接觸，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_003B">
 				<Original>This is WESPE. Understood. Continue to Gross Sisbeck. Out.</Original>
 				<English>This is WESPE. Understood. Continue to Gross Sisbeck. Out.</English>
 				<German>Hier WESPE, Verstanden. Stoßen Sie nach Gross Sisbeck weiter vor. Ende.</German>
 				<Chinesesimp>这里是WESPE。收到。继续向Gross Sisbeck前进，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE。收到。繼續向Gross Sisbeck前進，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_004">
 				<Original>Where is everyone?</Original>
 				<English>Where is everyone?</English>
 				<German>Wo sind die alle?</German>
 				<Chinesesimp>大家都在哪里？</Chinesesimp>
+				<Chinese>大家都在哪裡？</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_005">
 				<Original>They must have fled when the enemy pushed through here.</Original>
 				<English>They must have fled when the enemy pushed through here.</English>
 				<German>Die müssen alle geflohen sein nachdem der Feind hier durch ist.</German>
 				<Chinesesimp>敌人推进到这里的时候，他们一定是逃走了。</Chinesesimp>
+				<Chinese>敵人推進到這裡的時候，他們一定是逃走了。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_006">
 				<Original>Imagine being woken up by tanks going through your garden.</Original>
 				<English>Imagine being woken up by tanks going through your garden.</English>
 				<German>Stell dir vor du würdest von Panzern in deinem Vorgarten aufgeweckt.</German>
-				<Chinesesimp>想象一下，你被坦克开过你的花园的声音吵醒的场景。</Chinesesimp>
+				<Chinesesimp>能想象到，你被坦克开过你的花园的声音吵醒的场景。</Chinesesimp>
+				<Chinese>能想像到，你被坦克開過你的花園的聲音吵醒的場景。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_007">
 				<Original>Guys, Keep your eyes open, enemy alarm patrols will be ahead.</Original>
 				<English>Guys, Keep your eyes open, enemy alarm patrols will be ahead.</English>
 				<German>Jungs, haltet die Augen auf, feindliche Alarmposten liegen voraus.</German>
 				<Chinesesimp>伙计们，保持警惕，敌人的警戒巡逻队可能会出现在前面。</Chinesesimp>
+				<Chinese>伙計們，保持警惕，敵人的警戒巡邏隊可能會出現在前面。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_008">
 				<Original>Continue to Gross Sisbeck.</Original>
 				<English>Continue to Gross Sisbeck.</English>
 				<German>Es geht weiter nach Gross Sisbeck.</German>
 				<Chinesesimp>继续前往Gross Sisbeck。</Chinesesimp>
+				<Chinese>繼續前往Gross Sisbeck。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_009">
 				<Original>Gross Sisbeck... Klein Sisbeck. Gross Twülpstedt... Klein Twülpstedt...</Original>
 				<English>Gross Sisbeck... Klein Sisbeck. Gross Twülpstedt... Klein Twülpstedt...</English>
 				<German>Gross Sisbeck... Klein Sisbeck. Gross Twülpstedt... Klein Twülpstedt...</German>
 				<Chinesesimp>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinesesimp>
+				<Chinese>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_010">
 				<Original>And its so damn flat here. Flatter than Heiner's girlfriend.</Original>
 				<English>And its so damn flat here. Flatter than Heiner's girlfriend.</English>
 				<German>Und dann ist das hier auch noch so elendich Flach. Flacher als Heiner's Freundin!</German>
 				<Chinesesimp>并且这里太他妈的平坦了。比Heiner的女朋友还平。</Chinesesimp>
+				<Chinese>並且這裡太他媽的平坦了。比Heiner的女朋友還平。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_011">
 				<Original>At least I have one!</Original>
 				<English>At least I have one!</English>
 				<German>Immerhin hab ich eine!</German>
 				<Chinesesimp>至少我还是有一个的！</Chinesesimp>
+				<Chinese>至少我還是有一個的！</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_012">
 				<Original>This is HAMMER, Enemy contact in Gross Sisbeck. Unknown numbers. Engaging. Over.</Original>
 				<English>This is HAMMER, Enemy contact in Gross Sisbeck. Unknown numbers. Engaging. Over.</English>
 				<German>Hier HAMMER, Feindkontakt in Gross Sisbeck. Unbekannte Anzahl. Greifen an. Kommen.</German>
-				<Chinesesimp>我是HAMMER，在Gross Sisbeck与敌人接触。子弹不明。正在交火。完毕。</Chinesesimp>
+				<Chinesesimp>我是HAMMER，在Gross Sisbeck与敌人接触。数量不明，正在交火。完毕。</Chinesesimp>
+				<Chinese>我是HAMMER，在Gross Sisbeck與敵人接觸。數量不明。正在交火。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_013">
 				<Original>This is WESPE, understood. DRAHT. Secure HAMMER's approach. Over.</Original>
 				<English>This is WESPE, understood. DRAHT. Secure HAMMER's approach. Over.</English>
 				<German>Hier WESPE, verstanden. DRAHT. Sicheren Sie HAMMER's vorstoß. Kommen.</German>
 				<Chinesesimp>这里是 WESPE，收到。DRAHT。确保HAMMER的安全接近。完毕。</Chinesesimp>
+				<Chinese>這裡是 WESPE，收到。 DRAHT。確保HAMMER的安全接近。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_014">
 				<Original>This is DRAHT, understood. Out.</Original>
 				<English>This is DRAHT, understood. Out.</English>
 				<German>Hier DRAHT, verstanden. Ende.</German>
 				<Chinesesimp>这里是DRAHT，收到，完毕。</Chinesesimp>
+				<Chinese>這裡是DRAHT，收到，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_015">
 				<Original>This is HAMMER, Gross Sisbeck cleared. Continuing to Querenhorst. Over.</Original>
 				<English>This is HAMMER, Gross Sisbeck cleared. Continuing to Querenhorst. Over.</English>
 				<German>Hier HAMMER, Gross Sisbeck eingenommen. Bewegen uns nun Richtung Querenhorst. Kommen.</German>
 				<Chinesesimp>这里是HAMMER，Gross Sisbeck已经安全。继续前往Querenhorst。完毕。</Chinesesimp>
+				<Chinese>這裡是HAMMER，Gross Sisbeck已經安全。繼續前往Querenhorst。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_015A">
 				<Original>This is WESPE, understood. Out.</Original>
@@ -22203,301 +22259,351 @@
 				<Original>Regroup at the M113 at the junction. We'll take a ride.</Original>
 				<English>Regroup at the M113 at the junction. We'll take a ride.</English>
 				<German>Sammeln beim M113 an der Kreuzung. Wir kämpfen aufgesessen weiter.</German>
-				<Chinesesimp>在交界处的M113旁重新集结。我们去兜兜风。</Chinesesimp>
+				<Chinesesimp>在十字路口处的M113旁重新集结。我们去兜兜风。</Chinesesimp>
+				<Chinese>在十字路口處的M113旁重新集結。我們去兜兜風。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_016">
 				<Original>Encountering heavy resistance from the forest just ahead.</Original>
 				<English>Encountering heavy resistance from the forest just ahead.</English>
 				<German>Starker Widerstand aus dem Waldgebiet voraus.</German>
 				<Chinesesimp>前方树林遭遇激烈抵抗。</Chinesesimp>
+				<Chinese>前方樹林遭遇激烈抵抗。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017A">
 				<Original>WESPE, This is HAMMER, over.</Original>
 				<English>WESPE, This is HAMMER, over.</English>
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
+				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017B">
 				<Original>This is WESPE. Over.</Original>
 				<English>This is WESPE. Over.</English>
 				<German>Hier WESPE, Kommen.</German>
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017C">
 				<Original>This is HAMMER. We are ready to move in. Over.</Original>
 				<English>This is HAMMER. We are ready to move in. Over.</English>
 				<German>Hier HAMMER. Bereit zum vorrücken. Kommen.</German>
 				<Chinesesimp>WESPE，我们准备向前移动，完毕。</Chinesesimp>
+				<Chinese>WESPE，我們準備向前移動，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_018">
 				<Original>This is WESPE. Understood. Continue into Querenhorst. Out.</Original>
 				<English>This is WESPE. Understood. Continue into Querenhorst. Out.</English>
 				<German>Hier WESPE. Verstanden. Stoßen Sie weiter nach Querenhorst vor. Ende.</German>
 				<Chinesesimp>这里是WESPE，收到。继续进入Querenhorst，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，收到。繼續進入Querenhorst，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_019">
 				<Original>We have entered the forest. So watch your fire!</Original>
 				<English>We have entered the forest. So watch your fire!</English>
 				<German>Wir sind jetzt im Wald. Passt auf worauf ihr schießt!</German>
 				<Chinesesimp>我们已经进入了树林，所以注意接敌！</Chinesesimp>
+				<Chinese>我們已經進入了樹林，所以注意接敵！</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020A">
 				<Original>WESPE, This is HAMMER, over.</Original>
 				<English>WESPE, This is HAMMER, over.</English>
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
+				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020B">
 				<Original>This is WESPE. Over.</Original>
 				<English>This is WESPE. Over.</English>
 				<German>Hier WESPE, Kommen.</German>
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020C">
 				<Original>This is HAMMER. The forest is clear. Continuing to next objective. Over.</Original>
 				<English>This is HAMMER. The forest is clear. Continuing to next objective. Over.</English>
 				<German>Hier HAMMER. Der Wald ist gesichert. Setzen Auftrag fort. Kommen.</German>
 				<Chinesesimp>这里是HAMMER。树林安全，继续前往下一个目标，完毕。</Chinesesimp>
+				<Chinese>這裡是HAMMER。樹林安全，繼續前往下一個目標，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_021">
 				<Original>This is WESPE. Understood. Out.</Original>
 				<English>This is WESPE. Understood. Out.</English>
 				<German>Hier WESPE. Verstanden. Ende.</German>
 				<Chinesesimp>这里是WESPE。收到，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE。收到，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_022">
 				<Original>A big open field lies ahead, so stick along the APCs for protection.</Original>
 				<English>A big open field lies ahead, so stick along the APCs for protection.</English>
 				<German>Vor uns liegt ein weites und offenes Feld. Bleibt also dicht an den MTWs.</German>
 				<Chinesesimp>前面是一大片开阔地，所以贴着装甲运兵车走，它会提供些保护。</Chinesesimp>
+				<Chinese>前面是一大片開闊地，所以貼著裝甲運兵車走，它會提供些保護。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023A">
 				<Original>WESPE, This is HAMMER, over.</Original>
 				<English>WESPE, This is HAMMER, over.</English>
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
+				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023B">
 				<Original>This is WESPE. Over.</Original>
 				<English>This is WESPE. Over.</English>
 				<German>Hier WESPE, Kommen.</German>
 				<Chinesesimp>我是WESPE，请说。</Chinesesimp>
+				<Chinese>我是WESPE，請說。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023C">
 				<Original>This is HAMMER. Task Complete. We have taken Querenhorst. Securing area. Over.</Original>
 				<English>This is HAMMER. Task Complete. We have taken Querenhorst. Securing area. Over.</English>
 				<German>Hier HAMMER. Auftrag Erfüllt. Querenhorst genommen. Sichern das Gebiet. Kommen.</German>
 				<Chinesesimp>任务已完成。我们已经拿下了Querenhorst。正在确保区域安全。完毕。</Chinesesimp>
+				<Chinese>任務已完成。我們已經拿下了Querenhorst。正在確保區域安全。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_024">
 				<Original>This is WESPE. Understood. Out.</Original>
 				<English>This is WESPE. Understood. Out.</English>
 				<German>Hier WESPE. Verstanden. Ende.</German>
 				<Chinesesimp>这里是WESPE，收到，完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，收到，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_025">
 				<Original>Shit, Peters is down. Klemmer, take over his AT Weapon.</Original>
 				<English>Shit, Peters is down. Klemmer, take over his AT Weapon.</English>
 				<German>Scheiße, Peters ist gefallen. Klemmer, übernehmen Sie seine Panzerfaust.</German>
 				<Chinesesimp>该死，Peters倒地，Klemmer，接手他的AT武器。</Chinesesimp>
+				<Chinese>該死，Peters倒地，Klemmer，接手他的AT武器。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TITLE">
 				<Original>All Cats Are Grey by Night</Original>
 				<English>All Cats Are Grey by Night</English>
 				<German>Nachts Sind Alle Katzen Grau</German>
 				<Chinesesimp>无法识别</Chinesesimp>
+				<Chinese>無法識別</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_OVERVIEW">
 				<Original>2. PzBtl 22 is spearheading the first counter attack.</Original>
 				<English>2. PzBtl 22 is spearheading the first counter attack.</English>
 				<German>2. PzBtl 22 bildet die Speerspitze des ersten Gegenangriffs.</German>
 				<Chinesesimp>第22装甲营3连正在带头进行第一次反击。</Chinesesimp>
+				<Chinese>第22裝甲營3連正在帶頭進行第一次反擊。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_01_TITLE">
 				<Original>Overwatch Area</Original>
 				<English>Overwatch Area</English>
 				<German>Gelände Überwachen</German>
 				<Chinesesimp>观察地区</Chinesesimp>
+				<Chinese>觀察地區</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_01_TEXT">
 				<Original>Relocate to the north of Rümmer and secure the area from there. Once you deem the area safe, signal to the Infantry via radio that they may proceed.&lt;br/&gt;&lt;br/&gt;(Use the communication menu)</Original>
 				<English>Relocate to the north of Rümmer and secure the area from there. Once you deem the area safe, signal to the Infantry via radio that they may proceed.&lt;br/&gt;&lt;br/&gt;(Use the communication menu)</English>
 				<German>Gehen Sie nördlich von Rümmer in Stellung und Überwachen Sie das Gebiet von dort. Nach eigener Einschätzung geben Sie den Panzergrenadieren das Zeichen zum Weitermarschieren.&lt;br/&gt;&lt;br/&gt;(Nutzen Sie das Kommunikationsmenü)</German>
 				<Chinesesimp>转移到Rümmer的北部，从那里确保该地区的安全。一旦你认为该地区安全，就通过无线电向步兵发出信号，让他们继续前进。&lt;br/&gt;&lt;br/&gt;(使用通信菜单)</Chinesesimp>
+				<Chinese>轉移到Rümmer的北部，從那裡確保該地區的安全。一旦你認為該地區安全，就通過無線電向步兵發出信號，讓他們繼續前進。 &lt;br/&gt;&lt;br/&gt;(使用通信菜單)</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_02_TITLE">
 				<Original>Secure Bridge</Original>
 				<English>Secure Bridge</English>
 				<German>Brücke Sichern</German>
 				<Chinesesimp>夺取大桥</Chinesesimp>
+				<Chinese>奪取大橋</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_02_TEXT">
 				<Original>Advance to the bridge in the east and secure it. Allow for friendly elements to approach and cross the bridge under your cover.</Original>
 				<English>Advance to the bridge in the east and secure it. Allow for friendly elements to approach and cross the bridge under your cover.</English>
 				<German>Nehmen Sie Brücke im osten ein und sichern Sie diese. Sichern Sie von dort das Überqueren der Brücke durch unsere Panzergrenadiere.</German>
 				<Chinesesimp>往东面的大桥推进，并夺取它。允许友军接近并在你的掩护下过桥。</Chinesesimp>
+				<Chinese>往東面的大橋推進，並奪取它。允許友軍接近並在你的掩護下過橋。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_03_TITLE">
 				<Original>Hold Bridge</Original>
 				<English>Hold Bridge</English>
 				<German>Brücke Halten</German>
 				<Chinesesimp>守住大桥</Chinesesimp>
+				<Chinese>守住大橋</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_03_TEXT">
 				<Original>Hold the bridge to allow friendly units to cross it.</Original>
 				<English>Hold the bridge to allow friendly units to cross it.</English>
 				<German>Halten Sie die Brücke um weiteren Kräften die Überquerung zu ermöglichen.</German>
 				<Chinesesimp>守住桥梁，让友军部队通过。</Chinesesimp>
+				<Chinese>守住橋樑，讓友軍部隊通過。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_01">
 				<Original>Situation unchanged.</Original>
 				<English>Situation unchanged.</English>
 				<German>Die Lage ist unverändert.</German>
 				<Chinesesimp>形势未变。</Chinesesimp>
+				<Chinese>形勢未變。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_02">
 				<Original>Task</Original>
 				<English>Task</English>
 				<German>Einzelauftrag</German>
 				<Chinesesimp>任务</Chinesesimp>
+				<Chinese>任務</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_03">
 				<Original>Secure the advance of a mechanized infantry platoon from Rümmer to Gross Twülpstedt, then take Gross Twülpstedt.</Original>
 				<English>Secure the advance of a mechanized infantry platoon from Rümmer to Gross Twülpstedt, then take Gross Twülpstedt.</English>
 				<German>Sichern Sie das Vorgehen des Panzergrenadierzugs von Rümmer auf Gross Twülpstedt und nehmen sie Gross Twülpstedt.</German>
-				<Chinesesimp>确保一支机械化步兵排从 Rümmer 前进到 Gross twülpsedt，然后攻下 Gross twülpsedt。</Chinesesimp>
+				<Chinesesimp>确保一支机械化步兵排从 Rümmer 前进到 Gross twülpsedt，然后攻下Gross twülpsedt。</Chinesesimp>
+				<Chinese>確保一支機械化步兵排從 Rümmer 前進到 Gross twülpsedt，然後攻下 Gross twülpsedt。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_04">
 				<Original>This is rally point 1.</Original>
 				<English>This is rally point 1.</English>
 				<German>Hier Zwischenziel 1.</German>
 				<Chinesesimp>这是1号集合点。</Chinesesimp>
+				<Chinese>這是1號集合點。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_05">
 				<Original>Secure bridgeheads south of Bahrdorf.</Original>
 				<English>Secure bridgeheads south of Bahrdorf.</English>
 				<German>Gewinnen Sie Brückenköpfe südlich Bahrdorf, hier Angriffsziel.</German>
 				<Chinesesimp>确保夺取Bahrdorf以南的桥头堡。</Chinesesimp>
+				<Chinese>這是1號集合點。確保奪取Bahrdorf以南的橋頭堡。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_06">
 				<Original>Secure area for additional forces to follow.</Original>
 				<English>Secure area for additional forces to follow.</English>
 				<German>Und sichern Sie das Vorrücken weiterer Folgekräfte.</German>
 				<Chinesesimp>夺取区域，以便让更多部队跟进。</Chinesesimp>
+				<Chinese>奪取區域，以便讓更多部隊跟進。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_07">
 				<Original>Secure northern flank of the battalion, but do not under any circumstances advance or fire into into the territory of the GDR. Understood?</Original>
 				<English>Secure northern flank of the battalion, but do not under any circumstances advance or fire into into the territory of the GDR. Understood?</English>
 				<German>Sichern sie die nördliche Flanke des Bataillons, aber unter keinen Umständen Übertritt oder Beschuss auf das Gebiet der DDR. Verstanden?</German>
 				<Chinesesimp>夺取并保护该营的北翼，但在任何情况下都不要朝民主德国领土推进或开火。明白吗？</Chinesesimp>
+				<Chinese>奪取並保護該營的北翼，但在任何情況下都不要朝民主德國領土推進或開火。明白嗎？</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_08">
 				<Original>Make it so!</Original>
 				<English>Make it so!</English>
 				<German>Ausführung!</German>
-				<Chinesesimp>使之成为现实吧!</Chinesesimp>
+				<Chinesesimp>行动!</Chinesesimp>
+				<Chinese>行動!</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_RADIO_ALPHA_01">
 				<Original>Signal to Infantry</Original>
 				<English>Signal to Infantry</English>
 				<German>Panzergrenadiere Los</German>
 				<Chinesesimp>向步兵发送信号</Chinesesimp>
+				<Chinese>向步兵發送信號</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_001">
 				<Original>The task is clear and the enemy lies ahead. Move out!</Original>
 				<English>The task is clear and the enemy lies ahead. Move out!</English>
 				<German>Der Auftrag ist Klar und der Feind liegt voraus. Panzer Marsch!</German>
 				<Chinesesimp>任务很明确，敌人就在前面。行动起来!</Chinesesimp>
+				<Chinese>任務很明確，敵人就在前面。行動起來!</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_002">
 				<Original>Ok, from here we can secure the area and signal the Infantry when ready.</Original>
 				<English>Ok, from here we can secure the area and signal the Infantry when ready.</English>
 				<German>Ok, von hier können wir das Gelände überwachen und den Grenadieren das Zeichen senden.</German>
 				<Chinesesimp>好的，从这里我们可以保护这个地区，准备好了就通知步兵。</Chinesesimp>
+				<Chinese>好的，從這裡我們可以保護這個地區，準備好了就通知步兵。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003A">
 				<Original>WURST, this is SEMMEL. Over.</Original>
 				<English>WURST, this is SEMMEL. Over.</English>
 				<German>WURST, hier SEMMEL. Kommen.</German>
 				<Chinesesimp>WURST，这里是SEMMEL，完毕。</Chinesesimp>
+				<Chinese>WURST，這裡是SEMMEL，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003B">
 				<Original>This is WURST. Over.</Original>
 				<English>This is WURST. Over.</English>
 				<German>Hier WURST. Kommen.</German>
 				<Chinesesimp>这里是WURST，收到。</Chinesesimp>
+				<Chinese>這裡是WURST，收到。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003C">
 				<Original>This is SEMMEL, move out. Over.</Original>
 				<English>This is SEMMEL, move out. Over.</English>
 				<German>Hier SEMMEL, Rücken Sie weiter vor. Kommen.</German>
 				<Chinesesimp>WURST，行动。完毕。</Chinesesimp>
+				<Chinese>WURST，行動。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003D">
 				<Original>This is WURST, understood. Out.</Original>
 				<English>This is WURST, understood. Out.</English>
 				<German>Hier WURST, verstanden. Ende.</German>
 				<Chinesesimp>这里是WURST，收到。完毕。</Chinesesimp>
+				<Chinese>這裡是WURST，收到。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004A">
 				<Original>WESPE, this is SEMMEL. Over.</Original>
 				<English>WESPE, this is SEMMEL. Over.</English>
 				<German>WESPE, hier SEMMEL. Kommen.</German>
 				<Chinesesimp>WURST，这里是SEMMEL，完毕。</Chinesesimp>
+				<Chinese>WURST，這裡是SEMMEL，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004B">
 				<Original>This is WESPE. Over.</Original>
 				<English>This is WESPE. Over.</English>
 				<German>Hier WESPE. Kommen.</German>
 				<Chinesesimp>这里是WURST，完毕。</Chinesesimp>
+				<Chinese>這裡是WURST，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004C">
 				<Original>This is SEMMEL, We have passed the two villages Twülpstedt, now continuing east towards the bridge. Over.</Original>
 				<English>This is SEMMEL, We have passed the two villages Twülpstedt, now continuing east towards the bridge. Over.</English>
 				<German>Hier SEMMEL, Wir haben die Ortschaften Twülpstedt passiert, rücken weiter vor zur Brücke. Kommen.</German>
 				<Chinesesimp>这里是SEMMEL。我们已经通过了两个Twülpstedt村庄，现在继续向东往大桥前进。完毕。</Chinesesimp>
+				<Chinese>這裡是SEMMEL。我們已經通過了兩個Twülpstedt村莊，現在繼續向東往大橋前進。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004D">
 				<Original>This is WESPE, Understood. Out.</Original>
 				<English>This is WESPE, Understood. Out.</English>
 				<German>Hier WESPE, Verstanden. Ende.</German>
 				<Chinesesimp>这里是WESPE，收到。完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，收到。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005A">
 				<Original>DRAHT, this is SEMMEL. Over.</Original>
 				<English>DRAHT, this is SEMMEL. Over.</English>
 				<German>DRAHT, hier SEMMEL. Kommen.</German>
 				<Chinesesimp>DRAHT，这里是SEMMEL，完毕。</Chinesesimp>
+				<Chinese>DRAHT，這裡是SEMMEL，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005B">
 				<Original>This is DRAHT. Over.</Original>
 				<English>This is DRAHT. Over.</English>
 				<German>Hier DRAHT. Kommen.</German>
 				<Chinesesimp>这里是DRAHT，收到。</Chinesesimp>
+				<Chinese>這裡是DRAHT，收到。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005C">
 				<Original>This is SEMMEL, move out. Over.</Original>
 				<English>This is SEMMEL, move out. Over.</English>
 				<German>Hier SEMMEL, Rücken Sie weiter vor. Kommen.</German>
 				<Chinesesimp>DRAHT，前进，完毕。</Chinesesimp>
+				<Chinese>DRAHT，前進，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005D">
 				<Original>This is DRAHT, understood. Out.</Original>
 				<English>This is DRAHT, understood. Out.</English>
 				<German>Hier DRAHT, verstanden. Ende.</German>
 				<Chinesesimp>这里是DRAHT，明白，完毕。</Chinesesimp>
+				<Chinese>這裡是DRAHT，明白，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_006A">
 				<Original>Ok, we did it. The units crossed safely.</Original>
 				<English>Ok, we did it. The units crossed safely.</English>
 				<German>Ok, Auftrag erfüllt. Die Einheiten haben übergesetzt.</German>
 				<Chinesesimp>好了，我们成功了，各部队都安全通过了。</Chinesesimp>
+				<Chinese>好了，我們成功了，各部隊都安全通過了。 </Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_006B">
 				<Original>We expect enemy coming from the south east. Lets set up accordingly.</Original>
 				<English>We expect enemy coming from the south east. Lets set up accordingly.</English>
 				<German>Wir erwarten Feind aus Richtung Süd-Ost. Also entsprechende Stellungen beziehen.</German>
 				<Chinesesimp>我们预计敌人会从东南方向过来，让我们进行相应的部署吧。</Chinesesimp>
+				<Chinese>我們預計敵人會從東南方向過來，讓我們進行相應的部署吧。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_TITLE">
 				<Original>Better Late Than Never</Original>
@@ -24729,6 +24835,7 @@
 				<English>1983: Fighting breaks out between the two Germanies during the height of the Cold War. Witness these events as Pvt. Klemmer, a draftee in the West German army, and defeat the enemy with Sgt. Brandt's tank platoon.</English>
 				<German>1983: Auf dem Höhepunkt des Kalten Krieges bricht ein Kampf zwischen den beiden Deutschen Staaten aus.</German>
 				<Chinesesimp>1983年:在冷战巅峰时期,两德之间爆发内战。见证这些事件的列兵克莱默,西德陆军的一名新兵,和布兰特中士的坦克排击败了敌人。</Chinesesimp>
+				<Chinese>1983年:在冷戰巔峰時期,兩德之間爆發內戰。見證這些事件的列兵克萊默,西德陸軍的一名新兵,和布蘭特中士的坦克排擊敗了敵人。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_LOADING">
 				<Original>LOADING...</Original>
@@ -24742,12 +24849,14 @@
 				<English>START BRIEFING</English>
 				<German>BRIEFING STARTEN</German>
 				<Chinesesimp>开始简报</Chinesesimp>
+				<Chinese>開始簡報</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_KIA">
 				<Original>Killed in Action</Original>
 				<English>Killed in Action</English>
 				<German>Im Gefecht gefallen</German>
 				<Chinesesimp>在行动中阵亡</Chinesesimp>
+				<Chinese>在行動中陣亡</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_02_TITLE">
 				<Original>Mailman Simulator 1983</Original>
@@ -24775,6 +24884,7 @@
 				<English>Border Information Flyer</English>
 				<German>BGS Merkblatt</German>
 				<Chinesesimp>边境信息传单</Chinesesimp>
+				<Chinese>邊境信息傳單</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_BGS_FLYER_01">
 				<Original>gm_bgs_flyer_en_01.jpg</Original>
@@ -24827,54 +24937,63 @@
 				<English>Warning!</English>
 				<German>Achtung!</German>
 				<Chinesesimp>警告！</Chinesesimp>
+				<Chinese>警告！</Chinese>
 			</Key>
 			<Key ID="STR_DESCRIPTION_GM_WARNING_01">
 				<Original>Return to your group!</Original>
 				<English>Return to your group!</English>
 				<German>Kehren Sie zu Ihrer Gruppe zurück!</German>
 				<Chinesesimp>返回你的小队！</Chinesesimp>
+				<Chinese>返回你的小隊！</Chinese>
 			</Key>
 			<Key ID="STR_TITLE_GM_NEWRADIO_01">
 				<Original>RADIO MENU</Original>
 				<English>RADIO MENU</English>
 				<German>FUNKMENÜ</German>
 				<Chinesesimp>无线电菜单</Chinesesimp>
+				<Chinese>無線電菜單</Chinese>
 			</Key>
 			<Key ID="STR_DESCRIPTION_GM_NEWRADIO_01">
 				<Original>The Radio Menu has been expanded.</Original>
 				<English>The Radio Menu has been expanded.</English>
 				<German>Das Funkmenü hat einen neuen Eintrag bekommen.</German>
 				<Chinesesimp>电台菜单已经扩展。</Chinesesimp>
+				<Chinese>電台菜單已經擴展。</Chinese>
 			</Key>
 			<Key ID="STR_TITLE_GM_COMBATAREAEXPANDED_01">
 				<Original>AREA OF OPERATIONS</Original>
 				<English>AREA OF OPERATIONS</English>
 				<German>GEFECHTSSTREIFEN</German>
 				<Chinesesimp>战场</Chinesesimp>
+				<Chinese>戰場</Chinese>
 			</Key>
 			<Key ID="STR_DESCRIPTION_GM_COMBATAREAEXPANDED_01">
 				<Original>The area of operations has been extended.</Original>
 				<English>The area of operations has been extended.</English>
 				<German>Der Gefechtsstreifen wurde erweitert.</German>
 				<Chinesesimp>战场已经扩大。</Chinesesimp>
+				<Chinese>戰場已經擴大。</Chinese>
 			</Key>
 			<Key ID="STR_TITLE_GM_MAPUPDATE_01">
 				<Original>MAP UPDATE</Original>
 				<English>MAP UPDATE</English>
 				<German>KARTENAKTUALISIERUNG</German>
 				<Chinesesimp>地图更新</Chinesesimp>
+				<Chinese>地圖更新</Chinese>
 			</Key>
 			<Key ID="STR_DESCRIPTION_GM_MAPUPDATE_01">
 				<Original>A new area marker has been added.</Original>
 				<English>A new area marker has been added.</English>
 				<German>Eine neuer Bereich wurde markiert.</German>
 				<Chinesesimp>添加了一个新的区域标记。</Chinesesimp>
+				<Chinese>添加了一個新的區域標記。</Chinese>
 			</Key>
 			<Key ID="STR_GM_MP_01_TASK">
 				<Original>Description</Original>
 				<English>Description</English>
 				<German>Beschreibung</German>
 				<Chinesesimp>描述</Chinesesimp>
+				<Chinese>描述</Chinese>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_09_TITLE">
 				<Original>DM 24 Fashion Police</Original>
@@ -25312,7 +25431,7 @@
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;We have pushed the enemy ahead of us. They have taken up the ruined village of Emmerstedt and fortified in it.&lt;br /&gt;The enemy will be in positions inside homes and behind barricades along the main road.&lt;br /&gt;&lt;br /&gt;Clear the houses and this village from enemy units to complete the mission.</Original>
 				<English>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;We have pushed the enemy ahead of us. They have taken up the ruined village of Emmerstedt and fortified in it.&lt;br /&gt;The enemy will be in positions inside homes and behind barricades along the main road.&lt;br /&gt;&lt;br /&gt;Clear the houses and this village from enemy units to complete the mission.</English>
 				<German>%1&lt;br /&gt;Westdeutschland&lt;br /&gt;&lt;br /&gt;Wir haben den Feind so weit vor uns hergetrieben, dass er sich nun in Emmerstedt eingegraben hat.&lt;br /&gt;Der Feind hat Stellungen in den Häusern bezogen und weitere Hindernisse entlang der Hauptstraße aufgestellt.&lt;br /&gt;&lt;br /&gt;Säubern Sie die Häuser und das Dorf von Feinden um diese Mission abzuschließen.</German>
-				<Chinesesimp>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;We have pushed the enemy ahead of us. They have taken up the ruined village of Emmerstedt and fortified in it.&lt;br /&gt;The enemy will be in positions inside homes and behind barricades along the main road.&lt;br /&gt;&lt;br /&gt;Clear the houses and this village from enemy units to complete the mission.</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;我们已经把敌人打到了我们前面。他们占领了埃默斯泰特的废墟村庄，并在其中设防。&lt;br /&gt;敌人分布在房屋内和主要道路的路障后面的阵地里。&lt;br /&gt;&lt;br /&gt;清除村庄与房屋里的敌方单位，以完成任务。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_TITLE">
 				<Original>COOP 12 Downhill</Original>
@@ -25324,7 +25443,7 @@
 				<Original>Defend a village in East Germany against the enemy trying to retake it.</Original>
 				<English>Defend a village in East Germany against the enemy trying to retake it.</English>
 				<German>Verteidigen Sie ein Dorf in der DDR gegen die Rückeroberungsversuche des Feindes.</German>
-				<Chinesesimp>Defend a village in East Germany against the enemy trying to retake it.</Chinesesimp>
+				<Chinesesimp>保卫东德的一个村庄，抵抗试图夺回它的敌人。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_TASK_01_TITLE">
 				<Original>Hold Out</Original>
@@ -25336,13 +25455,13 @@
 				<Original>Hold out against the approaching enemy forces.</Original>
 				<English>Hold out against the approaching enemy forces.</English>
 				<German>Halten Sie gegen den anstürmenden Feind aus.</German>
-				<Chinesesimp>Hold out against the approaching enemy forces.</Chinesesimp>
+				<Chinesesimp>坚守阵地，抵抗逼近的敌军。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The battle this morning was fierce, but we managed to take the village. However, the enemy is already preparing a counter offensive from the &lt;marker name='northmarker'&gt;north&lt;/marker&gt;. We expect them to arrive within the next few minutes. So we have not much time left to prepare.&lt;br /&gt;&lt;br /&gt;In &lt;marker name='bluforstart'&gt;our camp&lt;/marker&gt; we have stacked up fresh ammo for our rifles and anti-tank weapons. The engineers also dropped off a few boxes of landmines, both anti-tank and anti-personnel.&lt;br /&gt;Use them only if you know what you are doing.&lt;br /&gt;&lt;br /&gt;Do not go any further north than about 200m out. There is a &lt;marker name='wreckedt55'&gt;wrecked T-55&lt;/marker&gt; from this morning's battle that neatly indicates the extent.&lt;br /&gt;Beyond that you'll likely encounter certain death.</Original>
 				<English>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The battle this morning was fierce, but we managed to take the village. However, the enemy is already preparing a counter offensive from the &lt;marker name='northmarker'&gt;north&lt;/marker&gt;. We expect them to arrive within the next few minutes. So we have not much time left to prepare.&lt;br /&gt;&lt;br /&gt;In &lt;marker name='bluforstart'&gt;our camp&lt;/marker&gt; we have stacked up fresh ammo for our rifles and anti-tank weapons. The engineers also dropped off a few boxes of landmines, both anti-tank and anti-personnel.&lt;br /&gt;Use them only if you know what you are doing.&lt;br /&gt;&lt;br /&gt;Do not go any further north than about 200m out. There is a &lt;marker name='wreckedt55'&gt;wrecked T-55&lt;/marker&gt; from this morning's battle that neatly indicates the extent.&lt;br /&gt;Beyond that you'll likely encounter certain death.</English>
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Das Gefecht heute morgen war auslaugend, aber wir haben das Dorf einnehmen können. Der Feind lässt jedoch nicht auf sich warten, und bereitet den Gegenangriff vor. Er wird mit sicherheit aus dem &lt;marker name='northmarker'&gt;Norden&lt;/marker&gt; innerhalb der nächsten Minuten angreifen. Wir haben also nicht mehr viel Vorbereitungszeit übrig.&lt;br /&gt;&lt;br /&gt;In &lt;marker name='bluforstart'&gt;unserem Lager&lt;/marker&gt; befindet sich neue Munition für unsere Gewehre und Panzerfäuste. Die Pioniere haben uns zudem noch einige Kisten mit Panzerabwehrminen und Schützenminen gegeben.&lt;br /&gt;Nutzen Sie diese jedoch nur, wenn Sie genau wissen, was Sie tun.&lt;br /&gt;&lt;br /&gt;Gehen Sie nicht weiter als circa 200m nördlich. Dort liegt ein &lt;marker name='wreckedt55'&gt;zerstörter T-55&lt;/marker&gt; von heute Morgen. Er markiert die vordere Grenze für uns.&lt;br /&gt;Dahinter wartet nur der sichere Tod.</German>
-				<Chinesesimp>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The battle this morning was fierce, but we managed to take the village. However, the enemy is already preparing a counter offensive from the &lt;marker name='northmarker'&gt;north&lt;/marker&gt;. We expect them to arrive within the next few minutes. So we have not much time left to prepare.&lt;br /&gt;&lt;br /&gt;In &lt;marker name='bluforstart'&gt;our camp&lt;/marker&gt; we have stacked up fresh ammo for our rifles and anti-tank weapons. The engineers also dropped off a few boxes of landmines, both anti-tank and anti-personnel.&lt;br /&gt;Use them only if you know what you are doing.&lt;br /&gt;&lt;br /&gt;Do not go any further north than about 200m out. There is a &lt;marker name='wreckedt55'&gt;wrecked T-55&lt;/marker&gt; from this morning's battle that neatly indicates the extent.&lt;br /&gt;Beyond that you'll likely encounter certain death.</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;今天上午的战斗很激烈，但我们成功地占领了村庄。然而，敌人已经在准备从&lt;marker name='northmarker'&gt;北面&lt;/marker&gt;发动反攻了。我们预计敌军将在接下来的几分钟内到达。所以我们没有多少时间准备了。&lt;br /&gt;&lt;br /&gt;在&lt;marker name='bluforstart'&gt;我们的营地&lt;/marker&gt; 里，我们已经为我们的步枪和反坦克武器收集了新的弹药。工兵们还留下了几箱地雷，包括反坦克和杀伤人员地雷。&lt;br /&gt;只有在你知道自己在做什么的情况下才能使用它们。&lt;br /&gt;&lt;br /&gt;不要向北走超过200米距离。那里有一辆 &lt;marker name='wreckedt55'&gt;T-55的残骸&lt;/marker&gt; 清楚的表明了今天早上战斗的激烈程度。&lt;br /&gt;除此之外，你很可能会遇到必死的局面。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TITLE">
 				<Original>COOP 22 Pressing Matters</Original>
@@ -25354,19 +25473,19 @@
 				<Original>Motorized infantry attacks a village held by West German forces to destroy the HQ and disrupt enemy operations.</Original>
 				<English>Motorized infantry attacks a village held by West German forces to destroy the HQ and disrupt enemy operations.</English>
 				<German>Mot-Schützen greifen ein um einen Gefechtsstand der Bundeswehr auszuschalten.</German>
-				<Chinesesimp>Motorized infantry attacks a village held by West German forces to destroy the HQ and disrupt enemy operations.</Chinesesimp>
+				<Chinesesimp>摩托化步兵攻击西德部队控制的一个村庄，以摧毁总部并扰乱敌人的行动。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_01_TITLE">
 				<Original>Destroy Enemy HQ</Original>
 				<English>Destroy Enemy HQ</English>
 				<German>Gefechtsstand Zerstören</German>
-				<Chinesesimp>Destroy Enemy HQ</Chinesesimp>
+				<Chinesesimp>摧毁敌军HQ</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_01_TEXT">
 				<Original>The enemy has established an HQ in &lt;marker name='kathendorf'&gt;this&lt;/marker&gt; village. Destroy it as soon as you can.</Original>
 				<English>The enemy has established an HQ in &lt;marker name='kathendorf'&gt;this&lt;/marker&gt; village. Destroy it as soon as you can.</English>
 				<German>Der Feind hat einen Gefechtsstand in diesem &lt;marker name='kathendorf'&gt;Dorf&lt;/marker&gt; aufgebaut. Zerstören Sie ihn bei erster Gelegenheit.</German>
-				<Chinesesimp>The enemy has established an HQ in &lt;marker name='kathendorf'&gt;this&lt;/marker&gt; village. Destroy it as soon as you can.</Chinesesimp>
+				<Chinesesimp>敌人在这个&lt;marker name='kathendorf'&gt;村庄&lt;/marker&gt;建立了一个总部。尽快摧毁它。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_02_TITLE">
 				<Original>Secure Village</Original>
@@ -25378,25 +25497,25 @@
 				<Original>Clear out enemy forces in the &lt;marker name='kathendorf'&gt;village&lt;/marker&gt;.</Original>
 				<English>Clear out enemy forces in the &lt;marker name='kathendorf'&gt;village&lt;/marker&gt;.</English>
 				<German>Säubern Sie das &lt;marker name='kathendorf'&gt;Dorf&lt;/marker&gt; von allen Feindkräften.</German>
-				<Chinesesimp>Clear out enemy forces in the &lt;marker name='kathendorf'&gt;village&lt;/marker&gt;.</Chinesesimp>
+				<Chinesesimp>扫清&lt;marker name='kathendorf'&gt;村子&lt;/marker&gt;里的敌军。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The enemy has established their HQ in &lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt; along with forces to secure it.&lt;br /&gt;&lt;br /&gt;Your task is to take both squads and their BMP1 tanks from &lt;marker name='start'&gt;here&lt;/marker&gt; and destroy the enemy HQ.&lt;br /&gt;&lt;br /&gt;Beware, the enemy is well equipped with Anti-Tank weapons.&lt;br /&gt;Additionally, nearby forces to the &lt;marker name='outpost'&gt;south&lt;/marker&gt; as well as groups in &lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt; are able to quickly reinforce the enemy presence.&lt;br /&gt;&lt;br /&gt;Plan accordingly to take them out.</Original>
 				<English>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The enemy has established their HQ in &lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt; along with forces to secure it.&lt;br /&gt;&lt;br /&gt;Your task is to take both squads and their BMP1 tanks from &lt;marker name='start'&gt;here&lt;/marker&gt; and destroy the enemy HQ.&lt;br /&gt;&lt;br /&gt;Beware, the enemy is well equipped with Anti-Tank weapons.&lt;br /&gt;Additionally, nearby forces to the &lt;marker name='outpost'&gt;south&lt;/marker&gt; as well as groups in &lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt; are able to quickly reinforce the enemy presence.&lt;br /&gt;&lt;br /&gt;Plan accordingly to take them out.</English>
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Der Feind hat einen Gefechtsstand in &lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt; eingerichtet. Dort befinden sich auch Elemente zur Sicherung.&lt;br /&gt;&lt;br /&gt;Ihr Auftrag ist es, die Beiden Gruppen und deren BMP1 Panzer von &lt;marker name='start'&gt;hier&lt;/marker&gt; aus einzusetzen, um diesen Gefechtsstand auszuschalten.&lt;br /&gt;&lt;br /&gt;Achtung, der Feind ist Gut ausgerüstet und verfügt über moderne Panzerabwehrlenkraketen.&lt;br /&gt;Zudem befinden sich weitere feindliche Kräfte im &lt;marker name='outpost'&gt;Süden&lt;/marker&gt; sowie in &lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt;. Diese können den Feind weiter verstärken.&lt;br /&gt;&lt;br /&gt;Planen Sie also dementsprechend Ihren Angriff.</German>
-				<Chinesesimp>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The enemy has established their HQ in &lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt; along with forces to secure it.&lt;br /&gt;&lt;br /&gt;Your task is to take both squads and their BMP1 tanks from &lt;marker name='start'&gt;here&lt;/marker&gt; and destroy the enemy HQ.&lt;br /&gt;&lt;br /&gt;Beware, the enemy is well equipped with Anti-Tank weapons.&lt;br /&gt;Additionally, nearby forces to the &lt;marker name='outpost'&gt;south&lt;/marker&gt; as well as groups in &lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt; are able to quickly reinforce the enemy presence.&lt;br /&gt;&lt;br /&gt;Plan accordingly to take them out.</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;敌人在&lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt;设立了他们的总部，并有军队保护它。&lt;br /&gt;&lt;br /&gt;你的任务是带着两个小队和他们的BMP1坦克从&lt;marker name='start'&gt;这里&lt;/marker&gt;出发，摧毁敌人的总部。&lt;br /&gt;&lt;br /&gt;小心，敌人的反坦克武器装备齐全。&lt;br /&gt;此外，&lt;marker name='outpost'&gt;南部&lt;/marker&gt;附近的敌军部队以及驻扎在&lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt;的敌军能够迅速增援。&lt;br /&gt;&lt;br /&gt;做出相应的计划，行动！</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_TITLE">
 				<Original>COOP 10 Danish Lies</Original>
 				<English>COOP 10 Danish Lies</English>
 				<German>COOP 10 Dänische Lügen</German>
-				<Chinesesimp>COOP 10 Danish Lies</Chinesesimp>
+				<Chinesesimp>COOP 10 丹麦的谎言</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_OVERVIEW">
 				<Original>A Danish group of soldiers must return from behind enemy lines.</Original>
 				<English>A Danish group of soldiers must return from behind enemy lines.</English>
 				<German>Dänische Soldaten kämpfen sich durch feindliche Linien zurück.</German>
-				<Chinesesimp>A Danish group of soldiers must return from behind enemy lines.</Chinesesimp>
+				<Chinesesimp>一队丹麦士兵必须从敌后撤回。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_TASK_01_TITLE">
 				<Original>Reach Everingen</Original>
@@ -25408,19 +25527,19 @@
 				<Original>Reach friendly forces in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.</Original>
 				<English>Reach friendly forces in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.</English>
 				<German>Befreundete Truppen befinden sich in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;. Schließen Sie dorthin auf.</German>
-				<Chinesesimp>Reach friendly forces in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.</Chinesesimp>
+				<Chinesesimp>与&lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;的友军部队会合。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;We have been lost behind &lt;marker name='start'&gt;enemy lines&lt;/marker&gt;. We have only goal for today: Go west and link up with friendly troops in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;The way to there is littered with East German patrols. We must proceed carefully and conserve ammo.</Original>
 				<English>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;We have been lost behind &lt;marker name='start'&gt;enemy lines&lt;/marker&gt;. We have only goal for today: Go west and link up with friendly troops in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;The way to there is littered with East German patrols. We must proceed carefully and conserve ammo.</English>
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Wir sind abgeschlagen im &lt;marker name='start'&gt;Feindesland&lt;/marker&gt;. Tagesziel: Aufschließen im Westen mit befreundeten Truppen in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;Der Weg dorthin ist voll mit feindlich Streifen und Wachposten. Wir müssen vorsichtig vorgehen und auf unseren Munitionsverbrauch achten.</German>
-				<Chinesesimp>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;We have been lost behind &lt;marker name='start'&gt;enemy lines&lt;/marker&gt;. We have only goal for today: Go west and link up with friendly troops in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;The way to there is littered with East German patrols. We must proceed carefully and conserve ammo.</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;我们在&lt;marker name='start'&gt;敌后&lt;/marker&gt;迷路了。我们今天只有一个目标: 向西前进，与友军在&lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;会合。&lt;br /&gt;&lt;br /&gt;通往那里的路上，到处都是东德的巡逻队。我们必须小心行事，节约弹药。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TITLE">
 				<Original>COOP 08 Resistance</Original>
 				<English>COOP 08 Resistance</English>
 				<German>COOP 08 Widerstand</German>
-				<Chinesesimp>COOP 08 Resistance</Chinesesimp>
+				<Chinesesimp>COOP 08 游击队</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_OVERVIEW">
 				<Original>A group of local resistance fighters take on an enemy radio jammer.</Original>
@@ -25438,7 +25557,7 @@
 				<Original>The enemy radio jammer is located in this little &lt;marker name='enemy'&gt;court&lt;/marker&gt;.</Original>
 				<English>The enemy radio jammer is located in this little &lt;marker name='enemy'&gt;court&lt;/marker&gt;.</English>
 				<German>Der feindliche Störsender befindet sich in diesem &lt;marker name='enemy'&gt;Gehöft&lt;/marker&gt;.</German>
-				<Chinesesimp>The enemy radio jammer is located in this little &lt;marker name='enemy'&gt;court&lt;/marker&gt;.</Chinesesimp>
+				<Chinesesimp>敌人的无线电干扰器就在这个&lt;marker name='enemy'&gt;小院里&lt;/marker&gt;。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TASK_02_TITLE">
 				<Original>Clear Location</Original>
@@ -25730,19 +25849,19 @@
 				<Original>Teleraet 81 M</Original>
 				<English>Teleraet 81 M</English>
 				<German>Teleraet 81 M</German>
-				<Chinesesimp>呼叫器 81 M</Chinesesimp>
+				<Chinesesimp>通讯中心 81 M</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_COMPUTER_TELERAET_81_R">
 				<Original>Teleraet 81 R</Original>
 				<English>Teleraet 81 R</English>
 				<German>Teleraet 81 R</German>
-				<Chinesesimp>呼叫器 81 R</Chinesesimp>
+				<Chinesesimp>通讯中心 81 R</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_COMPUTER_TELERAET_81_FS">
 				<Original>Teleraet 81 FS</Original>
 				<English>Teleraet 81 FS</English>
 				<German>Teleraet 81 FS</German>
-				<Chinesesimp>呼叫器 81 FS</Chinesesimp>
+				<Chinesesimp>通讯中心 81 FS</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_ENABLE_DEVICE">
 				<Original>Enable Device</Original>
@@ -25856,97 +25975,97 @@
 				<Original>1 DM</Original>
 				<English>1 DM</English>
 				<German>1 DM</German>
-				<Chinesesimp>1 DM</Chinesesimp>
+				<Chinesesimp>1德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_5_BILL">
 				<Original>5 DM</Original>
 				<English>5 DM</English>
 				<German>5 DM</German>
-				<Chinesesimp>5 DM</Chinesesimp>
+				<Chinesesimp>5德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_5_COIN">
 				<Original>5 DM</Original>
 				<English>5 DM</English>
 				<German>5 DM</German>
-				<Chinesesimp>5 DM</Chinesesimp>
+				<Chinesesimp>5德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_5_STACK">
 				<Original>100x 5 DM</Original>
 				<English>100x 5 DM</English>
 				<German>100x 5 DM</German>
-				<Chinesesimp>100x 5 DM</Chinesesimp>
+				<Chinesesimp>100x 5德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_10_BILL">
 				<Original>10 DM</Original>
 				<English>10 DM</English>
 				<German>10 DM</German>
-				<Chinesesimp>10 DM</Chinesesimp>
+				<Chinesesimp>10德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_10_STACK">
 				<Original>100x 10 DM</Original>
 				<English>100x 10 DM</English>
 				<German>100x 10 DM</German>
-				<Chinesesimp>100x 10 DM</Chinesesimp>
+				<Chinesesimp>100x10德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_20_BILL">
 				<Original>20 DM</Original>
 				<English>20 DM</English>
 				<German>20 DM</German>
-				<Chinesesimp>20 DM</Chinesesimp>
+				<Chinesesimp>20德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_20_STACK">
 				<Original>100x 20 DM</Original>
 				<English>100x 20 DM</English>
 				<German>100x 20 DM</German>
-				<Chinesesimp>100x 20 DM</Chinesesimp>
+				<Chinesesimp>100x20德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_50_BILL">
 				<Original>50 DM</Original>
 				<English>50 DM</English>
 				<German>50 DM</German>
-				<Chinesesimp>50 DM</Chinesesimp>
+				<Chinesesimp>50德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_50_STACK">
 				<Original>100x 50 DM</Original>
 				<English>100x 50 DM</English>
 				<German>100x 50 DM</German>
-				<Chinesesimp>100x 50 DM</Chinesesimp>
+				<Chinesesimp>100x50德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_100_BILL">
 				<Original>100 DM</Original>
 				<English>100 DM</English>
 				<German>100 DM</German>
-				<Chinesesimp>100 DM</Chinesesimp>
+				<Chinesesimp>100德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_100_STACK">
 				<Original>100x 100 DM</Original>
 				<English>100x 100 DM</English>
 				<German>100x 100 DM</German>
-				<Chinesesimp>100x 100 DM</Chinesesimp>
+				<Chinesesimp>100x100德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_500_BILL">
 				<Original>500 DM</Original>
 				<English>500 DM</English>
 				<German>500 DM</German>
-				<Chinesesimp>500 DM</Chinesesimp>
+				<Chinesesimp>500德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_500_STACK">
 				<Original>100x 500 DM</Original>
 				<English>100x 500 DM</English>
 				<German>100x 500 DM</German>
-				<Chinesesimp>100x 500 DM</Chinesesimp>
+				<Chinesesimp>100x 500德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_1000_BILL">
 				<Original>1000 DM</Original>
 				<English>1000 DM</English>
 				<German>1000 DM</German>
-				<Chinesesimp>1000 DM</Chinesesimp>
+				<Chinesesimp>1000德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_1000_STACK">
 				<Original>100x 1000 DM</Original>
 				<English>100x 1000 DM</English>
 				<German>100x 1000 DM</German>
-				<Chinesesimp>100x 1000 DM</Chinesesimp>
+				<Chinesesimp>100x1000德国马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_ESC_MONEY">
 				<Original>Money</Original>
@@ -25964,67 +26083,67 @@
 				<Original>1 M</Original>
 				<English>1 M</English>
 				<German>1 M</German>
-				<Chinesesimp>1米</Chinesesimp>
+				<Chinesesimp>1马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_5_BILL">
 				<Original>5 M</Original>
 				<English>5 M</English>
 				<German>5 M</German>
-				<Chinesesimp>5米</Chinesesimp>
+				<Chinesesimp>5马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_5_STACK">
 				<Original>100x 5 M</Original>
 				<English>100x 5 M</English>
 				<German>100x 5 M</German>
-				<Chinesesimp>100*5米</Chinesesimp>
+				<Chinesesimp>100x5马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_10_BILL">
 				<Original>10 M</Original>
 				<English>10 M</English>
 				<German>10 M</German>
-				<Chinesesimp>10米</Chinesesimp>
+				<Chinesesimp>10马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_10_STACK">
 				<Original>100x 10 M</Original>
 				<English>100x 10 M</English>
 				<German>100x 10 M</German>
-				<Chinesesimp>100*10米</Chinesesimp>
+				<Chinesesimp>100x10马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_20_BILL">
 				<Original>20 M</Original>
 				<English>20 M</English>
 				<German>20 M</German>
-				<Chinesesimp>20米</Chinesesimp>
+				<Chinesesimp>20马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_20_STACK">
 				<Original>100x 20 M</Original>
 				<English>100x 20 M</English>
 				<German>100x 20 M</German>
-				<Chinesesimp>100*20米</Chinesesimp>
+				<Chinesesimp>100x20马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_50_BILL">
 				<Original>50 M</Original>
 				<English>50 M</English>
 				<German>50 M</German>
-				<Chinesesimp>50米</Chinesesimp>
+				<Chinesesimp>50马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_50_STACK">
 				<Original>100x 50 M</Original>
 				<English>100x 50 M</English>
 				<German>100x 50 M</German>
-				<Chinesesimp>100*50米</Chinesesimp>
+				<Chinesesimp>100x50马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_100_BILL">
 				<Original>100 M</Original>
 				<English>100 M</English>
 				<German>100 M</German>
-				<Chinesesimp>100米</Chinesesimp>
+				<Chinesesimp>100马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_100_STACK">
 				<Original>100x 100 M</Original>
 				<English>100x 100 M</English>
 				<German>100x 100 M</German>
-				<Chinesesimp>100*100米</Chinesesimp>
+				<Chinesesimp>100x100马克</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULESIREN">
 				<Original>Siren</Original>
@@ -26586,7 +26705,7 @@
 				<Original>Surface Sealing (European, '80)</Original>
 				<English>Surface Sealing (European, '80)</English>
 				<German>Versiegelungen (Europäisch, '80)</German>
-				<Chinesesimp>封条(欧洲,80年代)</Chinesesimp>
+				<Chinesesimp>路面建筑(欧洲,80年代)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_VC_FURNITURE_EURO_80">
 				<Original>Furniture (European, '80)</Original>
@@ -27468,7 +27587,7 @@
 				<Original>Headstone 7</Original>
 				<English>Headstone 7</English>
 				<German>Grabstein 7</German>
-				<Chinesesimp>墓碑7/Chinesesimp>
+				<Chinesesimp>墓碑7</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_GRAVESTONE_08">
 				<Original>Headstone 8</Original>
@@ -27750,7 +27869,7 @@
 				<Original>Goal</Original>
 				<English>Goal</English>
 				<German>Tor</German>
-				<Chinesesimp>目标</Chinesesimp>
+				<Chinesesimp>足球框</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_GUMBOX_W">
 				<Original>Vending Machine (Gum)</Original>
@@ -27858,31 +27977,31 @@
 				<Original>Utillity Access 1</Original>
 				<English>Utillity Access 1</English>
 				<German>Stromkasten 1</German>
-				<Chinesesimp>公用设施访问1</Chinesesimp>
+				<Chinesesimp>电源箱1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_POWERBOX_02">
 				<Original>Utillity Access 2</Original>
 				<English>Utillity Access 2</English>
 				<German>Stromkasten 2</German>
-				<Chinesesimp>公用设施访问2</Chinesesimp>
+				<Chinesesimp>电源箱2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_POWERBOX_03_W">
 				<Original>Utillity Access 3</Original>
 				<English>Utillity Access 3</English>
 				<German>Stromkasten 3</German>
-				<Chinesesimp>公用设施访问3</Chinesesimp>
+				<Chinesesimp>电源箱3</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_POWERBOX_04_W">
 				<Original>Utillity Access 4</Original>
 				<English>Utillity Access 4</English>
 				<German>Stromkasten 4</German>
-				<Chinesesimp>公用设施访问4</Chinesesimp>
+				<Chinesesimp>电源箱4</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_POWERBOX_05">
 				<Original>Phone Access</Original>
 				<English>Phone Access</English>
 				<German>Telefonanschluss</German>
-				<Chinesesimp>电话访问</Chinesesimp>
+				<Chinesesimp>电话接线盒</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_SANDBOX_01">
 				<Original>Sandbox</Original>
@@ -28218,13 +28337,13 @@
 				<Original>Terace 1</Original>
 				<English>Terace 1</English>
 				<German>Terasse 1</German>
-				<Chinesesimp>Terace 1</Chinesesimp>
+				<Chinesesimp>露天阳台 1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_TERACE_02_400X600">
 				<Original>Terace 2</Original>
 				<English>Terace 2</English>
 				<German>Terasse 2</German>
-				<Chinesesimp>Terace 2</Chinesesimp>
+				<Chinesesimp>露天阳台 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_TOY_DINOSAUR_01">
 				<Original>Toy Dinosaur</Original>
@@ -28260,19 +28379,19 @@
 				<Original>Deconstructed Fence</Original>
 				<English>Deconstructed Fence</English>
 				<German>Abgebauter Zaun</German>
-				<Chinesesimp>解构的栅栏</Chinesesimp>
+				<Chinesesimp>散乱的栅栏</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_BORDER_WATERBARRIER_GSSZ70_1800">
 				<Original>Barrier (GSSZ70)</Original>
 				<English>Barrier (GSSZ70)</English>
 				<German>Sperre (GSSZ70)</German>
-				<Chinesesimp>障碍物(GSSZ70)</Chinesesimp>
+				<Chinesesimp>柏林墙(GSSZ70)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_BORDER_WATERBARRIER_GZ1_1800">
 				<Original>Barrier (GZ1)</Original>
 				<English>Barrier (GZ1)</English>
 				<German>Sperre (GZ1)</German>
-				<Chinesesimp>障碍物(GZ1)</Chinesesimp>
+				<Chinesesimp>柏林墙(GZ1)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_GARDEN_01_300">
 				<Original>Fence (Garden 1)</Original>
@@ -28556,49 +28675,49 @@
 				<Original>Arches (Ruin)</Original>
 				<English>Arches (Ruin)</English>
 				<German>Stützbogen (Ruine)</German>
-				<Chinesesimp>拱门(废墟)</Chinesesimp>
+				<Chinesesimp>拱门(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_CORNER_01">
 				<Original>Wall (Ruin 1)</Original>
 				<English>Wall (Ruin 1)</English>
 				<German>Mauer (Ruine 1)</German>
-				<Chinesesimp>墙1(废墟)</Chinesesimp>
+				<Chinesesimp>墙1(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_END_01">
 				<Original>Wall (Ruin 2)</Original>
 				<English>Wall (Ruin 2)</English>
 				<German>Mauer (Ruine 2)</German>
-				<Chinesesimp>墙2(废墟)</Chinesesimp>
+				<Chinesesimp>墙2(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_END_02">
 				<Original>Wall (Ruin 3)</Original>
 				<English>Wall (Ruin 3)</English>
 				<German>Mauer (Ruine 3)</German>
-				<Chinesesimp>墙3(废墟)</Chinesesimp>
+				<Chinesesimp>墙3(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_GATE_01">
 				<Original>Gate (Ruin)</Original>
 				<English>Gate (Ruin)</English>
 				<German>Tor (Ruine)</German>
-				<Chinesesimp>门(废墟)</Chinesesimp>
+				<Chinesesimp>门(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_STAIRS_01">
 				<Original>Stairs (Ruin)</Original>
 				<English>Stairs (Ruin)</English>
 				<German>Treppenhaus (Ruine)</German>
-				<Chinesesimp>楼梯(废墟)</Chinesesimp>
+				<Chinesesimp>楼梯(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_TOWER_01">
 				<Original>Tower (Ruin)</Original>
 				<English>Tower (Ruin)</English>
 				<German>Turm (Ruine)</German>
-				<Chinesesimp>塔(废墟)</Chinesesimp>
+				<Chinesesimp>塔(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_CASTLE_01_WALL_01">
 				<Original>Wall (Ruin)</Original>
 				<English>Wall (Ruin)</English>
 				<German>Mauer (Ruine)</German>
-				<Chinesesimp>墙(废墟)</Chinesesimp>
+				<Chinesesimp>墙(衰败)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_GC_BORDERPOST_01">
 				<Original>Post (Border 1)</Original>
@@ -28772,25 +28891,25 @@
 				<Original>Fuel Pump (SB)</Original>
 				<English>Fuel Pump (SB)</English>
 				<German>Zapfsäule (SB)</German>
-				<Chinesesimp>燃油泵(SB)</Chinesesimp>
+				<Chinesesimp>加油机(SB)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FUELPUMP_02_W">
 				<Original>Fuel Pump (SB)</Original>
 				<English>Fuel Pump (SB)</English>
 				<German>Zapfsäule (SB)</German>
-				<Chinesesimp>燃油泵(SB)</Chinesesimp>
+				<Chinesesimp>加油机(SB)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FUELPUMP_01_E">
 				<Original>Fuel Pump (Mineral)</Original>
 				<English>Fuel Pump (Mineral)</English>
 				<German>Zapfsäule (Mineral)</German>
-				<Chinesesimp>燃油泵(矿井)</Chinesesimp>
+				<Chinesesimp>加油机(矿井)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FUELPUMP_02_E">
 				<Original>Fuel Pump (Mineral)</Original>
 				<English>Fuel Pump (Mineral)</English>
 				<German>Zapfsäule (Mineral)</German>
-				<Chinesesimp>燃油泵(矿井)</Chinesesimp>
+				<Chinesesimp>加油机(矿井)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_PLASTICCHAIR_01">
 				<Original>Plastic Chair</Original>
@@ -28832,19 +28951,19 @@
 				<Original>Bargate (Open)</Original>
 				<English>Bargate (Open)</English>
 				<German>Schlagbaum (Offen)</German>
-				<Chinesesimp>匝道(打开)</Chinesesimp>
+				<Chinesesimp>道闸(打开)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_BARGATE_01_CLOSED">
 				<Original>Bargate (Closed)</Original>
 				<English>Bargate (Closed)</English>
 				<German>Schlagbaum (Geschlossen)</German>
-				<Chinesesimp>匝道(关闭)</Chinesesimp>
+				<Chinesesimp>道闸(关闭)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_BARGATE_02">
 				<Original>Bargate</Original>
 				<English>Bargate</English>
 				<German>Schlagbaum</German>
-				<Chinesesimp>匝道</Chinesesimp>
+				<Chinesesimp>道闸</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_TELH_78_W">
 				<Original>Phone Booth 1</Original>
@@ -28988,7 +29107,7 @@
 				<Original>Desk</Original>
 				<English>Desk</English>
 				<German>Schreibtisch</German>
-				<Chinesesimp>Desk</Chinesesimp>
+				<Chinesesimp>办公桌</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_TELEPHONE_01">
 				<Original>Telephone</Original>
@@ -29000,19 +29119,19 @@
 				<Original>Desk Lamp</Original>
 				<English>Desk Lamp</English>
 				<German>Tischlampe</German>
-				<Chinesesimp>Desk Lamp</Chinesesimp>
+				<Chinesesimp>台灯</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_ASHTRAY_01">
 				<Original>Ashtray</Original>
 				<English>Ashtray</English>
 				<German>Aschenbecher</German>
-				<Chinesesimp>Ashtray</Chinesesimp>
+				<Chinesesimp>烟灰缸</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_TV_01">
 				<Original>TV Set</Original>
 				<English>TV Set</English>
 				<German>Fernseher</German>
-				<Chinesesimp>TV Set</Chinesesimp>
+				<Chinesesimp>电视机</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_RADIO_01">
 				<Original>Radio</Original>
@@ -29024,79 +29143,79 @@
 				<Original>Fence (Gate, Right)</Original>
 				<English>Fence (Gate, Right)</English>
 				<German>Zaun (Tor, Rechts)</German>
-				<Chinesesimp>Fence (Gate, Right)</Chinesesimp>
+				<Chinesesimp>围栏(门,右)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_BORDER_GZ1_GATE_350_W">
 				<Original>Fence (Gate, Left)</Original>
 				<English>Fence (Gate, Left)</English>
 				<German>Zaun (Tor, Links)</German>
-				<Chinesesimp>Fence (Gate, Left)</Chinesesimp>
+				<Chinesesimp>围栏(门,左)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_BORDER_GSSZ_70_GATE_350_R">
 				<Original>Fence (Gate, Right)</Original>
 				<English>Fence (Gate, Right)</English>
 				<German>Zaun (Tor, Rechts)</German>
-				<Chinesesimp>Fence (Gate, Right)</Chinesesimp>
+				<Chinesesimp>围栏(门,右)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_BORDER_GSSZ_70_GATE_350_W">
 				<Original>Fence (Gate, Left)</Original>
 				<English>Fence (Gate, Left)</English>
 				<German>Zaun (Tor, Links)</German>
-				<Chinesesimp>Fence (Gate, Left)</Chinesesimp>
+				<Chinesesimp>围栏(门,左)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_BUSSTOP_01">
 				<Original>Bus Stop</Original>
 				<English>Bus Stop</English>
 				<German>Bushaltestelle</German>
-				<Chinesesimp>Bus Stop</Chinesesimp>
+				<Chinesesimp>公交站</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_MISC_01_01">
 				<Original>Sign (Potatoes)</Original>
 				<English>Sign (Potatoes)</English>
 				<German>Schild (Kartoffeln)</German>
-				<Chinesesimp>Sign (Potatoes)</Chinesesimp>
+				<Chinesesimp>招牌 (Potatoes)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_MISC_01_02">
 				<Original>Sign (Asparagus)</Original>
 				<English>Sign (Asparagus)</English>
 				<German>Schild (Spargel)</German>
-				<Chinesesimp>Sign (Asparagus)</Chinesesimp>
+				<Chinesesimp>招牌 (Asparagus)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_MISC_02_01">
 				<Original>Sign (Rennau)</Original>
 				<English>Sign (Rennau)</English>
 				<German>Schild (Rennau)</German>
-				<Chinesesimp>Sign (Rennau)</Chinesesimp>
+				<Chinesesimp>招牌 (Rennau)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_MISC_03_01">
 				<Original>Ice Cream Sign 1</Original>
 				<English>Ice Cream Sign 1</English>
 				<German>Schild (Eisverkauf 1)</German>
-				<Chinesesimp>Ice Cream Sign 1</Chinesesimp>
+				<Chinesesimp>冰淇淋招牌 1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_MISC_03_02">
 				<Original>Ice Cream Sign 2</Original>
 				<English>Ice Cream Sign 2</English>
 				<German>Schild (Eisverkauf 2)</German>
-				<Chinesesimp>Ice Cream Sign 2</Chinesesimp>
+				<Chinesesimp>冰淇淋招牌 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_GM_SIGN_GE_POST_01">
 				<Original>Post Sign 1</Original>
 				<English>Post Sign 1</English>
 				<German>Post-Schild 1</German>
-				<Chinesesimp>Post Sign 1</Chinesesimp>
+				<Chinesesimp>岗位牌 1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_GM_SIGN_GE_POST_02">
 				<Original>Post Sign 2</Original>
 				<English>Post Sign 2</English>
 				<German>Post-Schild 2</German>
-				<Chinesesimp>Post Sign 2</Chinesesimp>
+				<Chinesesimp>岗位牌 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_RAILCROSSING_01">
 				<Original>Railroad Crossing</Original>
 				<English>Railroad Crossing</English>
 				<German>Bahnübergang</German>
-				<Chinesesimp>Railroad Crossing</Chinesesimp>
+				<Chinesesimp>铁道口</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SEARCHLIGHT_01">
 				<Original>Searchlight</Original>
@@ -29114,385 +29233,385 @@
 				<Original>Railway Crossing</Original>
 				<English>Railway Crossing</English>
 				<German>Bahnübergang</German>
-				<Chinesesimp>Railway Crossing</Chinesesimp>
+				<Chinesesimp>铁路交叉路口</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SIGN_GE_POST_01">
 				<Original>Post Sign 1</Original>
 				<English>Post Sign 1</English>
 				<German>Postschild 1</German>
-				<Chinesesimp>Post Sign 1</Chinesesimp>
+				<Chinesesimp>指示牌1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SIGN_GE_POST_02">
 				<Original>Post Sign 2</Original>
 				<English>Post Sign 2</English>
 				<German>Postschild 2</German>
-				<Chinesesimp>Post Sign 1</Chinesesimp>
+				<Chinesesimp>指示牌2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_ALNUS_GLUTINOSA_01_SUMMER">
 				<Original>Alnus Glutinosa 1</Original>
 				<English>Alnus Glutinosa 1</English>
 				<German>Alnus Glutinosa 1</German>
-				<Chinesesimp>Alnus Glutinosa 1<</Chinesesimp>
+				<Chinesesimp>普通赤杨1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_ALNUS_GLUTINOSA_01_WINTER">
 				<Original>Alnus Glutinosa 1 (Winter)</Original>
 				<English>Alnus Glutinosa 1 (Winter)</English>
 				<German>Alnus Glutinosa 1 (Winter)</German>
-				<Chinesesimp>Alnus Glutinosa 1<(冬季)</Chinesesimp>
+				<Chinesesimp>普通赤杨1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_ALNUS_GLUTINOSA_02_SUMMER">
 				<Original>Alnus Glutinosa 2</Original>
 				<English>Alnus Glutinosa 2</English>
 				<German>Alnus Glutinosa 2</German>
-				<Chinesesimp>Alnus Glutinosa 12</Chinesesimp>
+				<Chinesesimp>普通赤杨2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_ALNUS_GLUTINOSA_02_WINTER">
 				<Original>Alnus Glutinosa 2 (Winter)</Original>
 				<English>Alnus Glutinosa 2 (Winter)</English>
 				<German>Alnus Glutinosa 2 (Winter)</German>
-				<Chinesesimp>Alnus Glutinosa 2(冬季)</Chinesesimp>
+				<Chinesesimp>普通赤杨2(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CORYLUS_AVELLANA_01_SUMMER">
 				<Original>Corylus Avellana 1</Original>
 				<English>Corylus Avellana 1</English>
 				<German>Corylus Avellana 1</German>
-				<Chinesesimp>Corylus Avellana 1</Chinesesimp>
+				<Chinesesimp>欧榛1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CORYLUS_AVELLANA_01_WINTER">
 				<Original>Corylus Avellana 1 (Winter)</Original>
 				<English>Corylus Avellana 1 (Winter)</English>
 				<German>Corylus Avellana 1 (Winter)</German>
-				<Chinesesimp>Corylus Avellana 1(冬季)</Chinesesimp>
+				<Chinesesimp>欧榛1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CORYLUS_AVELLANA_02_SUMMER">
 				<Original>Corylus Avellana 2</Original>
 				<English>Corylus Avellana 2</English>
 				<German>Corylus Avellana 2</German>
-				<Chinesesimp>Corylus Avellana 2</Chinesesimp>
+				<Chinesesimp>欧榛2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CORYLUS_AVELLANA_02_WINTER">
 				<Original>Corylus Avellana 2 (Winter)</Original>
 				<English>Corylus Avellana 2 (Winter)</English>
 				<German>Corylus Avellana 2 (Winter)</German>
-				<Chinesesimp>Corylus Avellana 2(冬季)</Chinesesimp>
+				<Chinesesimp>欧榛2(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CRATAEGUS_MONOGYNA_01_SUMMER">
 				<Original>Crataegus Monogyna 1</Original>
 				<English>Crataegus Monogyna 1</English>
 				<German>Crataegus Monogyna 1</German>
-				<Chinesesimp>Crataegus Monogyna 1</Chinesesimp>
+				<Chinesesimp>山楂树1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CRATAEGUS_MONOGYNA_01_WINTER">
 				<Original>Crataegus Monogyna 1 (Winter)</Original>
 				<English>Crataegus Monogyna 1 (Winter)</English>
 				<German>Crataegus Monogyna 1 (Winter)</German>
-				<Chinesesimp>Crataegus Monogyna 1(冬季)</Chinesesimp>
+				<Chinesesimp>山楂树1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CRATAEGUS_MONOGYNA_02_SUMMER">
 				<Original>Crataegus Monogyna 2</Original>
 				<English>Crataegus Monogyna 2</English>
 				<German>Crataegus Monogyna 2</German>
-				<Chinesesimp>Crataegus Monogyna 2</Chinesesimp>
+				<Chinesesimp>山楂树2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_CRATAEGUS_MONOGYNA_02_WINTER">
 				<Original>Crataegus Monogyna 2 (Winter)</Original>
 				<English>Crataegus Monogyna 2 (Winter)</English>
 				<German>Crataegus Monogyna 2 (Winter)</German>
-				<Chinesesimp>Crataegus Monogyna 2(冬季)</Chinesesimp>
+				<Chinesesimp>山楂树2(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_FAGUS_SYLVATICA_01_SUMMER">
 				<Original>Fagus Sylvatica 1</Original>
 				<English>Fagus Sylvatica 1</English>
 				<German>Fagus Sylvatica 1</German>
-				<Chinesesimp>Fagus Sylvatica 1</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_FAGUS_SYLVATICA_01_WINTER">
 				<Original>Fagus Sylvatica 1 (Winter)</Original>
 				<English>Fagus Sylvatica 1 (Winter)</English>
 				<German>Fagus Sylvatica 1 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 1(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_FAGUS_SYLVATICA_02_SUMMER">
 				<Original>Fagus Sylvatica 2</Original>
 				<English>Fagus Sylvatica 2</English>
 				<German>Fagus Sylvatica 2</German>
-				<Chinesesimp>Fagus Sylvatica 2</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_FAGUS_SYLVATICA_02_WINTER">
 				<Original>Fagus Sylvatica 2 (Winter)</Original>
 				<English>Fagus Sylvatica 2 (Winter)</English>
 				<German>Fagus Sylvatica 2 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 2(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉2(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_PHRAGMITES_AUSTRALIS_01_SUMMER">
 				<Original>Phragmites Australis 1</Original>
 				<English>Phragmites Australis 1</English>
 				<German>Phragmites Australis 1</German>
-				<Chinesesimp>Phragmites Australis 1</Chinesesimp>
+				<Chinesesimp>芦苇</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_PHRAGMITES_AUSTRALIS_01_WINTER">
 				<Original>Phragmites Australis 1 (Winter)</Original>
 				<English>Phragmites Australis 1 (Winter)</English>
 				<German>Phragmites Australis 1 (Winter)</German>
-				<Chinesesimp>Phragmites Australis 1(冬季)</Chinesesimp>
+				<Chinesesimp>芦苇(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_SAMBUCUS_NIGRA_01_SUMMER">
 				<Original>Sambucus Nigra 1</Original>
 				<English>Sambucus Nigra 1</English>
 				<German>Sambucus Nigra 1</German>
-				<Chinesesimp>Sambucus Nigra 1</Chinesesimp>
+				<Chinesesimp>黑洋槐</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_SAMBUCUS_NIGRA_01_WINTER">
 				<Original>Sambucus Nigra 1 (Winter)</Original>
 				<English>Sambucus Nigra 1 (Winter)</English>
 				<German>Sambucus Nigra 1 (Winter)</German>
-				<Chinesesimp>Sambucus Nigra 1(冬季)</Chinesesimp>
+				<Chinesesimp>黑洋槐(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_TRITICUM_AESTIVUM_01_SUMMER">
 				<Original>Triticum Aestivum</Original>
 				<English>Triticum Aestivum</English>
 				<German>Triticum Aestivum</German>
-				<Chinesesimp>Triticum Aestivum</Chinesesimp>
+				<Chinesesimp>冬小麦</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_TYPHA_01_SUMMER">
 				<Original>Typha 1</Original>
 				<English>Typha 1</English>
 				<German>Typha 1</German>
-				<Chinesesimp>Typha 1</Chinesesimp>
+				<Chinesesimp>香蒲</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_B_TYPHA_01_WINTER">
 				<Original>Typha 1 (Winter)</Original>
 				<English>Typha 1 (Winter)</English>
 				<German>Typha 1 (Winter)</German>
-				<Chinesesimp>Typha 1(冬季)</Chinesesimp>
+				<Chinesesimp>香蒲(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_ALNUS_GLUTINOSA_01_SUMMER">
 				<Original>Alnus Glutinosa 3</Original>
 				<English>Alnus Glutinosa 3</English>
 				<German>Alnus Glutinosa 3</German>
-				<Chinesesimp>Alnus Glutinosa 3</Chinesesimp>
+				<Chinesesimp>普通赤杨3</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_ALNUS_GLUTINOSA_01_WINTER">
 				<Original>Alnus Glutinosa 3 (Winter)</Original>
 				<English>Alnus Glutinosa 3 (Winter)</English>
 				<German>Alnus Glutinosa 3 (Winter)</German>
-				<Chinesesimp>Alnus Glutinosa 3(冬季)</Chinesesimp>
+				<Chinesesimp>普通赤杨3(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_ALNUS_GLUTINOSA_02_SUMMER">
 				<Original>Alnus Glutinosa 4</Original>
 				<English>Alnus Glutinosa 4</English>
 				<German>Alnus Glutinosa 4</German>
-				<Chinesesimp>Alnus Glutinosa 4</Chinesesimp>
+				<Chinesesimp>普通赤杨4</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_ALNUS_GLUTINOSA_02_WINTER">
 				<Original>Alnus Glutinosa 4 (Winter)</Original>
 				<English>Alnus Glutinosa 4 (Winter)</English>
 				<German>Alnus Glutinosa 4 (Winter)</German>
-				<Chinesesimp>Alnus Glutinosa 4(冬季)</Chinesesimp>
+				<Chinesesimp>普通赤杨4(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_ALNUS_GLUTINOSA_03_SUMMER">
 				<Original>Alnus Glutinosa 5</Original>
 				<English>Alnus Glutinosa 5</English>
 				<German>Alnus Glutinosa 5</German>
-				<Chinesesimp>Alnus Glutinosa 5</Chinesesimp>
+				<Chinesesimp>普通赤杨5</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_ALNUS_GLUTINOSA_03_WINTER">
 				<Original>Alnus Glutinosa 5 (Winter)</Original>
 				<English>Alnus Glutinosa 5 (Winter)</English>
 				<German>Alnus Glutinosa 5 (Winter)</German>
-				<Chinesesimp>Alnus Glutinosa 5(冬季)</Chinesesimp>
+				<Chinesesimp>普通赤杨5(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_01_SUMMER">
 				<Original>Fagus Sylvatica 3</Original>
 				<English>Fagus Sylvatica 3</English>
 				<German>Fagus Sylvatica 3</German>
-				<Chinesesimp>Fagus Sylvatica 3</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉3</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_01_WINTER">
 				<Original>Fagus Sylvatica 3 (Winter)</Original>
 				<English>Fagus Sylvatica 3 (Winter)</English>
 				<German>Fagus Sylvatica 3 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 3(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉3(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_02_SUMMER">
 				<Original>Fagus Sylvatica 4</Original>
 				<English>Fagus Sylvatica 4</English>
 				<German>Fagus Sylvatica 4</German>
-				<Chinesesimp>Fagus Sylvatica 4</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉4</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_02_WINTER">
 				<Original>Fagus Sylvatica 4 (Winter)</Original>
 				<English>Fagus Sylvatica 4 (Winter)</English>
 				<German>Fagus Sylvatica 4 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 4(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉4(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_03_SUMMER">
 				<Original>Fagus Sylvatica 5</Original>
 				<English>Fagus Sylvatica 5</English>
 				<German>Fagus Sylvatica 5</German>
-				<Chinesesimp>Fagus Sylvatica 5</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉5</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_03_WINTER">
 				<Original>Fagus Sylvatica 5 (Winter)</Original>
 				<English>Fagus Sylvatica 5 (Winter)</English>
 				<German>Fagus Sylvatica 5 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 5(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉5(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_04_SUMMER">
 				<Original>Fagus Sylvatica 6</Original>
 				<English>Fagus Sylvatica 6</English>
 				<German>Fagus Sylvatica 6</German>
-				<Chinesesimp>Fagus Sylvatica 6</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉6</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_04_WINTER">
 				<Original>Fagus Sylvatica 6 (Winter)</Original>
 				<English>Fagus Sylvatica 6 (Winter)</English>
 				<German>Fagus Sylvatica 6 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 6(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉6(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_05_SUMMER">
 				<Original>Fagus Sylvatica 7</Original>
 				<English>Fagus Sylvatica 7</English>
 				<German>Fagus Sylvatica 7</German>
-				<Chinesesimp>Fagus Sylvatica 7</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉7</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_FAGUS_SYLVATICA_05_WINTER">
 				<Original>Fagus Sylvatica 7 (Winter)</Original>
 				<English>Fagus Sylvatica 7 (Winter)</English>
 				<German>Fagus Sylvatica 7 (Winter)</German>
-				<Chinesesimp>Fagus Sylvatica 7(冬季)</Chinesesimp>
+				<Chinesesimp>欧洲山毛榉7(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_01_SUMMER">
 				<Original>Picea Abies 1</Original>
 				<English>Picea Abies 1</English>
 				<German>Picea Abies 1</German>
-				<Chinesesimp>Picea Abies 1</Chinesesimp>
+				<Chinesesimp>挪威云杉1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_01_WINTER">
 				<Original>Picea Abies 1 (Winter)</Original>
 				<English>Picea Abies 1 (Winter)</English>
 				<German>Picea Abies 1 (Winter)</German>
-				<Chinesesimp>Picea Abies 1(冬季)</Chinesesimp>
+				<Chinesesimp>挪威云杉1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_02_SUMMER">
 				<Original>Picea Abies 2</Original>
 				<English>Picea Abies 2</English>
 				<German>Picea Abies 2</German>
-				<Chinesesimp>Picea Abies 2</Chinesesimp>
+				<Chinesesimp>挪威云杉2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_02_WINTER">
 				<Original>Picea Abies 2 (Winter)</Original>
 				<English>Picea Abies 2 (Winter)</English>
 				<German>Picea Abies 2 (Winter)</German>
-				<Chinesesimp>Picea Abies 2(冬季)</Chinesesimp>
+				<Chinesesimp>挪威云杉2(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_03_SUMMER">
 				<Original>Picea Abies 3</Original>
 				<English>Picea Abies 3</English>
 				<German>Picea Abies 3</German>
-				<Chinesesimp>Picea Abies 3</Chinesesimp>
+				<Chinesesimp>挪威云杉3</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_03_WINTER">
 				<Original>Picea Abies 3 (Winter)</Original>
 				<English>Picea Abies 3 (Winter)</English>
 				<German>Picea Abies 3 (Winter)</German>
-				<Chinesesimp>Picea Abies 3(冬季)</Chinesesimp>
+				<Chinesesimp>挪威云杉3(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_04_SUMMER">
 				<Original>Picea Abies 4</Original>
 				<English>Picea Abies 4</English>
 				<German>Picea Abies 4</German>
-				<Chinesesimp>Picea Abies 4</Chinesesimp>
+				<Chinesesimp>挪威云杉4</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_04_WINTER">
 				<Original>Picea Abies 4 (Winter)</Original>
 				<English>Picea Abies 4 (Winter)</English>
 				<German>Picea Abies 4 (Winter)</German>
-				<Chinesesimp>Picea Abies 4(冬季)</Chinesesimp>
+				<Chinesesimp>挪威云杉4(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_05_SUMMER">
 				<Original>Picea Abies 5</Original>
 				<English>Picea Abies 5</English>
 				<German>Picea Abies 5</German>
-				<Chinesesimp>Picea Abies 5</Chinesesimp>
+				<Chinesesimp>挪威云杉5</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_PICEA_ABIES_05_WINTER">
 				<Original>Picea Abies 5 (Winter)</Original>
 				<English>Picea Abies 5 (Winter)</English>
 				<German>Picea Abies 5 (Winter)</German>
-				<Chinesesimp>Picea Abies 5(冬季)</Chinesesimp>
+				<Chinesesimp>挪威云杉5(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_01_SUMMER">
 				<Original>Quercus Robur 1</Original>
 				<English>Quercus Robur 1</English>
 				<German>Quercus Robur 1</German>
-				<Chinesesimp>Quercus Robur 1</Chinesesimp>
+				<Chinesesimp>栎树1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_01_WINTER">
 				<Original>Quercus Robur 1 (Winter)</Original>
 				<English>Quercus Robur 1 (Winter)</English>
 				<German>Quercus Robur 1 (Winter)</German>
-				<Chinesesimp>Quercus Robur 1(冬季)</Chinesesimp>
+				<Chinesesimp>栎树1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_02_SUMMER">
 				<Original>Quercus Robur 2</Original>
 				<English>Quercus Robur 2</English>
 				<German>Quercus Robur 2</German>
-				<Chinesesimp>Quercus Robur 2</Chinesesimp>
+				<Chinesesimp>栎树2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_02_WINTER">
 				<Original>Quercus Robur 2 (Winter)</Original>
 				<English>Quercus Robur 2 (Winter)</English>
 				<German>Quercus Robur 2 (Winter)</German>
-				<Chinesesimp>Quercus Robur 2(冬季)</Chinesesimp>
+				<Chinesesimp>栎树2(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_03_SUMMER">
 				<Original>Quercus Robur 3</Original>
 				<English>Quercus Robur 3</English>
 				<German>Quercus Robur 3</German>
-				<Chinesesimp>Quercus Robur 3</Chinesesimp>
+				<Chinesesimp>栎树3</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_03_WINTER">
 				<Original>Quercus Robur 3 (Winter)</Original>
 				<English>Quercus Robur 3 (Winter)</English>
 				<German>Quercus Robur 3 (Winter)</German>
-				<Chinesesimp>Quercus Robur 3(冬季)</Chinesesimp>
+				<Chinesesimp>栎树3(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_04_SUMMER">
 				<Original>Quercus Robur 4</Original>
 				<English>Quercus Robur 4</English>
 				<German>Quercus Robur 4</German>
-				<Chinesesimp>Quercus Robur 4</Chinesesimp>
+				<Chinesesimp>栎树4</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_QUERCUS_ROBUR_04_WINTER">
 				<Original>Quercus Robur 4 (Winter)</Original>
 				<English>Quercus Robur 4 (Winter)</English>
 				<German>Quercus Robur 4 (Winter)</German>
-				<Chinesesimp>Quercus Robur 4(冬季)</Chinesesimp>
+				<Chinesesimp>栎树4(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_SALIX_ALBA_01_SUMMER">
 				<Original>Salix Alba 1</Original>
 				<English>Salix Alba 1</English>
 				<German>Salix Alba 1</German>
-				<Chinesesimp>Salix Alba 1</Chinesesimp>
+				<Chinesesimp>白柳1</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_SALIX_ALBA_01_WINTER">
 				<Original>Salix Alba 1 (Winter)</Original>
 				<English>Salix Alba 1 (Winter)</English>
 				<German>Salix Alba 1 (Winter)</German>
-				<Chinesesimp>Salix Alba 1(冬季)</Chinesesimp>
+				<Chinesesimp>白柳1(冬季)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_SALIX_ALBA_02_SUMMER">
 				<Original>Salix Alba 2</Original>
 				<English>Salix Alba 2</English>
 				<German>Salix Alba 2</German>
-				<Chinesesimp>Salix Alba 2</Chinesesimp>
+				<Chinesesimp>白柳2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_T_SALIX_ALBA_02_WINTER">
 				<Original>Salix Alba 2 (Winter)</Original>
 				<English>Salix Alba 2 (Winter)</English>
 				<German>Salix Alba 2 (Winter)</German>
-				<Chinesesimp>Salix Alba 2(冬季)</Chinesesimp>
+				<Chinesesimp>白柳2(冬季)</Chinesesimp>
 			</Key>
 		</Container>
 	</Package>
@@ -29580,13 +29699,13 @@
 				<Original>Grasleben</Original>
 				<English>Grasleben</English>
 				<German>Grasleben</German>
-				<Chinesesimp>格拉斯莱本</Chinesesimp>
+				<Chinesesimp>Grasleben</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_WEFERLINGEN">
 				<Original>Weferlingen</Original>
 				<English>Weferlingen</English>
 				<German>Weferlingen</German>
-				<Chinesesimp>韦弗林根</Chinesesimp>
+				<Chinesesimp>Weferlingen</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_DOEHREN">
 				<Original>Döhren</Original>
@@ -32326,13 +32445,13 @@
 				<Original>K125</Original>
 				<English>K125</English>
 				<German>K125</German>
-				<Chinesesimp>K125</Chinesesimp>
+				<Chinesesimp>K125摩托车</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_K125_BW_BASE">
 				<Original>K125 gl</Original>
 				<English>K125 gl</English>
 				<German>Krad K125 gl</German>
-				<Chinesesimp>K125 gl</Chinesesimp>
+				<Chinesesimp>K125 gl摩托车</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_K125_BASE">
 				<Original>Motorcycle</Original>
