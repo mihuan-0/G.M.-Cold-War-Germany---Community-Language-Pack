@@ -748,6 +748,7 @@
 				<German>Island (Zivilisten)</German>
 				<Chinesesimp>冰岛（平民）</Chinesesimp>
 				<Chinese>冰島（平民）</Chinese>
+				<Korean>아이슬란드 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_IT_CIV">
 				<Original>Italy (Civilians)</Original>
@@ -755,6 +756,7 @@
 				<German>Italien (Zivilisten)</German>
 				<Chinesesimp>意大利（平民）</Chinesesimp>
 				<Chinese>意大利（平民）</Chinese>
+				<Korean>이탈리아 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LU_CIV">
 				<Original>Luxembourg (Civilians)</Original>
@@ -762,6 +764,7 @@
 				<German>Luxemburg (Zivilisten)</German>
 				<Chinesesimp>卢森堡（平民）</Chinesesimp>
 				<Chinese>盧森堡（平民）</Chinese>
+				<Korean>룩셈부르크 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NL_CIV">
 				<Original>Netherlands (Civilians)</Original>
@@ -769,6 +772,7 @@
 				<German>Niederlande (Zivilisten)</German>
 				<Chinesesimp>荷兰（平民）</Chinesesimp>
 				<Chinese>荷蘭（平民）</Chinese>
+				<Korean>네덜란드 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NO_CIV">
 				<Original>Norway (Civilians)</Original>
@@ -776,6 +780,7 @@
 				<German>Norwegen (Zivilisten)</German>
 				<Chinesesimp>挪威（平民）</Chinesesimp>
 				<Chinese>挪威（平民）</Chinese>
+				<Korean>노르웨이 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PO_CIV">
 				<Original>Portugal (Civilians)</Original>
@@ -783,6 +788,7 @@
 				<German>Portugal (Zivilisten)</German>
 				<Chinesesimp>葡萄牙（平民）</Chinesesimp>
 				<Chinese>葡萄牙（平民）</Chinese>
+				<Korean>포르투갈 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_UK_CIV">
 				<Original>United Kingdom (Civilians)</Original>
@@ -790,6 +796,7 @@
 				<German>Vereinigtes Königreich (Zivilisten)</German>
 				<Chinesesimp>英国（平民）</Chinesesimp>
 				<Chinese>英國（平民）</Chinese>
+				<Korean>영국 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_US_CIV">
 				<Original>United States (Civilians)</Original>
@@ -797,6 +804,7 @@
 				<German>Vereinigte Staaten (Zivilisten)</German>
 				<Chinesesimp>美国（平民）</Chinesesimp>
 				<Chinese>美國（平民）</Chinese>
+				<Korean>미국 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SE_CIV">
 				<Original>Sweden (Civilians)</Original>
@@ -804,6 +812,7 @@
 				<German>Schweden (Zivilisten)</German>
 				<Chinesesimp>瑞典（平民）</Chinesesimp>
 				<Chinese>瑞典（平民）</Chinese>
+				<Korean>스웨덴 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GR_CIV">
 				<Original>Greece (Civilians)</Original>
@@ -811,6 +820,7 @@
 				<German>Griechenland (Zivilisten)</German>
 				<Chinesesimp>希腊（平民）</Chinesesimp>
 				<Chinese>希臘（平民）</Chinese>
+				<Korean>그리스 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_TU_CIV">
 				<Original>Turkey (Civilians)</Original>
@@ -818,6 +828,7 @@
 				<German>Türkei (Zivilisten)</German>
 				<Chinesesimp>土耳其（平民）</Chinesesimp>
 				<Chinese>土耳其（平民）</Chinese>
+				<Korean>터키 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_CIV">
 				<Original>West Germany (Civilians)</Original>
@@ -825,6 +836,7 @@
 				<German>Deutschland (Zivilisten)</German>
 				<Chinesesimp>联邦德国（平民）</Chinesesimp>
 				<Chinese>聯邦德國（平民）</Chinese>
+				<Korean>서독 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SP_CIV">
 				<Original>Spain (Civilians)</Original>
@@ -832,6 +844,7 @@
 				<German>Spanien (Zivilisten)</German>
 				<Chinesesimp>西班牙（平民）</Chinesesimp>
 				<Chinese>西班牙（平民）</Chinese>
+				<Korean>스페인 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AU_CIV">
 				<Original>Austria (Civilians)</Original>
@@ -839,6 +852,7 @@
 				<German>Östereich (Zivilisten)</German>
 				<Chinesesimp>奥地利（平民）</Chinesesimp>
 				<Chinese>奧地利（平民）</Chinese>
+				<Korean>오스트리아 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SZ_CIV">
 				<Original>Switzerland (Civilians)</Original>
@@ -846,6 +860,7 @@
 				<German>Schweiz (Zivilisten)</German>
 				<Chinesesimp>瑞士（平民）</Chinesesimp>
 				<Chinese>瑞士（平民）</Chinese>
+				<Korean>스위스 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FI_CIV">
 				<Original>Finland (Civilians)</Original>
@@ -853,6 +868,7 @@
 				<German>Finnland (Zivilisten)</German>
 				<Chinesesimp>芬兰（平民）</Chinesesimp>
 				<Chinese>芬蘭（平民）</Chinese>
+				<Korean>핀란드 (시민)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SW_CIV">
 				<Original>Sweden (Civilians)</Original>
@@ -884,6 +900,7 @@
 				<English>Demolition</English>
 				<German>Sprengmeister</German>
 				<Chinesesimp>爆破手</Chinesesimp>
+				<Korean>폭파병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ENGINEER_BASE">
 				<Original>Pioneer</Original>
@@ -918,12 +935,14 @@
 				<English>Shock Trooper</English>
 				<German>Sturmsoldat</German>
 				<Chinesesimp>突击兵</Chinesesimp>
+				<Korean>충격군</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_PARATROOPER_BASE">
 				<Original>Paratrooper</Original>
 				<English>Paratrooper</English>
 				<German>Fallschirmjäger</German>
 				<Chinesesimp>伞兵</Chinesesimp>
+				<Korean>공수부대원</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_GRENADIER_BASE">
 				<Original>Grenadier</Original>
@@ -937,30 +956,35 @@
 				<English>Heavy Grenadier</English>
 				<German>Schwerer Grenadier</German>
 				<Chinesesimp>重掷弹兵</Chinesesimp>
+				<Korean>유탄사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MACHINEGUNNER_BASE">
 				<Original>Machinegunner</Original>
 				<English>Machinegunner</English>
 				<German>MG-Schütze</German>
 				<Chinesesimp>机枪手</Chinesesimp>
+				<Korean>기관총 사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYMACHINEGUNNER_BASE">
 				<Original>Heavy Machinegunner</Original>
 				<English>Heavy Machinegunner</English>
 				<German>Schwerer MG-Schütze</German>
 				<Chinesesimp>重机枪手</Chinesesimp>
+				<Korean>중기관총 사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_LIGHTMACHINEGUNNER_BASE">
 				<Original>Light Machinegunner</Original>
 				<English>Light Machinegunner</English>
 				<German>Leichter MG-Schütze</German>
 				<Chinesesimp>轻机枪手</Chinesesimp>
+				<Korean>경기관총 사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MACHINEGUNNER_ASSISTANT_BASE">
 				<Original>Machinegunner Assistant</Original>
 				<English>Machinegunner Assistant</English>
 				<German>MG-Schütze 2</German>
 				<Chinesesimp>副机枪手</Chinesesimp>
+				<Korean>기관총 부사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_LIGHT_MACHINEGUNNER_ASSISTANT_BASE">
 				<Original>Light Machinegunner Assistant</Original>
@@ -981,6 +1005,7 @@
 				<English>Heavy Anti-Tank</English>
 				<German>Schwerer Panzerabwehrschütze</German>
 				<Chinesesimp>重型AT兵</Chinesesimp>
+				<Korean>대전차병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTITANK_ASSISTANT_BASE">
 				<Original>Anti-Tank Assistant</Original>
@@ -994,6 +1019,7 @@
 				<English>Heavy Anti-Tank Assistant</English>
 				<German>Schwerer Panzerabwehrschütze 2</German>
 				<Chinesesimp>重型AT兵助手</Chinesesimp>
+				<Korean>대전차병 부사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ATGM_ANTITANK_BASE">
 				<Original>ATGM Gunner</Original>
@@ -1007,7 +1033,7 @@
 				<English>Anti-Air</English>
 				<German>Fliegerabwehrschütze</German>
 				<Chinesesimp>AA兵</Chinesesimp>
-				<Korean>AA 사수</Korean>
+				<Korean>대공 사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTIAIR_ASSISTANT_BASE">
 				<Original>Anti-Air Assistant</Original>
@@ -1028,6 +1054,7 @@
 				<English>Platoon Leader</English>
 				<German>Zugführer</German>
 				<Chinesesimp>排长</Chinesesimp>
+				<Korean>소대장</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_OFFICER_BASE">
 				<Original>Officer</Original>
@@ -1083,12 +1110,14 @@
 				<English>Men, '90</English>
 				<German>Männer, '90</German>
 				<Chinesesimp>男人(90年代)</Chinesesimp>
+				<Korean>사람'90</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_90_AUTUMN">
 				<Original>Men, '90 (Autumn)</Original>
 				<English>Men, '90 (Autumn)</English>
 				<German>Männer, '90 (Herbst)</German>
 				<Chinesesimp>男人(80年代,秋季)</Chinesesimp>
+				<Korean>사람'90 (가을)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_90_WINTER">
 				<Original>Men, '90 (Winter)</Original>
@@ -1102,18 +1131,21 @@
 				<English>Men, '00</English>
 				<German>Männer, '00</German>
 				<Chinesesimp>男人(21世纪)</Chinesesimp>
+				<Korean>사람'00</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_00_AUTUMN">
 				<Original>Men, '00 (Autumn)</Original>
 				<English>Men, '00 (Autumn)</English>
 				<German>Männer, '00 (Herbst)</German>
 				<Chinesesimp>男人(21世纪,秋季)</Chinesesimp>
+				<Korean>사람'00 (가을)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_00_WINTER">
 				<Original>Men, '00 (Winter)</Original>
 				<English>Men, '00 (Winter)</English>
 				<German>Männer, '00 (Winter)</German>
 				<Chinesesimp>男人(21世纪,冬季)</Chinesesimp>
+				<Korean>사람'00 (겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80">
 				<Original>Special Forces, '80</Original>
@@ -1127,12 +1159,14 @@
 				<English>Special Forces, '80 (Autumn)</English>
 				<German>Spezialkräfte, '80 (Herbst)</German>
 				<Chinesesimp>特种部队(80年代,秋季)</Chinesesimp>
+				<Korean>특수부대'80 (가을)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80_WINTER">
 				<Original>Special Forces, '80 (Winter)</Original>
 				<English>Special Forces, '80 (Winter)</English>
 				<German>Spezialkräfte, '80 (Winter)</German>
 				<Chinesesimp>特种部队(80年代,冬季)</Chinesesimp>
+				<Korean>특수부대'80 (겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MARKSMAN_BASE">
 				<Original>Marksman</Original>
@@ -1161,6 +1195,7 @@
 				<English>Nato: Airborne Artillery</English>
 				<German>Nato: Luftlande-Artillerie</German>
 				<Chinesesimp>北约:炮兵(空降)</Chinesesimp>
+				<Korean>NATO: 공수부대 포병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNEENGINEER">
 				<Original>Nato: Airborne Engineer</Original>
@@ -1174,6 +1209,7 @@
 				<English>Nato: Airborne Infantry</English>
 				<German>Nato: Luftlande-Infanterie</German>
 				<Chinesesimp>北约:步兵(空降)</Chinesesimp>
+				<Korean>NATO: 공수보병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNERECON">
 				<Original>Nato: Airborne Recon</Original>
@@ -1315,6 +1351,7 @@
 				<English>Nato: Mountain Infantry</English>
 				<German>Nato: Gebirgsinfanterie</German>
 				<Chinesesimp>北约:山地步兵</Chinesesimp>
+				<Korean>NATO: 산악병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAINMECHANIZEDARTILLERY">
 				<Original>Nato: Mountain Mechanized Artillery</Original>
@@ -1333,6 +1370,7 @@
 				<English>Nato: Recon</English>
 				<German>Nato: Aufklärer</German>
 				<Chinesesimp>北约:侦察兵</Chinesesimp>
+				<Korean>NATO: 정찰</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ROCKETARTILLERY">
 				<Original>Nato: Rocket Artillery</Original>
@@ -1346,6 +1384,7 @@
 				<English>Nato: Signal</English>
 				<German>Nato: Fernmelder</German>
 				<Chinesesimp>北约:信号</Chinesesimp>
+				<Korean>NATO: 통신</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRFORCE">
 				<Original>Nato: Air Force</Original>
@@ -1375,24 +1414,28 @@
 				<English>Supply</English>
 				<German>Logistik</German>
 				<Chinesesimp>补给</Chinesesimp>
+				<Korean>보급</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEANTITANK">
 				<Original>Airborne Anti Tank</Original>
 				<English>Airborne Anti Tank</English>
 				<German>Luftlandepanzerabwehr</German>
 				<Chinesesimp>反坦克(空降)</Chinesesimp>
+				<Korean>공수부대 대전차병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEARTILLERY">
 				<Original>Airborne Artillery</Original>
 				<English>Airborne Artillery</English>
 				<German>Luftlandeartillerie</German>
 				<Chinesesimp>炮兵(空降)</Chinesesimp>
+				<Korean>공수부대 포병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEENGINEER">
 				<Original>Airborne Engineer</Original>
 				<English>Airborne Engineer</English>
 				<German>Luftlandepioniere</German>
 				<Chinesesimp>工程兵(空降)</Chinesesimp>
+				<Korean>공수부대 공병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEINFANTRY">
 				<Original>Airborne Infantry</Original>
@@ -1406,6 +1449,7 @@
 				<English>Airborne Recon</English>
 				<German>Luftlandeaufklärer</German>
 				<Chinesesimp>侦察兵(空降)</Chinesesimp>
+				<Korean>공수부대 정찰병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRDEFENCE">
 				<Original>Air Defence</Original>
@@ -1433,13 +1477,14 @@
 				<English>Armored Engineer</English>
 				<German>Panzerpioniere</German>
 				<Chinesesimp>装甲工程兵</Chinesesimp>
+				<Korean>기갑 공병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ARMOREDRECON">
 				<Original>Armored Recon</Original>
 				<English>Armored Recon</English>
 				<German>Panzeraufklärer</German>
 				<Chinesesimp>装甲侦察兵</Chinesesimp>
-				<Korean>기갑정찰대</Korean>
+				<Korean>기갑정찰병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ARTILLERY">
 				<Original>Artillery</Original>
@@ -1453,6 +1498,7 @@
 				<English>Artillery Recon</English>
 				<German>Artilleriebeobachter</German>
 				<Chinesesimp>火炮侦察兵</Chinesesimp>
+				<Korean>포병 정찰대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BORDERGUARD">
 				<Original>Border Guard</Original>
@@ -1506,6 +1552,7 @@
 				<English>Mechanized Anti Tank</English>
 				<German>Mechanisierte Panzerabwehr</German>
 				<Chinesesimp>机械化反坦克兵</Chinesesimp>
+				<Korean>기계화 대전차병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MECHANIZEDARTILLERY">
 				<Original>Mechanized Artillery</Original>
@@ -1526,6 +1573,7 @@
 				<English>Medical</English>
 				<German>Sanitätsdienst</German>
 				<Chinesesimp>医疗兵</Chinesesimp>
+				<Korean>의료</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MILITARYMUSIC">
 				<Original>Military Music</Original>
@@ -1580,18 +1628,21 @@
 				<English>Mountain Mechanized Artillery</English>
 				<German>Gebirgsmechanisierte Artillerie</German>
 				<Chinesesimp>山地自行火炮</Chinesesimp>
+				<Korean>기계화 산악포병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAINRECON">
 				<Original>Mountain Recon</Original>
 				<English>Mountain Recon</English>
 				<German>Gebirgsaufklärer</German>
 				<Chinesesimp>山地侦察兵</Chinesesimp>
+				<Korean>산악 정찰병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_RECON">
 				<Original>Recon</Original>
 				<English>Recon</English>
 				<German>Aufklärer</German>
 				<Chinesesimp>侦察兵</Chinesesimp>
+				<Korean>정찰병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ROCKETARTILLERY">
 				<Original>Rocket Artillery</Original>
@@ -1605,6 +1656,7 @@
 				<English>Signal</English>
 				<German>Fernmelder</German>
 				<Chinesesimp>信号</Chinesesimp>
+				<Korean>통신병</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FIRESUPPORT">
 				<Original>Fire Support</Original>
@@ -1667,12 +1719,14 @@
 				<English>Armored Engineer '80</English>
 				<German>Panzerpioniere '80</German>
 				<Chinesesimp>装甲工程兵(80年代)</Chinesesimp>
+				<Korean>기갑 공병'80</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_ARMOREDENGINEER_90">
 				<Original>Armored Engineer '90</Original>
 				<English>Armored Engineer '90</English>
 				<German>Panzerpioniere '90</German>
 				<Chinesesimp>装甲工程兵(90年代)</Chinesesimp>
+				<Korean>기갑 공병'90</Korean>
 			</Key>
 		</Container>
 		<Container name="Weapons">
@@ -1695,6 +1749,7 @@
 				<English>Post</English>
 				<German>Post</German>
 				<Chinesesimp>柱子</Chinesesimp>
+				<Korean>우편</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_POL">
 				<Original>Police</Original>
@@ -1728,24 +1783,28 @@
 				<English>West Germany (Desert)</English>
 				<German>Deutschland (Wüste)</German>
 				<Chinesesimp>西德(沙漠)</Chinesesimp>
+				<Korean>서독 (사막)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TRP">
 				<Original>West Germany (Tropical)</Original>
 				<English>West Germany (Tropical)</English>
 				<German>Deutschland (Tropen)</German>
 				<Chinesesimp>西德(热带)</Chinesesimp>
+				<Korean>서독 (열대)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_OLI">
 				<Original>West Germany (Olive)</Original>
 				<English>West Germany (Olive)</English>
 				<German>Deutschland (Oliv)</German>
 				<Chinesesimp>西德(橄榄色)</Chinesesimp>
+				<Korean>서독 (올리브)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_OLI">
 				<Original>West Germany (Borderguards)</Original>
 				<English>West Germany (Borderguards)</English>
 				<German>Deutschland (Grenzschutz)</German>
 				<Chinesesimp>西德(边防部队)</Chinesesimp>
+				<Korean>국경 경비대 (서독)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_OLS">
 				<Original>West Germany (Olive, Mud)</Original>
@@ -2263,6 +2322,7 @@
 				<English>Poland (Winter)</English>
 				<German>Polen (Winter)</German>
 				<Chinesesimp>波兰(冬季)</Chinesesimp>
+				<Korean>폴란드 (겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_BGB">
 				<Original>Poland (Blue-Green)</Original>
@@ -2700,7 +2760,7 @@
 				<English>Beige</English>
 				<German>Beige</German>
 				<Chinesesimp>棕色</Chinesesimp>
-				<Korean>베이지</Korean>				
+				<Korean>베이지</Korean>		
 			</Key>
 			<Key ID="STR_DN_GM_WUD">
 				<Original>Wood</Original>
@@ -3284,18 +3344,21 @@
 				<English>Peri 1.5x</English>
 				<German>Peri 1.5x</German>
 				<Chinesesimp>Peri 1.5x</Chinesesimp>
+				<Korean>페리 1.5x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_GEPARD_PERI_DAY_6X_BASE">
 				<Original>Peri 6x</Original>
 				<English>Peri 6x</English>
 				<German>Peri 6x</German>
 				<Chinesesimp>Peri 6x</Chinesesimp>
+				<Korean>페리 6x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_TSHK66_DAY_4X_BASE">
 				<Original>TShK-66 4x</Original>
 				<English>TShK-66 4x</English>
 				<German>TShK-66 4x</German>
 				<Chinesesimp>TShK-66 4x</Chinesesimp>
+				<Korean>TShK-66 4x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_TEM2A_DAY_8X_BASE">
 				<Original>TEM-2A 8x</Original>
@@ -4295,6 +4358,7 @@
 				<English>Add Antenna</English>
 				<German>Antenne</German>
 				<Chinesesimp>天线</Chinesesimp>
+				<Korean>안테나</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ANTENNA_LEFT">
 				<Original>Add Antenna - Left</Original>
@@ -4355,6 +4419,7 @@
 				<English>Commander</English>
 				<German>Kommandant</German>
 				<Chinesesimp>指挥官</Chinesesimp>
+				<Korean>지휘관</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_COMMANDER_MG">
 				<Original>Commander (MG)</Original>
@@ -4379,6 +4444,7 @@
 				<English>Squad Leader</English>
 				<German>Gruppenführer</German>
 				<Chinesesimp>小队长</Chinesesimp>
+				<Korean>분대장</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SQUADLEADER_MACHINEGUN">
 				<Original>Squad Leader (MG)</Original>
@@ -4391,6 +4457,7 @@
 				<English>Squad Leader (ATGM)</English>
 				<German>Gruppenführer (PALR)</German>
 				<Chinesesimp>小队长(ATGM)</Chinesesimp>
+				<Korean>분대장 (ATGM)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GUNNER">
 				<Original>Gunner</Original>
@@ -4439,6 +4506,7 @@
 				<English>Gunner</English>
 				<German>Richtschütze</German>
 				<Chinesesimp>炮手</Chinesesimp>
+				<Korean>사수</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MAINGUNNER_ATGM">
 				<Original>Gunner</Original>
@@ -4737,6 +4805,7 @@
 				<English>Disassemble MG3 - Anti Air Tripod</English>
 				<German>MG3 - Flugabwehrlafette Abbauen</German>
 				<Chinesesimp>拆卸MG3-防空三脚架</Chinesesimp>
+				<Korean>분해된 MG3 - 대공 삼각대</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_MOUNT_TURRET_WEAPON_MG3">
 				<Original>Mount MG3</Original>
@@ -4944,12 +5013,14 @@
 				<English>Anti-Air (Tan)</English>
 				<German>Flugabwehr (Sand)</German>
 				<Chinesesimp>AA(沙漠)</Chinesesimp>
+				<Korean>대공 (Tan)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_BLK">
 				<Original>Anti-Air (Black)</Original>
 				<English>Anti-Air (Black)</English>
 				<German>Flugabwehr (Schwarz)</German>
 				<Chinesesimp>AA(黑色)</Chinesesimp>
+				<Korean>대공 (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_BLW">
 				<Original>Anti-Air (Black, Winter)</Original>
@@ -11586,6 +11657,7 @@
 				<English>SG5A2 9x19 mm</English>
 				<German>SG5A2 9x19 mm</German>
 				<Chinesesimp>SG5A2 9x19 mm</Chinesesimp>
+				<Korean>SG5A2 9x19mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MP5A3_BLK">
 				<Original>SG5A3 9x19 mm</Original>
@@ -13171,6 +13243,7 @@
 				<German>7,62 mm 75-Schuss-Magazin AP 7N23</German>
 				<Chinesesimp>7.62 mm 75Rnd AP 7N23 Mag</Chinesesimp>
 				<Russian>Магазин, 75 патронов 7,62 мм AP 7N23</Russian>
+				<Korean>7.62mm 75발 AP 7N23 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_9X19MM_B_DM11">
 				<Original>9 mm 8Rnd Ball DM11 Mag</Original>
@@ -13248,6 +13321,7 @@
 				<German>9 mm 30-Schuss-Magazin AP DM91</German>
 				<Chinesesimp>9 mm 30Rnd AP DM91 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 9 мм AP DM91</Russian>
+				<Korean>9mm 30발 AP DM91 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_DM11">
 				<Original>5.56 mm 30Rnd Ball DM11 Mag</Original>
@@ -14170,6 +14244,7 @@
 				<English>Smoke Grenade DM21 (Green)</English>
 				<German>Nebelmittelwurfkörper DM21 (Grün)</German>
 				<Chinesesimp>DM21型 烟雾弹(绿色)</Chinesesimp>
+				<Korean>DM21 연막탄 (초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SMOKESHELL_RED_DM23">
 				<Original>Smoke Grenade DM23 (Red)</Original>
@@ -14667,6 +14742,7 @@
 				<German>Kaliber: 7,62x39 mm AP 7N23&lt;br /&gt;Patronen: 75&lt;br /&gt;Eingesetzt von: AK-47, RPK</German>
 				<Chinesesimp>口径: 7.62x39 mm AP 7N23&lt;br /&gt;子弹: 75&lt;br /&gt;用于: AK-47, RPK</Chinesesimp>
 				<Russian>Калибр: 7,62 x 39 мм AP 7N23&lt;br /&gt;Кол-во: 75&lt;br /&gt;Применение: AK-47, RPK</Russian>
+				<Korean>구경: 7.62x39 mm AP 7N23&lt;br /&gt;장탄수: 75&lt;br /&gt;사용가능: AK-47, RPK</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_45RND_545X39MM_B_7N6_AK74">
 				<Original>Caliber: 5.45x39 mm Ball 7N6&lt;br /&gt;Rounds: 45&lt;br /&gt;Used in: AK-74</Original>
@@ -15655,6 +15731,7 @@
 				<German>Kaliber: 40 mm HEAT PG-7V&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: RPG7</German>
 				<Chinesesimp>口径: 40 mm HEAT PG-7V&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: RPG7</Chinesesimp>
 				<Russian>Калибр: 40 мм HEAT PG-7V&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: RPG7</Russian>
+				<Korean>구경: 40mm HEAT PG-7V&lt;br /&gt;장탄수: 1&lt;br /&gt;사용가능: RPG7</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_40MM_HEAT_PG7VL_RPG7">
 				<Original>Caliber: 40 mm HEAT PG-7VL&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: RPG7</Original>
@@ -15757,6 +15834,7 @@
 				<English>Caliber: 66 mm HEAT M72A3&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M72A3</English>
 				<German>Kaliber: 66 mm HEAT M72A3&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M72A3</German>
 				<Chinesesimp>口径: 66 mm HEAT M72A3&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: M72A3</Chinesesimp>
+				<Korean>구경: 66mm HEAT M72A3&lt;br /&gt;장탄수: 1&lt;br /&gt;사용가능: M72A3</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_MILAN_HEAT_DM82">
 				<Original>HEAT DM82&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: LATGM</Original>
@@ -15909,6 +15987,7 @@
 				<English>Type: Smoke Grenade - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Rot&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
 				<Chinesesimp>Type: Smoke Grenade - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Korean>종류:  연막탄 - 빨강&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 직접</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_WHT">
 				<Original>Type: Smoke Grenade - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
@@ -15945,7 +16024,7 @@
 				<English>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Bei Kontakt&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Verlegen</German>
 				<Chinesesimp>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
-				<Korean>신관: 접촉식&lt;br /&gt;장탄수: 1&lt;br /&gt;사용가능: 지상</Korean>
+				<Korean>신관: 접촉식&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 지상</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_B">
 				<Original>B</Original>
@@ -15980,12 +16059,14 @@
 				<English>API</English>
 				<German>API</German>
 				<Chinesesimp>API</Chinesesimp>
+				<Korean>API</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_API_T">
 				<Original>API-T</Original>
 				<English>API-T</English>
 				<German>API-T</German>
 				<Chinesesimp>API-T</Chinesesimp>
+				<Korean>API-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APDS">
 				<Original>APDS</Original>
@@ -15999,54 +16080,63 @@
 				<English>APDS-T</English>
 				<German>APDS-T</German>
 				<Chinesesimp>脱壳穿甲弹-T</Chinesesimp>
+				<Korean>APDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APFSDS">
 				<Original>APFSDS</Original>
 				<English>APFSDS</English>
 				<German>APFSDS</German>
 				<Chinesesimp>尾翼稳定脱壳穿甲弹</Chinesesimp>
+				<Korean>APFSDS</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APFSDS_T">
 				<Original>APFSDS-T</Original>
 				<English>APFSDS-T</English>
 				<German>APFSDS-T</German>
 				<Chinesesimp>尾翼稳定脱壳穿甲弹-T</Chinesesimp>
+				<Korean>APFSDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAP">
 				<Original>HVAP</Original>
 				<English>HVAP</English>
 				<German>HVAP</German>
 				<Chinesesimp>高速穿甲弹</Chinesesimp>
+				<Korean>HVAP</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAP_T">
 				<Original>HVAP-T</Original>
 				<English>HVAP-T</English>
 				<German>HVAP-T</German>
 				<Chinesesimp>高速穿甲弹-T</Chinesesimp>
+				<Korean>HVAP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAPDS">
 				<Original>HVAPDS</Original>
 				<English>HVAPDS</English>
 				<German>HVAPDS</German>
 				<Chinesesimp>尾翼稳定高速穿甲弹</Chinesesimp>
+				<Korean>HVAPDS</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAPDS_T">
 				<Original>HVAPDS-T</Original>
 				<English>HVAPDS-T</English>
 				<German>HVAPDS-T</German>
 				<Chinesesimp>尾翼稳定高速穿甲弹-T</Chinesesimp>
+				<Korean>HVAPDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FAPDS">
 				<Original>FAPDS</Original>
 				<English>FAPDS</English>
 				<German>FAPDS</German>
 				<Chinesesimp>FAPDS</Chinesesimp>
+				<Korean>FAPDS</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FAPDS_T">
 				<Original>FAPDS-T</Original>
 				<English>FAPDS-T</English>
 				<German>FAPDS-T</German>
 				<Chinesesimp>FAPDS-T</Chinesesimp>
+				<Korean>FAPDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HE">
 				<Original>HE</Original>
@@ -16060,6 +16150,7 @@
 				<English>HE-T</English>
 				<German>HE-T</German>
 				<Chinesesimp>高爆弹-T</Chinesesimp>
+				<Korean>HE-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEI">
 				<Original>HEI</Original>
@@ -16146,18 +16237,21 @@
 				<English>Smoke (Orange)</English>
 				<German>Signal (Orange)</German>
 				<Chinesesimp>烟雾弹(橙色)</Chinesesimp>
+				<Korean>연막 (오렌지)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_SMOKE_VLT">
 				<Original>Smoke (Purple)</Original>
 				<English>Smoke (Purple)</English>
 				<German>Signal (Violett)</German>
 				<Chinesesimp>烟雾弹(紫色)</Chinesesimp>
+				<Korean>연막 (보라)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_SMOKE_YEL">
 				<Original>Smoke (Yellow)</Original>
 				<English>Smoke (Yellow)</English>
 				<German>Signal (Gelb)</German>
 				<Chinesesimp>烟雾弹(黄色)</Chinesesimp>
+				<Korean>연막 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_SMOKESHELL_GRN">
 				<Original>Smoke (Green)</Original>
@@ -16856,13 +16950,14 @@
 				<English>Steel Helmet M56 (Mesh)</English>
 				<German>Stahlhelm M56 (Netz)</German>
 				<Chinesesimp>M56型钢盔(网布)</Chinesesimp>
-				<Korean>M56 철모 (위장)</Korean>
+				<Korean>M56 철모 (그물망)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_HEADGEAR_M56_COVER_STR">
 				<Original>Steel Helmet M56 (Strichtarn)</Original>
 				<English>Steel Helmet M56 (Strichtarn)</English>
 				<German>Stahlhelm M56 (Strichtarn)</German>
 				<Chinesesimp>M56型钢盔(条纹迷彩)</Chinesesimp>
+				<Korean>M56 철모 (스트라히탄)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_HEADGEAR_M56_COVER_BLU">
 				<Original>Steel Helmet M56 (Blue)</Original>
@@ -16923,12 +17018,14 @@
 				<English>FJH Model 4</English>
 				<German>FJH Modell 4</German>
 				<Chinesesimp>FJH Model 4</Chinesesimp>
+				<Korean>FJH 4형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_HEADGEAR_FJH_MODEL4_WHT">
 				<Original>FJH Model 4 (White)</Original>
 				<English>FJH Model 4 (White)</English>
 				<German>FJH Modell 4 (Weiß)</German>
 				<Chinesesimp>FJH Model 4(白色)</Chinesesimp>
+				<Korean>FJH 4형 (흰색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_HEADGEAR_BERET_ORN">
 				<Original>Beret (Orange)</Original>
@@ -17067,6 +17164,7 @@
 				<English>Belt (East Germany)</English>
 				<German>Koppel (Ostdeutschland)</German>
 				<Chinesesimp>腰带(东德)</Chinesesimp>
+				<Korean>벨트 (동독)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_VEST_80_RIFLEMAN_STR">
 				<Original>Gear, Rifleman (Strichtarn)</Original>
@@ -17109,12 +17207,14 @@
 				<English>RPG Ammo Bag (Strichtarn)</English>
 				<German>Granatenträger (Strichtarn)</German>
 				<Chinesesimp>RPG弹药包(条纹迷彩)</Chinesesimp>
+				<Korean>RPG 탄약가방 (스트라히탄)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_BACKPACK_80_LMG_STR">
 				<Original>MG Ammo Bag (Strichtarn)</Original>
 				<English>MG Ammo Bag (Strichtarn)</English>
 				<German>MG-Magazinträger (Strichtarn)</German>
 				<Chinesesimp>MG弹药包(条纹迷彩)</Chinesesimp>
+				<Korean>기관총 탄약가방 (스트라히탄)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_BACKPACK_80_ASSAULTPACK_STR">
 				<Original>Assault Pack (Strichtarn)</Original>
@@ -17201,6 +17301,7 @@
 				<English>Generals</English>
 				<German>Generale</German>
 				<Chinesesimp>将军</Chinesesimp>
+				<Korean>장군</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_ARTILLERY">
 				<Original>Artillery</Original>
@@ -17716,6 +17817,7 @@
 				<English>Helmet M62 (Mesh)</English>
 				<German>Stahlhelm M62 (Netz)</German>
 				<Chinesesimp>M62型钢盔(网布)</Chinesesimp>
+				<Korean>M62 헬멧 (그물망)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_WIN_PAP_01">
 				<Original>Helmet M62 (Winter)</Original>
@@ -17729,6 +17831,7 @@
 				<English>Helmet M35/53</English>
 				<German>Stahlhelm M35/53</German>
 				<Chinesesimp>M35/53型钢盔</Chinesesimp>
+				<Korean>M35/53 헬멧</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_HEADGEAR_M35_53_BLK">
 				<Original>Helmet M35/53</Original>
@@ -17749,6 +17852,7 @@
 				<English>Helmet M35/53 (Mesh)</English>
 				<German>Stahlhelm M35/53 (Netz)</German>
 				<Chinesesimp>M35/53型钢盔(网布)</Chinesesimp>
+				<Korean>M35/53 헬멧 (그물망)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_FLK">
 				<Original>Helmet M92</Original>
@@ -17790,6 +17894,7 @@
 				<English>Helmet M92 (Winter, Goggles)</English>
 				<German>Gefechtshelm M92 (Winter, Brille)</German>
 				<Chinesesimp>M92型钢盔(冬季,眼镜)</Chinesesimp>
+				<Korean>M92 헬멧 (겨울, 고글)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_SPH4_BASE">
 				<Original>Helmet SPH-4</Original>
@@ -17878,6 +17983,7 @@
 				<English>Beret (Dark Blue)</English>
 				<German>Barett (Marineblau)</German>
 				<Chinesesimp>贝雷帽(深灰色)</Chinesesimp>
+				<Korean>베레모 (검파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_UN">
 				<Original>Beret (Cyan)</Original>
@@ -17891,21 +17997,21 @@
 				<English>Field Cap (5-Color)</English>
 				<German>Feldmütze (5-Farb)</German>
 				<Chinesesimp>野战帽(五色)</Chinesesimp>
-				<Korean>군모 (5색)</Korean>
+				<Korean>야전모 (5색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_90_TRP">
 				<Original>Field Cap (3-Color)</Original>
 				<English>Field Cap (3-Color)</English>
 				<German>Feldmütze (3-Farb)</German>
 				<Chinesesimp>野战帽(三色)</Chinesesimp>
-				<Korean>군모 (3색)</Korean>
+				<Korean>야전모 (3색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_80_OLI">
 				<Original>Field Cap (Olive)</Original>
 				<English>Field Cap (Olive)</English>
 				<German>Feldmütze (Oliv)</German>
 				<Chinesesimp>野战帽(橄榄绿)</Chinesesimp>
-				<Korean>군모 (올리브)</Korean>
+				<Korean>야전모 (올리브)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_80_OLI_M62">
 				<Original>Field Cap (Olive w/ M62)</Original>
@@ -17918,19 +18024,21 @@
 				<English>Field Cap (5-Color w/ M92)</English>
 				<German>Feldmütze (5-Farb mit M92)</German>
 				<Chinesesimp>野战帽(五色,M92)</Chinesesimp>
+				<Korean>야전모 (5색 w/M92)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_90_TRP_M92">
 				<Original>Field Cap (3-Color w/ M92)</Original>
 				<English>Field Cap (3-Color w/ M92)</English>
 				<German>Feldmütze (3-Farb mit M92)</German>
 				<Chinesesimp>野战帽(三色,M92)</Chinesesimp>
+				<Korean>야전모 (3색 w/M92)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_80_GRY">
 				<Original>Field Cap (Gray)</Original>
 				<English>Field Cap (Gray)</English>
 				<German>Feldmütze (Grau)</German>
 				<Chinesesimp>野战帽(灰色)</Chinesesimp>
-				<Korean>군모 (회색)</Korean>
+				<Korean>야전모 (회색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_OLI">
 				<Original>Boonie Hat (Olive)</Original>
@@ -17951,18 +18059,21 @@
 				<English>Boonie Hat (M/84)</English>
 				<German>Dschungelhut (M/84)</German>
 				<Chinesesimp>丛林帽(M/84)</Chinesesimp>
+				<Korean>부니햇 (M/84)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_FLK">
 				<Original>Boonie Hat (5-Color)</Original>
 				<English>Boonie Hat (5-Color)</English>
 				<German>Dschungelhut (5-Farb)</German>
 				<Chinesesimp>丛林帽(五色)</Chinesesimp>
+				<Korean>부니햇 (5색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_TRP">
 				<Original>Boonie Hat (3-Color)</Original>
 				<English>Boonie Hat (3-Color)</English>
 				<German>Dschungelhut (3-Farb)</German>
 				<Chinesesimp>丛林帽(三色)</Chinesesimp>
+				<Korean>부니햇 (3색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BEANIE_BLK">
 				<Original>Wool Hat (Black)</Original>
@@ -17975,6 +18086,7 @@
 				<English>Winter Hat</English>
 				<German>Wintermütze</German>
 				<Chinesesimp>冬季毛线帽</Chinesesimp>
+				<Korean>겨울용 모자</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HEADSET_CREW_OLI">
 				<Original>Crew Headset</Original>
@@ -17995,6 +18107,7 @@
 				<English>Hat</English>
 				<German>Mütze, Stoff, Weich</German>
 				<Chinesesimp>帽子</Chinesesimp>
+				<Korean>모자</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_HEADGEAR_M62">
 				<Original>Helmet</Original>
@@ -18150,18 +18263,21 @@
 				<English>Beret (Signals)</English>
 				<German>Barett (Fernmeldetruppe)</German>
 				<Chinesesimp>贝雷帽(信号)</Chinesesimp>
+				<Korean>베레모 (통신)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_SUPPLY">
 				<Original>Beret (Supply)</Original>
 				<English>Beret (Supply)</English>
 				<German>Barett (Nachschubtruppe)</German>
 				<Chinesesimp>贝雷帽(补给)</Chinesesimp>
+				<Korean>베레모 (보급)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLU_MEDICAL">
 				<Original>Beret (Medical)</Original>
 				<English>Beret (Medical)</English>
 				<German>Barett (Sanitätstruppe)</German>
 				<Chinesesimp>贝雷帽(医疗)</Chinesesimp>
+				<Korean>베레모 (의무)</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_HEADGEAR_HEADSET_CREW_BASE">
 				<Original>Headset</Original>
@@ -18284,12 +18400,14 @@
 				<English>Crew Headset (MilitaryPolice)</English>
 				<German>Sprechsatz (Feldjäger)</German>
 				<Chinesesimp>乘员耳机(宪兵)</Chinesesimp>
+				<Korean>승무원 헤드셋 (헌병)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_NBC">
 				<Original>Crew Headset (NBC)</Original>
 				<English>Crew Headset (NBC)</English>
 				<German>Sprechsatz (ABC-Abwehrtruppe)</German>
 				<Chinesesimp>乘员耳机(生化)</Chinesesimp>
+				<Korean>승무원 헤드셋 (NBC)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_OPCOM">
 				<Original>Crew Headset (OperativeCommunications)</Original>
@@ -18320,6 +18438,7 @@
 				<English>Tank Suit (Olive)</English>
 				<German>Panzerkombination (Oliv)</German>
 				<Chinesesimp>坦克服(橄榄绿)</Chinesesimp>
+				<Korean>전차복 (올리브)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_CREW_90_FLK">
 				<Original>Tank Suit (5-Color)</Original>
@@ -18388,6 +18507,7 @@
 				<English>Combat Suit (T-Shirt)</English>
 				<German>Kampfanzug (T-Shirt)</German>
 				<Chinesesimp>作战服(T恤)</Chinesesimp>
+				<Korean>전투복 (티셔츠)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_TSHIRT_90_TRP">
 				<Original>Combat Suit (3-Color, T-Shirt)</Original>
@@ -18406,6 +18526,7 @@
 				<English>Combat Suit (3-Color)</English>
 				<German>Kampfanzug (3-Farb)</German>
 				<Chinesesimp>作战服(三色)</Chinesesimp>
+				<Korean>전투복 (3색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_ROLLED_90_FLK">
 				<Original>Combat Suit (Rolled)</Original>
@@ -18502,12 +18623,14 @@
 				<English>Patrol Uniform Police</English>
 				<German>Wachdienstuniform Polizei</German>
 				<Chinesesimp>警用巡逻服</Chinesesimp>
+				<Korean>경찰 순찰복</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_DBP_UNIFORM_SUIT_80_BLU">
 				<Original>Uniform Mailman</Original>
 				<English>Uniform Mailman</English>
 				<German>Briefträgeruniform</German>
 				<Chinesesimp>邮差服</Chinesesimp>
+				<Korean>우체부복</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_UNIFORM_SOLDIER_80_SMP">
 				<Original>Battle Suit Borderguards</Original>
@@ -18520,12 +18643,14 @@
 				<English>Firefighter Suit</English>
 				<German>Feuerwehranzug</German>
 				<Chinesesimp>消防员服</Chinesesimp>
+				<Korean>소방대복</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_HEADGEAR_CAP_80_GRN">
 				<Original>Police Cap (Green)</Original>
 				<English>Police Cap (Green)</English>
 				<German>Polizeimütze (Grün)</German>
 				<Chinesesimp>警帽(绿色)</Chinesesimp>
+				<Korean>경찰모 (초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_HEADGEAR_CAP_80_WHT">
 				<Original>Police Cap (White)</Original>
@@ -18539,6 +18664,7 @@
 				<English>Postman Cap</English>
 				<German>Briefträgermütze</German>
 				<Chinesesimp>邮差帽</Chinesesimp>
+				<Korean>우체부 모자</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_OFFICER_80_GRN">
 				<Original>Police Officer</Original>
@@ -18639,6 +18765,7 @@
 				<English>Flak Vest</English>
 				<German>SpliSchu</German>
 				<Chinesesimp>防弹背心</Chinesesimp>
+				<Korean>방탄복</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_CREW_FLK">
 				<Original>Flak Vest, Crew</Original>
@@ -18675,6 +18802,7 @@
 				<English>Flak Vest, Demolition</English>
 				<German>SpliSchu, Zündmaschine</German>
 				<Chinesesimp>防弹背心(爆破)</Chinesesimp>
+				<Korean>방탄복 (폭파병)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_MEDIC_FLK">
 				<Original>Flak Vest, Medic</Original>
@@ -18753,6 +18881,7 @@
 				<English>Infantry Backpack (Olive)</English>
 				<German>Jägerrucksack, (Oliv)</German>
 				<Chinesesimp>步兵背包(橄榄绿)</Chinesesimp>
+				<Korean>보병 백팩 (올리브)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BACKPACK_SATCHEL_80_BLK">
 				<Original>Satchel (Black)</Original>
@@ -18771,6 +18900,7 @@
 				<English>Combat Backpack</English>
 				<German>Kampfrucksack</German>
 				<Chinesesimp>战斗背包</Chinesesimp>
+				<Korean>전투 백팩</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BACKPACK_90_TRP">
 				<Original>Combat Backpack (3-Color)</Original>
@@ -18982,6 +19112,7 @@
 				<English>AO</English>
 				<German>AO</German>
 				<Chinesesimp>任务区</Chinesesimp>
+				<Korean>AO</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_BVW">
 				<Original>BvW</Original>
@@ -19023,6 +19154,7 @@
 				<English>Commanding</English>
 				<German>Leitender</German>
 				<Chinesesimp>指挥</Chinesesimp>
+				<Korean>명령중</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_MP">
 				<Original>MP</Original>
@@ -19056,6 +19188,7 @@
 				<English>Red</English>
 				<German>Rot</German>
 				<Chinesesimp>红</Chinesesimp>
+				<Korean>빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_SAN">
 				<Original>Medic</Original>
@@ -19075,12 +19208,14 @@
 				<English>Patrol</English>
 				<German>Streife</German>
 				<Chinesesimp>巡逻</Chinesesimp>
+				<Korean>순찰</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_TRANSPORT">
 				<Original>Transport</Original>
 				<English>Transport</English>
 				<German>Transport</German>
 				<Chinesesimp>运输</Chinesesimp>
+				<Korean>운송</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_UU">
 				<Original>Accident Investigation</Original>
@@ -19100,6 +19235,7 @@
 				<English>Guard</English>
 				<German>Wache</German>
 				<Chinesesimp>警卫</Chinesesimp>
+				<Korean>경비대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_WHITE">
 				<Original>White</Original>
@@ -19371,6 +19507,7 @@
 				<English>Combat Uniform M/84</English>
 				<German>Kampfuniform M/84</German>
 				<Chinesesimp>M/84型作战服</Chinesesimp>
+				<Korean>M/84 전투복</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_UNIFORM_SOLDIER_84_WIN">
 				<Original>Combat Uniform M/84 (Winter)</Original>
@@ -19408,6 +19545,7 @@
 				<English>Army Backpack</English>
 				<German>Armeerucksack</German>
 				<Chinesesimp>军用背包</Chinesesimp>
+				<Korean>군용 백팩</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_UNIFORM_SOLDIER_80_STR">
 				<Original>Field Service Suit</Original>
@@ -19434,6 +19572,7 @@
 				<English>Belt</English>
 				<German>Gürtel</German>
 				<Chinesesimp>腰带</Chinesesimp>
+				<Korean>벨트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_M84_MACHINEGUNNER">
 				<Original>Frag Vest, Machinegunner M/00</Original>
@@ -19470,12 +19609,14 @@
 				<English>Frag Vest, Rifleman M/00 (Winter)</English>
 				<German>Schutzweste, Soldat M/00 (Winter)</German>
 				<Chinesesimp>M/00型防护背心(步枪兵,冬季)</Chinesesimp>
+				<Korean>M/00 소총수 수류탄조끼 (겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_WIN">
 				<Original>Frag Vest M/00 (Winter)</Original>
 				<English>Frag Vest M/00 (Winter)</English>
 				<German>Schutzweste M/00 (Winter)</German>
-				<ChinesesimpM/00型防护背心(冬季)></Chinesesimp>
+				<Chinesesimp>M/00型防护背心(冬季)</Chinesesimp>
+				<Korean>M/00 수류탄조끼 (겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_BLU">
 				<Original>Frag Vest M/00 (Blue)</Original>
@@ -19488,6 +19629,7 @@
 				<English>Frag Vest M/00 (Woodland)</English>
 				<German>Schutzweste M/00 (Woodland)</German>
 				<Chinesesimp>M/00型防护背心(林地)</Chinesesimp>
+				<Korean>M/00 수류탄조끼 (우드랜드)</Korean>
 			</Key>
 		</Container>
 		<Container name="gm_pl_characters">
@@ -19510,6 +19652,7 @@
 				<English>Helmet wz.67 (Mesh)</English>
 				<German>Stahlhelm wz.67 (Netz)</German>
 				<Chinesesimp>wz.67型头盔(网布)</Chinesesimp>
+				<Korean>wz.67 헬멧 (그물망)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_WZ67_COVER_WIN">
 				<Original>Helmet wz.67 (Winter)</Original>
@@ -19530,18 +19673,21 @@
 				<English>Helmet wz.63</English>
 				<German>Stahlhelm wz.63</German>
 				<Chinesesimp>wz.63型头盔</Chinesesimp>
+				<Korean>wz.63 헬멧</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_WZ63_NET_OLI">
 				<Original>Helmet wz.63 (Mesh)</Original>
 				<English>Helmet wz.63 (Mesh)</English>
 				<German>Stahlhelm wz.63 (Netz)</German>
 				<Chinesesimp>wz.63型头盔(网布)</Chinesesimp>
+				<Korean>wz.63 헬멧 (그물망)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_UNIFORM_SOLDIER_80_MORO">
 				<Original>Field Uniform wz.4652</Original>
 				<English>Field Uniform wz.4652</English>
 				<German>Felduniform wz.4652</German>
 				<Chinesesimp>wz.4652型野战服</Chinesesimp>
+				<Korean>wz.4652 야전복</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_UNIFORM_SOLDIER_ROLLED_80_MORO">
 				<Original>Field Uniform wz.4652 (Rolled)</Original>
@@ -19566,13 +19712,14 @@
 				<English>Field Cap</English>
 				<German>Feldmütze</German>
 				<Chinesesimp>野战帽</Chinesesimp>
-				<Korean>군모</Korean>
+				<Korean>야전모</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_CAP_80_MORO">
 				<Original>Field Cap wz.0443</Original>
 				<English>Field Cap wz.0443</English>
 				<German>Feldmütze wz.0443</German>
 				<Chinesesimp>wz.0443 野战帽</Chinesesimp>
+				<Korean>wz.0443 야전모</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_BERET_BLK">
 				<Original>Beret (Polish, Black)</Original>
@@ -19586,12 +19733,14 @@
 				<English>Beret (Polish, Blue)</English>
 				<German>Barett (Polnisch, Blau)</German>
 				<Chinesesimp>贝雷帽((波兰,蓝)</Chinesesimp>
+				<Korean>베레모 (폴란드, 파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_BERET_BDX">
 				<Original>Beret (Polish, Red)</Original>
 				<English>Beret (Polish, Red)</English>
 				<German>Barett (Polnisch, Rot)</German>
 				<Chinesesimp>贝雷帽(波兰,红)</Chinesesimp>
+				<Korean>베레모 (폴란드, 빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_RIG_GRY">
 				<Original>Tactical Suspenders</Original>
@@ -19695,6 +19844,7 @@
 				<English>Kostka</English>
 				<German>Kostka</German>
 				<Chinesesimp>Kostka</Chinesesimp>
+				<Korean>코스트카</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_OLI">
 				<Original>Combat Helmet M/96</Original>
@@ -19727,12 +19877,14 @@
 				<English>Combat Helmet M/96 (Woodland)</English>
 				<German>Gefechtshelm M/96 (Woodland)</German>
 				<Chinesesimp>M/96型战斗头盔(林地)</Chinesesimp>
+				<Korean>M/96 전투헬멧 (우드랜드)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_COVER_WHT">
 				<Original>Combat Helmet M/96 (Winter)</Original>
 				<English>Combat Helmet M/96 (Winter)</English>
 				<German>Gefechtshelm M/96 (Winter)</German>
 				<Chinesesimp>M/96型战斗头盔(冬季)</Chinesesimp>
+				<Korean>M/96 전투헬멧 (겨울)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_01_CAMO_01">
 				<Original>(Camo) Bayh</Original>
@@ -19934,6 +20086,7 @@
 				<German>Andreas</German>
 				<Chinesesimp>Andreas</Chinesesimp>
 				<Russian>Andreas</Russian>
+				<Korean>안드레아스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ARMIN">
 				<Original>Armin</Original>
@@ -19941,6 +20094,7 @@
 				<German>Armin</German>
 				<Chinesesimp>Armin</Chinesesimp>
 				<Russian>Armin</Russian>
+				<Korean>아르민</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ARNDT">
 				<Original>Arndt</Original>
@@ -19948,6 +20102,7 @@
 				<German>Arndt</German>
 				<Chinesesimp>Arndt</Chinesesimp>
 				<Russian>Arndt</Russian>
+				<Korean>아른트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_AXEL">
 				<Original>Axel</Original>
@@ -19955,6 +20110,7 @@
 				<German>Axel</German>
 				<Chinesesimp>Axel</Chinesesimp>
 				<Russian>Axel</Russian>
+				<Korean>악셀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ACHIM">
 				<Original>Achim</Original>
@@ -19962,6 +20118,7 @@
 				<German>Achim</German>
 				<Chinesesimp>Achim</Chinesesimp>
 				<Russian>Achim</Russian>
+				<Korean>아힘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BENJAMIN">
 				<Original>Benjamin</Original>
@@ -19969,6 +20126,7 @@
 				<German>Benjamin</German>
 				<Chinesesimp>Benjamin</Chinesesimp>
 				<Russian>Benjamin</Russian>
+				<Korean>베냐민</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERND">
 				<Original>Bernd</Original>
@@ -19976,6 +20134,7 @@
 				<German>Bernd</German>
 				<Chinesesimp>Bernd</Chinesesimp>
 				<Russian>Bernd</Russian>
+				<Korean>베른트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERNHARD">
 				<Original>Bernhard</Original>
@@ -19983,6 +20142,7 @@
 				<German>Bernhard</German>
 				<Chinesesimp>Bernhard</Chinesesimp>
 				<Russian>Bernhard</Russian>
+				<Korean>베른하르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BJOERN">
 				<Original>Björn</Original>
@@ -19990,6 +20150,7 @@
 				<German>Björn</German>
 				<Chinesesimp>Björn</Chinesesimp>
 				<Russian>Björn</Russian>
+				<Korean>비에른</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BORIS">
 				<Original>Boris</Original>
@@ -20005,6 +20166,7 @@
 				<German>Carsten</German>
 				<Chinesesimp>Carsten</Chinesesimp>
 				<Russian>Carsten</Russian>
+				<Korean>카르스텐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTIAN">
 				<Original>Christian</Original>
@@ -20012,6 +20174,7 @@
 				<German>Christian</German>
 				<Chinesesimp>Christian</Chinesesimp>
 				<Russian>Christian</Russian>
+				<Korean>크리스티안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTOPH">
 				<Original>Christoph</Original>
@@ -20019,6 +20182,7 @@
 				<German>Christoph</German>
 				<Chinesesimp>Christoph</Chinesesimp>
 				<Russian>Christoph</Russian>
+				<Korean>크리스토프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTOPHER">
 				<Original>Christopher</Original>
@@ -20026,6 +20190,7 @@
 				<German>Christopher</German>
 				<Chinesesimp>Christopher</Chinesesimp>
 				<Russian>Christopher</Russian>
+				<Korean>크리스토퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DANIEL">
 				<Original>Daniel</Original>
@@ -20089,6 +20254,7 @@
 				<German>Fabian</German>
 				<Chinesesimp>Fabian</Chinesesimp>
 				<Russian>Fabian</Russian>
+				<Korean>파비안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FELIX">
 				<Original>Felix</Original>
@@ -20096,6 +20262,7 @@
 				<German>Felix</German>
 				<Chinesesimp>Felix</Chinesesimp>
 				<Russian>Felix</Russian>
+				<Korean>펠릭스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FRANK">
 				<Original>Frank</Original>
@@ -20111,6 +20278,7 @@
 				<German>Gerhard</German>
 				<Chinesesimp>Gerhard</Chinesesimp>
 				<Russian>Gerhard</Russian>
+				<Korean>게르하르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GUENTER">
 				<Original>Günter</Original>
@@ -20118,6 +20286,7 @@
 				<German>Günter</German>
 				<Chinesesimp>Günter</Chinesesimp>
 				<Russian>Günter</Russian>
+				<Korean>귄터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEIKO">
 				<Original>Heiko</Original>
@@ -20125,6 +20294,7 @@
 				<German>Heiko</German>
 				<Chinesesimp>Heiko</Chinesesimp>
 				<Russian>Heiko</Russian>
+				<Korean>하이코</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINZ">
 				<Original>Heinz</Original>
@@ -20140,6 +20310,7 @@
 				<German>Horst</German>
 				<Chinesesimp>Horst</Chinesesimp>
 				<Russian>Horst</Russian>
+				<Korean>호르스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JAN">
 				<Original>Jan</Original>
@@ -20147,6 +20318,7 @@
 				<German>Jan</German>
 				<Chinesesimp>Jan</Chinesesimp>
 				<Russian>Jan</Russian>
+				<Korean>얀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JOERG">
 				<Original>Jörg</Original>
@@ -20170,6 +20342,7 @@
 				<German>Julian</German>
 				<Chinesesimp>Julian</Chinesesimp>
 				<Russian>Julian</Russian>
+				<Korean>율리안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JUERGEN">
 				<Original>Jürgen</Original>
@@ -20177,6 +20350,7 @@
 				<German>Jürgen</German>
 				<Chinesesimp>Jürgen</Chinesesimp>
 				<Russian>Jürgen</Russian>
+				<Korean>위르겐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KARL">
 				<Original>Karl</Original>
@@ -20192,6 +20366,7 @@
 				<German>Karsten</German>
 				<Chinesesimp>Karsten</Chinesesimp>
 				<Russian>Karsten</Russian>
+				<Korean>칼스텐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KEVIN">
 				<Original>Kevin</Original>
@@ -20207,6 +20382,7 @@
 				<German>Lars</German>
 				<Chinesesimp>Lars</Chinesesimp>
 				<Russian>Lars</Russian>
+				<Korean>라르스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LUKAS">
 				<Original>Lukas</Original>
@@ -20222,6 +20398,7 @@
 				<German>Marc</German>
 				<Chinesesimp>Marc</Chinesesimp>
 				<Russian>Marc</Russian>
+				<Korean>마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARCEL">
 				<Original>Marcel</Original>
@@ -20229,6 +20406,7 @@
 				<German>Marcel</German>
 				<Chinesesimp>Marcel</Chinesesimp>
 				<Russian>Marcel</Russian>
+				<Korean>마르첼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARCO">
 				<Original>Marco</Original>
@@ -20252,6 +20430,7 @@
 				<German>Markus</German>
 				<Chinesesimp>Markus</Chinesesimp>
 				<Russian>Markus</Russian>
+				<Korean>마르쿠스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARTIN">
 				<Original>Martin</Original>
@@ -20267,6 +20446,7 @@
 				<German>Mattias</German>
 				<Chinesesimp>Mattias</Chinesesimp>
 				<Russian>Mattias</Russian>
+				<Korean>마티아스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MICHAEL">
 				<Original>Michael</Original>
@@ -20338,6 +20518,7 @@
 				<German>Roland</German>
 				<Chinesesimp>Roland</Chinesesimp>
 				<Russian>Roland</Russian>
+				<Korean>롤랜드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROMAN">
 				<Original>Roman</Original>
@@ -20345,6 +20526,7 @@
 				<German>Roman</German>
 				<Chinesesimp>Roman</Chinesesimp>
 				<Russian>Roman</Russian>
+				<Korean>로만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SASCHA">
 				<Original>Sascha</Original>
@@ -20352,6 +20534,7 @@
 				<German>Sascha</German>
 				<Chinesesimp>Sascha</Chinesesimp>
 				<Russian>Sascha</Russian>
+				<Korean>자샤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SEBASTIAN">
 				<Original>Sebastian</Original>
@@ -20359,6 +20542,7 @@
 				<German>Sebastian</German>
 				<Chinesesimp>Sebastian</Chinesesimp>
 				<Russian>Sebastian</Russian>
+				<Korean>제바스티안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SIMON">
 				<Original>Simon</Original>
@@ -20366,7 +20550,7 @@
 				<German>Simon</German>
 				<Chinesesimp>Simon</Chinesesimp>
 				<Russian>Simon</Russian>
-				<Korean>시몬</Korean>
+				<Korean>지몬</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEFAN">
 				<Original>Stefan</Original>
@@ -20374,7 +20558,7 @@
 				<German>Stefan</German>
 				<Chinesesimp>Stefan</Chinesesimp>
 				<Russian>Stefan</Russian>
-				<Korean>스테판</Korean>
+				<Korean>슈테판</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEFFEN">
 				<Original>Steffen</Original>
@@ -20382,6 +20566,7 @@
 				<German>Steffen</German>
 				<Chinesesimp>Steffen</Chinesesimp>
 				<Russian>Steffen</Russian>
+				<Korean>슈테펜</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SVEN">
 				<Original>Sven</Original>
@@ -20389,6 +20574,7 @@
 				<German>Sven</German>
 				<Chinesesimp>Sven</Chinesesimp>
 				<Russian>Sven</Russian>
+				<Korean>스벤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THOMAS">
 				<Original>Thomas</Original>
@@ -20412,6 +20598,7 @@
 				<German>Tim</German>
 				<Chinesesimp>Tim</Chinesesimp>
 				<Russian>Tim</Russian>
+				<Korean>팀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TIMO">
 				<Original>Timo</Original>
@@ -20419,6 +20606,7 @@
 				<German>Timo</German>
 				<Chinesesimp>Timo</Chinesesimp>
 				<Russian>Timo</Russian>
+				<Korean>티모</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TOBIAS">
 				<Original>Tobias</Original>
@@ -20426,6 +20614,7 @@
 				<German>Tobias</German>
 				<Chinesesimp>Tobias</Chinesesimp>
 				<Russian>Tobias</Russian>
+				<Korean>토비아스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TORSTEN">
 				<Original>Torsten</Original>
@@ -20433,6 +20622,7 @@
 				<German>Torsten</German>
 				<Chinesesimp>Torsten</Chinesesimp>
 				<Russian>Torsten</Russian>
+				<Korean>토르스텐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ULI">
 				<Original>Uli</Original>
@@ -20440,6 +20630,7 @@
 				<German>Uli</German>
 				<Chinesesimp>Uli</Chinesesimp>
 				<Russian>Uli</Russian>
+				<Korean>울리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ULF">
 				<Original>Ulf</Original>
@@ -20447,6 +20638,7 @@
 				<German>Ulf</German>
 				<Chinesesimp>Ulf</Chinesesimp>
 				<Russian>Ulf</Russian>
+				<Korean>울프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ULRICH">
 				<Original>Ulrich</Original>
@@ -20555,6 +20747,7 @@
 				<German>Birkenhoff</German>
 				<Chinesesimp>Birkenhoff</Chinesesimp>
 				<Russian>Birkenhoff</Russian>
+				<Korean>브리켄호프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BODENHEIMER">
 				<Original>Bodenheimer</Original>
@@ -20590,6 +20783,7 @@
 				<German>Brandt</German>
 				<Chinesesimp>Brandt</Chinesesimp>
 				<Russian>Brandt</Russian>
+				<Korean>브란트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BRAUN">
 				<Original>Braun</Original>
@@ -20773,6 +20967,7 @@
 				<German>Heide</German>
 				<Chinesesimp>Heide</Chinesesimp>
 				<Russian>Heide</Russian>
+				<Korean>하이데</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINKE">
 				<Original>Heinke</Original>
@@ -21266,7 +21461,7 @@
 				<German>Prinz</German>
 				<Chinesesimp>Prinz</Chinesesimp>
 				<Russian>Prinz</Russian>
-				<Korean>프린스</Korean>
+				<Korean>프린츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PRUUST">
 				<Original>Pruust</Original>
@@ -21450,6 +21645,7 @@
 				<German>Schmitz</German>
 				<Chinesesimp>Schmitz</Chinesesimp>
 				<Russian>Schmitz</Russian>
+				<Korean>슈바르츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUETTE">
 				<Original>Schütte</Original>
@@ -21640,6 +21836,7 @@
 				<German>Weber</German>
 				<Chinesesimp>Weber</Chinesesimp>
 				<Russian>Weber</Russian>
+				<Korean>베버.</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WEIGEL">
 				<Original>Weigel</Original>
@@ -21668,6 +21865,7 @@
 				<German>Welter</German>
 				<Chinesesimp>Welter</Chinesesimp>
 				<Russian>Welter</Russian>
+				<Korean>발터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WENDT">
 				<Original>Wendt</Original>
@@ -22329,6 +22527,7 @@
 				<German>Madsen</German>
 				<Chinesesimp>Madsen</Chinesesimp>
 				<Russian>Madsen</Russian>
+				<Korean>마드센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NIELSEN">
 				<Original>Nielsen</Original>
@@ -22764,6 +22963,7 @@
 				<German>Jungs, voraus liegt Klein Sisbeck. Es schaut ruhig aus. Dann schauen wir mal wen wir dort finden.</German>
 				<Chinesesimp>伙计们，前面就是Klein Sisbeck。看起来很安静。让我们去看看能发现些什么。</Chinesesimp>
 				<Chinese>伙計們，前面就是Klein Sisbeck。看起來很安靜。讓我們去看看能發現些什麼。</Chinese>
+				<Korean>분대, 우린 클라인 지스벡으로 간다. 겉보기엔 조용하니 무엇이 있는지 찾아본다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_002A">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -22840,7 +23040,7 @@
 				<German>Gross Sisbeck... Klein Sisbeck. Gross Twülpstedt... Klein Twülpstedt...</German>
 				<Chinesesimp>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinesesimp>
 				<Chinese>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinese>
-				<korean>그로스 지스벡... 클라인 지스벡. 그로스 트봘프슈테트... 클라인 트봘프슈테트...</korean>
+				<korean>그로스 지스벡... 클라인 지스벡. 그로스 트발프슈테트... 클라인 트발프슈테트...</korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_010">
 				<Original>And its so damn flat here. Flatter than Heiner's girlfriend.</Original>
@@ -22884,6 +23084,7 @@
 				<German>Hier HAMMER, Gross Sisbeck eingenommen. Bewegen uns nun Richtung Querenhorst. Kommen.</German>
 				<Chinesesimp>这里是HAMMER，Gross Sisbeck已经安全。继续前往Querenhorst。完毕。</Chinesesimp>
 				<Chinese>這裡是HAMMER，Gross Sisbeck已經安全。繼續前往Querenhorst。完畢。</Chinese>
+				<Korean>여기는 HAMMER, 그로스 지스벡은 문제없다. 계속해서 퀴렌호스트로 가겠다. 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_015A">
 				<Original>This is WESPE, understood. Out.</Original>
@@ -22912,6 +23113,7 @@
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
+				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017B">
 				<Original>This is WESPE. Over.</Original>
@@ -22919,6 +23121,7 @@
 				<German>Hier WESPE, Kommen.</German>
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，完畢。</Chinese>
+				<Korean>여기는 WESPE. 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017C">
 				<Original>This is HAMMER. We are ready to move in. Over.</Original>
@@ -22926,6 +23129,7 @@
 				<German>Hier HAMMER. Bereit zum vorrücken. Kommen.</German>
 				<Chinesesimp>WESPE，我们准备向前移动，完毕。</Chinesesimp>
 				<Chinese>WESPE，我們準備向前移動，完畢。</Chinese>
+				<Korean>여기는 HAMMER. 우리는 이동할 준비가 되었다. 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_018">
 				<Original>This is WESPE. Understood. Continue into Querenhorst. Out.</Original>
@@ -22933,6 +23137,7 @@
 				<German>Hier WESPE. Verstanden. Stoßen Sie weiter nach Querenhorst vor. Ende.</German>
 				<Chinesesimp>这里是WESPE，收到。继续进入Querenhorst，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，收到。繼續進入Querenhorst，完畢。</Chinese>
+				<Korean>여기는 WESPE. 알겠다. 계속해서 퀴렌호스트로 가라. 이상.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_019">
 				<Original>We have entered the forest. So watch your fire!</Original>
@@ -22947,6 +23152,7 @@
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
+				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020B">
 				<Original>This is WESPE. Over.</Original>
@@ -22982,6 +23188,7 @@
 				<German>WESPE, Hier HAMMER, kommen.</German>
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
+				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023B">
 				<Original>This is WESPE. Over.</Original>
@@ -23010,7 +23217,7 @@
 				<German>Scheiße, Peters ist gefallen. Klemmer, übernehmen Sie seine Panzerfaust.</German>
 				<Chinesesimp>该死，Peters倒地，Klemmer，接手他的AT武器。</Chinesesimp>
 				<Chinese>該死，Peters倒地，Klemmer，接手他的AT武器。</Chinese>
-				<Korean>젠장, 페터가 죽었다. 클레머, 페터의 대전차 무기를 사용해.</Korean>
+				<Korean>젠장, 페터스가 죽었다. 클레머, 페터의 대전차 무기를 사용해.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TITLE">
 				<Original>All Cats Are Grey by Night</Original>
@@ -23062,6 +23269,7 @@
 				<German>Brücke Halten</German>
 				<Chinesesimp>守住大桥</Chinesesimp>
 				<Chinese>守住大橋</Chinese>
+				<Korean>다리 사수하기</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_03_TEXT">
 				<Original>Hold the bridge to allow friendly units to cross it.</Original>
@@ -23083,6 +23291,7 @@
 				<German>Einzelauftrag</German>
 				<Chinesesimp>任务</Chinesesimp>
 				<Chinese>任務</Chinese>
+				<Korean>임무</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_03">
 				<Original>Secure the advance of a mechanized infantry platoon from Rümmer to Gross Twülpstedt, then take Gross Twülpstedt.</Original>
@@ -23097,6 +23306,7 @@
 				<German>Hier Zwischenziel 1.</German>
 				<Chinesesimp>这是1号集合点。</Chinesesimp>
 				<Chinese>這是1號集合點。</Chinese>
+				<Korean>여기가 집결지점1이다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_05">
 				<Original>Secure bridgeheads south of Bahrdorf.</Original>
@@ -23132,6 +23342,7 @@
 				<German>Panzergrenadiere Los</German>
 				<Chinesesimp>向步兵发送信号</Chinesesimp>
 				<Chinese>向步兵發送信號</Chinese>
+				<Korean>보병대에 통신하기</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_001">
 				<Original>The task is clear and the enemy lies ahead. Move out!</Original>
@@ -23407,7 +23618,7 @@
 				<English>Fire in the hole!</English>
 				<German>Lunte brennt!</German>
 				<Chinesesimp>准备起爆！</Chinesesimp>
-				<Korean>수류탄 투척!</Korean>
+				<Korean>폭발한다!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_R_001">
 				<Original>No dilly-dally. The others are already waiting for us at the main road.</Original>
@@ -24130,6 +24341,7 @@
 				<English>This is WESPE. Wait. Out.</English>
 				<German>Hier WESPE, Warten Sie. Ende.</German>
 				<Chinesesimp>这里是WESPE。待命，完毕。</Chinesesimp>
+				<Korean>여기는 WESPE. 기달려라. 이상.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_007H">
 				<Original>Your butt is going to prison, man.</Original>
@@ -24154,6 +24366,7 @@
 				<English>This is SEMMEL. Over.</English>
 				<German>Hier SEMMEL. Kommen.</German>
 				<Chinesesimp>这里是SEMMEL，完毕。</Chinesesimp>
+				<Korean>여기는 SEMMEL. 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_007L">
 				<Original>This is WESPE. Continue the battle towards Ribbensdorf in the GDR. Over.</Original>
@@ -24178,6 +24391,7 @@
 				<English>Shit, that's incoming artillery!</English>
 				<German>Scheiße, das ist Feindartillerie!</German>
 				<Chinesesimp>该死，炮火来袭！</Chinesesimp>
+				<Korean>젠장! 포격 날아온다!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_009B">
 				<Original>WESPE, this is SEMMEL. Over.</Original>
@@ -24215,6 +24429,7 @@
 				<English>Enter Weferlingen</English>
 				<German>Weferlingen Einnehmen</German>
 				<Chinesesimp>进入韦弗林根</Chinesesimp>
+				<Korean>벨페르링겐 입성</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_TASK_01_TEXT">
 				<Original>Enter Weferlingen and pursue the enemy forces.</Original>
@@ -24240,6 +24455,7 @@
 				<English>Take LATGM</English>
 				<German>LPALR Nehmen</German>
 				<Chinesesimp>拿起LATGM</Chinesesimp>
+				<Korean>LATGM 입수</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_TASK_03_TEXT">
 				<Original>Take the LATGM launcher from the inventory of the M113 parked near the railyard.</Original>
@@ -24258,6 +24474,7 @@
 				<English>Stop the enemy BMP vehicles.</English>
 				<German>Vernichten Sie die ankommenden BMP1 Schützenpanzer.</German>
 				<Chinesesimp>拦截敌军BMP</Chinesesimp>
+				<Korean>적 BMP들을 막아라.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_TASK_05_TITLE">
 				<Original>Destroy T-55</Original>
@@ -24271,6 +24488,7 @@
 				<English>Stop the enemy T-55 Main Battle Tank.</English>
 				<German>Der Feind schickt einen T-55. Vernichten Sie diesen!</German>
 				<Chinesesimp>阻止敌军T-55主战坦克。</Chinesesimp>
+				<Korean>적 T-55를 막아라.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_BRIEFING_01">
 				<Original>Situation</Original>
@@ -24474,24 +24692,28 @@
 				<English>Hey Klemmer, you think the vending machine here takes Westmarks?</English>
 				<German>Hey Klemmer, glaubst Du der Automat da nimmt auch Westmark?</German>
 				<Chinesesimp>嘿，Klemmer，你认为这里的自动售货机会接受西德货币吗？</Chinesesimp>
+				<Korean>이봐 클레머, 동독 음료수 자판기들 서독돈으로도 뽑을수 있을까?</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_020">
 				<Original>I could try and find out.</Original>
 				<English>I could try and find out.</English>
 				<German>Ich kann es ja mal ausprobieren.</German>
 				<Chinesesimp>我可以去试试看。</Chinesesimp>
+				<Korean>한번 해보지 뭐.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_021">
 				<Original>Oh great. That thing eats my money but doesn't even react to me.</Original>
 				<English>Oh great. That thing eats my money but doesn't even react to me.</English>
 				<German>Na toll. Das Ding frisst zwar meine Kohle, regt sicht aber sonst nicht.</German>
 				<Chinesesimp>哦，太好了。那东西吃了我的钱，却对我毫无反应。</Chinesesimp>
+				<Korean>돌겠네. 동전은 들어가는데 뱉질 않아.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_022">
 				<Original>Hah, just like my girlfriend.</Original>
 				<English>Hah, just like my girlfriend.</English>
 				<German>Ha, genau wie meine Freundin.</German>
 				<Chinesesimp>哈，就像我女朋友一样。</Chinesesimp>
+				<Korean>허, 마치 내 여자친구 같군.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_023">
 				<Original>HAMMER, this is WESPE. Over.</Original>
@@ -24505,7 +24727,7 @@
 				<English>This is HAMMER. Over.</English>
 				<German>Hier HAMMER, Kommen.</German>
 				<Chinesesimp>这里是HAMMER，完毕。</Chinesesimp>
-				<Original>여기는 HAMMER. 오버.</Original>
+				<Korean>여기는 HAMMER. 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_025">
 				<Original>This is WESPE. Enemy formation are approaching from the south and east towards us.</Original>
@@ -24543,12 +24765,14 @@
 				<English>Use Machine</English>
 				<German>Geld Einwerfen</German>
 				<Chinesesimp>使用机器</Chinesesimp>
+				<Korean>기계를 사용</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_TITLE">
 				<Original>Never Say Never</Original>
 				<English>Never Say Never</English>
 				<German>Sag Niemals Nie</German>
 				<Chinesesimp>永不言弃</Chinesesimp>
+				<Korean>"절대"같은건 없다</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_OVERVIEW">
 				<Original>3. PzGrenBtl 23 is rushing to capture an enemy command post.</Original>
@@ -24669,6 +24893,7 @@
 				<English>Get moving!</English>
 				<German>Ausführung!</German>
 				<Chinesesimp>开始行动！</Chinesesimp>
+				<Korean>어서 움직여!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_001">
 				<Original>Shit! Shit! Shit!</Original>
@@ -25486,6 +25711,7 @@
 				<English>Julian Sänger</English>
 				<German>Julian Sänger</German>
 				<Chinesesimp>Julian Sänger</Chinesesimp>
+				<Korean>율리안 젱어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04I">
 				<Original>Lars Transfeld</Original>
@@ -25523,6 +25749,7 @@
 				<German>1983: Auf dem Höhepunkt des Kalten Krieges bricht ein Kampf zwischen den beiden Deutschen Staaten aus.</German>
 				<Chinesesimp>1983年:在冷战巅峰时期,两德之间爆发内战。见证这些事件的列兵克莱默,西德陆军的一名新兵,和布兰特中士的坦克排击败了敌人。</Chinesesimp>
 				<Chinese>1983年:在冷戰巔峰時期,兩德之間爆發內戰。見證這些事件的列兵克萊默,西德陸軍的一名新兵,和布蘭特中士的坦克排擊敗了敵人。</Chinese>
+				<Korean>1983년: </Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_LOADING">
 				<Original>LOADING...</Original>
@@ -25546,18 +25773,21 @@
 				<German>Im Gefecht gefallen</German>
 				<Chinesesimp>在行动中阵亡</Chinesesimp>
 				<Chinese>在行動中陣亡</Chinese>
+				<Korean>작전중 사망</Korean>
 			</Key>
 			<Key ID="STR_GM_C_02_TITLE">
 				<Original>Mailman Simulator 1983</Original>
 				<English>Mailman Simulator 1983</English>
 				<German>Briefträgersimulator 1983</German>
 				<Chinesesimp>邮差模拟器1983</Chinesesimp>
+				<Korean>우체부 시뮬레이터 1983</Korean>
 			</Key>
 			<Key ID="STR_GM_C_02_OVERVIEWTEXT">
 				<Original>Be a West German mailman in 1983 and work your way up.</Original>
 				<English>Be a West German mailman in 1983 and work your way up.</English>
 				<German>Arbeiten Sie als Briefträger in der Bundesrepublik im Jahre 1983.</German>
 				<Chinesesimp>1983年成为一名西德的邮递员,努力向上。</Chinesesimp>
+				<Korean>1983년 서독 우채부가 되어서 지금 배달지로 걸어가고있다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_02_PICTURE">
 				<Original>\gm\gm_missions\gm_campaign_02\data\gm_c02_preview_en.paa</Original>
@@ -25936,6 +26166,7 @@
 				<English>COOP 08 Cleanup</English>
 				<German>COOP 08 Hausputz</German>
 				<Chinesesimp>COOP 08 清理</Chinesesimp>
+				<Korean>COOP 08 정리</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_03_OVERVIEW">
 				<Original>Hit an East German vehicle depot and wreck it. Clear the village around it.</Original>
@@ -26016,12 +26247,14 @@
 				<English>Refuel</English>
 				<German>Treibstoff</German>
 				<Chinesesimp>加油</Chinesesimp>
+				<Korean>재급유</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_04_REARM">
 				<Original>Rearm</Original>
 				<English>Rearm</English>
 				<German>Munition</German>
 				<Chinesesimp>补充弹药</Chinesesimp>
+				<Korean>재무장</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_04_HEAL">
 				<Original>Medical</Original>
@@ -26209,6 +26442,7 @@
 				<English>Secure Village</English>
 				<German>Dorf Sichern</German>
 				<Chinesesimp>夺取村庄</Chinesesimp>
+				<Korean>마을 확보</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_02_TEXT">
 				<Original>Clear out enemy forces in the &lt;marker name='kathendorf'&gt;village&lt;/marker&gt;.</Original>
@@ -26289,13 +26523,13 @@
 				<Original>Kill any enemies present on the &lt;marker name='enemy'&gt;jammer site&lt;/marker&gt;.</Original>
 				<English>Kill any enemies present on the &lt;marker name='enemy'&gt;jammer site&lt;/marker&gt;.</English>
 				<German>Beseitigen Sie alle Feinde auf dem &lt;marker name='enemy'&gt;Gelände&lt;/marker&gt;.</German>
-				<Chinesesimp>Kill any enemies present on the &lt;marker name='enemy'&gt;jammer site&lt;/marker&gt;.</Chinesesimp>
+				<Chinesesimp>消灭&lt;marker name='enemy'&gt;干扰站&lt;/marker&gt;内的所有敌人。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_BRIEFING_01">
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy has occupied most of West Germany three weeks ago. Local groups of resistance have formed across the country and are coordinating attacks against the occupying forces.&lt;br /&gt;&lt;br /&gt;The East German military is operating a radio jammer on &lt;marker name='enemy'&gt;this site&lt;/marker&gt;. This jammer is hindering any of our communication with the allied forces and other resistance groups.&lt;br /&gt;&lt;br /&gt;Before we can continue to organize the next big attack, we will have to destroy this radio jammer so we can contact the resistance in Braunschweig.&lt;br /&gt;&lt;br /&gt;Destroy the jammer and anyone guarding it.&lt;br /&gt;&lt;br /&gt;We are starting &lt;marker name='start'&gt;here&lt;/marker&gt;. The secret &quot;Stay Behind&quot; organization as left an ammo cache for us there.</Original>
 				<English>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy has occupied most of West Germany three weeks ago. Local groups of resistance have formed across the country and are coordinating attacks against the occupying forces.&lt;br /&gt;&lt;br /&gt;The East German military is operating a radio jammer on &lt;marker name='enemy'&gt;this site&lt;/marker&gt;. This jammer is hindering any of our communication with the allied forces and other resistance groups.&lt;br /&gt;&lt;br /&gt;Before we can continue to organize the next big attack, we will have to destroy this radio jammer so we can contact the resistance in Braunschweig.&lt;br /&gt;&lt;br /&gt;Destroy the jammer and anyone guarding it.&lt;br /&gt;&lt;br /&gt;We are starting &lt;marker name='start'&gt;here&lt;/marker&gt;. The secret &quot;Stay Behind&quot; organization as left an ammo cache for us there.</English>
 				<German>%1&lt;br /&gt;Bundesrepublik&lt;br /&gt;&lt;br /&gt;Der Russe hat die Bundesrepublik vor drei Wochen besetzt. Gruppen von Widerstandskämpfern gegen die Besatzung haben sich überall im Land gebildet. Sie führen den Kampf weiter, bis eine Befreiungsarmee eintrifft.&lt;br /&gt;&lt;br /&gt;Die NVA hat einen Störsender auf diesem &lt;marker name='enemy'&gt;Gehöft&lt;/marker&gt; eingerichtet. Dieser Sender hindert uns daran, weitere Angriffe zu koordinieren und die Allierten zu kontaktieren.&lt;br /&gt;&lt;br /&gt;Damit wir die Gruppe in Braunschweig wieder über Funk erreichen können, müssen wie diesen Sender zerstören.&lt;br /&gt;&lt;br /&gt;Vernichten Sie den Störsender und alle Bewacher.&lt;br /&gt;&lt;br /&gt;Wir befinden uns &lt;marker name='start'&gt;hier&lt;/marker&gt;. Die geheime &quot;Stay Behind&quot; Organisation hat hier Waffen und Munition für uns vorrätig gehalten.</German>
-				<Chinesesimp>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy has occupied most of West Germany three weeks ago. Local groups of resistance have formed across the country and are coordinating attacks against the occupying forces.&lt;br /&gt;&lt;br /&gt;The East German military is operating a radio jammer on &lt;marker name='enemy'&gt;this site&lt;/marker&gt;. This jammer is hindering any of our communication with the allied forces and other resistance groups.&lt;br /&gt;&lt;br /&gt;Before we can continue to organize the next big attack, we will have to destroy this radio jammer so we can contact the resistance in Braunschweig.&lt;br /&gt;&lt;br /&gt;Destroy the jammer and anyone guarding it.&lt;br /&gt;&lt;br /&gt;We are starting &lt;marker name='start'&gt;here&lt;/marker&gt;. The secret &quot;Stay Behind&quot; organization as left an ammo cache for us there.</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;敌人在三周前占领了西德的大部分地区。全国各地的游击队已经形成，正在协调对占领军的攻击。&lt;br /&gt;&lt;br /&gt;东德军方在&lt;marker name='enemy'&gt;这个地方&lt;/marker&gt;设置了一座无线电干扰器。这个干扰器阻碍了我们与盟军和其他抵抗组织的任何通信联络。&lt;br /&gt;&lt;br /&gt;在我们继续组织下一次大规模攻击之前，我们必须摧毁这个无线电干扰器，这样我们才能与布伦瑞克的抵抗组织联系。&lt;br /&gt;&lt;br /&gt;摧毁干扰器，并且消灭所有守卫。&lt;br /&gt;&lt;br /&gt;我们从&lt;marker name='start'&gt;这里&lt;/marker&gt;出发。留在后方&quot;秘密组织&quot;为我们留下了一个弹药库。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_14_TITLE">
 				<Original>COOP 12 Autobahnmeisters</Original>
@@ -26326,13 +26560,13 @@
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy is moving some of their equipment back to the German Democratic Republic. We will take this opportunity to destroy that convoy. They are travling along the Autobahn 2 towards the east.&lt;br /&gt;&lt;br /&gt;We expect today's convoy to arrive at this &lt;marker name='ambush'&gt;location&lt;/marker&gt; within 10 minutes.&lt;br /&gt;At the &lt;marker name='start'&gt;starting location&lt;/marker&gt; you will find some extra crates of landmines. Also we have requisitioned a Police Car in case we need to split up fast.&lt;br /&gt;&lt;br /&gt;The mission will fail if any enemy units escape the area.</Original>
 				<English>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy is moving some of their equipment back to the German Democratic Republic. We will take this opportunity to destroy that convoy. They are travling along the Autobahn 2 towards the east.&lt;br /&gt;&lt;br /&gt;We expect today's convoy to arrive at this &lt;marker name='ambush'&gt;location&lt;/marker&gt; within 10 minutes.&lt;br /&gt;At the &lt;marker name='start'&gt;starting location&lt;/marker&gt; you will find some extra crates of landmines. Also we have requisitioned a Police Car in case we need to split up fast.&lt;br /&gt;&lt;br /&gt;The mission will fail if any enemy units escape the area.</English>
 				<German>%1&lt;br /&gt;Bundesrepublik&lt;br /&gt;&lt;br /&gt;Der Feind verlegt einige Einheiten zurück in die DDR. Wir werden diese Gelegenheit nutzen, um diese Kolonnen zu vernichten. Die Bundesautobahn 2 wird hauptsächlich dafür genutzt.&lt;br /&gt;&lt;br /&gt;Die heutige Kolonne wird &lt;marker name='ambush'&gt;hier&lt;/marker&gt; in 10 Minuten erwartet.&lt;br /&gt;Am &lt;marker name='start'&gt;Ausgangsort&lt;/marker&gt; befinden sich zusätzliche Kisten mit Panzerabwehrminen. Zusätzlich haben wir einen Streifenwagen bereit. Dieser Wagen könnte nützlich sein, sollten wir uns schnell aufteilen müssen.&lt;br /&gt;&lt;br /&gt;Die mission gilt als gescheitert wenn feindliche Einheiten das Gebiet verlassen.</German>
-				<Chinesesimp>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy is moving some of their equipment back to the German Democratic Republic. We will take this opportunity to destroy that convoy. They are travling along the Autobahn 2 towards the east.&lt;br /&gt;&lt;br /&gt;We expect today's convoy to arrive at this &lt;marker name='ambush'&gt;location&lt;/marker&gt; within 10 minutes.&lt;br /&gt;At the &lt;marker name='start'&gt;starting location&lt;/marker&gt; you will find some extra crates of landmines. Also we have requisitioned a Police Car in case we need to split up fast.&lt;br /&gt;&lt;br /&gt;The mission will fail if any enemy units escape the area.</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;敌人正在将他们的一些装备运回东德。我们将利用这个机会摧毁这支车队。他们正沿着2号高速公路向东行驶。&lt;br /&gt;&lt;br /&gt;我们预计今天的车队将在10分钟内到达&lt;marker name='ambush'&gt;这个地点&lt;/marker&gt;。&lt;br /&gt;在&lt;marker name='start'&gt;起始地点&lt;/marker&gt;，你会发现一些额外的地雷箱。此外，我们还征用了一辆警车，以备我们需要快速分头行动。&lt;br /&gt;&lt;br /&gt;如果有任何敌方单位逃离该地区，任务则失败。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_15_BRIEFING_01">
 				<Original>Team versus Team Multiplayer Game Mode&lt;br /&gt;&lt;br /&gt;- Select various classes of gear when respawning. Some classes have a limit.&lt;br /&gt;- Vehicles respawn after 60 seconds if they are destroyed or abandoned.&lt;br /&gt;- The Command APCs act as mobile respawn locations. Protect them from the enemy and don't use them as taxis.&lt;br /&gt;- Each side's spawn area is indicated by a solid filled marker. You will instantly die if you enter the enemy's base.</Original>
 				<English>Team versus Team Multiplayer Game Mode&lt;br /&gt;&lt;br /&gt;- Select various classes of gear when respawning. Some classes have a limit.&lt;br /&gt;- Vehicles respawn after 60 seconds if they are destroyed or abandoned.&lt;br /&gt;- The Command APCs act as mobile respawn locations. Protect them from the enemy and don't use them as taxis.&lt;br /&gt;- Each side's spawn area is indicated by a solid filled marker. You will instantly die if you enter the enemy's base.</English>
 				<German>Team gegen Team Multiplayer Spielmodus&lt;br /&gt;&lt;br /&gt;- Wählen Sie eine Spielerklasse beim Respawn. Einige Klassen haben eine maximale Anzahl.&lt;br /&gt;- Fahrzeuge erscheinen 60 Sekunden nach dem Zerstören wieder in der Basis.&lt;br /&gt;- Die Führungspanzer funktionieren als mobilie Respawn-Punkte. Schützen Sie diese besonders vor dem Feind und nutzen Sie diese nicht fahrlässig als Taxis.&lt;br /&gt;- Die Basis jeder Seite ist mit einer großen Zone auf der Karte eingezeichnet. Betreten Sie dieses Gebiet des Feindes nicht.</German>
-				<Chinesesimp>Team versus Team Multiplayer Game Mode&lt;br /&gt;&lt;br /&gt;- Select various classes of gear when respawning. Some classes have a limit.&lt;br /&gt;- Vehicles respawn after 60 seconds if they are destroyed or abandoned.&lt;br /&gt;- The Command APCs act as mobile respawn locations. Protect them from the enemy and don't use them as taxis.&lt;br /&gt;- Each side's spawn area is indicated by a solid filled marker. You will instantly die if you enter the enemy's base.</Chinesesimp>
+				<Chinesesimp>团队对战的多人游戏模式&lt;br /&gt;&lt;br /&gt;- 重生时选择各个等级的装备。有些等级具有限制。&lt;br /&gt;- 如果车辆被摧毁或被遗弃，其将在60秒后重生。&lt;br /&gt;- 指挥部的APC是移动重生点。保护它们不被敌人发现，不要把它们当作一次性出租车使用。&lt;br /&gt;- 每一方的重生区域是由一个实心的填充标记表示。如果你进入了敌方基地，你会立即死亡。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_15_TITLE">
 				<Original>SC 40 East vs. West (Rennau)</Original>
@@ -26370,6 +26604,7 @@
 				<English>SC 40 East vs. West (Border)</English>
 				<German>SC 40 Ost vs. West (Grenze)</German>
 				<Chinesesimp>SC 40 East vs. West (Border)</Chinesesimp>
+				<Korean>SC 40 동독 VS. 서독 (국경)</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_DELIVER_MAIL">
 				<Original>Deliver Mail</Original>
@@ -26417,7 +26652,7 @@
 				<Original>Deliver ten letters to the local village.&lt;br /&gt;&lt;br /&gt;100 points per delivered letter.&lt;br /&gt;&lt;br /&gt;1000 points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the mailbag.</Original>
 				<English>Deliver ten letters to the local village.&lt;br /&gt;&lt;br /&gt;100 points per delivered letter.&lt;br /&gt;&lt;br /&gt;1000 points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the mailbag.</English>
 				<German>Liefern Sie Zehn Briefe im Dorf aus.&lt;br /&gt;&lt;br /&gt;100 Punkte pro Einwurf.&lt;br /&gt;&lt;br /&gt;1000 Punkte Strafe bei Abbruch oder Scheitern.</German>
-				<Chinesesimp>给当地村庄送去十封信。&lt;br /&gt;&lt;br /&gt;每送出一封信得100分。&lt;br /&gt;&lt;br /&gt;1000 points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;需要邮包。</Chinesesimp>
+				<Chinesesimp>给当地村庄送去十封信。&lt;br /&gt;&lt;br /&gt;每送出一封信得100分。&lt;br /&gt;&lt;br /&gt;如果取消或失败，将被罚1000分。&lt;br /&gt;&lt;br /&gt;需要邮包。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAIL_COLLECTION">
 				<Original>Mail Collection</Original>
@@ -26429,7 +26664,7 @@
 				<Original>Empty the collection mailboxes in the area.&lt;br /&gt;&lt;br /&gt;500 Points per collected letter.&lt;br /&gt;&lt;br /&gt;1500 Points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the car.</Original>
 				<English>Empty the collection mailboxes in the area.&lt;br /&gt;&lt;br /&gt;500 Points per collected letter.&lt;br /&gt;&lt;br /&gt;1500 Points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the car.</English>
 				<German>Leeren Sie die Sammelbriefkästen aus.&lt;br /&gt;&lt;br /&gt;500 Punkte pro Behälter.&lt;br /&gt;&lt;br /&gt;1500 Punkte Strafe bei Abbruch oder Scheitern.</German>
-				<Chinesesimp>清空该地区的收集邮箱。&lt;br /&gt;&lt;br /&gt;每收集一封信得500分。&lt;br /&gt;&lt;br /&gt;1500 Points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;需要汽车。</Chinesesimp>
+				<Chinesesimp>清空该地区的收集邮箱。&lt;br /&gt;&lt;br /&gt;每收集一封信得500分。&lt;br /&gt;&lt;br /&gt;如果取消或失败，将被罚1500分。&lt;br /&gt;&lt;br /&gt;需要汽车。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_LANDLINE_REPAIR">
 				<Original>Landline Repair</Original>
@@ -30495,18 +30730,21 @@
 				<English>Seggerde</English>
 				<German>Seggerde</German>
 				<Chinesesimp>Seggerde</Chinesesimp>
+				<Korean>제게르데</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_BELSDORF">
 				<Original>Belsdorf</Original>
 				<English>Belsdorf</English>
 				<German>Belsdorf</German>
 				<Chinesesimp>Belsdorf</Chinesesimp>
+				<Korean>벨스도르프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_BEHNSDORF">
 				<Original>Behnsdorf</Original>
 				<English>Behnsdorf</English>
 				<German>Behnsdorf</German>
 				<Chinesesimp>Behnsdorf</Chinesesimp>
+				<Korean>벤스도르프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_ESCHENRODE">
 				<Original>Eschenrode</Original>
@@ -30526,6 +30764,7 @@
 				<English>Beendorf</English>
 				<German>Beendorf</German>
 				<Chinesesimp>Beendorf</Chinesesimp>
+				<Korean>빈도르프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_MARIENTAL_HORST">
 				<Original>Mariental (Horst)</Original>
@@ -30575,7 +30814,7 @@
 				<English>Gross Twülpstedt</English>
 				<German>Gross Twülpstedt</German>
 				<Chinesesimp>Gross Twülpstedt</Chinesesimp>
-				<Korean>그로스 트봘프슈테트</Korean>
+				<Korean>그로스 트발프슈테트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_MEINKOT">
 				<Original>Meinkot</Original>
@@ -30722,7 +30961,7 @@
 				<English>Klein Twülpstedt</English>
 				<German>Klein Twülpstedt</German>
 				<Chinesesimp>Klein Twülpstedt</Chinesesimp>
-				<Korean>클라인 트봘프슈테트</Korean>
+				<Korean>클라인 트발프슈테트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_BARMKE">
 				<Original>Barmke</Original>
@@ -30735,6 +30974,7 @@
 				<English>Steinberg</English>
 				<German>Steinberg</German>
 				<Chinesesimp>Steinberg</Chinesesimp>
+				<Korean>슈타인베르그</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_SCHOTTERFERBERG">
 				<Original>Schotterfer Berg</Original>
@@ -30801,6 +31041,7 @@
 				<English>Saalsdorf</English>
 				<German>Saalsdorf</German>
 				<Chinesesimp>Saalsdorf</Chinesesimp>
+				<Korean>잘레도르프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_KAHLENBERG">
 				<Original>Kahlenberg</Original>
@@ -30838,7 +31079,7 @@
 				<English>Spitzer Berg</English>
 				<German>Spitzer Berg</German>
 				<Chinesesimp>Spitzer Berg</Chinesesimp>
-				<Korean>스피처 베르크</Korean>
+				<Korean>스피처 베르그</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_WEFERLINGEN_LAPPWALD">
 				<Original>Lappwald</Original>
@@ -31232,13 +31473,14 @@
 				<English>Platoon (KPz 1A3DK)</English>
 				<German>Zug (KPz 1A3DK)</German>
 				<Chinesesimp>排(KPz 1A3DK)</Chinesesimp>
-				<Korean>FeroD-16 (초록)</Korean>
+				<Korean>소대 (KPz 1A3DK)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PLATOON_LEOPARD1A5DK">
 				<Original>Platoon (KPz 1A5DK)</Original>
 				<English>Platoon (KPz 1A5DK)</English>
 				<German>Zug (KPz 1A5DK)</German>
 				<Chinesesimp>排(KPz 1A5DK)</Chinesesimp>
+				<Korean>소대 (KPz 1A5DK)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PLATOON_LEOPARD1A5DK1">
 				<Original>Platoon (KPz 1A5DK1)</Original>
@@ -31251,6 +31493,7 @@
 				<English>BPz 2</English>
 				<German>BPz 2</German>
 				<Chinesesimp>BPz 2</Chinesesimp>
+				<Korean>BPz 2</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BPZ2A0">
 				<Original>BPz 2A0</Original>
