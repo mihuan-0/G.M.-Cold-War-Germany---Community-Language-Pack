@@ -4822,13 +4822,14 @@
 				<English>Mount MG3</English>
 				<German>MG3 Aufbauen</German>
 				<Chinesesimp>安装MG3</Chinesesimp>
-				<Korean>거치 MG3</Korean>
+				<Korean>MG3 거치</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_DISMOUNT_TURRET_WEAPON_MG3">
 				<Original>Dismount MG3</Original>
 				<English>Dismount MG3</English>
 				<German>MG3 Abbauen</German>
 				<Chinesesimp>拆卸MG3</Chinesesimp>
+				<Korean>MG3 탈거</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON">
 				<Original>Take %1</Original>
@@ -9663,6 +9664,7 @@
 				<English>Danish: Purple-Purple-Grey</English>
 				<German>Dänemark: Violet-Violet-Grau</German>
 				<Chinesesimp>丹麦：紫-紫-灰</Chinesesimp>
+				<Korean>덴마크: 보라-보라-회색</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_VLT_RED">
 				<Original>Danish: Purple-Purple-Red</Original>
@@ -9683,6 +9685,7 @@
 				<English>Danish: Purple-Purple-White</English>
 				<German>Dänemark: Violet-Violet-Weiß</German>
 				<Chinesesimp>丹麦：紫-紫-白</Chinesesimp>
+				<Korean>덴마크: 보라-보라-하양</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_VLT_YEL">
 				<Original>Danish: Purple-Purple-Yellow</Original>
@@ -13104,7 +13107,7 @@
 				<German>7,62 mm 20-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball-T DM21 Mag</Chinesesimp>
 				<Russian>Магазин, 20 патронов 7,62 мм Ball-T DM21</Russian>
-				<Korean>7.62 mm 20발 Ball-T DM21 탄창</Korean>
+				<Korean>7.62mm 20발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_T_DM21A1">
 				<Original>7.62 mm 20Rnd Ball-T DM21A1 Mag</Original>
@@ -13112,7 +13115,7 @@
 				<German>7,62 mm 20-Schuss-Magazin Ball-T DM21A1</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball-T DM21A1 Mag</Chinesesimp>
 				<Russian>Магазин, 20 патронов 7,62 мм Ball-T DM21A1</Russian>
-				<Korean>7.62 mm 20발 Ball-T DM21A1 탄창</Korean>
+				<Korean>7.62mm 20발 Ball-T DM21A1 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_T_DM21A2">
 				<Original>7.62 mm 20Rnd Ball-T DM21A2 Mag</Original>
@@ -13120,7 +13123,7 @@
 				<German>7,62 mm 20-Schuss-Magazin Ball-T DM21A2</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball-T DM21A2 Mag</Chinesesimp>
 				<Russian>Магазин, 20 патронов 7,62 мм Ball-T DM21A2</Russian>
-				<Korean>7.62 mm 20발 Ball-T DM21A2 탄창</Korean>
+				<Korean>7.62mm 20발 Ball-T DM21A2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_DM111">
 				<Original>7.62 mm 20Rnd Ball DM111 Mag</Original>
@@ -13160,6 +13163,7 @@
 				<German>7,62 mm 120-Schuss-Magazin Ball-T DM21A1</German>
 				<Chinesesimp>7.62 mm 120Rnd Ball-T DM21A1 Mag</Chinesesimp>
 				<Russian>Магазин, 120 патронов 7,62 мм Ball-T DM21A1</Russian>
+				<Korean>7.62mm 120발 Ball-T DM21A1 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_120RND_762X51MM_B_T_DM21A2">
 				<Original>7.62 mm 120Rnd Ball-T DM21A2 Mag</Original>
@@ -13167,6 +13171,7 @@
 				<German>7,62 mm 120-Schuss-Magazin Ball-T DM21A2</German>
 				<Chinesesimp>7.62 mm 120Rnd Ball-T DM21A2 Mag</Chinesesimp>
 				<Russian>Магазин, 120 патронов 7,62 мм Ball-T DM21A2</Russian>
+				<Korean>7.62mm 120발 Ball-T DM21A2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_240RND_762X51MM_B_T_DM21">
 				<Original>7.62 mm 240Rnd Ball-T DM21 Mag</Original>
@@ -13174,6 +13179,7 @@
 				<German>7,62 mm 240-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 240Rnd Ball-T DM21 Mag</Chinesesimp>
 				<Russian>Магазин, 240 патронов 7,62 мм Ball-T DM21</Russian>
+				<Korean>7.62mm 240발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_250RND_762X51MM_B_T_DM21">
 				<Original>7.62 mm 250Rnd Ball-T DM21 Mag</Original>
@@ -13181,6 +13187,7 @@
 				<German>7,62 mm 250-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 250Rnd Ball-T DM21 Mag</Chinesesimp>
 				<Russian>Магазин, 250 патронов 7,62 мм Ball-T DM21</Russian>
+				<Korean>7.62mm 250발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_762X51MM_B_T_DM21">
 				<Original>7.62 mm 500Rnd Ball-T DM21 Mag</Original>
@@ -13188,6 +13195,7 @@
 				<German>7,62 mm 500-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 500Rnd Ball-T DM21 Mag</Chinesesimp>
 				<Russian>Магазин, 500 патронов 7,62 мм Ball-T DM21</Russian>
+				<Korean>7.62mm 500발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X51MM_B_T_DM21">
 				<Original>7.62 mm 1000Rnd Ball-T DM21 Mag</Original>
@@ -13203,6 +13211,7 @@
 				<German>5,45 mm 30-Schuss-Magazin Ball 7N6</German>
 				<Chinesesimp>5.45 mm 30Rnd Ball 7N6 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5,45 мм Ball 7N6</Russian>
+				<Korean>5.45mm 30발 Ball 7N6 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_45RND_545X39MM_B_7N6">
 				<Original>5.45 mm 45Rnd Ball 7N6 Mag</Original>
@@ -13210,7 +13219,7 @@
 				<German>5,45 mm 45-Schuss-Magazin Ball 7N6</German>
 				<Chinesesimp>5.45 mm 45Rnd Ball 7N6 Mag</Chinesesimp>
 				<Russian>Магазин, 45 патронов 5,45 мм Ball 7N6</Russian>
-				<Korean>5.45 mm 45발 Ball 7N6 탄창</Korean>
+				<Korean>5.45mm 45발 Ball 7N6 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_545X39MM_B_T_7T3">
 				<Original>5.45 mm 30Rnd Ball-T 7T3 Mag</Original>
@@ -13218,6 +13227,7 @@
 				<German>5,45 mm 30-Schuss-Magazin Ball-T 7T3</German>
 				<Chinesesimp>5.45 mm 30Rnd Ball-T 7T3 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5,45 мм Ball-T 7T3</Russian>
+				<Korean>5.45mm 30발 Ball-T 7T3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_45RND_545X39MM_B_T_7T3">
 				<Original>5.45 mm 45Rnd Ball-T 7T3 Mag</Original>
@@ -13225,6 +13235,7 @@
 				<German>5,45 mm 45-Schuss-Magazin Ball-T 7T3</German>
 				<Chinesesimp>5.45 mm 45Rnd Ball-T 7T3 Mag</Chinesesimp>
 				<Russian>Магазин, 45 патронов 5,45 мм Ball-T 7T3</Russian>
+				<Korean>5.45mm 45발 Ball-T 7T3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_M43">
 				<Original>7.62 mm 30Rnd Ball M43 Mag</Original>
@@ -13232,6 +13243,7 @@
 				<German>7,62 mm 30-Schuss-Magazin Ball M43</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball M43 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 7,62 мм Ball M43</Russian>
+				<Korean>7.62mm 30발 Ball M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_T_M43">
 				<Original>7.62 mm 30Rnd Ball-T M43 Mag</Original>
@@ -13247,6 +13259,7 @@
 				<German>7,62 mm 75-Schuss-Magazin Ball M43</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball M43 Mag</Chinesesimp>
 				<Russian>Магазин, 75 патронов 7,62 мм Ball M43</Russian>
+				<Korean>7.62mm 75발 Ball M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_T_M43">
 				<Original>7.62 mm 75Rnd Ball-T M43 Mag</Original>
@@ -13254,6 +13267,7 @@
 				<German>7,62 mm 75-Schuss-Magazin Ball-T M43</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball-T M43 Mag</Chinesesimp>
 				<Russian>Магазин, 75 патронов 7,62 мм Ball-T M43</Russian>
+				<Korean>7.62mm 75발 Ball-T M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_57N231">
 				<Original>7.62 mm 30Rnd Ball 57N231 Mag</Original>
@@ -13261,6 +13275,7 @@
 				<German>7,62 mm 30-Schuss-Magazin Ball 57N231</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball 57N231 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 7,62 мм Ball 57N231</Russian>
+				<Korean>7.62mm 30발 Ball 57N231 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_T_57N231P">
 				<Original>7.62 mm 30Rnd Ball-T 57N231P Mag</Original>
@@ -13268,6 +13283,7 @@
 				<German>7,62 mm 30-Schuss-Magazin Ball-T 57N231P</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball-T 57N231P Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 7,62 мм Ball-T 57N231P</Russian>
+				<Korean>7.62mm 30발 Ball-T 57N231P 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_57N231">
 				<Original>7.62 mm 75Rnd Ball 57N231 Mag</Original>
@@ -13275,6 +13291,7 @@
 				<German>7,62 mm 75-Schuss-Magazin Ball 57N231</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball 57N231 Mag</Chinesesimp>
 				<Russian>Магазин, 75 патронов 7,62 мм Ball 57N231</Russian>
+				<Korean>7.62mm 75발 Ball 57N231 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_T_57N231P">
 				<Original>7.62 mm 75Rnd Ball-T 57N231P Mag</Original>
@@ -13282,7 +13299,7 @@
 				<German>7,62 mm 75-Schuss-Magazin Ball-T 57N231P</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball-T 57N231P Mag</Chinesesimp>
 				<Russian>Магазин, 75 патронов 7,62 мм Ball-T 57N231P</Russian>
-				<Korean>7.62 mm 75발 Ball-T 57N231P 탄창</Korean>
+				<Korean>7.62mm 75발 Ball-T 57N231P 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_AP_7N23">
 				<Original>7.62 mm 30Rnd AP 7N23 Mag</Original>
@@ -13290,7 +13307,7 @@
 				<German>7,62 mm 30-Schuss-Magazin AP 7N23</German>
 				<Chinesesimp>7.62 mm 30Rnd AP 7N23 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 7,62 мм AP 7N23</Russian>
-				<Korean>7.62 mm 30발 AP 7N23 탄창</Korean>
+				<Korean>7.62mm 30발 AP 7N23 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_AP_7N23">
 				<Original>7.62 mm 75Rnd AP 7N23 Mag</Original>
@@ -13306,6 +13323,7 @@
 				<German>9 mm 8-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>9 mm 8Rnd Ball DM11 Mag</Chinesesimp>
 				<Russian>Магазин, 8 патронов 9 мм Ball DM11</Russian>
+				<Korean>9mm 8발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_9X19MM_B_DM51">
 				<Original>9 mm 8Rnd Ball DM51 Mag</Original>
@@ -13313,6 +13331,7 @@
 				<German>9 mm 8-Schuss-Magazin Ball DM51</German>
 				<Chinesesimp>9 mm 8Rnd Ball DM51 Mag</Chinesesimp>
 				<Russian>Магазин, 8 патронов 9 мм Ball DM51</Russian>
+				<Korean>9mm 8발 Ball DM51 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_9X18MM_B_PST">
 				<Original>9 mm 8Rnd Ball PST Mag</Original>
@@ -13320,6 +13339,7 @@
 				<German>9 mm 8-Schuss-Magazin Ball PST</German>
 				<Chinesesimp>9 mm 8Rnd Ball PST Mag</Chinesesimp>
 				<Russian>Магазин, 8 патронов 9 мм Ball PST</Russian>
+				<Korean>9mm 8발 Ball PST 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_32RND_9X19MM_B_DM11">
 				<Original>9 mm 32Rnd Ball DM11 Mag</Original>
@@ -13327,6 +13347,7 @@
 				<German>9 mm 32-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>9 mm 32Rnd Ball DM11 Mag</Chinesesimp>
 				<Russian>Магазин, 32 патронов 9 мм Ball DM11</Russian>
+				<Korean>9mm 32발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_32RND_9X19MM_B_DM51">
 				<Original>9 mm 32Rnd Ball DM51 Mag</Original>
@@ -13334,6 +13355,7 @@
 				<German>9 mm 32-Schuss-Magazin Ball DM51</German>
 				<Chinesesimp>9 mm 32Rnd Ball DM51 Mag</Chinesesimp>
 				<Russian>Магазин, 32 патронов 9 мм Ball DM51</Russian>
+				<Korean>9mm 32발 Ball DM51 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_32RND_9X19MM_AP_DM91">
 				<Original>9 mm 32Rnd AP DM91 Mag</Original>
@@ -13341,6 +13363,7 @@
 				<German>9 mm 32-Schuss-Magazin AP DM91</German>
 				<Chinesesimp>9 mm 32Rnd AP DM91 Mag</Chinesesimp>
 				<Russian>Магазин, 32 патронов 9 мм AP DM91</Russian>
+				<Korean>9mm 32발 AP DM91 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_15RND_9X18MM_B_PST">
 				<Original>9 mm 15Rnd Ball PST Mag</Original>
@@ -13348,6 +13371,7 @@
 				<German>9 mm 15-Schuss-Magazin Ball PST</German>
 				<Chinesesimp>9 mm 15Rnd Ball PST Mag</Chinesesimp>
 				<Russian>Магазин, 15 патронов 9 мм Ball PST</Russian>
+				<Korean>9mm 15발 Ball PST 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_25RND_9X18MM_B_PST">
 				<Original>9 mm 25Rnd Ball PST Mag</Original>
@@ -13355,6 +13379,7 @@
 				<German>9 mm 25-Schuss-Magazin Ball PST</German>
 				<Chinesesimp>9 mm 25Rnd Ball PST Mag</Chinesesimp>
 				<Russian>Магазин, 25 патронов 9 мм Ball PST</Russian>
+				<Korean>9mm 25발 Ball PST 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_9X19MM_B_DM51">
 				<Original>9 mm 30Rnd Ball DM51 Mag</Original>
@@ -13362,6 +13387,7 @@
 				<German>9 mm 30-Schuss-Magazin Ball DM51</German>
 				<Chinesesimp>9 mm 30Rnd Ball DM51 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 9 мм Ball DM51</Russian>
+				<Korean>9mm 30발 Ball DM51 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_9X19MM_B_DM11">
 				<Original>9 mm 30Rnd Ball DM11 Mag</Original>
@@ -13369,6 +13395,7 @@
 				<German>9 mm 30-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>9 mm 30Rnd Ball DM11 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 9 мм Ball DM11</Russian>
+				<Korean>9mm 30발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_9X19MM_AP_DM91">
 				<Original>9 mm 30Rnd AP DM91 Mag</Original>
@@ -13384,7 +13411,7 @@
 				<German>5,56 mm 30-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball DM11 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5,56 мм Ball DM11</Russian>
-				<Korean>5.56 mm 30발 Ball DM11 탄창</Korean>
+				<Korean>5.56mm 30발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_T_DM21">
 				<Original>5.56 mm 30Rnd Ball-T DM21 Mag</Original>
@@ -13392,6 +13419,7 @@
 				<German>5,56 mm 30-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball-T DM21 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5,56 мм Ball-T DM21</Russian>
+				<Korean>5.56mm 30발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_AP_DM31">
 				<Original>5.56 mm 30Rnd AP DM31 Mag</Original>
@@ -13399,7 +13427,7 @@
 				<German>5,56 mm 30-Schuss-Magazin Ball-T DM31</German>
 				<Chinesesimp>5.56 mm 30Rnd AP DM31 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5,56 мм Ball-T DM31</Russian>
-				<Korean>5.56 mm 30발 AP DM31 탄창</Korean>
+				<Korean>5.56mm 30발 AP DM31 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_M855">
 				<Original>5.56 mm 20Rnd Ball M855 Mag</Original>
@@ -13407,6 +13435,7 @@
 				<German>5.56 mm 20-Schuss-Magazin Ball M855 Mag</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball M855 Mag</Chinesesimp>
 				<Russian>Магазин, 20 патронов 5.56 мм Ball M855 Mag</Russian>
+				<Korean>5.56mm 20발 Ball M855 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_T_M856">
 				<Original>5.56 mm 20Rnd Ball-T M856 Mag</Original>
@@ -13414,6 +13443,7 @@
 				<German>5.56 mm 20-Schuss-Magazin Ball-T M856 Mag</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball-T M856 Mag</Chinesesimp>
 				<Russian>Магазин, 20 патронов 5.56 мм Ball-T M856 Mag</Russian>
+				<Korean>5.56mm 20발 Ball-T M856 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_M193">
 				<Original>5.56 mm 20Rnd Ball M193 Mag</Original>
@@ -13421,6 +13451,7 @@
 				<German>5.56 mm 20-Schuss-Magazin Ball M193 Mag</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball M193 Mag</Chinesesimp>
 				<Russian>Магазин, 20 патронов 5.56 мм Ball M193 Mag</Russian>
+				<Korean>5.56mm 20발 Ball M193 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_M855">
 				<Original>5.56 mm 30Rnd Ball M855 Mag</Original>
@@ -13428,6 +13459,7 @@
 				<German>5.56 mm 30-Schuss-Magazin Ball M855 Mag</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball M855 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5.56 мм Ball M855 Mag</Russian>
+				<Korean>5.56mm 30발 Ball M855 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_T_M856">
 				<Original>5.56 mm 30Rnd Ball-T M856 Mag</Original>
@@ -13435,6 +13467,7 @@
 				<German>5.56 mm 30-Schuss-Magazin Ball-T M856 Mag</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball-T M856 Mag</Chinesesimp>
 				<Russian>Магазин, 30 патронов 5.56 мм Ball-T M856 Mag</Russian>
+				<Korean>5.56mm 30발 Ball-T M856 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_M193">
 				<Original>5.56 mm 30Rnd Ball M193 Mag</Original>
@@ -13769,6 +13802,7 @@
 				<German>26,5 mm Signal DM19 (Gelb)</German>
 				<Chinesesimp>26.5 mm 烟雾弹 DM19 (黄色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Signal DM19 (Gelb)</Russian>
+				<Korean>26.5mm DM19 연막 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_762X51MM_B_T_DM21">
 				<Original>7.62 mm 50Rnd Ball-T DM21 Mag</Original>
@@ -13839,6 +13873,7 @@
 				<German>7,62 mmR 10-Schuss-Magazin Ball-T 7T2 Mag</German>
 				<Chinesesimp>7.62 mmR 10Rnd Ball-T 7T2 Mag</Chinesesimp>
 				<Russian>Магазин, 10 патронов 7,62 ммR Ball-T 7T2 Mag</Russian>
+				<Korean>7.62mmR 10발 Ball-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MMR_API_7BZ3">
 				<Original>7.62 mmR 100Rnd API 7BZ3 Mag</Original>
@@ -13846,6 +13881,7 @@
 				<German>7,62 mmR 100-Schuss-Magazin API 7BZ3</German>
 				<Chinesesimp>7.62 mmR 100Rnd API 7BZ3 Mag</Chinesesimp>
 				<Russian>Магазин, 100 патронов 7,62 ммR API 7BZ3</Russian>
+				<Korean>7.62mmR 100발 API 7BZ3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_200RND_762X54MMR_API_7BZ3">
 				<Original>7.62 mmR 200Rnd API 7BZ3 Mag</Original>
@@ -13895,6 +13931,7 @@
 				<German>12,7 mm 50-Schuss-Magazin API-T BZT</German>
 				<Chinesesimp>12.7 mm 50Rnd API-T BZT Mag</Chinesesimp>
 				<Russian>Магазин, 50 патронов 12,7 мм API-T BZT</Russian>
+				<Korean>12.7mm 50발 API-T BZT 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_127X108MM_AP_B32">
 				<Original>12.7 mm 50Rnd AP B32 Mag</Original>
@@ -13946,13 +13983,14 @@
 				<German>14,5 mm 50-Schuss-Magazin HEI-T MDZ</German>
 				<Chinesesimp>14.5 mm 50Rnd HEI-T MDZ</Chinesesimp>
 				<Russian>Магазин, 50 патронов 14,5 мм HEI-T MDZ</Russian>
-				<Korean>14.5mm 50발 HEi-T MDC</Korean>
+				<Korean>14.5mm 50발 HEi-T MDZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_67MM_HEAT_DM22A1">
 				<Original>67 mm HEAT DM22A1</Original>
 				<English>67 mm HEAT DM22A1</English>
 				<German>67 mm HEAT DM22A1</German>
 				<Chinesesimp>67 mm HEAT DM22A1</Chinesesimp>
+				<Korean>67mm HEAT DM22A1</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_44X537MM_HEAT_DM32">
 				<Original>44 mm HEAT DM32</Original>
@@ -14008,6 +14046,7 @@
 				<English>84 mm Smoke 469c</English>
 				<German>84 mm Smoke 469c</German>
 				<Chinesesimp>84 mm 烟雾弹 469c</Chinesesimp>
+				<Korean>84mm 연막 469c</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_60MM_HEAT_DM12">
 				<Original>60 mm HEAT DM12A1</Original>
@@ -14026,72 +14065,84 @@
 				<English>60 mm HEAT-MP DM32</English>
 				<German>60 mm HEAT-MP DM32</German>
 				<Chinesesimp>60 mm HEAT-MP DM32</Chinesesimp>
+				<Korean>60mm HEAT-MP DM32</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_66MM_HEAT_M72A3">
 				<Original>66 mm HEAT M72A3</Original>
 				<English>66 mm HEAT M72A3</English>
 				<German>66 mm HEAT M72A3</German>
 				<Chinesesimp>66 mm HEAT M72A3</Chinesesimp>
+				<Korean>66mm HEAT M72A3</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_MILAN_HEAT_DM92">
 				<Original>LATGM HEAT DM92</Original>
 				<English>LATGM HEAT DM92</English>
 				<German>LPALR HEAT DM92</German>
 				<Chinesesimp>LATGM HEAT DM92</Chinesesimp>
+				<Korean>LATGM HEAT DM92</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_MILAN_HEAT_DM82">
 				<Original>LATGM HEAT DM82</Original>
 				<English>LATGM HEAT DM82</English>
 				<German>LPALR HEAT DM82</German>
 				<Chinesesimp>LATGM HEAT DM82</Chinesesimp>
+				<Korean>LATGM HEAT DM82</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM72">
 				<Original>DM72</Original>
 				<English>DM72</English>
 				<German>DM72</German>
 				<Chinesesimp>DM72</Chinesesimp>
+				<Korean>DM72</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM72_BLK">
 				<Original>DM72 (Black)</Original>
 				<English>DM72 (Black)</English>
 				<German>DM72 (Schwarz)</German>
 				<Chinesesimp>DM72 (黑色)</Chinesesimp>
+				<Korean>DM72 (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM72_RED">
 				<Original>DM72 (Red)</Original>
 				<English>DM72 (Red)</English>
 				<German>DM72 (Rot)</German>
 				<Chinesesimp>DM72 (红色)</Chinesesimp>
+				<Korean>DM72 (빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM72_YEL">
 				<Original>DM72 (Yellow)</Original>
 				<English>DM72 (Yellow)</English>
 				<German>DM72 (Gelb)</German>
 				<Chinesesimp>DM72 (黄色)</Chinesesimp>
+				<Korean>DM72 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM102">
 				<Original>DM102</Original>
 				<English>DM102</English>
 				<German>DM102</German>
 				<Chinesesimp>DM102</Chinesesimp>
+				<Korean>DM102</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM102_BLK">
 				<Original>DM102 (Black)</Original>
 				<English>DM102 (Black)</English>
 				<German>DM102 (Schwarz)</German>
 				<Chinesesimp>DM102 (黑色)</Chinesesimp>
+				<Korean>DM102 (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM102_RED">
 				<Original>DM102 (Red)</Original>
 				<English>DM102 (Red)</English>
 				<German>DM102 (Rot)</German>
 				<Chinesesimp>DM102 (红色)</Chinesesimp>
+				<Korean>DM102 (빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM102_YEL">
 				<Original>DM102 (Yellow)</Original>
 				<English>DM102 (Yellow)</English>
 				<German>DM102 (Gelb)</German>
 				<Chinesesimp>DM102 (黄色)</Chinesesimp>
+				<Korean>DM102 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_HOT_HEAT_DM102_HORNETARROW">
 				<Original>DM102 (Arrow)</Original>
@@ -14203,18 +14254,21 @@
 				<English>S-5K (Beige)</English>
 				<German>S-5K (Beige)</German>
 				<Chinesesimp>S-5K (棕色)</Chinesesimp>
+				<Korean>S-5K (베이지)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_16RND_55MM_HEAT_S5K_MARS2_GRY">
 				<Original>S-5K (Grey)</Original>
 				<English>S-5K (Grey)</English>
 				<German>S-5K (Grau)</German>
 				<Chinesesimp>S-5K (灰色)</Chinesesimp>
+				<Korean>S-5K (회색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_16RND_55MM_HEAT_S5K_MARS2_BLU">
 				<Original>S-5K (Blue)</Original>
 				<English>S-5K (Blue)</English>
 				<German>S-5K (Blau)</German>
 				<Chinesesimp>S-5K (蓝色)</Chinesesimp>
+				<Korean>S-5K (파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_16RND_55MM_HEAT_S5K_MARS2_OLI">
 				<Original>S-5K (Olive)</Original>
@@ -14263,18 +14317,21 @@
 				<English>Bastion HEAT 9M117</English>
 				<German>Bastion HEAT 9M117</German>
 				<Chinesesimp>Bastion HEAT 9M117</Chinesesimp>
+				<Korean>바스티온 HEAT 9M117</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_BASTION_HEAT_9M117M">
 				<Original>Bastion HEAT 9M117M</Original>
 				<English>Bastion HEAT 9M117M</English>
 				<German>Bastion HEAT 9M117M</German>
-				<Chinesesimp>Bastion HEAT 9M117</Chinesesimp>
+				<Chinesesimp>Bastion HEAT 9M117M</Chinesesimp>
+				<Korean>바스티온 HEAT 9M117M</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_BASTION_HEAT_9M117M1">
 				<Original>Bastion HEAT 9M117M1</Original>
 				<English>Bastion HEAT 9M117M1</English>
 				<German>Bastion HEAT 9M117M1</German>
 				<Chinesesimp>Bastion HEAT 9M117M1</Chinesesimp>
+				<Korean>바스티온 HEAT 9M117M1</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_HANDGRENADE_FRAG_DM51">
 				<Original>Fragmentation Grenade DM51</Original>
@@ -14427,6 +14484,7 @@
 				<English>AT Mine DM21 - covert</English>
 				<German>Panzerabwehrverlegemine DM21 - Versteckt</German>
 				<Chinesesimp>DM21型 反坦克地雷-隐蔽</Chinesesimp>
+				<Korean>DM21 철갑 지뢰 - 위장됨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MINE_AP_DM31">
 				<Original>AP Mine DM31</Original>
@@ -14574,6 +14632,7 @@
 				<English>100mm 7Rnd HE OF-412</English>
 				<German>100mm 7-Schuss HE OF-412</German>
 				<Chinesesimp>100mm 7Rnd HE OF-412</Chinesesimp>
+				<Korean>100mm 7발 HE OF-412</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_100X695MM_HE_OF412">
 				<Original>100mm 10Rnd HE OF-412</Original>
@@ -14839,6 +14898,7 @@
 				<German>Kaliber: 5,45x39 mm Ball 7N6&lt;br /&gt;Patronen: 45&lt;br /&gt;Eingesetzt von: AK-74</German>
 				<Chinesesimp>口径: 5.45x39 mm Ball 7N6&lt;br /&gt;子弹: 45&lt;br /&gt;用于: AK-74</Chinesesimp>
 				<Russian>Калибр: 5,45 x 39 мм Ball 7N6&lt;br /&gt;Кол-во: 45&lt;br /&gt;Применение: AK-74</Russian>
+				<Korean>구경: 5.45x39mm Ball 7N6&lt;br /&gt;장탄수: 45&lt;br /&gt;사용가능: AK-74</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_45RND_545X39MM_B_T_7T3_AK74">
 				<Original>Caliber: 5.45x39 mm Ball-T 7T3&lt;br /&gt;Rounds: 45&lt;br /&gt;Used in: AK-74</Original>
@@ -15722,6 +15782,7 @@
 				<German>Kaliber: 100 mm HE OF-412&lt;br /&gt;Anzahl: 21&lt;br /&gt;Eingesetzt von: D10</German>
 				<Chinesesimp>口径: 100 mm HE OF-412&lt;br /&gt;Rounds: 21&lt;br /&gt;用于: D10</Chinesesimp>
 				<Russian>Калибр: 100 мм HE OF-412&lt;br /&gt;Кол-во: 21&lt;br /&gt;Применение: D10</Russian>
+				<Korean>구경: 100mm HE OF-412&lt;br /&gt;장탄수: 21&lt;br /&gt;사용가능: D10</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_11RND_100X695MM_HE_OF412">
 				<Original>Caliber: 100 mm HE OF-412&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: D10</Original>
@@ -16602,6 +16663,7 @@
 				<English>7.62x51mm DM21A2 (1000Rnd)</English>
 				<German>7,62x51mm DM21A2 (1002 Sch.)</German>
 				<Chinesesimp>7.62x51mm DM21A2 (1000Rnd)</Chinesesimp>
+				<Korean>7.62x51mm DM21A2 (1000발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_01_1000RND_762X51MM_B_DM111">
 				<Original>7.62x51mm DM111 (1000Rnd)</Original>
@@ -16722,6 +16784,7 @@
 				<English>26.5mm Flare DM21 (Green) (20Rnd)</English>
 				<German>26,5mm Licht DM21 (Grün) (20 Sch.)</German>
 				<Chinesesimp>26.5mm Flare DM21 (Green) (20Rnd)</Chinesesimp>
+				<Korean>26.5mm DM21 조명탄 (초록, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_YEL_DM20">
 				<Original>26.5mm Flare DM20 (Yellow) (20Rnd)</Original>
@@ -16764,6 +16827,7 @@
 				<English>84x245mm HEAT-T DM22 (2Rnd)</English>
 				<German>84x245mm HEAT-T DM22 (2 Sch.)</German>
 				<Chinesesimp>84x245mm HEAT-T DM22 (2Rnd)</Chinesesimp>
+				<Korean>84x245mm HEAT-T DM22 (2발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_2RND_84X245MM_HEAT_T_DM32_CARLGUSTAF">
 				<Original>84x245mm HEAT-T DM32 (2Rnd)</Original>
@@ -16927,6 +16991,7 @@
 				<English>7.62x54mmR B32 (800Rnd)</English>
 				<German>7,62x54mmR B32 (800 Sch.)</German>
 				<Chinesesimp>7.62x54mmR B32 (800Rnd)</Chinesesimp>
+				<Korean>7.62x54mmR B32 (800발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_800RND_762X54MMR_B_T_7T2_PK">
 				<Original>7.62x54mmR 7T2 (800Rnd)</Original>
@@ -21154,6 +21219,7 @@
 				<German>Gerhartz</German>
 				<Chinesesimp>Gerhartz</Chinesesimp>
 				<Russian>Gerhartz</Russian>
+				<Korean>게르하츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GORES">
 				<Original>Gores</Original>
@@ -21161,6 +21227,7 @@
 				<German>Gores</German>
 				<Chinesesimp>Gores</Chinesesimp>
 				<Russian>Gores</Russian>
+				<Korean>고레스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GRABOV">
 				<Original>Grabov</Original>
@@ -21168,6 +21235,7 @@
 				<German>Grabov</German>
 				<Chinesesimp>Grabov</Chinesesimp>
 				<Russian>Grabov</Russian>
+				<Korean>그라보프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HAMPE">
 				<Original>Hampe</Original>
@@ -21182,6 +21250,7 @@
 				<German>Hartmann</German>
 				<Chinesesimp>Hartmann</Chinesesimp>
 				<Russian>Hartmann</Russian>
+				<Korean>하르트만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HECKMANN">
 				<Original>Heckmann</Original>
@@ -21189,6 +21258,7 @@
 				<German>Heckmann</German>
 				<Chinesesimp>Heckmann</Chinesesimp>
 				<Russian>Heckmann</Russian>
+				<Korean>헤크만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEIDE">
 				<Original>Heide</Original>
@@ -21204,6 +21274,7 @@
 				<German>Heinke</German>
 				<Chinesesimp>Heinke</Chinesesimp>
 				<Russian>Heinke</Russian>
+				<Korean>하인케</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINE">
 				<Original>Heine</Original>
@@ -21211,6 +21282,7 @@
 				<German>Heine</German>
 				<Chinesesimp>Heine</Chinesesimp>
 				<Russian>Heine</Russian>
+				<Korean>하이네</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINER">
 				<Original>Heiner</Original>
@@ -21226,6 +21298,7 @@
 				<German>Hell</German>
 				<Chinesesimp>Hell</Chinesesimp>
 				<Russian>Hell</Russian>
+				<Korean>헬</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENGSTENBERG">
 				<Original>Hengstenberg</Original>
@@ -21233,6 +21306,7 @@
 				<German>Hengstenberg</German>
 				<Chinesesimp>Hengstenberg</Chinesesimp>
 				<Russian>Hengstenberg</Russian>
+				<Korean>헝스텐베르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENKEL">
 				<Original>Henkel</Original>
@@ -21240,6 +21314,7 @@
 				<German>Henkel</German>
 				<Chinesesimp>Henkel</Chinesesimp>
 				<Russian>Henkel</Russian>
+				<Korean>헨켈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENNING">
 				<Original>Henning</Original>
@@ -21247,6 +21322,7 @@
 				<German>Henning</German>
 				<Chinesesimp>Henning</Chinesesimp>
 				<Russian>Henning</Russian>
+				<Korean>헤닝</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENNIG">
 				<Original>Hennig</Original>
@@ -21254,6 +21330,7 @@
 				<German>Hennig</German>
 				<Chinesesimp>Hennig</Chinesesimp>
 				<Russian>Hennig</Russian>
+				<Korean>헤닉</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEWUSST">
 				<Original>Hewußt</Original>
@@ -21261,6 +21338,7 @@
 				<German>Hewußt</German>
 				<Chinesesimp>Hewußt</Chinesesimp>
 				<Russian>Hewußt</Russian>
+				<Korean>허우트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HOELLER">
 				<Original>Höller</Original>
@@ -21268,6 +21346,7 @@
 				<German>Höller</German>
 				<Chinesesimp>Höller</Chinesesimp>
 				<Russian>Höller</Russian>
+				<Korean>횔러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HOFFMANN">
 				<Original>Hoffmann</Original>
@@ -21283,6 +21362,7 @@
 				<German>Huber</German>
 				<Chinesesimp>Huber</Chinesesimp>
 				<Russian>Huber</Russian>
+				<Korean>후버</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JUNG">
 				<Original>Jung</Original>
@@ -21298,6 +21378,7 @@
 				<German>Kabus</German>
 				<Chinesesimp>Kabus</Chinesesimp>
 				<Russian>Kabus</Russian>
+				<Korean>카부스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAHN">
 				<Original>Kahn</Original>
@@ -21313,6 +21394,7 @@
 				<German>Kaiser</German>
 				<Chinesesimp>Kaiser</Chinesesimp>
 				<Russian>Kaiser</Russian>
+				<Korean>카이저</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAMINS">
 				<Original>Kamins</Original>
@@ -21320,6 +21402,7 @@
 				<German>Kamins</German>
 				<Chinesesimp>Kamins</Chinesesimp>
 				<Russian>Kamins</Russian>
+				<Korean>카민스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAMP">
 				<Original>Kamp</Original>
@@ -21327,6 +21410,7 @@
 				<German>Kamp</German>
 				<Chinesesimp>Kamp</Chinesesimp>
 				<Russian>Kamp</Russian>
+				<Korean>캄프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KARPF">
 				<Original>Karpf</Original>
@@ -21334,6 +21418,7 @@
 				<German>Karpf</German>
 				<Chinesesimp>Karpf</Chinesesimp>
 				<Russian>Karpf</Russian>
+				<Korean>카르프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KEMPTER">
 				<Original>Kempter</Original>
@@ -21341,6 +21426,7 @@
 				<German>Kempter</German>
 				<Chinesesimp>Kempter</Chinesesimp>
 				<Russian>Kempter</Russian>
+				<Korean>켐프터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KERNER">
 				<Original>Kerner</Original>
@@ -21348,6 +21434,7 @@
 				<German>Kerner</German>
 				<Chinesesimp>Kerner</Chinesesimp>
 				<Russian>Kerner</Russian>
+				<Korean>카르너</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KIND">
 				<Original>Kind</Original>
@@ -21355,6 +21442,7 @@
 				<German>Kind</German>
 				<Chinesesimp>Kind</Chinesesimp>
 				<Russian>Kind</Russian>
+				<Korean>킨드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KLEIN">
 				<Original>Klein</Original>
@@ -21378,6 +21466,7 @@
 				<German>Klöpel</German>
 				<Chinesesimp>Klöpel</Chinesesimp>
 				<Russian>Klöpel</Russian>
+				<Korean>클뢰펠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KNOSKA">
 				<Original>Knoska</Original>
@@ -21385,6 +21474,7 @@
 				<German>Knoska</German>
 				<Chinesesimp>Knoska</Chinesesimp>
 				<Russian>Knoska</Russian>
+				<Korean>크노스카</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOCH">
 				<Original>Koch</Original>
@@ -21400,6 +21490,7 @@
 				<German>Kochert</German>
 				<Chinesesimp>Kochert</Chinesesimp>
 				<Russian>Kochert</Russian>
+				<Korean>코헤트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOHL">
 				<Original>Kohl</Original>
@@ -21407,6 +21498,7 @@
 				<German>Kohl</German>
 				<Chinesesimp>Kohl</Chinesesimp>
 				<Russian>Kohl</Russian>
+				<Korean>코흘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOHLMAN">
 				<Original>Kohlman</Original>
@@ -21414,6 +21506,7 @@
 				<German>Kohlman</German>
 				<Chinesesimp>Kohlman</Chinesesimp>
 				<Russian>Kohlman</Russian>
+				<Korean>코흘만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KONARSKE">
 				<Original>Konarske</Original>
@@ -21421,6 +21514,7 @@
 				<German>Konarske</German>
 				<Chinesesimp>Konarske</Chinesesimp>
 				<Russian>Konarske</Russian>
+				<Korean>코나르스크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOZIK">
 				<Original>Kozik</Original>
@@ -21428,6 +21522,7 @@
 				<German>Kozik</German>
 				<Chinesesimp>Kozik</Chinesesimp>
 				<Russian>Kozik</Russian>
+				<Korean>코직</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KNAUER">
 				<Original>Knauer</Original>
@@ -21435,6 +21530,7 @@
 				<German>Knauer</German>
 				<Chinesesimp>Knauer</Chinesesimp>
 				<Russian>Knauer</Russian>
+				<Korean>크나우어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAEMER">
 				<Original>Krämer</Original>
@@ -21442,6 +21538,7 @@
 				<German>Krämer</German>
 				<Chinesesimp>Krämer</Chinesesimp>
 				<Russian>Krämer</Russian>
+				<Korean>크뢰머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAMER">
 				<Original>Kramer</Original>
@@ -21449,6 +21546,7 @@
 				<German>Kramer</German>
 				<Chinesesimp>Kramer</Chinesesimp>
 				<Russian>Kramer</Russian>
+				<Korean>크람머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAUS">
 				<Original>Kraus</Original>
@@ -21456,6 +21554,7 @@
 				<German>Kraus</German>
 				<Chinesesimp>Kraus</Chinesesimp>
 				<Russian>Kraus</Russian>
+				<Korean>크라우스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAUSE">
 				<Original>Krause</Original>
@@ -21463,6 +21562,7 @@
 				<German>Krause</German>
 				<Chinesesimp>Krause</Chinesesimp>
 				<Russian>Krause</Russian>
+				<Korean>크라우제</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRESS">
 				<Original>Kress</Original>
@@ -21470,6 +21570,7 @@
 				<German>Kress</German>
 				<Chinesesimp>Kress</Chinesesimp>
 				<Russian>Kress</Russian>
+				<Korean>크레스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KREST">
 				<Original>Krest</Original>
@@ -21477,6 +21578,7 @@
 				<German>Krest</German>
 				<Chinesesimp>Krest</Chinesesimp>
 				<Russian>Krest</Russian>
+				<Korean>크레스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRUEGER">
 				<Original>Krüger</Original>
@@ -21492,6 +21594,7 @@
 				<German>Kühlmorgen</German>
 				<Chinesesimp>Kühlmorgen</Chinesesimp>
 				<Russian>Kühlmorgen</Russian>
+				<Korean>퀼모르겐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KUHN">
 				<Original>Kuhn</Original>
@@ -21499,6 +21602,7 @@
 				<German>Kuhn</German>
 				<Chinesesimp>Kuhn</Chinesesimp>
 				<Russian>Kuhn</Russian>
+				<Korean>쿤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KUJAN">
 				<Original>Kujan</Original>
@@ -21506,6 +21610,7 @@
 				<German>Kujan</German>
 				<Chinesesimp>Kujan</Chinesesimp>
 				<Russian>Kujan</Russian>
+				<Korean>쿠얀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KURZ">
 				<Original>Kurz</Original>
@@ -21521,6 +21626,7 @@
 				<German>Kross</German>
 				<Chinesesimp>Kross</Chinesesimp>
 				<Russian>Kross</Russian>
+				<Korean>크로스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LAHM">
 				<Original>Lahm</Original>
@@ -21528,6 +21634,7 @@
 				<German>Lahm</German>
 				<Chinesesimp>Lahm</Chinesesimp>
 				<Russian>Lahm</Russian>
+				<Korean>라흠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LAMPERT">
 				<Original>Lampert</Original>
@@ -21535,6 +21642,7 @@
 				<German>Lampert</German>
 				<Chinesesimp>Lampert</Chinesesimp>
 				<Russian>Lampert</Russian>
+				<Korean>람페르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LANG">
 				<Original>Lang</Original>
@@ -21542,6 +21650,7 @@
 				<German>Lang</German>
 				<Chinesesimp>Lang</Chinesesimp>
 				<Russian>Lang</Russian>
+				<Korean>랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LEHMANN">
 				<Original>Lehmann</Original>
@@ -21549,6 +21658,7 @@
 				<German>Lehmann</German>
 				<Chinesesimp>Lehmann</Chinesesimp>
 				<Russian>Lehmann</Russian>
+				<Korean>레흐만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LINDEMANN">
 				<Original>Lindemann</Original>
@@ -21564,6 +21674,7 @@
 				<German>Mandel</German>
 				<Chinesesimp>Mandel</Chinesesimp>
 				<Russian>Mandel</Russian>
+				<Korean>만델</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MAREK">
 				<Original>Marek</Original>
@@ -21571,6 +21682,7 @@
 				<German>Marek</German>
 				<Chinesesimp>Marek</Chinesesimp>
 				<Russian>Marek</Russian>
+				<Korean>마렉</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MEIER">
 				<Original>Meier</Original>
@@ -21578,6 +21690,7 @@
 				<German>Meier</German>
 				<Chinesesimp>Meier</Chinesesimp>
 				<Russian>Meier</Russian>
+				<Korean>마이어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MELKERS">
 				<Original>Melkers</Original>
@@ -21585,6 +21698,7 @@
 				<German>Melkers</German>
 				<Chinesesimp>Melkers</Chinesesimp>
 				<Russian>Melkers</Russian>
+				<Korean>멜커스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MEURER">
 				<Original>Meurer</Original>
@@ -21592,6 +21706,7 @@
 				<German>Meurer</German>
 				<Chinesesimp>Meurer</Chinesesimp>
 				<Russian>Meurer</Russian>
+				<Korean>마우어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MOELLER">
 				<Original>Möller</Original>
@@ -21599,6 +21714,7 @@
 				<German>Möller</German>
 				<Chinesesimp>Möller</Chinesesimp>
 				<Russian>Möller</Russian>
+				<Korean>묄러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MOHR">
 				<Original>Mohr</Original>
@@ -21606,6 +21722,7 @@
 				<German>Mohr</German>
 				<Chinesesimp>Mohr</Chinesesimp>
 				<Russian>Mohr</Russian>
+				<Korean>모흐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MUELLER">
 				<Original>Müller</Original>
@@ -21613,6 +21730,7 @@
 				<German>Müller</German>
 				<Chinesesimp>Müller</Chinesesimp>
 				<Russian>Müller</Russian>
+				<Korean>뮐러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NACK">
 				<Original>Nack</Original>
@@ -21620,6 +21738,7 @@
 				<German>Nack</German>
 				<Chinesesimp>Nack</Chinesesimp>
 				<Russian>Nack</Russian>
+				<Korean>낙크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NAUMANN">
 				<Original>Naumann</Original>
@@ -21627,6 +21746,7 @@
 				<German>Naumann</German>
 				<Chinesesimp>Naumann</Chinesesimp>
 				<Russian>Naumann</Russian>
+				<Korean>나우만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NEUKIRCHEN">
 				<Original>Neukirchen</Original>
@@ -21634,6 +21754,7 @@
 				<German>Neukirchen</German>
 				<Chinesesimp>Neukirchen</Chinesesimp>
 				<Russian>Neukirchen</Russian>
+				<Korean>노이키르첸</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NEUMANN">
 				<Original>Neumann</Original>
@@ -21641,6 +21762,7 @@
 				<German>Neumann</German>
 				<Chinesesimp>Neumann</Chinesesimp>
 				<Russian>Neumann</Russian>
+				<Korean>노이만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NIEDRIG">
 				<Original>Niedrig</Original>
@@ -21648,6 +21770,7 @@
 				<German>Niedrig</German>
 				<Chinesesimp>Niedrig</Chinesesimp>
 				<Russian>Niedrig</Russian>
+				<Korean>니드릭</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NOHL">
 				<Original>Nohl</Original>
@@ -21655,6 +21778,7 @@
 				<German>Nohl</German>
 				<Chinesesimp>Nohl</Chinesesimp>
 				<Russian>Nohl</Russian>
+				<Korean>노흘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NOWITZKI">
 				<Original>Nowitzki</Original>
@@ -21662,6 +21786,7 @@
 				<German>Nowitzki</German>
 				<Chinesesimp>Nowitzki</Chinesesimp>
 				<Russian>Nowitzki</Russian>
+				<Korean>노비츠키</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PETERS">
 				<Original>Peters</Original>
@@ -21677,6 +21802,7 @@
 				<German>Plötz</German>
 				<Chinesesimp>Plötz</Chinesesimp>
 				<Russian>Plötz</Russian>
+				<Korean>플뢰츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PODOLSKI">
 				<Original>Podolski</Original>
@@ -21684,6 +21810,7 @@
 				<German>Podolski</German>
 				<Chinesesimp>Podolski</Chinesesimp>
 				<Russian>Podolski</Russian>
+				<Korean>포돌스키</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PRINZ">
 				<Original>Prinz</Original>
@@ -21699,6 +21826,7 @@
 				<German>Pruust</German>
 				<Chinesesimp>Pruust</Chinesesimp>
 				<Russian>Pruust</Russian>
+				<Korean>프루스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PUCHTLER">
 				<Original>Puchtler</Original>
@@ -21706,6 +21834,7 @@
 				<German>Puchtler</German>
 				<Chinesesimp>Puchtler</Chinesesimp>
 				<Russian>Puchtler</Russian>
+				<Korean>푸츨러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RAUSCHEN">
 				<Original>Rauschen</Original>
@@ -21713,6 +21842,7 @@
 				<German>Rauschen</German>
 				<Chinesesimp>Rauschen</Chinesesimp>
 				<Russian>Rauschen</Russian>
+				<Korean>라우쉔</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_REINDEL">
 				<Original>Reindel</Original>
@@ -21720,6 +21850,7 @@
 				<German>Reindel</German>
 				<Chinesesimp>Reindel</Chinesesimp>
 				<Russian>Reindel</Russian>
+				<Korean>라인델</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_REINERS">
 				<Original>Reiners</Original>
@@ -21727,6 +21858,7 @@
 				<German>Reiners</German>
 				<Chinesesimp>Reiners</Chinesesimp>
 				<Russian>Reiners</Russian>
+				<Korean>라이너스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RENNER">
 				<Original>Renner</Original>
@@ -21742,6 +21874,7 @@
 				<German>Rennsing</German>
 				<Chinesesimp>Rennsing</Chinesesimp>
 				<Russian>Rennsing</Russian>
+				<Korean>라인지크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_REUTER">
 				<Original>Reuter</Original>
@@ -21749,6 +21882,7 @@
 				<German>Reuter</German>
 				<Chinesesimp>Reuter</Chinesesimp>
 				<Russian>Reuter</Russian>
+				<Korean>라우터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RICHTER">
 				<Original>Richter</Original>
@@ -21756,6 +21890,7 @@
 				<German>Richter</German>
 				<Chinesesimp>Richter</Chinesesimp>
 				<Russian>Richter</Russian>
+				<Korean>리히터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROCHUS">
 				<Original>Rochus</Original>
@@ -21763,6 +21898,7 @@
 				<German>Rochus</German>
 				<Chinesesimp>Rochus</Chinesesimp>
 				<Russian>Rochus</Russian>
+				<Korean>로쿠스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUBEL">
 				<Original>Rubel</Original>
@@ -21770,6 +21906,7 @@
 				<German>Rubel</German>
 				<Chinesesimp>Rubel</Chinesesimp>
 				<Russian>Rubel</Russian>
+				<Korean>루벨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUEHE">
 				<Original>Rühe</Original>
@@ -21777,6 +21914,7 @@
 				<German>Rühe</German>
 				<Chinesesimp>Rühe</Chinesesimp>
 				<Russian>Rühe</Russian>
+				<Korean>뤼허</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUF">
 				<Original>Ruf</Original>
@@ -21784,6 +21922,7 @@
 				<German>Ruf</German>
 				<Chinesesimp>Ruf</Chinesesimp>
 				<Russian>Ruf</Russian>
+				<Korean>루프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUNKEL">
 				<Original>Runkel</Original>
@@ -21791,6 +21930,7 @@
 				<German>Runkel</German>
 				<Chinesesimp>Runkel</Chinesesimp>
 				<Russian>Runkel</Russian>
+				<Korean>룬켈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SAENGER">
 				<Original>Sänger</Original>
@@ -21798,6 +21938,7 @@
 				<German>Sänger</German>
 				<Chinesesimp>Sänger</Chinesesimp>
 				<Russian>Sänger</Russian>
+				<Korean>생어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SEIBERT">
 				<Original>Seibert</Original>
@@ -21805,6 +21946,7 @@
 				<German>Seibert</German>
 				<Chinesesimp>Seibert</Chinesesimp>
 				<Russian>Seibert</Russian>
+				<Korean>자이베르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHAEFER">
 				<Original>Schäfer</Original>
@@ -21812,6 +21954,7 @@
 				<German>Schäfer</German>
 				<Chinesesimp>Schäfer</Chinesesimp>
 				<Russian>Schäfer</Russian>
+				<Korean>셰퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHARF">
 				<Original>Scharf</Original>
@@ -21819,6 +21962,7 @@
 				<German>Scharf</German>
 				<Chinesesimp>Scharf</Chinesesimp>
 				<Russian>Scharf</Russian>
+				<Korean>샤프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHIEBEL">
 				<Original>Schiebel</Original>
@@ -21875,7 +22019,7 @@
 				<German>Schmitz</German>
 				<Chinesesimp>Schmitz</Chinesesimp>
 				<Russian>Schmitz</Russian>
-				<Korean>슈바르츠</Korean>
+				<Korean>슈미츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUETTE">
 				<Original>Schütte</Original>
@@ -21939,6 +22083,7 @@
 				<German>Schwarz</German>
 				<Chinesesimp>Schwarz</Chinesesimp>
 				<Russian>Schwarz</Russian>
+				<Korean>슈바르츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHWEINSTEIGER">
 				<Original>Schweinsteiger</Original>
@@ -22066,7 +22211,7 @@
 				<German>Weber</German>
 				<Chinesesimp>Weber</Chinesesimp>
 				<Russian>Weber</Russian>
-				<Korean>베버.</Korean>
+				<Korean>베버</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WEIGEL">
 				<Original>Weigel</Original>
@@ -22959,7 +23104,7 @@
 				<German>Julian Sänger</German>
 				<Chinesesimp>Julian Sänger</Chinesesimp>
 				<Chinese>Julian Sänger</Chinese>
-				<Korean>율리안 젱어</Korean>
+				<Korean>율리안 생어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_03">
 				<Original>Lars Transfeld</Original>
@@ -23015,7 +23160,7 @@
 				<German>3. PzGrenBtl 23 hat den Auftrag die Brücken bei Querenhorst zu nehmen.</German>
 				<Chinesesimp>第23装甲掷弹兵营3连的任务是夺取Querenhorst的桥梁。</Chinesesimp>
 				<Chinese>第23裝甲擲彈兵營3連的任務是奪取Querenhorst的橋樑。</Chinese>
-				<Korean>3.기갑척탄병 23대대는 퀴렌호스트의 다리를 점령하라는 임무를 하달받았다.</Korean>
+				<Korean>기갑척탄병 23대대의 3중대는 퀴렌호스트의 다리를 점령하라는 임무를 하달받았다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_01_TITLE">
 				<Original>Take Klein Sisbeck</Original>
@@ -23103,7 +23248,7 @@
 				<German>Feindlage</German>
 				<Chinesesimp>形势</Chinesesimp>
 				<Chinese>形勢</Chinese>
-				<Korean>상황</Korean>
+				<Korean>현재 상황</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_02">
 				<Original>Today at 0200 enemy forces of unknown strength have crossed the border into West Germany near Helmstedt.</Original>
@@ -23111,6 +23256,7 @@
 				<German>Feindkräfte in unbekannter Stärke haben heute Morgen um 0200 im Raum zwischen Wolfsburg und Helmstedt die Grenze überquert.</German>
 				<Chinesesimp>今天凌晨两点，兵力不详的敌军越过了赫尔姆施泰特附近的西德边境。</Chinesesimp>
 				<Chinese>今天凌晨兩點，兵力不詳的敵軍越過了赫爾姆施泰特附近的西德邊境。</Chinese>
+				<Korean>오늘 0200시경 규모를 알 수 없는 적대세력이 헬름슈테트 근처의 서독 국경을 넘었다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_03">
 				<Original>Advanced forces have been spotted near Gross Sissbeck and Gross Twülpstedt.</Original>
@@ -23118,6 +23264,7 @@
 				<German>Vorderste Spitzen wurden auf Höhe Gross Sisbeck/Gross Twülpstedt aufgeklärt.</German>
 				<Chinesesimp>在Gross Sissbeck和Gross Twülpstedt附近发现了敌军先头部队。</Chinesesimp>
 				<Chinese>在Gross Sissbeck和Gross Twülpstedt附近發現了敵軍先頭部隊。</Chinese>
+				<Korean>그로스 지스벡과 트발프슈테트 근방에서 전진하는 적 세력이 포착되었다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_04">
 				<Original>Their assumed intention is to set bridgeheads over the river Aller and to secure the advancement of following forces.</Original>
@@ -23125,6 +23272,7 @@
 				<German>Vermutete Absicht ist es dort Brückenköpfe über die Aller zu bilden, um das Nachrücken weiterer Kräfte zu sichern.</German>
 				<Chinesesimp>他们的意图可能是在Aller河边建立桥头堡，确保后续部队顺利推进。</Chinesesimp>
 				<Chinese>他們的意圖可能是在Aller河邊建立橋頭堡，確保後續部隊順利推進。</Chinese>
+				<Korean>그들의 의도는 후속부대를 위한 교두보를 확보하는 것으로 보인다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_05">
 				<Original>Our situation</Original>
@@ -23132,6 +23280,7 @@
 				<German>Eigene Lage</German>
 				<Chinesesimp>我军处境</Chinesesimp>
 				<Chinese>我軍處境</Chinese>
+				<Korean>우리의 상황</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_06">
 				<Original>2nd Company of 22nd Armored Battalion has been attached.</Original>
@@ -23139,6 +23288,7 @@
 				<German>2. PzBtl 22 wurde uns unterstellt.</German>
 				<Chinesesimp>第22装甲营2连已经部署完毕。</Chinesesimp>
 				<Chinese>第22裝甲營2連已經部署完畢。</Chinese>
+				<Korean>22기갑연대의 2중대가 지원해줄 것이다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_07">
 				<Original>23rd reinforced mechanized infantry battalion has assumed positions north and south of Volkmarsdorf.</Original>
@@ -23146,6 +23296,7 @@
 				<German>Verstärktes PzGrenBtl 23 hat vorgeschobene Stellung nördlich und südlich von Volkmarsdorf bezogen.</German>
 				<Chinesesimp>第23装甲掷弹兵营已在Volkmarsdorf的北部和南部建立了阵地。</Chinesesimp>
 				<Chinese>第23裝甲擲彈兵營已在Volkmarsdorf的北部和南部建立了陣地。</Chinese>
+				<Korean>볼크마르스도르프 북쪽과 남쪽에 지원차 와있는 23 기계화보병 여단이 자리잡았다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_08">
 				<Original>Task</Original>
@@ -23161,6 +23312,7 @@
 				<German>Zerschlagen von feindlichen Kräften westlich der Aller und Gewinnen von Stellungen westlich von Querenhorst.</German>
 				<Chinesesimp>摧毁Aller河以西的敌军，并占领Querenhorst以西的阵地。</Chinesesimp>
 				<Chinese>摧毀Aller河以西的敵軍，並佔領Querenhorst以西的陣地。</Chinese>
+				<Korean>엘러강 서쪽의 적군들을 궤멸시키고 퀴렌호스트 서쪽에 자리를 잡아라.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_10">
 				<Original>Execution</Original>
@@ -23168,6 +23320,7 @@
 				<German>Durchführung</German>
 				<Chinesesimp>执行</Chinesesimp>
 				<Chinese>執行</Chinese>
+				<Korean>수행할 임무</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_11">
 				<Original>2nd Company to take positions north of Querenhorst and secure northern flank, more info on that later.</Original>
@@ -23175,6 +23328,7 @@
 				<German>2. Kompanie gewinnt Stellungen nördlich Querenhorst und sichert nördliche Flanke. Hierzu später mehr.</German>
 				<Chinesesimp>2连占领Querenhorst北面的阵地并确保北侧的安全，稍后会有更多的任务信息。</Chinesesimp>
 				<Chinese>2連佔領Querenhorst北面的陣地並確保北側的安全，稍後會有更多的任務信息。</Chinese>
+				<Korean>2중대는 퀴렌호스트 북쪽에 자리잡고 북쪽방면을 확보해라. 추후에 지시를 더 내리겠다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_12">
 				<Original>3rd Company, in the center, to attack from Klein Sisbeck, towards Gross Sisbeck and Querenhorst, taking bridgeheads at Querenhorst.</Original>
@@ -25224,6 +25378,7 @@
 				<English>This is WESPE. Understood. Out.</English>
 				<German>Hier WESPE, Verstanden. Ende.</German>
 				<Chinesesimp>这里是WESPE。收到，完毕。</Chinesesimp>
+				<Korean>여기는 WESPE. 알겠다. 이상.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_009A">
 				<Original>WESPE, This is Hammer, over.</Original>
@@ -25250,6 +25405,7 @@
 				<English>This is WESPE. Understood. Out.</English>
 				<German>Hier WESPE, Verstanden. Ende.</German>
 				<Chinesesimp>这里是WESPE。收到，完毕。</Chinesesimp>
+				<Korean>여기는 WESPE. 알겠다. 이상.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_011A">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -25262,6 +25418,7 @@
 				<English>This is WESPE. Over.</English>
 				<German>Hier WESPE, Kommen.</German>
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
+				<Korean>여기는 WESPE.오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_012">
 				<Original>This is HAMMER. Objective completed. Securing the area. Over.</Original>
@@ -25431,12 +25588,14 @@
 				<English>2. PzBtl 22 secures the area of Rätzlingen.</English>
 				<German>2. PzBtl 22 sichert das Gebiet um Rätzlingen.</German>
 				<Chinesesimp>第22装甲营2连夺取Rätzlingen地区。</Chinesesimp>
+				<Korean>22기갑척탄대대 2중대는 뢰츨링겐 지역을 확보한다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_TASK_01_TITLE">
 				<Original>Defend</Original>
 				<English>Defend</English>
 				<German>Verteidigen</German>
 				<Chinesesimp>防御</Chinesesimp>
+				<Korean>방어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_TASK_01_TEXT">
 				<Original>Hold and Defend the current location against oncoming enemy forces.</Original>
@@ -25637,6 +25796,7 @@
 				<English>Wolfsburg? Remaining forces?</English>
 				<German>Wolfsburg? Verbleibende Kräfte?</German>
 				<Chinesesimp>沃尔夫斯堡？剩余部队？</Chinesesimp>
+				<Korean>볼프스베르크? 잔존부대?</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_R_005B">
 				<Original>We ran high tail out of there, and now we're evacuating the region.</Original>
@@ -25649,6 +25809,7 @@
 				<English>What the hell happened.</English>
 				<German>Was zur Hölle ist passiert?</German>
 				<Chinesesimp>到底发生了什么。</Chinesesimp>
+				<Korean>뭔놈의 망할일이 일어나는거야.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_R_006A">
 				<Original>We'll have to find a way across the border fortifications.</Original>
@@ -25795,6 +25956,7 @@
 				<English>gm_tagesblick_report_01_en</English>
 				<German>gm_tagesblick_report_01_de</German>
 				<Chinesesimp>gm_tagesblick_report_01_en</Chinesesimp>
+				<Korean>gm_tagesblick_report_01_en</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_REPORT_01">
 				<Original>Yesterday evening a grave incident occurred at the Inner German Border.</Original>
@@ -25916,55 +26078,63 @@
 				<English>Julian Sänger</English>
 				<German>Julian Sänger</German>
 				<Chinesesimp>Julian Sänger</Chinesesimp>
-				<Korean>율리안 젱어</Korean>
+				<Korean>율리안 생어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_01C">
 				<Original>Lars Transfeld</Original>
 				<English>Lars Transfeld</English>
 				<German>Lars Transfeld</German>
 				<Chinesesimp>Lars Transfeld</Chinesesimp>
+				<Korean>라르스 트란스펠드</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_01D">
 				<Original>Stephan Weise</Original>
 				<English>Stephan Weise</English>
 				<German>Stephan Weise</German>
 				<Chinesesimp>Stephan Weise</Chinesesimp>
+				<Korean>슈테판 바이스</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_01A_B">
 				<Original>Additional Art:</Original>
 				<English>Additional Art:</English>
 				<German>Weitere Modelle:</German>
 				<Chinesesimp>附加艺术：</Chinesesimp>
+				<Korean>추가 아트팀:</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_02A">
 				<Original>Special Thanks:</Original>
 				<English>Special Thanks:</English>
 				<German>Ausdrücklicher Dank:</German>
 				<Chinesesimp>特别感谢：</Chinesesimp>
+				<Korean>Special Thanks:</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_02B">
 				<Original>René Jensen</Original>
 				<English>René Jensen</English>
 				<German>René Jensen</German>
 				<Chinesesimp>René Jensen</Chinesesimp>
+				<Korean>레네 옌센</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_02C">
 				<Original>Lars Köllner</Original>
 				<English>Lars Köllner</English>
 				<German>Lars Köllner</German>
 				<Chinesesimp>Lars Köllner</Chinesesimp>
+				<Korean>라르스 쾰레너</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_03A">
 				<Original>Thanks:</Original>
 				<English>Thanks:</English>
 				<German>Dank:</German>
 				<Chinesesimp>感谢：</Chinesesimp>
+				<Korean>Thanks:</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_03B">
 				<Original>Jaentzen</Original>
 				<English>Jaentzen</English>
 				<German>Jaentzen</German>
 				<Chinesesimp>Jaentzen</Chinesesimp>
+				<Korean>Jaentzen</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04A">
 				<Original>Voice Talent:</Original>
@@ -25978,55 +26148,63 @@
 				<English>Benedict Benken</English>
 				<German>Benedict Benken</German>
 				<Chinesesimp>Benedict Benken</Chinesesimp>
+				<Korean>베네딕트 벤켄</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04C">
 				<Original>Torsten Freyer</Original>
 				<English>Torsten Freyer</English>
 				<German>Torsten Freyer</German>
 				<Chinesesimp>Torsten Freyer</Chinesesimp>
+				<Korean>토르스텐 프레어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04D">
 				<Original>Sven Lippmann</Original>
 				<English>Sven Lippmann</English>
 				<German>Sven Lippmann</German>
 				<Chinesesimp>Sven Lippmann</Chinesesimp>
+				<Korean>스벤 리프만</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04E">
 				<Original>Jan Piepelow</Original>
 				<English>Jan Piepelow</English>
 				<German>Jan Piepelow</German>
 				<Chinesesimp>Jan Piepelow</Chinesesimp>
+				<Korean>얀 파이펠로</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04F">
 				<Original>Patrick Reister</Original>
 				<English>Patrick Reister</English>
 				<German>Patrick Reister</German>
 				<Chinesesimp>Patrick Reister</Chinesesimp>
+				<Korean>페트릭 라이스터</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04G">
 				<Original>Gerd Sänger</Original>
 				<English>Gerd Sänger</English>
 				<German>Gerd Sänger</German>
 				<Chinesesimp>Gerd Sänger</Chinesesimp>
+				<Korean>게라드 생어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04H">
 				<Original>Julian Sänger</Original>
 				<English>Julian Sänger</English>
 				<German>Julian Sänger</German>
 				<Chinesesimp>Julian Sänger</Chinesesimp>
-				<Korean>율리안 젱어</Korean>
+				<Korean>율리안 생어</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_CREDITS_TEXT_04I">
 				<Original>Lars Transfeld</Original>
 				<English>Lars Transfeld</English>
 				<German>Lars Transfeld</German>
 				<Chinesesimp>Lars Transfeld</Chinesesimp>
+				<Korean>라르스 트란스펠드</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_DESERTER_TITLE">
 				<Original>AWOL</Original>
 				<English>AWOL</English>
 				<German>Fahnenflucht</German>
 				<Chinesesimp>逃兵</Chinesesimp>
+				<Korean>탈영병</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_DESERTER_OVERVIEW">
 				<Original>Shameful conduct.</Original>
@@ -27857,18 +28035,21 @@
 				<English>Medical Tent</English>
 				<German>Sanitätszelt</German>
 				<Chinesesimp>医疗帐篷</Chinesesimp>
+				<Korean>의료 텐트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_TENT_SLEEPING">
 				<Original>Sleeping Tent</Original>
 				<English>Sleeping Tent</English>
 				<German>Schlafzelt</German>
 				<Chinesesimp>睡眠帐篷</Chinesesimp>
+				<Korean>수면용 텐트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_TENT_SUPPLY">
 				<Original>Supply Tent</Original>
 				<English>Supply Tent</English>
 				<German>Versorgungszelt</German>
 				<Chinesesimp>补给帐篷</Chinesesimp>
+				<Korean>보급 텐트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_TEST_MESS">
 				<Original>Mess Tent</Original>
@@ -27897,18 +28078,21 @@
 				<English>Ruins (Weferlingen)</English>
 				<German>Ruinen (Weferlingen)</German>
 				<Chinesesimp>废墟(韦弗林根)</Chinesesimp>
+				<Korean>폐허 (벨페르링겐)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_BARGATE">
 				<Original>Open Bargate</Original>
 				<English>Open Bargate</English>
 				<German>Schlagbaum Öffnen</German>
 				<Chinesesimp>打开高速公路</Chinesesimp>
+				<Korean>바리게이트 열기</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CLOSE_BARGATE">
 				<Original>Close Bargate</Original>
 				<English>Close Bargate</English>
 				<German>Schlagbaum Schließen</German>
 				<Chinesesimp>关闭高速公路</Chinesesimp>
+				<Korean>바리게이트 닫기</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_GATE">
 				<Original>Open Gate</Original>
@@ -29073,12 +29257,14 @@
 				<English>Vending Machine (Cigarettes)</English>
 				<German>Verkaufsautomat (Zigaretten)</German>
 				<Chinesesimp>自动售货机(香烟)</Chinesesimp>
+				<Korean>벤딩 기계 (담배)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CIGARETTEBOX_W">
 				<Original>Vending Machine (Cigarettes)</Original>
 				<English>Vending Machine (Cigarettes)</English>
 				<German>Verkaufsautomat (Zigaretten)</German>
 				<Chinesesimp>自动售货机(香烟)</Chinesesimp>
+				<Korean>벤딩 기계 (담배)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CLOTHESLINE_01">
 				<Original>Clothesline</Original>
@@ -29097,36 +29283,42 @@
 				<English>Container (Blue)</English>
 				<German>Absetzcontainer (Blau)</German>
 				<Chinesesimp>集装箱(蓝)</Chinesesimp>
+				<Korean>컨테이너 (파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_01_GRN">
 				<Original>Container (Green)</Original>
 				<English>Container (Green)</English>
 				<German>Absetzcontainer (Grün)</German>
 				<Chinesesimp>集装箱(绿)</Chinesesimp>
+				<Korean>컨테이너 (초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_01_GRY">
 				<Original>Container (Grey)</Original>
 				<English>Container (Grey)</English>
 				<German>Absetzcontainer (Grau)</German>
 				<Chinesesimp>集装箱(灰)</Chinesesimp>
+				<Korean>컨테이너 (회색)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_01_ORN">
 				<Original>Container (Orange)</Original>
 				<English>Container (Orange)</English>
 				<German>Absetzcontainer (Orange)</German>
 				<Chinesesimp>集装箱(橙)</Chinesesimp>
+				<Korean>컨테이너 (오렌지)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_01_TAN">
 				<Original>Container (Tan)</Original>
 				<English>Container (Tan)</English>
 				<German>Absetzcontainer (Beige)</German>
 				<Chinesesimp>集装箱(沙漠)</Chinesesimp>
+				<Korean>컨테이너 (Tan)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_01_YEL">
 				<Original>Container (Yellow)</Original>
 				<English>Container (Yellow)</English>
 				<German>Absetzcontainer (Gelb)</German>
 				<Chinesesimp>集装箱(黄)</Chinesesimp>
+				<Korean>컨테이너 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CRANE_01">
 				<Original>Loading Crane</Original>
@@ -30192,6 +30384,7 @@
 				<English>Streetlamp</English>
 				<German>Straßenleuchte</German>
 				<Chinesesimp>路灯</Chinesesimp>
+				<Korean>가로등</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CHICKENCOOP_01">
 				<Original>Chicken Coop</Original>
@@ -30210,6 +30403,7 @@
 				<English>Trashbin</English>
 				<German>Müllcontainer</German>
 				<Chinesesimp>垃圾桶</Chinesesimp>
+				<Korean>휴지통</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FUELPUMP_01_W">
 				<Original>Fuel Pump (SB)</Original>
@@ -30240,12 +30434,14 @@
 				<English>Plastic Chair</English>
 				<German>Plastikstuhl</German>
 				<Chinesesimp>塑胶椅</Chinesesimp>
+				<Korean>플라스틱 의자</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_PLASTICTABLE_01">
 				<Original>Plastic Table</Original>
 				<English>Plastic Table</English>
 				<German>Plastiktisch</German>
 				<Chinesesimp>塑胶桌</Chinesesimp>
+				<Korean>플라스틱 탁자</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_02_BLU">
 				<Original>Container (Blue)</Original>
@@ -30300,6 +30496,7 @@
 				<English>Phone Booth 2</English>
 				<German>Telefonzelle 2</German>
 				<Chinesesimp>电话亭2</Chinesesimp>
+				<Korean>전화박스 2</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_DEERSTAND_01">
 				<Original>Deerstand</Original>
@@ -32126,6 +32323,7 @@
 				<English>KPz 2A4</English>
 				<German>KPz 2A4</German>
 				<Chinesesimp>KPz 2A4</Chinesesimp>
+				<Korean>KPz 2A4</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_LEOPARD2A5">
 				<Original>KPz 2A5</Original>
@@ -32169,6 +32367,7 @@
 				<English>M113A2</English>
 				<German>M113A2</German>
 				<Chinesesimp>M113A2</Chinesesimp>
+				<Korean>M113A2</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M113A3">
 				<Original>M113A3</Original>
@@ -32188,6 +32387,7 @@
 				<English>M113A2G</English>
 				<German>M113A2G</German>
 				<Chinesesimp>M113A2G</Chinesesimp>
+				<Korean>M113A2G</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M113A1DK">
 				<Original>M113A1DK</Original>
@@ -32212,6 +32412,7 @@
 				<English>M577</English>
 				<German>M577</German>
 				<Chinesesimp>M577</Chinesesimp>
+				<Korean>M577</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M577A1">
 				<Original>M577A1</Original>
@@ -32236,6 +32437,7 @@
 				<English>M577A2G</English>
 				<German>M577A2G</German>
 				<Chinesesimp>M577A2G</Chinesesimp>
+				<Korean>M577A2G</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M113A1_APC">
 				<Original>M113A1G APC</Original>
@@ -32301,6 +32503,7 @@
 				<English>M113A1DK Engineer</English>
 				<German>M113A1DK PzPiGrp</German>
 				<Chinesesimp>M113A1DK(工程)</Chinesesimp>
+				<Korean>M113A1DK (공병)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_M113">
 				<Original>M113</Original>
@@ -32346,6 +32549,7 @@
 				<English>SPz 1</English>
 				<German>SPz 1</German>
 				<Chinesesimp>SPz 1</Chinesesimp>
+				<Korean>SPz 1</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MARDER1A0">
 				<Original>SPz 1A0</Original>
@@ -32377,6 +32581,7 @@
 				<English>SPz 1A1+</English>
 				<German>SPz 1A1+</German>
 				<Chinesesimp>SPz 1A1+</Chinesesimp>
+				<Korean>SPz 1A1+</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MARDER1A1A2">
 				<Original>SPz 1A1A2</Original>
@@ -32431,6 +32636,7 @@
 				<English>SPz 1A3VB</English>
 				<German>SPz 1A3VB</German>
 				<Chinesesimp>SPz 1A3VB</Chinesesimp>
+				<Korean>SPz 1A3VB</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MARDER1A4">
 				<Original>SPz 1A4</Original>
@@ -32455,6 +32661,7 @@
 				<English>SPz 1</English>
 				<German>SPz 1</German>
 				<Chinesesimp>SPz 1</Chinesesimp>
+				<Korean>SPz 1</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_MARDER1A0">
 				<Original>SPz 1A0</Original>
@@ -32515,6 +32722,7 @@
 				<English>SPz 1A1A5</English>
 				<German>SPz 1A1A5</German>
 				<Chinesesimp>SPz 1A1A5</Chinesesimp>
+				<Korean>SPz 1A1A5</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_MARDER1A2">
 				<Original>SPz 1A2</Original>
@@ -32569,6 +32777,7 @@
 				<English>Squad (SPz 1A1+)</English>
 				<German>Gruppe (SPz 1A1+)</German>
 				<Chinesesimp>班(SPz 1A1+)</Chinesesimp>
+				<Korean>분대 (SPz 1A1+)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_MARDER1A2">
 				<Original>Squad (SPz 1A2)</Original>
@@ -32611,6 +32820,7 @@
 				<English>T-54AZ</English>
 				<German>T-54AZ</German>
 				<Chinesesimp>T-54AZ</Chinesesimp>
+				<Korean>T-54AZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_T54AMZ">
 				<Original>T-54AMZ</Original>
@@ -33033,6 +33243,7 @@
 				<English>Platoon (T-55AMV)</English>
 				<German>Zug (T-55AMV)</German>
 				<Chinesesimp>排(T-55AMV)</Chinesesimp>
+				<Korean>소대 (T-55AMV)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PT76">
 				<Original>PT-76</Original>
@@ -33084,6 +33295,7 @@
 				<English>BTS-3</English>
 				<German>BTS-3</German>
 				<Chinesesimp>BTS-3</Chinesesimp>
+				<Korean>BTS-3</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BTS4">
 				<Original>BTS-4</Original>
@@ -33211,6 +33423,7 @@
 				<English>Platoon (ZSU-23-4V1)</English>
 				<German>Zug (ZSU-23-4V1)</German>
 				<Chinesesimp>排(ZSU-23-4V1)</Chinesesimp>
+				<Korean>소대 (ZSU-23-4V1)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ZSU572">
 				<Original>ZSU-57-2</Original>
@@ -33331,6 +33544,7 @@
 				<English>Hook</English>
 				<German>Haken</German>
 				<Chinesesimp>挂钩</Chinesesimp>
+				<Korean>후크</Korean>
 			</Key>
 		</Container>
 	</Package>
@@ -36117,18 +36331,21 @@
 				<English>HFlgRgt 26</English>
 				<German>HFlgRgt 26</German>
 				<Chinesesimp>第26反坦克直升机团</Chinesesimp>
+				<Korean>HFlgRgt 26</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_LTG61_COL">
 				<Original>LTG 61</Original>
 				<English>LTG 61</English>
 				<German>LTG 61</German>
 				<Chinesesimp>第61空运联队</Chinesesimp>
+				<Korean>LTG 61</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_HFLGWAS_COL">
 				<Original>HflgWaS</Original>
 				<English>HflgWaS</English>
 				<German>HflgWaS</German>
 				<Chinesesimp>反坦克直升机</Chinesesimp>
+				<Korean>HflgWaS</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_NAVY_01_WHT">
 				<Original>West German Navy (White)</Original>
@@ -36141,6 +36358,7 @@
 				<English>West German Navy (Black)</English>
 				<German>Bundeswehr, Marine (Schwarz)</German>
 				<Chinesesimp>西德海军(黑色)</Chinesesimp>
+				<Korean>서독 해군 (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GC_AIRFORCE_QUALITY_01_COL">
 				<Original>East German Air Force Quality</Original>
@@ -36153,36 +36371,42 @@
 				<English>West Germany</English>
 				<German>Westdeutschland</German>
 				<Chinesesimp>西德</Chinesesimp>
+				<Korean>서독</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GC_VEHICLENATION_BLK">
 				<Original>East Germany</Original>
 				<English>East Germany</English>
 				<German>DDR</German>
 				<Chinesesimp>东德</Chinesesimp>
+				<Korean>동독</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_PL_VEHICLENATION_BLK">
 				<Original>Poland</Original>
 				<English>Poland</English>
 				<German>Polen</German>
 				<Chinesesimp>波兰</Chinesesimp>
+				<Korean>폴란드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_DK_VEHICLENATION_BLK">
 				<Original>Denmark</Original>
 				<English>Denmark</English>
 				<German>Dänemark</German>
 				<Chinesesimp>丹麦</Chinesesimp>
+				<Korean>덴마크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_DK_ARMY_RED">
 				<Original>Danish Army</Original>
 				<English>Danish Army</English>
 				<German>Dänische Armee</German>
 				<Chinesesimp>丹麦陆军</Chinesesimp>
+				<Korean>덴마크군</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_PL_MC_BLU">
 				<Original>Polish Naval Infantry (Blue)</Original>
 				<English>Polish Naval Infantry (Blue)</English>
 				<German>Polnische Marine Infantrie (Blau)</German>
 				<Chinesesimp>波兰海军步兵(蓝色)</Chinesesimp>
+				<Korean>폴란드 해군보병 (파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_POL_NI">
 				<Original>West German Police (Lower Saxony)</Original>
@@ -36231,6 +36455,7 @@
 				<English>West German Air Force (White)</English>
 				<German>Bundeswehr, Luftwaffe (Weiß)</German>
 				<Chinesesimp>西德空军(白色)</Chinesesimp>
+				<Korean>서독 공군 (하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_SCHABLONIER_BLK_GRY">
 				<Original>West German Air Force (Black-White)</Original>
@@ -36682,6 +36907,7 @@
 				<English>F (White)</English>
 				<German>F (Weiß)</German>
 				<Chinesesimp>F (白色)</Chinesesimp>
+				<Korean>F (하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRCRAFTREGISTRATIONS_GE_ARMY_BLK">
 				<Original>West German Army (Black)</Original>
@@ -36712,7 +36938,7 @@
 				<English>West German Civilian (White)</English>
 				<German>Westdeutsch (Weiß)</German>
 				<Chinesesimp>西德平民（白）</Chinesesimp>
-				<Korean>서독시민(하양)</Korean>
+				<Korean>서독 시민(하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRCRAFTREGISTRATIONS_GC_ARMY_BLK">
 				<Original>East German Army (Black)</Original>
@@ -36749,6 +36975,7 @@
 				<English>East German Army (Yellow)</English>
 				<German>Ostdeutsche Armee (Gelb)</German>
 				<Chinesesimp>东德陆军(黄色)</Chinesesimp>
+				<Korean>동독군 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AIRCRAFTREGISTRATIONS_GM_GC_CIV_BLK">
 				<Original>East German Civilian (Black)</Original>
