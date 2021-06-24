@@ -6342,6 +6342,7 @@
 				<English>Paint</English>
 				<German>Anstrich</German>
 				<Chinesesimp>图装</Chinesesimp>
+				<Korean>도색</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VIC_PARTS">
 				<Original>Components</Original>
@@ -6354,12 +6355,14 @@
 				<English>Close Interface</English>
 				<German>Schließen</German>
 				<Chinesesimp>关闭界面</Chinesesimp>
+				<Korean>인터페이스 끄기</Korean>
 			</Key>
 			<Key ID="STR_DN_POSITION_01">
 				<Original>Position #1</Original>
 				<English>Position #1</English>
 				<German>Position #1</German>
 				<Chinesesimp>位置#1</Chinesesimp>
+				<Korean>포지션 #1</Korean>
 			</Key>
 			<Key ID="STR_DN_POSITION_02">
 				<Original>Position #2</Original>
@@ -6390,6 +6393,7 @@
 				<English>Position #6</English>
 				<German>Position #6</German>
 				<Chinesesimp>位置#6</Chinesesimp>
+				<Korean>포지션 #6</Korean>
 			</Key>
 		</Container>
 	</Package>
@@ -6436,6 +6440,7 @@
 				<English>Danish: Black-Black-Purple</English>
 				<German>Dänemark: Schwarz-Schwarz-Violet</German>
 				<Chinesesimp>丹麦：黑-黑-紫</Chinesesimp>
+				<Korean>덴마크: 검정-검정-보라</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_BLK_WHT">
 				<Original>Danish: Black-Black-White</Original>
@@ -6496,6 +6501,7 @@
 				<English>Danish: Black-Blue-White</English>
 				<German>Dänemark: Schwarz-Blau-Weiß</German>
 				<Chinesesimp>丹麦：黑-蓝-白</Chinesesimp>
+				<Korean>덴마크: 검정-파랑-하양</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_BLU_YEL">
 				<Original>Danish: Black-Blue-Yellow</Original>
@@ -6634,6 +6640,7 @@
 				<English>Danish: Black-Grey-Green</English>
 				<German>Dänemark: Schwarz-Grau-Grün</German>
 				<Chinesesimp>丹麦：黑-灰-绿</Chinesesimp>
+				<Korean>덴마크: 검정-회색-초록</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_GRY_GRY">
 				<Original>Danish: Black-Grey-Grey</Original>
@@ -6742,6 +6749,7 @@
 				<English>Danish: Black-Purple-Green</English>
 				<German>Dänemark: Schwarz-Violet-Grün</German>
 				<Chinesesimp>丹麦：黑-紫-绿</Chinesesimp>
+				<Korean>덴마크: 검정-보라-초록</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_VLT_GRY">
 				<Original>Danish: Black-Purple-Grey</Original>
@@ -6808,6 +6816,7 @@
 				<English>Danish: Black-White-Red</English>
 				<German>Dänemark: Schwarz-Weiß-Rot</German>
 				<Chinesesimp>丹麦：黑-白-红</Chinesesimp>
+				<Korean>덴마크: 검정-하양-빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_WHT_VLT">
 				<Original>Danish: Black-White-Purple</Original>
@@ -6880,6 +6889,7 @@
 				<English>Danish: Black-Yellow-Yellow</English>
 				<German>Dänemark: Schwarz-Gelb-Gelb</German>
 				<Chinesesimp>丹麦：黑-黄-黄</Chinesesimp>
+				<Korean>덴마크: 검정-노랑-노랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLU_BLK_BLK">
 				<Original>Danish: Blue-Black-Black</Original>
@@ -6964,6 +6974,7 @@
 				<English>Danish: Blue-Blue-Grey</English>
 				<German>Dänemark: Blau-Blau-Grau</German>
 				<Chinesesimp>丹麦：蓝-蓝-灰</Chinesesimp>
+				<Korean>덴마크: 파랑-파랑-회색</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLU_BLU_RED">
 				<Original>Danish: Blue-Blue-Red</Original>
@@ -7048,6 +7059,7 @@
 				<English>Danish: Blue-Green-Black</English>
 				<German>Dänemark: Blau-Grün-Schwarz</German>
 				<Chinesesimp>丹麦：蓝-绿-黑</Chinesesimp>
+				<Korean>덴마크: 파랑-초록-검정</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLU_GRN_BLU">
 				<Original>Danish: Blue-Green-Blue</Original>
@@ -7108,6 +7120,7 @@
 				<English>Danish: Blue-Grey-Blue</English>
 				<German>Dänemark: Blau-Grau-Blau</German>
 				<Chinesesimp>丹麦：蓝-灰-蓝</Chinesesimp>
+				<Korean>덴마크: 파랑-회색-파랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLU_GRY_CRM">
 				<Original>Danish: Blue-Grey-Crimson</Original>
@@ -7324,6 +7337,7 @@
 				<English>Danish: Blue-Yellow-Blue</English>
 				<German>Dänemark: Blau-Gelb-Blau</German>
 				<Chinesesimp>丹麦：蓝-黄-蓝</Chinesesimp>
+				<Korean>덴마크: 파랑-노랑-파랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLU_YEL_CRM">
 				<Original>Danish: Blue-Yellow-Crimson</Original>
@@ -7552,6 +7566,7 @@
 				<English>Danish: Crimson-Green-Green</English>
 				<German>Dänemark: Karmesin-Grün-Grün</German>
 				<Chinesesimp>丹麦：绯红-绿-绿</Chinesesimp>
+				<Korean>덴마크: 진홍-초록-초록</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_CRM_GRN_GRY">
 				<Original>Danish: Crimson-Green-Grey</Original>
@@ -13696,6 +13711,7 @@
 				<German>26,5 mm Licht (Gelb)</German>
 				<Chinesesimp>26.5 mm 烟雾弹(黄色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht (Gelb)</Russian>
+				<Korean>26.5mm 연막 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_BLU_GC">
 				<Original>26.5 mm Smoke (Blue)</Original>
@@ -13703,6 +13719,7 @@
 				<German>26,5 mm Licht (Blau)</German>
 				<Chinesesimp>26.5 mm 烟雾弹(蓝色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht (Blau)</Russian>
+				<Korean>26.5mm 연막 (파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_BLK_GC">
 				<Original>26.5 mm Smoke (Black)</Original>
@@ -13710,6 +13727,7 @@
 				<German>26,5 mm Licht (Schwarz)</German>
 				<Chinesesimp>26.5 mm 烟雾弹(黑色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht (Schwarz)</Russian>
+				<Korean>26.5mm 연막 (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_PARA_YEL_DM16">
 				<Original>26.5 mm Flare DM16 (Yellow)</Original>
@@ -13717,6 +13735,7 @@
 				<German>26,5 mm Licht DM16 (Gelb)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM16 (黄色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht DM16 (Gelb)</Russian>
+				<Korean>26.5mm DM16 조명탄 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_YEL_DM10">
 				<Original>26.5 mm Flare DM10 (Yellow)</Original>
@@ -13724,6 +13743,7 @@
 				<German>26,5 mm Licht DM10 (Gelb)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM10 (黄色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht DM10 (Gelb)</Russian>
+				<Korean>26.5mm DM10 조명탄 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_GRN_DM11">
 				<Original>26.5 mm Flare DM11 (Green)</Original>
@@ -13824,6 +13844,7 @@
 				<German>7,62 mm 50-Schuss-Magazin Ball-T DM21A2</German>
 				<Chinesesimp>7.62 mm 50Rnd Ball-T DM21A2 Mag</Chinesesimp>
 				<Russian>Магазин, 50 патронов 7,62 мм Ball-T DM21A2</Russian>
+				<Korean>7.62mm 50발 Ball-T DM21A2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MM_API_B32">
 				<Original>7.62 mmR 100Rnd API B32 Mag</Original>
@@ -17713,6 +17734,7 @@
 				<English>GDR - Armored</English>
 				<German>NVA - Panzer</German>
 				<Chinesesimp>东德—装甲载具</Chinesesimp>
+				<Korean>GDR - 기갑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_ARMOREDMAINTENANCE">
 				<Original>GDR - Armored Technical Service</Original>
@@ -22012,6 +22034,7 @@
 				<German>Schmidt</German>
 				<Chinesesimp>Schmidt</Chinesesimp>
 				<Russian>Schmidt</Russian>
+				<Korean>슈미트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHMITZ">
 				<Original>Schmitz</Original>
@@ -22531,6 +22554,7 @@
 				<German>Kjeld</German>
 				<Chinesesimp>Kjeld</Chinesesimp>
 				<Russian>Kjeld</Russian>
+				<Korean>키엘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KLAUS">
 				<Original>Klaus</Original>
@@ -22608,6 +22632,7 @@
 				<German>Nikolaj</German>
 				<Chinesesimp>Nikolaj</Chinesesimp>
 				<Russian>Nikolaj</Russian>
+				<Korean>니콜라이</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OSCAR">
 				<Original>Oscar</Original>
@@ -23128,7 +23153,7 @@
 				<German>----------------@Z01250108@@Feind ueberquert Grenze@@BAB2 besetzt@@BGS meldet:@Helmstedt -@Wolfsburg -@Wittingen -@Uelzen@kein Kontakt.@@Feind ist DDR.@Sofort Massnahmen ergreifen.@Nach eigenem Ermessen handeln.@ENDE.</German>
 				<Chinesesimp>----------------@Z01250108@@敌人越过了边境@@BAB2被占领@@BGS报告:@赫尔姆施泰特 -@沃尔夫斯堡 -@维廷根 -@埃尔岑@无联络.@@敌人是东德.@立即反击.@自行采取行动.@完毕.</Chinesesimp>
 				<Chinese>----------------@Z01250108@@敵人越過了邊境@@BAB2被佔領@@BGS報告:@赫爾姆施泰特 -@沃爾夫斯堡 -@維廷根 -@埃爾岑@無聯絡.@@敵人是東德.@立即反擊.@自行採取行動.@完畢.</Chinese>
-				<Korean>----------------@Z01250108@@적들이 국경을 넘었음@@BAB2 점령됨@@BGS 보고:@헬름슈테트 -@볼프스베르크 -@비팅겐 -@우엘젠@접촉되지 않음.@@적은 국가 인민군@즉시 교전할것.@당장.@멈춤.</Korean>
+				<Korean>----------------@Z01250108@@적들이 국경을 넘었음@@BAB2 점령됨@@BGS 보고:@헬름슈테트 -@볼프스베르크 -@비팅겐 -@우엘젠@접촉되지 않음.@@적은 국가 인민군@즉시@교전할 것@멈춤.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_03">
 				<Original>----------------@Z01260108@@Division order to @Panzerbrigade 2:@Assume defensive posture.@@STOP.</Original>
@@ -23136,7 +23161,7 @@
 				<German>----------------@Z01260108@@Divisionsbefehl an @Panzerbrigade 2:@Verteidigungsstreifen einnehmen.@@ENDE.</German>
 				<Chinesesimp>----------------@Z01260108@@师部命令@第2装甲旅:@采取防御姿态.@@完毕.</Chinesesimp>
 				<Chinese>----------------@Z01260108@@師部命令@第2裝甲旅:@採取防禦姿態.@@完畢.</Chinese>
-				<Korean>----------------@Z01260108@@2전차여단에게 내리는 사단발 명령:@방어태세를 갖추어라.@@멈춤.</Korean>
+				<Korean>----------------@Z01260108@@2전차여단에게 @내리는 사단발 명령:@방어태세를 갖추어라.@@멈춤.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_04">
 				<Original>----------------@Z01270108@@Brigade orders to @PzGrenBtl 23:@Defend along designated line.@@STOP.</Original>
@@ -27807,31 +27832,36 @@
 				<Original>Ammobox Wood Type 01</Original>
 				<English>Ammobox Wood Type 01</English>
 				<German>Munitionskiste Holz Typ 01</German>
-				<Chinesesimp>弹药箱木材(01型)</Chinesesimp>
+				<Chinesesimp>木质弹药箱(01型)</Chinesesimp>
+				<Korean>나무 탄약박스 (1형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_02_BASE">
 				<Original>Ammobox Wood Type 02</Original>
 				<English>Ammobox Wood Type 02</English>
 				<German>Munitionskiste Holz Typ 02</German>
-				<Chinesesimp>弹药箱木材(02型)</Chinesesimp>
+				<Chinesesimp>木质弹药箱(02型)</Chinesesimp>
+				<Korean>나무 탄약박스 (2형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_03_BASE">
 				<Original>Ammobox Wood Type 03</Original>
 				<English>Ammobox Wood Type 03</English>
 				<German>Munitionskiste Holz Typ 03</German>
-				<Chinesesimp>弹药箱木材(03型)</Chinesesimp>
+				<Chinesesimp>木质弹药箱(03型)</Chinesesimp>
+				<Korean>나무 탄약박스 (3형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_04_BASE">
 				<Original>Ammobox Wood Type 04</Original>
 				<English>Ammobox Wood Type 04</English>
 				<German>Munitionskiste Holz Typ 04</German>
-				<Chinesesimp>弹药箱木材(04型)</Chinesesimp>
+				<Chinesesimp>木质弹药箱(04型)</Chinesesimp>
+				<Korean>나무 탄약박스 (4형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_05_BASE">
 				<Original>Ammobox Wood Type 05</Original>
 				<English>Ammobox Wood Type 05</English>
 				<German>Munitionskiste Holz Typ 05</German>
-				<Chinesesimp>弹药箱木材(05型)</Chinesesimp>
+				<Chinesesimp>木质弹药箱(05型)</Chinesesimp>
+				<Korean>나무 탄약박스 (5형)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_02_BUNKER_HIGH">
 				<Original>Sandbags, Bunker</Original>
@@ -27934,6 +27964,7 @@
 				<English>Post (Medium)</English>
 				<German>Posten (Mittel)</German>
 				<Chinesesimp>桩(中)</Chinesesimp>
+				<Korean>우편 (중형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_POST_LARGE">
 				<Original>Post (Large)</Original>
@@ -27964,6 +27995,7 @@
 				<English>Camp (NATO)</English>
 				<German>Lager (NATO)</German>
 				<Chinesesimp>营地(NATO)</Chinesesimp>
+				<Korean>캠프 (NATO)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKPOINT1">
 				<Original>Checkpoint 1</Original>
@@ -28002,12 +28034,14 @@
 				<English>Bunker (Medium)</English>
 				<German>Bunker (Mittel)</German>
 				<Chinesesimp>碉堡(中型)</Chinesesimp>
+				<Korean>벙커 (중형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKER_SMALL">
 				<Original>Bunker (Small)</Original>
 				<English>Bunker (Small)</English>
 				<German>Bunker (Klein)</German>
 				<Chinesesimp>碉堡(小型)</Chinesesimp>
+				<Korean>벙커 (소형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKERS">
 				<Original>Bunkers</Original>
