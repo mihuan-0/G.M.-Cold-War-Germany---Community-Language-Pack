@@ -79,6 +79,7 @@
 				<Chinesesimp>一月</Chinesesimp>
 				<Chinese>一月</Chinese>
 				<Korean>1월</Korean>
+				<Japanese>1月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_2">
 				<Original>February</Original>
@@ -87,6 +88,7 @@
 				<Chinesesimp>二月</Chinesesimp>
 				<Chinese>二月</Chinese>
 				<Korean>2월</Korean>
+				<Japanese>2月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_3">
 				<Original>March</Original>
@@ -95,6 +97,7 @@
 				<Chinesesimp>三月</Chinesesimp>
 				<Chinese>三月</Chinese>
 				<Korean>3월</Korean>
+				<Japanese>3月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_4">
 				<Original>April</Original>
@@ -103,6 +106,7 @@
 				<Chinesesimp>四月</Chinesesimp>
 				<Chinese>四月</Chinese>
 				<Korean>4월</Korean>
+				<Japanese>4月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_5">
 				<Original>May</Original>
@@ -111,6 +115,7 @@
 				<Chinesesimp>五月</Chinesesimp>
 				<Chinese>五月</Chinese>
 				<Korean>5월</Korean>
+				<Japanese>5月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_6">
 				<Original>June</Original>
@@ -119,6 +124,7 @@
 				<Chinesesimp>六月</Chinesesimp>
 				<Chinese>六月</Chinese>
 				<Korean>6월</Korean>
+				<Japanese>6月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_7">
 				<Original>July</Original>
@@ -127,6 +133,7 @@
 				<Chinesesimp>七月</Chinesesimp>
 				<Chinese>七月</Chinese>
 				<Korean>7월</Korean>
+				<Japanese>7月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_8">
 				<Original>August</Original>
@@ -135,6 +142,7 @@
 				<Chinesesimp>八月</Chinesesimp>
 				<Chinese>八月</Chinese>
 				<Korean>8월</Korean>
+				<Japanese>8月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_9">
 				<Original>September</Original>
@@ -143,6 +151,7 @@
 				<Chinesesimp>九月</Chinesesimp>
 				<Chinese>九月</Chinese>
 				<Korean>9월</Korean>
+				<Japanese>9月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_10">
 				<Original>October</Original>
@@ -151,6 +160,7 @@
 				<Chinesesimp>十月</Chinesesimp>
 				<Chinese>十月</Chinese>
 				<Korean>10월</Korean>
+				<Japanese>10月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_11">
 				<Original>November</Original>
@@ -159,6 +169,7 @@
 				<Chinesesimp>十一月</Chinesesimp>
 				<Chinese>十一月</Chinese>
 				<Korean>11월</Korean>
+				<Japanese>11月</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_12">
 				<Original>December</Original>
@@ -167,6 +178,7 @@
 				<Chinesesimp>十二月</Chinesesimp>
 				<Chinese>十二月</Chinese>
 				<Korean>12월</Korean>
+				<Japanese>12月</Japanese>
 			</Key>
 			<Key ID="STR_DES_GM">
 				<Original>It's 1983, Arma 3 is taken back to the Cold War, this time in northern Germany!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;State Scarlet&quot; - a 10 mission singleplayer campaign that takes you to East and West Germany in 1983%1%2 a selection of 13 Coop Multiplayer Missions to get you started with your friends right away, plus a small variety of adversarial scenarios.%1%2&quot;Fashion Police&quot; Multiplayer Deathmatch Game Mode with a twist.%1%2 Weferlingen - a terrain encompassing over 400km² useable area. It is located in northern Germany and contains parts of both Germanies divided by an accurate recreation of the Inner German Border. Using entirely newly made assets. A full winter-version of this terrain is also available.%1%2 Factions - West German Army, West German Borderguards, East German Army, East German Borderguards, Danish Army, German Civilians%1%2 Wheeled Assets West Germany - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 Tracked Assets West Germany - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 Infantry Assets West Germany - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 Wheeled Assets East Germany - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 Tracked Assets East Germany - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 Infantry Assets East Germany - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 Weapons East Germany - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 Assets Denmark - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 Assets Civilians - P601 East German Car, Typ 1200 West German Car, Bicycle, Civilian Clothing, Policemen, Firemen, Postmen%1%2 Sound Track - new music.</Original>
@@ -2966,6 +2978,7 @@
 				<English>E550</English>
 				<German>E550</German>
 				<Chinesesimp>E550</Chinesesimp>
+				<Korean>E550</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CASTOIL">
 				<Original>Castoil</Original>
@@ -2984,6 +2997,7 @@
 				<English>SB AG</English>
 				<German>SB AG</German>
 				<Chinesesimp>SB AG</Chinesesimp>
+				<Korean>SB AG</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MINERAL">
 				<Original>VEB Mineral</Original>
@@ -3034,6 +3048,7 @@
 				<English>Computers</English>
 				<German>Computer</German>
 				<Chinesesimp>电脑</Chinesesimp>
+				<Korean>컴퓨터</Korean>
 			</Key>
 		</Container>
 		<Container name="core_general">
@@ -3132,12 +3147,14 @@
 				<English>Wipers</English>
 				<German>Scheibenwischer</German>
 				<Chinesesimp>雨刮器</Chinesesimp>
+				<Korean>와이퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_USERACTION_COVER_BASE">
 				<Original>Add/Remove Cover</Original>
 				<English>Add/Remove Cover</English>
 				<German>Plane Hinzufügen/Entfernen</German>
 				<Chinesesimp>添加/移除盖子</Chinesesimp>
+				<Korean>커버 추가/제거</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VEHICLEMARKINGS_LICENSEPLATES_PLATE_ATTRIBUTE">
 				<Original>Vehicle Registration: Type</Original>
@@ -3294,6 +3311,7 @@
 				<English>Insignia: Nation</English>
 				<German>Symbol: Hoheitsabzeichen</German>
 				<Chinesesimp>图标：国家</Chinesesimp>
+				<Korean>인시그니아: 국가</Korean>
 			</Key>
 			<Key ID="STR_TT_GM_VEHICLEMARKINGS_INSIGNIAS_NATION_ATTRIBUTE">
 				<Original>Nation-specific symbol.</Original>
@@ -3384,24 +3402,28 @@
 				<English>TEM-2A 8x</English>
 				<German>TEM-2A 8x</German>
 				<Chinesesimp>TEM-2A 8x</Chinesesimp>
+				<Korean>TEM-2A 8x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_TEM2A_DAY_16X_BASE">
 				<Original>TEM-2A 16x</Original>
 				<English>TEM-2A 16x</English>
 				<German>TEM-2A 16x</German>
 				<Chinesesimp>TEM-2A 16x</Chinesesimp>
+				<Korean>TEM-2A 16x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_EMES12A1_DAY_8X_BASE">
 				<Original>EMES-12A1 8x</Original>
 				<English>EMES-12A1 8x</English>
 				<German>EMES-12A1 8x</German>
 				<Chinesesimp>EMES-12A1 8x</Chinesesimp>
+				<Korean>EMES-12A1 8x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_EMES12A1_DAY_16X_BASE">
 				<Original>EMES-12A1 16x</Original>
 				<English>EMES-12A1 16x</English>
 				<German>EMES-12A1 16x</German>
 				<Chinesesimp>EMES-12A1 16x</Chinesesimp>
+				<Korean>EMES-12A1 16x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_EMES18_DAY_12X_BASE">
 				<Original>EMES-18 12x</Original>
@@ -3432,6 +3454,7 @@
 				<English>PZB 200 8x</English>
 				<German>PZB 200 8x</German>
 				<Chinesesimp>PZB 200 8x</Chinesesimp>
+				<Korean>PZB 200 8x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_TRP2A_DAY_6X_20X_BASE">
 				<Original>TRP-2A 6x-20x</Original>
@@ -3486,6 +3509,7 @@
 				<English>Peri-Z16A1 2x</English>
 				<German>Peri-Z16A1 2x</German>
 				<Chinesesimp>Peri-Z16A1 2x</Chinesesimp>
+				<Korean>페리-Z16A1 2x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_PT76_1PN22M1_DAY_NV_6X_BASE">
 				<Original>1PN22M1 6x</Original>
@@ -3530,6 +3554,7 @@
 				<English>WBG X 2x</English>
 				<German>WBG X 2x</German>
 				<Chinesesimp>WBG X 2x</Chinesesimp>
+				<Korean>WBG X 2x</Korean>
 			</Key>
 			<Key ID="STR_ODN_GM_OPTICS_WBGX_TI_8X_BASE">
 				<Original>WBG X 8x</Original>
@@ -3722,6 +3747,7 @@
 				<English>Add Beacon - Blue</English>
 				<German>Rundumkennleuchte - Blau</German>
 				<Chinesesimp>信标灯-蓝色</Chinesesimp>
+				<Korean>비콘 추가 - 파랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBACK">
 				<Original>Add Storage Bag</Original>
@@ -3734,6 +3760,7 @@
 				<English>Add Power Generator</English>
 				<German>Stromgenerator</German>
 				<Chinesesimp>发电机</Chinesesimp>
+				<Korean>발전기 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_MLCSIGN">
 				<Original>Add MLC Sign</Original>
@@ -3806,18 +3833,21 @@
 				<English>Add Doors</English>
 				<German>Türen</German>
 				<Chinesesimp>车门</Chinesesimp>
+				<Korean>문 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SIDE_WINDOWS">
 				<Original>Add Side Windows</Original>
 				<English>Add Side Windows</English>
 				<German>Seitenfenster</German>
 				<Chinesesimp>侧窗</Chinesesimp>
+				<Korean>사이드 창문 펼침</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FOLD_SIDE_WINDOWS">
 				<Original>Fold Side Windows</Original>
 				<English>Fold Side Windows</English>
 				<German>Seitenfenster Abklappen</German>
 				<Chinesesimp>折叠式侧窗</Chinesesimp>
+				<Korean>사이드 창문 접음</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_DOOR_FRONT_LEFT">
 				<Original>Add Door - Front Left</Original>
@@ -4022,12 +4052,14 @@
 				<English>Add Toolbox</English>
 				<German>Werkzeugkasten</German>
 				<Chinesesimp>工具袋</Chinesesimp>
+				<Korean>공구박스 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_TOOLS">
 				<Original>Add Tools</Original>
 				<English>Add Tools</English>
 				<German>Werkzeug</German>
 				<Chinesesimp>工具</Chinesesimp>
+				<Korean>공구 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_WINCH">
 				<Original>Add Winch</Original>
@@ -4070,12 +4102,14 @@
 				<English>Add HF-Radio</English>
 				<German>HF-Funkgerät</German>
 				<Chinesesimp>高频电台</Chinesesimp>
+				<Korean>HF 라디오 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_COLDWEATHERKIT">
 				<Original>Add Cold Weather Kit</Original>
 				<English>Add Cold Weather Kit</English>
 				<German>Kälteschutz</German>
 				<Chinesesimp>防寒装备箱</Chinesesimp>
+				<Korean>동계용 도구 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FOLD_WINDSHIELD">
 				<Original>Fold Down Windshield</Original>
@@ -4295,18 +4329,21 @@
 				<English>Add Snorkel</English>
 				<German>Schnorchel</German>
 				<Chinesesimp>通气管</Chinesesimp>
+				<Korean>스노클 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SNORKEL_SMALL">
 				<Original>Add Snorkel - Small</Original>
 				<English>Add Snorkel - Small</English>
 				<German>Schnorchel - Klein</German>
 				<Chinesesimp>通气管-小</Chinesesimp>
+				<Korean>스노클 추가 - 소형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SNORKEL_LARGE">
 				<Original>Add Snorkel - Large</Original>
 				<English>Add Snorkel - Large</English>
 				<German>Schnorchel - Groß</German>
 				<Chinesesimp>通气管-大</Chinesesimp>
+				<Korean>스노클 추가 - 대형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FENDER">
 				<Original>Add Fender</Original>
@@ -4379,19 +4416,21 @@
 				<English>Add Antenna</English>
 				<German>Antenne</German>
 				<Chinesesimp>天线</Chinesesimp>
-				<Korean>안테나</Korean>
+				<Korean>안테나 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ANTENNA_LEFT">
 				<Original>Add Antenna - Left</Original>
 				<English>Add Antenna - Left</English>
 				<German>Antenne - Links</German>
 				<Chinesesimp>天线-左</Chinesesimp>
+				<Korean>안테나 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ANTENNA_RIGHT">
 				<Original>Add Antenna - Right</Original>
 				<English>Add Antenna - Right</English>
 				<German>Antenne - Rechts</German>
 				<Chinesesimp>天线-右</Chinesesimp>
+				<Korean>안테나 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ELEVATE_ANTENNA">
 				<Original>Elevate Antenna</Original>
@@ -4447,12 +4486,14 @@
 				<English>Commander (MG)</English>
 				<German>Kommandant (MG)</German>
 				<Chinesesimp>指挥官(MG)</Chinesesimp>
+				<Korean>지휘관 (MG)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_COMMANDER_MACHINEGUN">
 				<Original>Commander (MG)</Original>
 				<English>Commander (MG)</English>
 				<German>Kommandant (MG)</German>
 				<Chinesesimp>指挥官(MG)</Chinesesimp>
+				<Korean>지휘관 (MG)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_COMMANDER_ATGM">
 				<Original>Commander (ATGM)</Original>
@@ -7440,6 +7481,7 @@
 				<English>Danish: Crimson-Black-Grey</English>
 				<German>Dänemark: Karmesin-Schwarz-Grau</German>
 				<Chinesesimp>丹麦：绯红-黑-灰</Chinesesimp>
+				<Korean>덴마크: 진홍-검정-회색</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_CRM_BLK_RED">
 				<Original>Danish: Crimson-Black-Red</Original>
@@ -7476,6 +7518,7 @@
 				<English>Danish: Crimson-Blue-Blue</English>
 				<German>Dänemark: Karmesin-Blau-Blau</German>
 				<Chinesesimp>丹麦：绯红-蓝-蓝</Chinesesimp>
+				<Korean>덴마크: 진홍-파랑-파랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_CRM_BLU_CRM">
 				<Original>Danish: Crimson-Blue-Crimson</Original>
@@ -9607,6 +9650,7 @@
 				<English>Danish: Purple-Grey-Red</English>
 				<German>Dänemark: Violet-Grau-Rot</German>
 				<Chinesesimp>丹麦：紫-灰-红</Chinesesimp>
+				<Korean>덴마크: 보라-회색-빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_GRY_VLT">
 				<Original>Danish: Purple-Grey-Purple</Original>
@@ -9661,6 +9705,7 @@
 				<English>Danish: Purple-Red-Red</English>
 				<German>Dänemark: Violet-Rot-Rot</German>
 				<Chinesesimp>丹麦：紫-红-红</Chinesesimp>
+				<Korean>덴마크: 보라-빨강-빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_RED_VLT">
 				<Original>Danish: Purple-Red-Purple</Original>
@@ -9703,6 +9748,7 @@
 				<English>Danish: Purple-Purple-Green</English>
 				<German>Dänemark: Violet-Violet-Grün</German>
 				<Chinesesimp>丹麦：紫-紫-绿</Chinesesimp>
+				<Korean>덴마크: 보라-보라-초록</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_VLT_GRY">
 				<Original>Danish: Purple-Purple-Grey</Original>
@@ -9743,6 +9789,7 @@
 				<English>Danish: Purple-White-Black</English>
 				<German>Dänemark: Violet-Weiß-Schwarz</German>
 				<Chinesesimp>丹麦：紫-白-黑</Chinesesimp>
+				<Korean>덴마크: 보라-하양-검정</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_WHT_BLU">
 				<Original>Danish: Purple-White-Blue</Original>
@@ -9786,6 +9833,7 @@
 				<English>Danish: Purple-White-White</English>
 				<German>Dänemark: Violet-Weiß-Weiß</German>
 				<Chinesesimp>丹麦：紫-白-白</Chinesesimp>
+				<Korean>덴마크: 보라-하양-하양</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_WHT_YEL">
 				<Original>Danish: Purple-White-Yellow</Original>
@@ -9902,6 +9950,7 @@
 				<English>Danish: White-Black-Yellow</English>
 				<German>Dänemark: Weiß-Schwarz-Gelb</German>
 				<Chinesesimp>丹麦：白-黑-黄</Chinesesimp>
+				<Korean>덴마크: 하양-검정-노랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_WHT_BLU_BLK">
 				<Original>Danish: White-Blue-Black</Original>
@@ -13671,6 +13720,7 @@
 				<German>23 mm 500-Schuss API-T BZT</German>
 				<Chinesesimp>23 mm 500Rnd API-T BZT</Chinesesimp>
 				<Russian>Магазин, 500 патронов 23 мм API-T BZT</Russian>
+				<Korean>23mm 500발 API-T BZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_23X152MM_HEI_OFZ">
 				<Original>23 mm 500Rnd HEI OFZ</Original>
@@ -13678,6 +13728,7 @@
 				<German>23 mm 500-Schuss HEI OFZ</German>
 				<Chinesesimp>23 mm 500Rnd HEI OFZ</Chinesesimp>
 				<Russian>Магазин, 500 патронов 23 мм HEI OFZ</Russian>
+				<Korean>23mm 500발 HEI OFZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_23X152MM_HEI_T_OFZT">
 				<Original>23 mm 500Rnd HEI-T OFZT</Original>
@@ -13685,6 +13736,7 @@
 				<German>23 mm 500-Schuss HEI-T OFZT</German>
 				<Chinesesimp>23 mm 500Rnd HEI-T OFZT</Chinesesimp>
 				<Russian>Магазин, 500 патронов 23 мм HEI-T OFZT</Russian>
+				<Korean>23mm 500발 HEI-T OFZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_425RND_20X139MM_HE_T_DM51">
 				<Original>20 mm 425Rnd HE-T DM51</Original>
@@ -13700,6 +13752,7 @@
 				<German>20 mm 425-Schuss HEI-T DM81</German>
 				<Chinesesimp>20 mm 425Rnd HEI-T DM81</Chinesesimp>
 				<Russian>Магазин, 425 патронов 20 мм HEI-T DM81</Russian>
+				<Korean>20mm 425발 HEI-T DM81</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_425RND_20X139MM_HEI_T_DM111">
 				<Original>20 mm 425Rnd HEI-T DM111</Original>
@@ -13707,6 +13760,7 @@
 				<German>20 mm 425-Schuss HEI-T DM111</German>
 				<Chinesesimp>20 mm 425Rnd HEI-T DM111</Chinesesimp>
 				<Russian>Магазин, 425 патронов 20 мм HEI-T DM111</Russian>
+				<Korean>20mm 425발 HEI-T DM111</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_20X139MM_AP_T_DM43">
 				<Original>20 mm 75Rnd AP-T FM43</Original>
@@ -13714,6 +13768,7 @@
 				<German>20 mm 75-Schuss AP-T FM43</German>
 				<Chinesesimp>20 mm 75Rnd AP-T FM43</Chinesesimp>
 				<Russian>Магазин, 75 патронов 20 мм AP-T FM43</Russian>
+				<Korean>20mm 75발 AP-T FM43</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_20X139MM_APDS_T_DM63">
 				<Original>20 mm 75Rnd APDS-T DM63</Original>
@@ -13721,6 +13776,7 @@
 				<German>20 mm 75-Schuss APDS-T DM63</German>
 				<Chinesesimp>20 mm 75Rnd APDS-T DM63</Chinesesimp>
 				<Russian>Магазин, 75 патронов 20 мм APDS-T DM63</Russian>
+				<Korean>20mm 75발 APDS-T DM63</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_150RND_23X115MM_API_T_BZT">
 				<Original>23 mm 150Rnd API-T BZT</Original>
@@ -13752,6 +13808,7 @@
 				<German>25 mm 400-Schuss APDS-T M791</German>
 				<Chinesesimp>25 mm 400Rnd APDS-T M791</Chinesesimp>
 				<Russian>Магазин, 400 патронов 25 мм APDS-T M791</Russian>
+				<Korean>25mm 400발 APDS-T M791</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_400RND_25X137MM_APFSDS_T_M919">
 				<Original>25 mm 400Rnd APFSDS-T M919</Original>
@@ -13759,6 +13816,7 @@
 				<German>25 mm 400-Schuss APFSDS-T M919</German>
 				<Chinesesimp>25 mm 400Rnd APFSDS-T M919</Chinesesimp>
 				<Russian>Магазин, 400 патронов 25 мм APFSDS-T M919</Russian>
+				<Korean>25mm 400발 APFSDS-T M919</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_400RND_25X137MM_HEI_T_M792">
 				<Original>25 mm 400Rnd HEI-T M792</Original>
@@ -13870,6 +13928,7 @@
 				<German>26,5 mm Licht DM21 (Mehrstern Grün)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM21 (多重绿)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht DM21 (Mehrstern Grün)</Russian>
+				<Korean>26.5mm DM21 조명탄 (다탄두, 초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_RED_DM23">
 				<Original>26.5 mm Flare DM23 (Multi Red)</Original>
@@ -13877,6 +13936,7 @@
 				<German>26,5 mm Licht DM23 (Mehrstern Rot)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM23 (多重红)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht DM23 (Mehrstern Rot)</Russian>
+				<Korean>26.5mm DM23 조명탄 (다탄두, 빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_WHT_DM25">
 				<Original>26.5 mm Flare DM25 (Multi White)</Original>
@@ -13884,6 +13944,7 @@
 				<German>26,5 mm Licht DM25 (Mehrstern Weiß)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM25 (多重白)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht DM25 (Mehrstern Weiß)</Russian>
+				<Korean>26.5mm DM25 조명탄 (다탄두, 하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_YEL_DM20">
 				<Original>26.5 mm Flare DM20 (Multi Yellow)</Original>
@@ -13963,6 +14024,7 @@
 				<German>7,62 mmR 1000-Schuss-Magazin API B32</German>
 				<Chinesesimp>7.62 mmR 1000Rnd API B32 Mag</Chinesesimp>
 				<Russian>Магазин, 1000 патронов 7,62 ммR API B32</Russian>
+				<Korean>7.62mmR 1000발 API B32 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MM_B_T_T46">
 				<Original>7.62 mmR 100Rnd Ball-T T46 Mag</Original>
@@ -13970,6 +14032,7 @@
 				<German>7,62 mmR 100-Schuss-Magazin Ball-T T46</German>
 				<Chinesesimp>7.62 mmR 100Rnd Ball-T T46 Mag</Chinesesimp>
 				<Russian>Магазин, 100 патронов 7,62 ммR Ball-T T46</Russian>
+				<Korean>7.62mmR 100발 Ball-T T46 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X54MM_B_T_T46">
 				<Original>7.62 mmR 1000Rnd Ball-T T46 Mag</Original>
@@ -13977,6 +14040,7 @@
 				<German>7,62 mmR 1000-Schuss-Magazin Ball-T T46</German>
 				<Chinesesimp>7.62 mmR 1000Rnd Ball-T T46 Mag</Chinesesimp>
 				<Russian>Магазин, 1000 патронов 7,62 ммR Ball-T T46</Russian>
+				<Korean>7.62mmR 1000발 BAll-T T46 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_762X54MMR_AP_7N1">
 				<Original>7.62 mmR 10Rnd AP 7N1 Mag</Original>
@@ -13992,6 +14056,7 @@
 				<German>7,62 mmR 10-Schuss-Magazin API 7BZ3 Mag</German>
 				<Chinesesimp>7.62 mmR 10Rnd API 7BZ3 Mag</Chinesesimp>
 				<Russian>Магазин, 10 патронов 7,62 ммR API 7BZ3 Mag</Russian>
+				<Korean>7.62mmR 10발 API 7BZ3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_762X54MMR_B_T_7T2">
 				<Original>7.62 mmR 10Rnd Ball-T 7T2 Mag</Original>
@@ -14031,6 +14096,7 @@
 				<German>7,62 mmR 100-Schuss-Magazin Ball-T 7T2</German>
 				<Chinesesimp>7.62 mmR 100Rnd Ball-T 7T2 Mag</Chinesesimp>
 				<Russian>Магазин, 100 патронов 7,62 ммR Ball-T 7T2</Russian>
+				<Korean>7.62mmR 100발 Ball-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_200RND_762X54MMR_B_T_7T2">
 				<Original>7.62 mmR 200Rnd Ball-T 7T2 Mag</Original>
@@ -14046,6 +14112,7 @@
 				<German>7,62 mmR 1000-Schuss-Magazin Ball-T 7T2</German>
 				<Chinesesimp>7.62 mmR 1000Rnd Ball-T 7T2 Mag</Chinesesimp>
 				<Russian>Магазин, 1000 патронов 7,62 ммR Ball-T 7T2</Russian>
+				<Korean>7.62mmR 1000발 BAll-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_4000RND_762X54MMR_B_T_7T2">
 				<Original>7.62 mmR 4000Rnd Ball-T 7T2 Mag</Original>
@@ -15667,6 +15734,7 @@
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Sterne: 1&lt;br /&gt;Eingesetzt von: LP1, WZ78</German>
 				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Stars: 3&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;звезда: 1&lt;br /&gt;Применение: LP1, WZ78</Russian>
+				<Korean>구경: 26mm 조명탄&lt;br /&gt;Stars: 3&lt;br /&gt;사용가능: LP1, WZ78</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_265MM_SMOKE_SINGLE_YEL_GC">
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</Original>
@@ -15785,6 +15853,7 @@
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: P2A1</German>
 				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: P2A1</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: P2A1</Russian>
+				<Korean>구경: 26.5mm 조명탄&lt;br /&gt;Smoke&lt;br /&gt;사용가능: P2A1</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_105X617MM_APDS_T_DM13">
 				<Original>Caliber: 105 mm APDS-T DM13&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: L7</Original>
@@ -17283,6 +17352,7 @@
 				<German>Stahlhelm M56 (Strichtarn)</German>
 				<Chinesesimp>M56型钢盔(条纹迷彩)</Chinesesimp>
 				<Korean>M56 철모 (스트라히탄)</Korean>
+				<Japanese>M56 鉄帽 （ストラヒタン）</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_HEADGEAR_M56_COVER_BLU">
 				<Original>Steel Helmet M56 (Blue)</Original>
@@ -21394,6 +21464,7 @@
 				<Chinesesimp>Friedrich</Chinesesimp>
 				<Russian>Friedrich</Russian>
 				<Korean>프리드리히</Korean>
+				<Japanese>フリードリヒ</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GAUCK">
 				<Original>Gauck</Original>
@@ -22010,6 +22081,7 @@
 				<Chinesesimp>Prinz</Chinesesimp>
 				<Russian>Prinz</Russian>
 				<Korean>프린츠</Korean>
+				<Japanese>プリンツ</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PRUUST">
 				<Original>Pruust</Original>
@@ -23928,7 +24000,7 @@
 				<German>Gehen Sie nördlich von Rümmer in Stellung und Überwachen Sie das Gebiet von dort. Nach eigener Einschätzung geben Sie den Panzergrenadieren das Zeichen zum Weitermarschieren.&lt;br/&gt;&lt;br/&gt;(Nutzen Sie das Kommunikationsmenü)</German>
 				<Chinesesimp>转移到Rümmer的北部，从那里确保该地区的安全。一旦你认为该地区安全，就通过无线电向步兵发出信号，让他们继续前进。&lt;br/&gt;&lt;br/&gt;(使用通信菜单)</Chinesesimp>
 				<Chinese>轉移到Rümmer的北部，從那裡確保該地區的安全。一旦你認為該地區安全，就通過無線電向步兵發出信號，讓他們繼續前進。 &lt;br/&gt;&lt;br/&gt;(使用通信菜單)</Chinese>
-				<Korean>&lt;br/&gt;&lt;br/&gt;(명령 메뉴를 사용하세요)</Korean>
+				<Korean>룀머 북쪽지역으로 이동하고 해당 지역을 확보해라. 안전하게 확보되면, 보병들이 진격할 수 있게 통신 신호를 주어라.&lt;br/&gt;&lt;br/&gt;(명령 메뉴를 사용하세요)</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_02_TITLE">
 				<Original>Secure Bridge</Original>
@@ -23944,6 +24016,7 @@
 				<German>Nehmen Sie Brücke im osten ein und sichern Sie diese. Sichern Sie von dort das Überqueren der Brücke durch unsere Panzergrenadiere.</German>
 				<Chinesesimp>往东面的大桥推进，并夺取它。允许友军接近并在你的掩护下过桥。</Chinesesimp>
 				<Chinese>往東面的大橋推進，並奪取它。允許友軍接近並在你的掩護下過橋。</Chinese>
+				<Korean>동쪽의 다리로 진격하여 확보하라. 아군들이 안전하게 다리를 건널 수 있도록 보조할것.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_03_TITLE">
 				<Original>Hold Bridge</Original>
@@ -24118,6 +24191,7 @@
 				<Chinesesimp>这里是DRAHT，收到。</Chinesesimp>
 				<Chinese>這裡是DRAHT，收到。</Chinese>
 				<Korean>여기는 DRAHT. 오버.</Korean>
+				<Japanese>ここは DRAHT, オーバー。</Japanese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005C">
 				<Original>This is SEMMEL, move out. Over.</Original>
@@ -26164,19 +26238,21 @@
 				<English>Republikflucht</English>
 				<German>Republikflucht</German>
 				<Chinesesimp>共和国之路</Chinesesimp>
-				<Korean>공화국탈주</Korean>
+				<Korean>공화국 탈출</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_OVERVIEW">
 				<Original>Lost behind enemy lines, you must return to West Germany.</Original>
 				<English>Lost behind enemy lines, you must return to West Germany.</English>
 				<German>Verschollen hinter feindlichen Linien gilt es zurück in den Westen zu finden.</German>
 				<Chinesesimp>迷失在敌后，你必须返回西德。</Chinesesimp>
+				<Korean>적진에서 고립되었다, 당신은 서독으로 반드시 돌아가야 한다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_TASK_01_TITLE">
 				<Original>Reach the West</Original>
 				<English>Reach the West</English>
 				<German>Den Westen Erreichen</German>
 				<Chinesesimp>到达西德</Chinesesimp>
+				<Korean>서독으로 돌아가기</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_TASK_01_TEXT">
 				<Original>Leave East Germany and return to friendly units in the area.&lt;br/&gt;&lt;br/&gt;The enemy reacts with hightened attention to any gunfire and will move to investigate. Use this to distract and mislead enemy patrols.&lt;br/&gt;&lt;br/&gt;Commandeer civilian vehicles if you see no alternative. Threaten the occupants with your gun to exit the vehicle. Warning shots into the air will do as well. But do not harm them!</Original>
@@ -26196,12 +26272,14 @@
 				<English>Get Out! Go! Go!</English>
 				<German>Los Raus! Raus! Raus!</German>
 				<Chinesesimp>下车！快！快！</Chinesesimp>
+				<Korean>당장 나와! 빨리! 가!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_R_003">
 				<Original>Get Out! Go! Go!</Original>
 				<English>Get Out! Go! Go!</English>
 				<German>Los Raus! Raus! Raus!</German>
 				<Chinesesimp>下车！快！快！</Chinesesimp>
+				<Korean>당장 나와! 빨리! 가!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_R_004">
 				<Original>Faster! Faster, you shitbucket!</Original>
@@ -30298,6 +30376,7 @@
 				<English>Wall (Garden 4)</English>
 				<German>Mauer (Garten 4)</German>
 				<Chinesesimp>墙(花园4)</Chinesesimp>
+				<Korean>벽 (정원4)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_GARDEN_13_300_04">
 				<Original>Wall (Garden 5)</Original>
@@ -30600,12 +30679,14 @@
 				<English>Shop (Toys)</English>
 				<German>Laden (Spielwaren)</German>
 				<Chinesesimp>玩具店</Chinesesimp>
+				<Korean>상점 (장난감)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_INSET_SHOP_GROCER_01">
 				<Original>Shop (Bakery)</Original>
 				<English>Shop (Bakery)</English>
 				<German>Laden (Bäcker)</German>
 				<Chinesesimp>蛋糕房</Chinesesimp>
+				<Korean>상점 (빵집)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_INSET_SHOP_GROCER_02_E">
 				<Original>Shop (Groceries 1)</Original>
@@ -30624,18 +30705,21 @@
 				<English>Post Office</English>
 				<German>Poststelle</German>
 				<Chinesesimp>邮局</Chinesesimp>
+				<Korean>우체국</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_INSET_PUB_01">
 				<Original>Pub</Original>
 				<English>Pub</English>
 				<German>Kneipe</German>
 				<Chinesesimp>酒馆</Chinesesimp>
+				<Korean>펍</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_INSET_SHOP_EMPTY_01">
 				<Original>Shop (Empty)</Original>
 				<English>Shop (Empty)</English>
 				<German>Laden (Leer)</German>
 				<Chinesesimp>商店(空)</Chinesesimp>
+				<Korean>상점 (비어있음)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_INSET_LIGHTCHAIN_PICEA_01">
 				<Original>Light Chain</Original>
@@ -30685,6 +30769,7 @@
 				<English>Garage</English>
 				<German>Garage</German>
 				<Chinesesimp>车库</Chinesesimp>
+				<Korean>차고</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_TRASHBIN_02">
 				<Original>Trashbin</Original>
@@ -30736,48 +30821,56 @@
 				<English>Container (Blue)</English>
 				<German>Abrollcontainer (Blau)</German>
 				<Chinesesimp>集装箱(蓝)</Chinesesimp>
+				<Korean>컨테이너 (파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_02_GRN">
 				<Original>Container (Green)</Original>
 				<English>Container (Green)</English>
 				<German>Abrollcontainer (Grün)</German>
 				<Chinesesimp>集装箱(绿)</Chinesesimp>
+				<Korean>컨테이너 (초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_02_GRY">
 				<Original>Container (Grey)</Original>
 				<English>Container (Grey)</English>
 				<German>Abrollcontainer (Grau)</German>
 				<Chinesesimp>集装箱(灰)</Chinesesimp>
+				<Korean>컨테이너 (회색)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_CONTAINER_02_ORN">
 				<Original>Container (Orange)</Original>
 				<English>Container (Orange)</English>
 				<German>Abrollcontainer (Orange)</German>
 				<Chinesesimp>集装箱(橙)</Chinesesimp>
+				<Korean>컨테이너 (오렌지)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_BARGATE_01_OPEN">
 				<Original>Bargate (Open)</Original>
 				<English>Bargate (Open)</English>
 				<German>Schlagbaum (Offen)</German>
 				<Chinesesimp>道闸(打开)</Chinesesimp>
+				<Korean>바리게이트 (열림)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_BARGATE_01_CLOSED">
 				<Original>Bargate (Closed)</Original>
 				<English>Bargate (Closed)</English>
 				<German>Schlagbaum (Geschlossen)</German>
 				<Chinesesimp>道闸(关闭)</Chinesesimp>
+				<Korean>바리게이트 (닫힘)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_BARGATE_02">
 				<Original>Bargate</Original>
 				<English>Bargate</English>
 				<German>Schlagbaum</German>
 				<Chinesesimp>道闸</Chinesesimp>
+				<Korean>바리게이트</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_TELH_78_W">
 				<Original>Phone Booth 1</Original>
 				<English>Phone Booth 1</English>
 				<German>Telefonzelle 1</German>
 				<Chinesesimp>电话亭1</Chinesesimp>
+				<Korean>전화박스 1</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MISC_FEH_62_E">
 				<Original>Phone Booth 2</Original>
@@ -30809,36 +30902,42 @@
 				<English>Railway 1</English>
 				<German>Gleis 1</German>
 				<Chinesesimp>铁路1</Chinesesimp>
+				<Korean>철도 1</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_STANDARD_GAUGE_2_18M">
 				<Original>Railway 2</Original>
 				<English>Railway 2</English>
 				<German>Gleis 2</German>
 				<Chinesesimp>铁路2</Chinesesimp>
+				<Korean>철도 2</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_STANDARD_GAUGE_5_18M">
 				<Original>Railway 3</Original>
 				<English>Railway 3</English>
 				<German>Gleis 3</German>
 				<Chinesesimp>铁路3</Chinesesimp>
+				<Korean>철도 3</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_STANDARD_GAUGE_10_18M">
 				<Original>Railway 4</Original>
 				<English>Railway 4</English>
 				<German>Gleis 4</German>
 				<Chinesesimp>铁路4</Chinesesimp>
+				<Korean>철도 4</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_STANDARD_GAUGE_25M">
 				<Original>Railway 5</Original>
 				<English>Railway 5</English>
 				<German>Gleis 5</German>
 				<Chinesesimp>铁路5</Chinesesimp>
+				<Korean>철도 5</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_STANDARD_GAUGE_3M">
 				<Original>Railway 6</Original>
 				<English>Railway 6</English>
 				<German>Gleis 6</German>
 				<Chinesesimp>铁路6</Chinesesimp>
+				<Korean>철도 6</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_STANDARD_GAUGE_36M_BRIDGE">
 				<Original>Railway Bridge</Original>
@@ -30851,6 +30950,7 @@
 				<English>BT-11</English>
 				<German>BT-11</German>
 				<Chinesesimp>BT-11</Chinesesimp>
+				<Korean>BT-11</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_TOWER_BT_6_FUEST_80">
 				<Original>BT-6 FüSt</Original>
@@ -30863,6 +30963,7 @@
 				<English>Radio Tower</English>
 				<German>Funkturm</German>
 				<Chinesesimp>无线电塔</Chinesesimp>
+				<Korean>라디오 타워</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WALL_VEHICLEDITCH_700">
 				<Original>Vehicle Ditch</Original>
@@ -30887,12 +30988,14 @@
 				<English>Wall Calendar</English>
 				<German>Wandkalender</German>
 				<Chinesesimp>挂历</Chinesesimp>
+				<Korean>벽 캘린더</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_CLOCK_01">
 				<Original>Wall Clock</Original>
 				<English>Wall Clock</English>
 				<German>Wanduhr</German>
 				<Chinesesimp>挂钟</Chinesesimp>
+				<Korean>벽시계</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_TYPEWRITER_01">
 				<Original>Typewriter</Original>
@@ -36644,54 +36747,63 @@
 				<English>PzBrig 2</English>
 				<German>PzBrig 2</German>
 				<Chinesesimp>第2装甲旅</Chinesesimp>
+				<Korean>2 전차여단</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBRIG3_COL">
 				<Original>PzBrig 3</Original>
 				<English>PzBrig 3</English>
 				<German>PzBrig 3</German>
 				<Chinesesimp>第3装甲旅</Chinesesimp>
+				<Korean>3 전차여단</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBTL21_COL">
 				<Original>PzBtl 21</Original>
 				<English>PzBtl 21</English>
 				<German>PzBtl 21</German>
 				<Chinesesimp>第21坦克营</Chinesesimp>
+				<Korean>21 전차대대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBTL23_COL">
 				<Original>PzBtl 23</Original>
 				<English>PzBtl 23</English>
 				<German>PzBtl 23</German>
 				<Chinesesimp>第23坦克营</Chinesesimp>
+				<Korean>23 전차대대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBTL24_COL">
 				<Original>PzBtl 24</Original>
 				<English>PzBtl 24</English>
 				<German>PzBtl 24</German>
 				<Chinesesimp>第24坦克营</Chinesesimp>
+				<Korean>24 전차대대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZDIV1_COL">
 				<Original>PzDiv 1</Original>
 				<English>PzDiv 1</English>
 				<German>PzDiv 1</German>
 				<Chinesesimp>第1装甲师</Chinesesimp>
+				<Korean>1 전차사단</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZGRENBRIG1_COL">
 				<Original>PzGrenBrig 1</Original>
 				<English>PzGrenBrig 1</English>
 				<German>PzGrenBrig 1</German>
 				<Chinesesimp>第1装甲掷弹兵旅</Chinesesimp>
+				<Korean>1 기갑척탄여단</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZGRENBTL22_COL">
 				<Original>PzGrenBtl 22</Original>
 				<English>PzGrenBtl 22</English>
 				<German>PzGrenBtl 22</German>
 				<Chinesesimp>第22装甲掷弹兵营</Chinesesimp>
+				<Korean>22 기갑척탄대대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZPIKP20_COL">
 				<Original>PzPiKp 20</Original>
 				<English>PzPiKp 20</English>
 				<German>PzPiKp 20</German>
 				<Chinesesimp>第20坦克工程部队</Chinesesimp>
+				<Korean>PzPiKp 20</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_HFLGRGT16_COL">
 				<Original>HFlgRgt 16</Original>
@@ -36804,12 +36916,14 @@
 				<English>West German Borderguards</English>
 				<German>Bundesgrenzschutz</German>
 				<Chinesesimp>西德边防部队</Chinesesimp>
+				<Korean>서독 국경경비대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_FLAG_GE_01">
 				<Original>West Germany</Original>
 				<English>West Germany</English>
 				<German>Westdeutschland</German>
 				<Chinesesimp>西德</Chinesesimp>
+				<Korean>서독</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DIN_NORM_GRY">
 				<Original>West German Norm (White)</Original>
