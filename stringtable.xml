@@ -8894,6 +8894,7 @@
 				<English>Danish: Grey-Yellow-Red</English>
 				<German>Dänemark: Grau-Gelb-Rot</German>
 				<Chinesesimp>丹麦：灰-黄-红</Chinesesimp>
+				<Korean>덴마크: 회색-노랑-빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_GRY_YEL_VLT">
 				<Original>Danish: Grey-Yellow-Purple</Original>
@@ -8936,6 +8937,7 @@
 				<English>Danish: Red-Black-Green</English>
 				<German>Dänemark: Rot-Schwarz-Grün</German>
 				<Chinesesimp>丹麦：红-黑-绿</Chinesesimp>
+				<Korean>덴마크: 빨강-검정-초록</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_RED_BLK_GRY">
 				<Original>Danish: Red-Black-Grey</Original>
@@ -9014,6 +9016,7 @@
 				<English>Danish: Red-Blue-White</English>
 				<German>Dänemark: Rot-Blau-Weiß</German>
 				<Chinesesimp>丹麦：红-蓝-白</Chinesesimp>
+				<Korean>덴마크: 빨강-파랑-하양</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_RED_BLU_YEL">
 				<Original>Danish: Red-Blue-Yellow</Original>
@@ -9056,6 +9059,7 @@
 				<English>Danish: Red-Crimson-Red</English>
 				<German>Dänemark: Rot-Karmesin-Rot</German>
 				<Chinesesimp>丹麦：红-绯红-红</Chinesesimp>
+				<Korean>덴마크: 빨강-진홍-빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_RED_CRM_VLT">
 				<Original>Danish: Red-Crimson-Purple</Original>
@@ -11007,60 +11011,70 @@
 				<English>G3A4 EBR 7.62x51 mm</English>
 				<German>G3A4 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm</Chinesesimp>
+				<Korean>G3A4 EBR 7.62x51mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_EBR_BLK">
 				<Original>G3A3 EBR 7.62x51 mm (Black)</Original>
 				<English>G3A3 EBR 7.62x51 mm (Black)</English>
 				<German>G3A3 EBR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm (黑色)</Chinesesimp>
+				<Korean>G3A3 EBR 7.62x51mm (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_EBR_BLK">
 				<Original>G3A4 EBR 7.62x51 mm (Black)</Original>
 				<English>G3A4 EBR 7.62x51 mm (Black)</English>
 				<German>G3A4 EBR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm (黑色)</Chinesesimp>
+				<Korean>G3A4 EBR 7.62x51mm (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_EBR_DES">
 				<Original>G3A3 EBR 7.62x51 mm (Tan)</Original>
 				<English>G3A3 EBR 7.62x51 mm (Tan)</English>
 				<German>G3A3 EBR 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm (沙漠)</Chinesesimp>
+				<Korean>G3A3 EBR 7.62x51mm (Tan)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_EBR_DES">
 				<Original>G3A4 EBR 7.62x51 mm (Tan)</Original>
 				<English>G3A4 EBR 7.62x51 mm (Tan)</English>
 				<German>G3A4 EBR 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm (沙漠)</Chinesesimp>
+				<Korean>G3A4 EBR 7.62x51mm (Tan)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_BASE">
 				<Original>G3A3 EBR 7.62x51 mm</Original>
 				<English>G3A3 EBR 7.62x51 mm</English>
 				<German>G3A3 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm</Chinesesimp>
+				<Korean>G3A3 EBR 7.62x51mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_BASE">
 				<Original>G3A4 DMR 7.62x51 mm</Original>
 				<English>G3A4 DMR 7.62x51 mm</English>
 				<German>G3A4 DMR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 DMR 7.62x51 mm</Chinesesimp>
+				<Korean>G3A4 DMR 7.62x51mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_OLI">
 				<Original>G3A3 DMR 7.62x51 mm</Original>
 				<English>G3A3 DMR 7.62x51 mm</English>
 				<German>G3A3 DMR 7,62x51 mm</German>
 				<Chinesesimp>G3A3 DMR 7.62x51 mm</Chinesesimp>
+				<Korean>G3A3 DMR 7.62x51mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_OLI">
 				<Original>G3A4 DMR 7.62x51 mm</Original>
 				<English>G3A4 DMR 7.62x51 mm</English>
 				<German>G3A4 DMR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 DMR 7.62x51 mm</Chinesesimp>
+				<Korean>G3A4 DMR 7.62x51mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_BLK">
 				<Original>G3A3 DMR 7.62x51 mm (Black)</Original>
 				<English>G3A3 DMR 7.62x51 mm (Black)</English>
 				<German>G3A3 DMR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A3 DMR 7.62x51 mm (黑色)</Chinesesimp>
+				<Korean>G3A3 DMR 7.62x51mm (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_BLK">
 				<Original>G3A4 DMR 7.62x51 mm (Black)</Original>
@@ -11268,12 +11282,14 @@
 				<English>M16A2 5.56x45 mm</English>
 				<German>M16A2 5,56x45 mm</German>
 				<Chinesesimp>M16A2 5.56x45 mm</Chinesesimp>
+				<Korean>M16A2 (GM-CWG)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M16A2_BLK">
 				<Original>M16A2 5.56x45 mm</Original>
 				<English>M16A2 5.56x45 mm</English>
 				<German>M16A2 5,56x45 mm</German>
 				<Chinesesimp>M16A2 5.56x45 mm</Chinesesimp>
+				<Korean>M16A2 (GM-CWG)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PZF44_2_OLI">
 				<Original>PzF44-2</Original>
@@ -11308,6 +11324,7 @@
 				<English>PzF84</English>
 				<German>PzF84</German>
 				<Chinesesimp>PzF84</Chinesesimp>
+				<Korean>PzF84</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PZF84_OLI">
 				<Original>PzF84</Original>
@@ -11320,6 +11337,7 @@
 				<English>PzF84 (Tan)</English>
 				<German>PzF84 (Wüste)</German>
 				<Chinesesimp>PzF84 (沙漠)</Chinesesimp>
+				<Korean>PzF84 (Tan)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PZF84_WIN">
 				<Original>PzF84 (Winter)</Original>
@@ -11340,7 +11358,7 @@
 				<English>RPG-7 (Plum)</English>
 				<German>RPG-7 (Dunkellila)</German>
 				<Chinesesimp>RPG-7 (暗紫色)</Chinesesimp>
-				<Korean>RPG-7 (플럼)</Korean>
+				<Korean>RPG-7 (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_RPG7_WUD">
 				<Original>RPG-7</Original>
@@ -11360,6 +11378,7 @@
 				<English>P1 9x19 mm</English>
 				<German>P1 9x19 mm</German>
 				<Chinesesimp>P1 9x19 mm</Chinesesimp>
+				<Korean>P1 9x19mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_P2A1_BASE">
 				<Original>P2A1 26.5 mm</Original>
@@ -11390,6 +11409,7 @@
 				<English>LP1 26.5 mm</English>
 				<German>LP1 26,5 mm</German>
 				<Chinesesimp>LP1 26.5 mm</Chinesesimp>
+				<Korean>LP1 26.5mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LP1_BLK">
 				<Original>LP1 26.5 mm</Original>
@@ -11432,6 +11452,7 @@
 				<English>PKT 7.62x54 mmR</English>
 				<German>PKT 7,62x54 mmR</German>
 				<Chinesesimp>PKT 7.62x54 mmR</Chinesesimp>
+				<Korean>PKT 7.62x54mmR</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PK_BLK">
 				<Original>PK 7.62x54 mmR</Original>
@@ -11520,39 +11541,42 @@
 				<English>MPi AK-74 5.45x39 mm (Plum)</English>
 				<German>MPi AK-74 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi AK-74 5.45x39 mm (暗紫色)</Chinesesimp>
-				<Korean>MPi AK-74 5.45x39 mm (플럼)</Korean>
+				<Korean>MPi AK-74 5.45x39mm (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74N_BASE">
 				<Original>MPi AKS-74 5.45x39 mm</Original>
 				<English>MPi AKS-74 5.45x39 mm</English>
 				<German>MPi AKS-74 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74 5.45x39 mm</Chinesesimp>
+				<Korean>MPi AKS-74 5.45x39mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74N_PRP">
 				<Original>MPi AKS-74 5.45x39 mm (Plum)</Original>
 				<English>MPi AKS-74 5.45x39 mm (Plum)</English>
 				<German>MPi AKS-74 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi AKS-74 5.45x39 mm (暗紫色)</Chinesesimp>
-				<Korean>MPi AKS-74 5.45x39 mm (플럼)</Korean>
+				<Korean>MPi AKS-74 5.45x39mm (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74NK_BASE">
 				<Original>MPi AKS-74K 5.45x39 mm</Original>
 				<English>MPi AKS-74K 5.45x39 mm</English>
 				<German>MPi AKS-74K 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74K 5.45x39 mm</Chinesesimp>
-				<Korean>MPi AKS-74K 5.45x39 mm</Korean>
+				<Korean>MPi AKS-74K 5.45x39mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74NK_PRP">
 				<Original>MPi AKS-74K 5.45x39 mm (Plum)</Original>
 				<English>MPi AKS-74K 5.45x39 mm (Plum)</English>
 				<German>MPi AKS-74K 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi AKS-74K 5.45x39 mm (暗紫色)</Chinesesimp>
+				<Korean>MPi AKS-74K 5.45x39mm (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK74N_PRP">
 				<Original>LMG RPK-74 5.45x39 mm (Plum)</Original>
 				<English>LMG RPK-74 5.45x39 mm (Plum)</English>
 				<German>lMG RPK-74 5,45x39 mm (Dunkellila)</German>
-				<Chinesesimp>LMG RPK-74 5.45x39 mm (Plum)</Chinesesimp>
+				<Chinesesimp>LMG RPK-74 5.45x39 mm (暗紫色)</Chinesesimp>
+				<Korean>LMG RPK-74 5.45x39mm (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAK74N_BRN">
 				<Original>MPi AK-74 5.45x39 mm</Original>
@@ -11571,6 +11595,7 @@
 				<English>MPi AKS-74K 5.45x39 mm</English>
 				<German>MPi AKS-74K 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74K 5.45x39 mm</Chinesesimp>
+				<Korean>MPi AKS-74K 5.45x39mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK74N_BRN">
 				<Original>LMG RPK-74 5.45x39 mm</Original>
@@ -11631,6 +11656,7 @@
 				<English>LMG RPK 7.62x39 mm (Plum)</English>
 				<German>lMG RPK 7,62x39 mm (Dunkellila)</German>
 				<Chinesesimp>LMG RPK 7.62x39 mm (暗紫色)</Chinesesimp>
+				<Korean>LMG RPK 7.62x39mm (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKM72_BRN">
 				<Original>MPi KM-72 7.62x39 mm</Original>
@@ -11655,7 +11681,7 @@
 				<English>MPi KMS-72 7.62x39 mm (Plum)</English>
 				<German>MPi KMS-72 7,62x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi KMS-72 7.62x39 mm (暗紫色)</Chinesesimp>
-				<Korean>MPi KMS-72 7.62x39mm (플럼)</Korean>
+				<Korean>MPi KMS-72 7.62x39mm (자주색)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AK47_BASE">
 				<Original>AK-47 7.62x39 mm</Original>
@@ -11675,6 +11701,7 @@
 				<English>AKM 7.62x39 mm</English>
 				<German>AKM 7,62x39 mm</German>
 				<Chinesesimp>AKM 7.62x39 mm</Chinesesimp>
+				<Korean>AKM (GM-CWG)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AKMN_BASE">
 				<Original>AKMN 7.62x39 mm</Original>
@@ -11725,6 +11752,7 @@
 				<English>RPK 7.62x39 mm</English>
 				<German>RPK 7,62x39 mm</German>
 				<Chinesesimp>RPK 7.62x39 mm</Chinesesimp>
+				<Korean>RPK 7.62x39mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKM72_BASE">
 				<Original>MPi KM-72 7.62x39 mm</Original>
@@ -11773,6 +11801,7 @@
 				<English>SG5A3 9x19 mm</English>
 				<German>SG5A3 9x19 mm</German>
 				<Chinesesimp>SG5A3 9x19 mm</Chinesesimp>
+				<Korean>SG5A3 9x19mm</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MP5SD2_BASE">
 				<Original>SG5SD2 9x19 mm</Original>
@@ -11835,6 +11864,7 @@
 				<English>SG5SD3 9x19 mm (Tan)</English>
 				<German>SG5SD3 9x19 mm (Wüste)</German>
 				<Chinesesimp>SG5SD3 9x19 mm (沙漠)</Chinesesimp>
+				<Korean>SG5SD3 9x19mm (Tan)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PZF3_BASE">
 				<Original>PzF3</Original>
@@ -11876,6 +11906,7 @@
 				<English>M72A3 LAW</English>
 				<German>M72A3 LAW</German>
 				<Chinesesimp>M72A3 LAW</Chinesesimp>
+				<Korean>M72A3 LAW</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FIM43_SPENT_OLI">
 				<Original>FIM-43 (Spent)</Original>
@@ -14709,6 +14740,7 @@
 				<English>105mm 1Rnd APFSDS-T DM23</English>
 				<German>105mm 1-Schuss APFSDS-T DM23</German>
 				<Chinesesimp>105mm 1Rnd APFSDS-T DM23</Chinesesimp>
+				<Korean>105mm APFSDS-T DM23</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_105X617MM_APFSDS_T_DM33">
 				<Original>105mm 1Rnd APFSDS-T DM33</Original>
@@ -14728,6 +14760,7 @@
 				<English>105mm 1Rnd HEAT-T DM12</English>
 				<German>105mm 1-Schuss HEAT-T DM12</German>
 				<Chinesesimp>105mm 1Rnd HEAT-T DM12</Chinesesimp>
+				<Korean>105mm HEAT-T DM12</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_105X617MM_APDS_T_DM13">
 				<Original>105mm 30Rnd APDS-T DM13</Original>
@@ -14762,6 +14795,7 @@
 				<English>105mm 30Rnd HEAT-T DM12</English>
 				<German>105mm 30-Schuss HEAT-T DM12</German>
 				<Chinesesimp>105mm 30Rnd HEAT-T DM12</Chinesesimp>
+				<Korean>105mm 30발 HEAT-T DM12</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_100X695MM_APFSDS_T_BM25">
 				<Original>100mm 1Rnd APFSDS-T BM-25</Original>
@@ -14787,6 +14821,7 @@
 				<English>100mm 20Rnd APFSDS-T BM-25</English>
 				<German>100mm 20-Schuss APFSDS-T BM-25</German>
 				<Chinesesimp>100mm 20Rnd APFSDS-T BM-25</Chinesesimp>
+				<Korean>100mm 20발 APFSDS-T BM-25</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_100X695MM_APFSDS_T_BM20">
 				<Original>100mm 1Rnd APFSDS-T BM-20</Original>
@@ -14812,6 +14847,7 @@
 				<English>100mm 22Rnd HVAPDS-T BM-8</English>
 				<German>100mm 22-Schuss HVAPDS-T BM-8</German>
 				<Chinesesimp>100mm 22Rnd HVAPDS-T BM-8</Chinesesimp>
+				<Korean>100mm 22발 HVAPDS-T BM-8</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_100X695MM_HEAT_T_BK5M">
 				<Original>100mm 1Rnd HEAT-T BK-5M</Original>
@@ -14837,6 +14873,7 @@
 				<English>100mm 1Rnd HE OF-412</English>
 				<German>100mm 1-Schuss HE OF-412</German>
 				<Chinesesimp>100mm 1Rnd HE OF-412</Chinesesimp>
+				<Korean>100mm HE OF-412</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_7RND_100X695MM_HE_OF412">
 				<Original>100mm 7Rnd HE OF-412</Original>
@@ -14862,6 +14899,7 @@
 				<English>100mm 21Rnd HE OF-412</English>
 				<German>100mm 21-Schuss HE OF-412</German>
 				<Chinesesimp>100mm 21Rnd HE OF-412</Chinesesimp>
+				<Korean>100mm 21발 HE OF-412</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_76X385MM_HEAT_T_BK350M">
 				<Original>76mm 1Rnd HEAT-T BK350M</Original>
@@ -14881,6 +14919,7 @@
 				<English>76mm 1Rnd HVAP-T BR354P</English>
 				<German>76mm 1-Schuss HVAP-T BR354P</German>
 				<Chinesesimp>76mm 1Rnd HVAP-T BR354P</Chinesesimp>
+				<Korean>76mm HVAP-T BR354P</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_76X385MM_HEAT_T_BK350M">
 				<Original>76mm 8Rnd HEAT-T BK350M</Original>
@@ -15664,6 +15703,7 @@
 				<German>Kaliber: 9x19 mm AP DM91&lt;br /&gt;Patronen: 32&lt;br /&gt;Eingesetzt von: MP2</German>
 				<Chinesesimp>口径: 9x19 mm AP DM91&lt;br /&gt;子弹: 32&lt;br /&gt;用于: MP2</Chinesesimp>
 				<Russian>Калибр: 9 x 19 мм AP DM91&lt;br /&gt;Кол-во: 32&lt;br /&gt;Применение: MP2</Russian>
+				<Korean>구경: 9x19mm AP DM91&lt;br /&gt;장탄수:32&lt;br /&gt;사용가능: MP2</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_30RND_9X19MM_B_DM51_MP5">
 				<Original>Caliber: 9x19 mm Ball DM51&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: SG5</Original>
@@ -15911,6 +15951,7 @@
 				<German>Kaliber: 105 mm APFSDS-T DM33&lt;br /&gt;Anzahl: 30&lt;br /&gt;Eingesetzt von: L7</German>
 				<Chinesesimp>口径: 105 mm APFSDS-T DM33&lt;br /&gt;Rounds: 30&lt;br /&gt;用于: L7</Chinesesimp>
 				<Russian>Калибр: 105 мм APFSDS-T DM33&lt;br /&gt;Кол-во: 30&lt;br /&gt;Применение: L7</Russian>
+				<Korean>구경: 105mm APFSDS-T DM33&lt;br /&gt;장탄수: 30&lt;br /&gt;사용가능: L7</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_30RND_105X617MM_APFSDS_T_DM63">
 				<Original>Caliber: 105 mm APFSDS-T DM63&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: L7</Original>
@@ -15939,6 +15980,7 @@
 				<German>Kaliber: 100 mm APFSDS-T BM-20&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: D10</German>
 				<Chinesesimp>口径: 100 mm APFSDS-T BM-20&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: D10</Chinesesimp>
 				<Russian>Калибр: 100 мм APFSDS-T BM-20&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: D10</Russian>
+				<Korean>구경: 100mm APFSDS-T BM-20&lt;br /&gt;장탄수: 1&lt;br /&gt;사용가능: D10</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_100X695MM_APFSDS_T_BM8">
 				<Original>Caliber: 100 mm HVAPDS-T BM-8&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: D10</Original>
@@ -16928,6 +16970,7 @@
 				<English>7.62x51mm DM21A2 - DM6 Belt (480Rnd)</English>
 				<German>7,62x51mm DM21A2 - DM6 Gurt (480 Sch.)</German>
 				<Chinesesimp>7.62x51mm DM21A2 - DM6 Belt (480Rnd)</Chinesesimp>
+				<Korean>7.62x51mm DM21A2 - DM6 탄띠 (480발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_SINGLE_WHT_GC">
 				<Original>26.5mm Flare (White) (20Rnd)</Original>
@@ -16946,6 +16989,7 @@
 				<English>26.5mm Flare (Red) (20Rnd)</English>
 				<German>26,5mm Licht (Rot) (20 Sch.)</German>
 				<Chinesesimp>26.5mm Flare (Red) (20Rnd)</Chinesesimp>
+				<Korean>26.5mm 조명탄 (빨강, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_RED_GC">
 				<Original>26.5mm Flare (Red) (20Rnd)</Original>
@@ -17899,6 +17943,7 @@
 				<English>Lieutenant Colonel</English>
 				<German>Oberstleutnant</German>
 				<Chinesesimp>中校</Chinesesimp>
+				<Korean>중령</Korean>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF5_O">
 				<Original>Colonel</Original>
@@ -20255,6 +20300,7 @@
 				<English>Tactical Suspenders</English>
 				<German>Koppelträger</German>
 				<Chinesesimp>战术背心</Chinesesimp>
+				<Korean>전술 서스펜더</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_RIFLEMAN_GRY">
 				<Original>Tactical Suspenders, Rifleman</Original>
@@ -20285,6 +20331,7 @@
 				<English>Tactical Suspenders, Anti-Tank</English>
 				<German>Koppelträger, Panzerabwehr</German>
 				<Chinesesimp>战术背心(AT)</Chinesesimp>
+				<Korean>전술 서스펜더 (대전차)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_RIFLEMAN_SMG_GRY">
 				<Original>Tactical Suspenders, SMG</Original>
@@ -23008,6 +23055,7 @@
 				<German>Thor</German>
 				<Chinesesimp>Thor</Chinesesimp>
 				<Russian>Thor</Russian>
+				<Korean>토르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_VIKTOR">
 				<Original>Viktor</Original>
@@ -23127,6 +23175,7 @@
 				<German>Grønkjær</German>
 				<Chinesesimp>Grønkjær</Chinesesimp>
 				<Russian>Grønkjær</Russian>
+				<Korean>그뢴키예르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GUNNERSEN">
 				<Original>Gunnersen</Original>
@@ -24032,6 +24081,7 @@
 				<German>Halten Sie die Brücke um weiteren Kräften die Überquerung zu ermöglichen.</German>
 				<Chinesesimp>守住桥梁，让友军部队通过。</Chinesesimp>
 				<Chinese>守住橋樑，讓友軍部隊通過。</Chinese>
+				<Korean>아군들이 안전하게 건널 수 있도록 다리를 지켜라</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_01">
 				<Original>Situation unchanged.</Original>
@@ -24039,6 +24089,7 @@
 				<German>Die Lage ist unverändert.</German>
 				<Chinesesimp>形势未变。</Chinesesimp>
 				<Chinese>形勢未變。</Chinese>
+				<Korean>상황은 그대로하다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_02">
 				<Original>Task</Original>
@@ -24054,6 +24105,7 @@
 				<German>Sichern Sie das Vorgehen des Panzergrenadierzugs von Rümmer auf Gross Twülpstedt und nehmen sie Gross Twülpstedt.</German>
 				<Chinesesimp>确保一支机械化步兵排从 Rümmer 前进到 Gross twülpsedt，然后攻下Gross twülpsedt。</Chinesesimp>
 				<Chinese>確保一支機械化步兵排從 Rümmer 前進到 Gross twülpsedt，然後攻下 Gross twülpsedt。</Chinese>
+				<Korean>룀머에서 그로스 트발프슈테트로 진격하는 기계화보병 소대를 지원하고 그로스 트발프슈테트를 점령하라</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_04">
 				<Original>This is rally point 1.</Original>
@@ -24069,6 +24121,7 @@
 				<German>Gewinnen Sie Brückenköpfe südlich Bahrdorf, hier Angriffsziel.</German>
 				<Chinesesimp>确保夺取Bahrdorf以南的桥头堡。</Chinesesimp>
 				<Chinese>這是1號集合點。確保奪取Bahrdorf以南的橋頭堡。</Chinese>
+				<Korean>바르도르프 남쪽의 교두보를 확보해라</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_06">
 				<Original>Secure area for additional forces to follow.</Original>
@@ -24182,7 +24235,8 @@
 				<German>DRAHT, hier SEMMEL. Kommen.</German>
 				<Chinesesimp>DRAHT，这里是SEMMEL，完毕。</Chinesesimp>
 				<Chinese>DRAHT，這裡是SEMMEL，完畢。</Chinese>
-				<Korean>DRAHT, 여기는 SEMMEL, 오버.</Korean>
+				<Korean>DRAHT, 여기는 SEMMEL. 오버.</Korean>
+				<Japanese>DRAHT,ここは SEMMEL. オーバー。</Japanese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005B">
 				<Original>This is DRAHT. Over.</Original>
@@ -24228,6 +24282,7 @@
 				<English>Better Late Than Never</English>
 				<German>Besser Spät Als Nie!</German>
 				<Chinesesimp>迟来总比不来好</Chinesesimp>
+				<Korean>늦어도 안하는것보단 낫다</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_OVERVIEW">
 				<Original>3. PzGrenBtl 23 sweeps the northern Lappwald forest area to prepare the assault on Grasleben.</Original>
@@ -24252,18 +24307,21 @@
 				<English>Take Explosives</English>
 				<German>Sprengladung Nehmen</German>
 				<Chinesesimp>携带炸药</Chinesesimp>
+				<Korean>폭발물 입수</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_TASK_02A_TEXT">
 				<Original>Take explosive charges from Berg's backpack.</Original>
 				<English>Take explosive charges from Berg's backpack.</English>
 				<German>Nehmen Sie eine Haftladung aus Berg's Rucksack.</German>
 				<Chinesesimp>从Berg的背包里取出炸药。</Chinesesimp>
+				<Korean>베르크의 군장에서 폭발물을 입수하라.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_TASK_02_TITLE">
 				<Original>Block Road</Original>
 				<English>Block Road</English>
 				<German>Straße Versperren</German>
 				<Chinesesimp>封锁道路</Chinesesimp>
+				<Korean>도로 봉쇄</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_TASK_02_TEXT">
 				<Original>Pick a tree and use the charges to blow up a tree and have it block the road.</Original>
@@ -24283,6 +24341,7 @@
 				<English>An enemy convoy is coming our way. We are to take it out.</English>
 				<German>Ein Kolonne der NVA bewegt sich in unsere Richtung. Wir müssen sie aufhalten.</German>
 				<Chinesesimp>一支敌军车队正朝我们过来，我们要干掉他们。</Chinesesimp>
+				<Korean>적의 수송대가 이길로 오고있다. 우리는 그들을 막을것이다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_BRIEFING_01">
 				<Original>Situation</Original>
@@ -24468,6 +24527,7 @@
 				<English>Klemmer, damnit! Dont stay over there!</English>
 				<German>Klemmer verdammt! Bleiben Sie nicht da drüben!</German>
 				<Chinesesimp>Klemmer，该死的！别呆在那里！</Chinesesimp>
+				<Korean>클레머, 젠장! 거기에 있지 말라고!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_R_011">
 				<Original>WESPE, Enemy convoy destroyed. Over.</Original>
@@ -24506,12 +24566,14 @@
 				<English>The Hard Way</English>
 				<German>Wer Nicht Hören Will...</German>
 				<Chinesesimp>艰辛之路</Chinesesimp>
+				<Korean>어려운 길</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_04_OVERVIEW">
 				<Original>3. PzGrenBtl 23 has to retake Grasleben.</Original>
 				<English>3. PzGrenBtl 23 has to retake Grasleben.</English>
 				<German>3. PzGrenBtl 23 muss Grasleben zurückerobern.</German>
 				<Chinesesimp>第23装甲掷弹兵营3连必须夺回Grasleben。</Chinesesimp>
+				<Korean>23 기갑척탄대대 3중대는 그라슬레벤을 재탈환했다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_04_TASK_01_TITLE">
 				<Original>Take Saltmine</Original>
@@ -27103,12 +27165,14 @@
 				<English>Requesting Supply</English>
 				<German>Benötige Nachschub</German>
 				<Chinesesimp>请求补给</Chinesesimp>
+				<Korean>보급품 요청</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_04_REQSUPPORT">
 				<Original>Requesting Support</Original>
 				<English>Requesting Support</English>
 				<German>Benötige Unterstützung</German>
 				<Chinesesimp>请求支援</Chinesesimp>
+				<Korean>지원 요청</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_04_READYNEWORDER">
 				<Original>Ready for new orders</Original>
@@ -27310,6 +27374,7 @@
 				<English>A Danish group of soldiers must return from behind enemy lines.</English>
 				<German>Dänische Soldaten kämpfen sich durch feindliche Linien zurück.</German>
 				<Chinesesimp>一队丹麦士兵必须从敌后撤回。</Chinesesimp>
+				<Korean>덴마크군 분대는 적진을 넘어 반드시 돌아가야 합니다.</Korean>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_TASK_01_TITLE">
 				<Original>Reach Everingen</Original>
@@ -27462,6 +27527,7 @@
 				<English>%1%2 Points</English>
 				<German>%1%2 Punkte</German>
 				<Chinesesimp>%1%2 分</Chinesesimp>
+				<Korean>%1%2 포인트</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_EMPTY_MAILBOX">
 				<Original>Empty Mailbox</Original>
@@ -27482,6 +27548,7 @@
 				<English>Small Mail Delivery</English>
 				<German>Kleine Briefaustragung</German>
 				<Chinesesimp>小件邮件投递</Chinesesimp>
+				<Korean>소형 우편 배달</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_SMALL_MAIL_DELIVERY_DESC">
 				<Original>Deliver three letters to the local village.&lt;br /&gt;&lt;br /&gt;100 points per delivered letter.&lt;br /&gt;&lt;br /&gt;300 points penalty if cancelled or failed.</Original>
@@ -27494,6 +27561,7 @@
 				<English>Mail Delivery</English>
 				<German>Briefaustragung</German>
 				<Chinesesimp>邮件投递</Chinesesimp>
+				<Korean>우편 배달</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAIL_DELIVERY_DESC">
 				<Original>Deliver ten letters to the local village.&lt;br /&gt;&lt;br /&gt;100 points per delivered letter.&lt;br /&gt;&lt;br /&gt;1000 points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the mailbag.</Original>
@@ -27735,7 +27803,7 @@
 				<English>Standard Tent Type 1</English>
 				<German>Einheitszelt Typ 1</German>
 				<Chinesesimp>标准帐篷(类型1)</Chinesesimp>
-				<Korean>표준 텐트 1형</Korean>
+				<Korean>1형 표준 텐트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_02">
 				<Original>Standard Tent Type 1 (Side)</Original>
@@ -27748,6 +27816,7 @@
 				<English>Standard Tent Type 1 (Window)</English>
 				<German>Einheitszelt Typ 1 (Fenster)</German>
 				<Chinesesimp>标准帐篷(类型1,窗户)</Chinesesimp>
+				<Korean>1형 표준 텐트 (창문)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_04">
 				<Original>Standard Tent Type 1 (End)</Original>
@@ -27773,12 +27842,14 @@
 				<English>Standard Tent Type 1 (Frame)</English>
 				<German>Einheitszelt Typ 1 (Gestell)</German>
 				<Chinesesimp>标准帐篷(类型1,框架)</Chinesesimp>
+				<Korean>1형 표준 텐트 (프레임)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKBOX_FLOOR_HIDE_SOURCE">
 				<Original>Floor</Original>
 				<English>Floor</English>
 				<German>Zeltboden</German>
 				<Chinesesimp>地板</Chinesesimp>
+				<Korean>층</Korean>
 			</Key>
 			<Key ID="STR_TT_GM_CHECKBOX_FLOOR_HIDE_SOURCE">
 				<Original>Uncheck to hide the tent floor.</Original>
@@ -27791,6 +27862,7 @@
 				<English>West German Currency</English>
 				<German>Westdeutsche Währung</German>
 				<Chinesesimp>西德货币</Chinesesimp>
+				<Korean>서독 화폐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_1_COIN">
 				<Original>1 DM</Original>
@@ -27862,6 +27934,7 @@
 				<English>100 DM</English>
 				<German>100 DM</German>
 				<Chinesesimp>100德国马克</Chinesesimp>
+				<Korean>100 독일 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_100_STACK">
 				<Original>100x 100 DM</Original>
@@ -27905,24 +27978,28 @@
 				<English>East German Currency</English>
 				<German>Ostdeutsche Währung</German>
 				<Chinesesimp>东德货币</Chinesesimp>
+				<Korean>동독 화폐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_1_COIN">
 				<Original>1 M</Original>
 				<English>1 M</English>
 				<German>1 M</German>
 				<Chinesesimp>1马克</Chinesesimp>
+				<Korean>1 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_5_BILL">
 				<Original>5 M</Original>
 				<English>5 M</English>
 				<German>5 M</German>
 				<Chinesesimp>5马克</Chinesesimp>
+				<Korean>5 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_5_STACK">
 				<Original>100x 5 M</Original>
 				<English>100x 5 M</English>
 				<German>100x 5 M</German>
 				<Chinesesimp>100x5马克</Chinesesimp>
+				<Korean>100x5 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_10_BILL">
 				<Original>10 M</Original>
@@ -27936,49 +28013,56 @@
 				<English>100x 10 M</English>
 				<German>100x 10 M</German>
 				<Chinesesimp>100x10马克</Chinesesimp>
+				<Korean>100x10 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_20_BILL">
 				<Original>20 M</Original>
 				<English>20 M</English>
 				<German>20 M</German>
 				<Chinesesimp>20马克</Chinesesimp>
+				<Korean>20 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_20_STACK">
 				<Original>100x 20 M</Original>
 				<English>100x 20 M</English>
 				<German>100x 20 M</German>
 				<Chinesesimp>100x20马克</Chinesesimp>
+				<Korean>100x20 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_50_BILL">
 				<Original>50 M</Original>
 				<English>50 M</English>
 				<German>50 M</German>
 				<Chinesesimp>50马克</Chinesesimp>
+				<Korean>50동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_50_STACK">
 				<Original>100x 50 M</Original>
 				<English>100x 50 M</English>
 				<German>100x 50 M</German>
 				<Chinesesimp>100x50马克</Chinesesimp>
+				<Korean>100x50 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_100_BILL">
 				<Original>100 M</Original>
 				<English>100 M</English>
 				<German>100 M</German>
 				<Chinesesimp>100马克</Chinesesimp>
+				<Korean>100 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_100_STACK">
 				<Original>100x 100 M</Original>
 				<English>100x 100 M</English>
 				<German>100x 100 M</German>
 				<Chinesesimp>100x100马克</Chinesesimp>
-				<Korean>100x 100 동독 마르크</Korean>
+				<Korean>100x100 동독 마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MODULESIREN">
 				<Original>Siren</Original>
 				<English>Siren</English>
 				<German>Sirene</German>
 				<Chinesesimp>警报器</Chinesesimp>
+				<Korean>사이렌</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENTYPE">
 				<Original>Pattern</Original>
@@ -27997,12 +28081,14 @@
 				<English>Air Raid</English>
 				<German>Luftalarm</German>
 				<Chinesesimp>空袭</Chinesesimp>
+				<Korean>공습</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENTYPE_TEST">
 				<Original>Test</Original>
 				<English>Test</English>
 				<German>Test</German>
 				<Chinesesimp>测试</Chinesesimp>
+				<Korean>테스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENDURATION">
 				<Original>Duration</Original>
@@ -28021,6 +28107,7 @@
 				<English>Use Sirens</English>
 				<German>Sirenen Nutzen</German>
 				<Chinesesimp>使用警报器</Chinesesimp>
+				<Korean>사이렌 사용</Korean>
 			</Key>
 			<Key ID="STR_DES_GM_FINDREALSIRENS">
 				<Original>Play the sound from sirens objects in the area?</Original>
@@ -28057,6 +28144,7 @@
 				<English>Shelter ACE II - Medic</English>
 				<German>Shelter ACE II - San</German>
 				<Chinesesimp>避难 ACE II - 医疗</Chinesesimp>
+				<Korean>쉘터 ACE II - 의료</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEII_REPAIR_BASE">
 				<Original>Shelter ACE II - Repair</Original>
@@ -28315,6 +28403,7 @@
 				<English>Camp (East)</English>
 				<German>Lager (Ost)</German>
 				<Chinesesimp>营地(East)</Chinesesimp>
+				<Korean>캠프 (동독)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CAMP_NATO_SMALL">
 				<Original>Vehicle Camp (NATO)</Original>
@@ -28360,6 +28449,7 @@
 				<English>Bunker (Large)</English>
 				<German>Bunker (Groß)</German>
 				<Chinesesimp>碉堡(大型)</Chinesesimp>
+				<Korean>벙커 (대형)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKER_MEDIUM">
 				<Original>Bunker (Medium)</Original>
@@ -28552,6 +28642,7 @@
 				<English>Rail (European, '80)</English>
 				<German>Schienen (Europäisch, '80)</German>
 				<Chinesesimp>铁路(欧洲,80年代)</Chinesesimp>
+				<Korean>레일 (유럽, '80)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_SURFACESEAL_EURO_80">
 				<Original>Surface Sealing (European, '80)</Original>
@@ -28576,6 +28667,7 @@
 				<English>Barracks (Beige)</English>
 				<German>Kasernengebäude (Beige)</German>
 				<Chinesesimp>兵营(米黄色)</Chinesesimp>
+				<Korean>병영 (베이지)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_BARRACKS_02">
 				<Original>Barracks (Grey)</Original>
@@ -28678,6 +28770,7 @@
 				<English>House (Long, Grey)</English>
 				<German>Haus (Lang, Grau)</German>
 				<Chinesesimp>房屋(长,灰色)</Chinesesimp>
+				<Korean>집 (김, 회색)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_02_W">
 				<Original>House (Long, Stone)</Original>
@@ -28787,6 +28880,7 @@
 				<English>House (Villa, Beige)</English>
 				<German>Haus (Villa, Beige)</German>
 				<Chinesesimp>房屋(别墅,砖块)</Chinesesimp>
+				<Korean>집 (빌라, 베이지)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_09_D">
 				<Original>House (Semi, Decayed)</Original>
@@ -28895,6 +28989,7 @@
 				<English>Office Building</English>
 				<German>Bürogebäude</German>
 				<Chinesesimp>办公大楼</Chinesesimp>
+				<Korean>오피스 빌딩</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_OFFICE_02">
 				<Original>Building</Original>
@@ -28908,6 +29003,7 @@
 				<English>Office Building (Small)</English>
 				<German>Bürogebäude (Klein)</German>
 				<Chinesesimp>办公大楼(小型)</Chinesesimp>
+				<Korean>오피스 빌딩 (소형)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_PUB_01">
 				<Original>Office Building (Generic)</Original>
@@ -28938,6 +29034,7 @@
 				<English>Office Building</English>
 				<German>Bürogebäude</German>
 				<Chinesesimp>办公大楼</Chinesesimp>
+				<Korean>오피스 빌딩</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_SHED_04">
 				<Original>Storage Hall</Original>
@@ -28950,6 +29047,7 @@
 				<English>Garage</English>
 				<German>Garage</German>
 				<Chinesesimp>车库</Chinesesimp>
+				<Korean>차고</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_SHOP_01_W">
 				<Original>Shop (Corner)</Original>
@@ -29054,18 +29152,21 @@
 				<English>Bench (Log, Big)</English>
 				<German>Sitzbank (Baum, Groß)</German>
 				<Chinesesimp>长凳(原木，大型)</Chinesesimp>
+				<Korean>벤치 (김, 큼)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_BENCH_06">
 				<Original>Beer Bench</Original>
 				<English>Beer Bench</English>
 				<German>Biergartenbank</German>
 				<Chinesesimp>啤酒凳</Chinesesimp>
+				<Korean>맥주 벤치</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_BENCH_07">
 				<Original>Beer Table</Original>
 				<English>Beer Table</English>
 				<German>Biergartentisch</German>
 				<Chinesesimp>啤酒桌</Chinesesimp>
+				<Korean>맥주 탁자</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_BUSSTOP_01">
 				<Original>Hut (Wood)</Original>
@@ -32609,6 +32710,7 @@
 				<English>FlakPz 1A1</English>
 				<German>FlakPz 1A1</German>
 				<Chinesesimp>FlakPz 1A1</Chinesesimp>
+				<Korean>FlakPz 1A1</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PLATOON_GEPARD1A1">
 				<Original>Platoon (FlakPz 1A1)</Original>
@@ -32634,6 +32736,7 @@
 				<English>KPz 2A0</English>
 				<German>KPz 2A0</German>
 				<Chinesesimp>KPz 2A0</Chinesesimp>
+				<Korean>KPz 2A0</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LEOPARD2A1">
 				<Original>KPz 2A1</Original>
@@ -32659,12 +32762,14 @@
 				<English>KPz 2A4</English>
 				<German>KPz 2A4</German>
 				<Chinesesimp>KPz 2A4</Chinesesimp>
+				<Korean>KPz 2A4</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LEOPARD2A5">
 				<Original>KPz 2A5</Original>
 				<English>KPz 2A5</English>
 				<German>KPz 2A5</German>
 				<Chinesesimp>KPz 2A5</Chinesesimp>
+				<Korean>KPz 2A5</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_LEOPARD2A6">
 				<Original>KPz 2A6</Original>
@@ -32696,6 +32801,7 @@
 				<English>KPz 2A0</English>
 				<German>KPz 2A0</German>
 				<Chinesesimp>KPz 2A0</Chinesesimp>
+				<Korean>KPz 2A0</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_LEOPARD2A1">
 				<Original>KPz 2A1</Original>
@@ -32715,6 +32821,7 @@
 				<English>KPz 2A3</English>
 				<German>KPz 2A3</German>
 				<Chinesesimp>KPz 2A3</Chinesesimp>
+				<Korean>KPz 2A3</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_LEOPARD2A4">
 				<Original>KPz 2A4</Original>
@@ -32728,6 +32835,7 @@
 				<English>KPz 2A5</English>
 				<German>KPz 2A5</German>
 				<Chinesesimp>KPz 2A5</Chinesesimp>
+				<Korean>KPz 2A5</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_LEOPARD2A6">
 				<Original>KPz 2A6</Original>
@@ -32780,6 +32888,7 @@
 				<English>M113A1G</English>
 				<German>M113A1G</German>
 				<Chinesesimp>M113A1G</Chinesesimp>
+				<Korean>M113A1G</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M113A2G">
 				<Original>M113A2G</Original>
@@ -32851,6 +32960,7 @@
 				<English>M113A1G APC</English>
 				<German>M113A1G MTW</German>
 				<Chinesesimp>M113A1G APC</Chinesesimp>
+				<Korean>M113A1G APC</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M113A1G_APC_MILAN">
 				<Original>M113A1G APC LATGM</Original>
@@ -32879,6 +32989,7 @@
 				<German>M113A1DK MTW</German>
 				<Chinesesimp>M113A1DK APC</Chinesesimp>
 				<Korean>M113A1DK APC</Korean>
+				<Japanese>M113A1DK APC</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_M113A1DK_APC_TOW">
 				<Original>M113A1DK APC TOW</Original>
@@ -32892,6 +33003,7 @@
 				<English>M113A1DK Medical</English>
 				<German>M113A1DK KrKw</German>
 				<Chinesesimp>M113A1DK(医疗)</Chinesesimp>
+				<Korean>M113A1DK (의료)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_M113A1DK_COMMAND">
 				<Original>M113A1DK Command</Original>
@@ -32912,6 +33024,7 @@
 				<English>M113</English>
 				<German>M113</German>
 				<Chinesesimp>M113</Chinesesimp>
+				<Korean>M113</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_M113A1G_MTW">
 				<Original>M113A1G</Original>
@@ -32978,6 +33091,7 @@
 				<English>SPz 1A1-</English>
 				<German>SPz 1A1-</German>
 				<Chinesesimp>SPz 1A1-</Chinesesimp>
+				<Korean>SPz 1A1-</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MARDER1A1PLUS">
 				<Original>SPz 1A1+</Original>
@@ -33028,6 +33142,7 @@
 				<English>SPz 1A2A1</English>
 				<German>SPz 1A2A1</German>
 				<Chinesesimp>SPz 1A2A1</Chinesesimp>
+				<Korean>SPz 1A2A1</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_MARDER1A3">
 				<Original>SPz 1A3</Original>
@@ -33060,6 +33175,7 @@
 				<English>SPz 1A5A1</English>
 				<German>SPz 1A5A1</German>
 				<Chinesesimp>SPz 1A5A1</Chinesesimp>
+				<Korean>SPz 1A5A1</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_MARDER1">
 				<Original>SPz 1</Original>
@@ -33116,6 +33232,7 @@
 				<English>SPz 1A1A3+</English>
 				<German>SPz 1A1A3+</German>
 				<Chinesesimp>SPz 1A1A3+</Chinesesimp>
+				<Korean>SPz 1A1A3+</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_MARDER1A1A4">
 				<Original>SPz 1A1A4</Original>
@@ -33159,6 +33276,7 @@
 				<English>SPz 1A4</English>
 				<German>SPz 1A4</German>
 				<Chinesesimp>SPz 1A4</Chinesesimp>
+				<Korean>SPz 1A4</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_MARDER1A5">
 				<Original>SPz 1A5</Original>
@@ -33177,6 +33295,7 @@
 				<English>Squad (SPz 1A1A)</English>
 				<German>Gruppe (SPz 1A1A)</German>
 				<Chinesesimp>班(SPz 1A1A)</Chinesesimp>
+				<Korean>분대 (SPz 1A1A</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_MARDER1A1PLUS">
 				<Original>Squad (SPz 1A1+)</Original>
@@ -33257,6 +33376,7 @@
 				<English>T-55K1</English>
 				<German>T-55K1</German>
 				<Chinesesimp>T-55K1</Chinesesimp>
+				<Korean>T-55K1</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_T55K2">
 				<Original>T-55K2</Original>
@@ -33293,6 +33413,7 @@
 				<English>T-55AK2</English>
 				<German>T-55AK2</German>
 				<Chinesesimp>T-55AK2</Chinesesimp>
+				<Korean>T-55AK2</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_T55AK3">
 				<Original>T-55AK3</Original>
@@ -33383,6 +33504,7 @@
 				<English>T-54</English>
 				<German>T-54</German>
 				<Chinesesimp>T-54</Chinesesimp>
+				<Korean>T-54</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_T54A">
 				<Original>T-54A</Original>
@@ -33431,6 +33553,7 @@
 				<English>T-55K</English>
 				<German>T-55K</German>
 				<Chinesesimp>T-55K</Chinesesimp>
+				<Korean>T-55K</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_T55K1">
 				<Original>T-55K1</Original>
@@ -33662,6 +33785,7 @@
 				<English>PT-76</English>
 				<German>PT-76</German>
 				<Chinesesimp>PT-76</Chinesesimp>
+				<Korean>PT-76</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PT76B">
 				<Original>PT-76B</Original>
@@ -33688,6 +33812,7 @@
 				<English>Recon Patrol (PT-76B)</English>
 				<German>Spähtrupp (PT-76B)</German>
 				<Chinesesimp>侦察巡逻(PT-76B)</Chinesesimp>
+				<Korean>정찰팀 (PT-76B)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BTS1">
 				<Original>BTS-1</Original>
@@ -33943,6 +34068,7 @@
 				<English>Squad (BWP-1)</English>
 				<German>Gruppe (BWP-1)</German>
 				<Chinesesimp>班(BWP-1)</Chinesesimp>
+				<Korean>분대 (BWP-1)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_PLATOON_PT76B">
 				<Original>Platoon (PT-76B)</Original>
@@ -35603,6 +35729,7 @@
 				<English>CH-53GS</English>
 				<German>CH-53GS</German>
 				<Chinesesimp>CH-53GS</Chinesesimp>
+				<Korean>CH-54GS</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_CH53">
 				<Original>CH-53</Original>
@@ -35621,6 +35748,7 @@
 				<English>CH-53GS</English>
 				<German>CH-53GS</German>
 				<Chinesesimp>CH-53GS</Chinesesimp>
+				<Korean>CH-54GS</Korean>
 			</Key>
 			<Key ID="STR_DS_GM_CH53">
 				<Original>The CH-53 Sea Stallion is a family of heavy-lift transport helicopters of US origin. Originally developed for use by the United States Marine Corps,</Original>
@@ -35637,6 +35765,7 @@
 				<English>Do 28 D2</English>
 				<German>Do 28 D2</German>
 				<Chinesesimp>Do 28 D2</Chinesesimp>
+				<Korean>Do 28 D2</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DO28D2_MEDEVAC_BASE">
 				<Original>Do 28 D2 (Medevac)</Original>
@@ -35650,6 +35779,7 @@
 				<English>L-410T</English>
 				<German>L-410T</German>
 				<Chinesesimp>L-410T</Chinesesimp>
+				<Korean>L-410T</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_L410S_BASE">
 				<Original>L-410S</Original>
@@ -35711,6 +35841,7 @@
 				<English>L (Black)</English>
 				<German>L (Schwarz)</German>
 				<Chinesesimp>L (黑色)</Chinesesimp>
+				<Korean>L (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_COOL_LEHR_WHT">
 				<Original>L (White)</Original>
