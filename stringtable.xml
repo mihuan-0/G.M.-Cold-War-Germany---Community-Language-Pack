@@ -4025,6 +4025,7 @@
 				<English>Add Storage Bag</English>
 				<German>Stausack</German>
 				<Chinesesimp>存储包</Chinesesimp>
+				<Korean>보관용 가방 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_POWERGENERATOR">
 				<Original>Add Power Generator</Original>
@@ -4038,12 +4039,14 @@
 				<English>Add MLC Sign</English>
 				<German>MLC Schild</German>
 				<Chinesesimp>军车载荷分类(MLC)牌</Chinesesimp>
+				<Korean>MLC 표식 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_MEDICALSIGN">
 				<Original>Add Medical Sign</Original>
 				<English>Add Medical Sign</English>
 				<German>San Schild</German>
 				<Chinesesimp>医疗标志</Chinesesimp>
+				<Korean>의료 표식 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ROPES">
 				<Original>Add Ropes</Original>
@@ -4057,30 +4060,35 @@
 				<English>Add Primary Radio</English>
 				<German>Funkgerät 1</German>
 				<Chinesesimp>主要电台</Chinesesimp>
+				<Korean>주 라디오 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SECONDARY_RADIO">
 				<Original>Add Secondary Radio</Original>
 				<English>Add Secondary Radio</English>
 				<German>Funkgerät 2</German>
 				<Chinesesimp>次要电台</Chinesesimp>
+				<Korean>부 라디오 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FOLD_UP_CARGOSEATS">
 				<Original>Fold Up Cargo Seats</Original>
 				<English>Fold Up Cargo Seats</English>
 				<German>Sitzbänke Hochklappen</German>
 				<Chinesesimp>折叠长凳</Chinesesimp>
+				<Korean>화물시트 접기</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FOGLIGHT">
 				<Original>Add Fog Lights</Original>
 				<English>Add Fog Lights</English>
 				<German>Nebelscheinwerfer</German>
 				<Chinesesimp>雾光灯</Chinesesimp>
+				<Korean>하향등 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_COVER_HOOPS">
 				<Original>Add Cover Hoops</Original>
 				<English>Add Cover Hoops</English>
 				<German>Spriegel</German>
 				<Chinesesimp>敞篷车顶支架</Chinesesimp>
+				<Korean>비닐커버 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_COVER">
 				<Original>Add Cover</Original>
@@ -4094,6 +4102,7 @@
 				<English>Add Cover - Rolled Down</English>
 				<German>Plane - Runter</German>
 				<Chinesesimp>敞篷-放下</Chinesesimp>
+				<Korean>덮개 추가 - 아래에 말아둠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_COVER_ROLLED_UP">
 				<Original>Add Cover - Rolled Up</Original>
@@ -4128,79 +4137,91 @@
 				<English>Add Door - Front Left</English>
 				<German>Tür - Vorne Links</German>
 				<Chinesesimp>车门-左前</Chinesesimp>
-				<Korean>문 추가 - 전측면</Korean>
+				<Korean>문 추가 - 전방좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_DOOR_FRONT_RIGHT">
 				<Original>Add Door - Front Right</Original>
 				<English>Add Door - Front Right</English>
 				<German>Tür - Vorne Recht</German>
 				<Chinesesimp>车门-右前</Chinesesimp>
+				<Korean>문 추가 - 전방우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_DOOR_REAR_LEFT">
 				<Original>Add Door - Rear Left</Original>
 				<English>Add Door - Rear Left</English>
 				<German>Tür - Hinten Links</German>
 				<Chinesesimp>车门-左后</Chinesesimp>
+				<Korean>문 추가 - 후면좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_DOOR_REAR_RIGHT">
 				<Original>Add Door - Rear Right</Original>
 				<English>Add Door - Rear Right</English>
 				<German>Tür - Hinten Rechts</German>
 				<Chinesesimp>车门-右后</Chinesesimp>
+				<Korean>문 추가 - 후면우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET">
 				<Original>Add Camo Net Roll</Original>
 				<English>Add Camo Net Roll</English>
 				<German>Tarnnetzrolle</German>
 				<Chinesesimp>迷彩网卷</Chinesesimp>
+				<Korean>말아둔 위장막 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET_TOP">
 				<Original>Add Camo Net Roll - Top</Original>
 				<English>Add Camo Net Roll - Top</English>
 				<German>Tarnnetzrolle - Oben</German>
 				<Chinesesimp>迷彩网卷-顶上</Chinesesimp>
+				<Korean>말아둔 위장막 추가 - 상부</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET_RIGHT">
 				<Original>Add Camo Net Roll - Right</Original>
 				<English>Add Camo Net Roll - Right</English>
 				<German>Tarnnetzrolle - Rechts</German>
 				<Chinesesimp>迷彩网卷-左面</Chinesesimp>
+				<Korean>말아둔 위장막 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET_LEFT">
 				<Original>Add Camo Net Roll - Left</Original>
 				<English>Add Camo Net Roll - Left</English>
 				<German>Tarnnetzrolle - Links</German>
 				<Chinesesimp>迷彩网卷-右面</Chinesesimp>
+				<Korean>말아둔 위장막 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET_FRONT">
 				<Original>Add Camo Net Roll - Front</Original>
 				<English>Add Camo Net Roll - Front</English>
 				<German>Tarnnetzrolle - Vorne</German>
 				<Chinesesimp>迷彩网卷-前面</Chinesesimp>
+				<Korean>말아둔 위장막 추가 - 전방</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET_REAR">
 				<Original>Add Camo Net Roll - Rear</Original>
 				<English>Add Camo Net Roll - Rear</English>
 				<German>Tarnnetzrolle - Heck</German>
 				<Chinesesimp>迷彩网卷-后面</Chinesesimp>
+				<Korean>말아둔 위장막 추가 - 후면</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_CAMONET_RACK_FRONT">
 				<Original>Add Camo Net Roll - Rack</Original>
 				<English>Add Camo Net Roll - Rack</English>
 				<German>Tarnnetzrolle - Halterung</German>
 				<Chinesesimp>迷彩网卷-支架</Chinesesimp>
+				<Korean>말아둔 위장막 추가 - 받침대</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_APPLY_CAMONET">
 				<Original>Add Camo Net</Original>
 				<English>Add Camo Net</English>
 				<German>Tarnnetz</German>
 				<Chinesesimp>迷彩网</Chinesesimp>
+				<Korean>위장막 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_APPLY_CAMONET_HULL">
 				<Original>Add Camo Net - Hull</Original>
 				<English>Add Camo Net - Hull</English>
 				<German>Tarnnetz - Wanne</German>
 				<Chinesesimp>迷彩网-车身</Chinesesimp>
+				<Korean>위장막 추가 - 차체</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_APPLY_CAMONET_TURRET">
 				<Original>Add Camo Net - Turret</Original>
@@ -4214,114 +4235,133 @@
 				<English>Add Camo Net - Gun</English>
 				<German>Tarnnetz - Kanone</German>
 				<Chinesesimp>迷彩网-炮管</Chinesesimp>
+				<Korean>위장막 추가 - 주포</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_APPLY_CAMOFOILAGE">
 				<Original>Add Foliage</Original>
 				<English>Add Foliage</English>
 				<German>Tarnung</German>
 				<Chinesesimp>伪装</Chinesesimp>
+				<Korean>초목 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_APPLY_CAMOFOILAGE_HULL">
 				<Original>Add Foliage - Hull</Original>
 				<English>Add Foliage - Hull</English>
 				<German>Tarnung - Wanne</German>
 				<Chinesesimp>伪装-车身</Chinesesimp>
+				<Korean>초목 추가 - 차체</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_APPLY_CAMOFOILAGE_TURRET">
 				<Original>Add Foliage - Turret</Original>
 				<English>Add Foliage - Turret</English>
 				<German>Tarnung - Turm</German>
 				<Chinesesimp>伪装-炮塔</Chinesesimp>
+				<Korean>초목 추가 - 포탑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ROOF_RACK">
 				<Original>Add Roof Rack</Original>
 				<English>Add Roof Rack</English>
 				<German>Dachträger</German>
 				<Chinesesimp>车顶行李架</Chinesesimp>
+				<Korean>루프 랙 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SIDESKIRTS">
 				<Original>Add Side Skirts</Original>
 				<English>Add Side Skirts</English>
 				<German>Seitenschürzen</German>
 				<Chinesesimp>侧裙板</Chinesesimp>
+				<Korean>사이드스커트 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_MIRRORS">
 				<Original>Add Mirrors</Original>
 				<English>Add Mirrors</English>
 				<German>Seitenspiegel</German>
 				<Chinesesimp>后视镜</Chinesesimp>
+				<Korean>거울 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_TARPAULIN">
 				<Original>Add Tarp Roll</Original>
 				<English>Add Tarp Roll</English>
 				<German>Abdeckplane</German>
 				<Chinesesimp>篷布卷</Chinesesimp>
+				<Korean>타프 롤 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_TARPAULIN_LEFT">
 				<Original>Add Tarp Roll - Left</Original>
 				<English>Add Tarp Roll - Left</English>
 				<German>Abdeckplane - Links</German>
 				<Chinesesimp>篷布卷-左</Chinesesimp>
+				<Korean>타프 롤 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_TARPAULIN_RIGHT">
 				<Original>Add Tarp Roll - Right</Original>
 				<English>Add Tarp Roll - Right</English>
 				<German>Abdeckplane - Rechts</German>
 				<Chinesesimp>篷布卷-右</Chinesesimp>
+				<Korean>타프 롤 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_AMMOBOX_RIGHT">
 				<Original>Add Ammobox - Right</Original>
 				<English>Add Ammobox - Right</English>
 				<German>Munitionskiste - Rechts</German>
 				<Chinesesimp>弹药箱-右面</Chinesesimp>
+				<Korean>탄약상자 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_AMMOBOX_LEFT">
 				<Original>Add Ammobox - Left</Original>
 				<English>Add Ammobox - Left</English>
 				<German>Munitionskiste - Links</German>
 				<Chinesesimp>弹药箱-左面</Chinesesimp>
+				<Korean>탄약상자 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_AMMOBOX_BACK">
 				<Original>Add Ammobox - Back</Original>
 				<English>Add Ammobox - Back</English>
 				<German>Munitionskiste - Hinten</German>
 				<Chinesesimp>弹药箱-后部</Chinesesimp>
+				<Korean>탄약상자 추가 - 후면</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_AMMOBOX_FRONT">
 				<Original>Add Ammobox - Front</Original>
 				<English>Add Ammobox - Front</English>
 				<German>Munitionskiste - Links</German>
 				<Chinesesimp>弹药箱-前部</Chinesesimp>
+				<Korean>탄약상자 추가 - 정면</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FUELCAN_CENTER">
 				<Original>Add Fuel Canister - Center</Original>
 				<English>Add Fuel Canister - Center</English>
 				<German>Benzinkanister - Mitte</German>
 				<Chinesesimp>燃料罐-中间</Chinesesimp>
+				<Korean>연료탱크 추가 - 중앙</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FUELCAN_RIGHT">
 				<Original>Add Fuel Canister - Right</Original>
 				<English>Add Fuel Canister - Right</English>
 				<German>Benzinkanister - Rechts</German>
 				<Chinesesimp>燃料罐-右面</Chinesesimp>
+				<Korean>연료탱크 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FUELCAN_LEFT">
 				<Original>Add Fuel Canister - Left</Original>
 				<English>Add Fuel Canister - Left</English>
 				<German>Benzinkanister - Links</German>
 				<Chinesesimp>燃料罐-左面</Chinesesimp>
+				<Korean>연료탱크 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_EXTERNAL_FUELTANKS">
 				<Original>Add External Fuel Tanks</Original>
 				<English>Add External Fuel Tanks</English>
 				<German>Zusatztanks</German>
 				<Chinesesimp>外置油箱</Chinesesimp>
+				<Korean>외부 연료탱크 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_LIGHTGUARDS">
 				<Original>Add Light Guards</Original>
 				<English>Add Light Guards</English>
 				<German>Lichtschutzbleche</German>
 				<Chinesesimp>轻型护栏</Chinesesimp>
+				<Korean>라이트 보호대 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_TOOLBOX">
 				<Original>Add Toolbox</Original>
@@ -4342,36 +4382,42 @@
 				<English>Add Winch</English>
 				<German>Winde</German>
 				<Chinesesimp>绞盘</Chinesesimp>
+				<Korean>윈치 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SIRENLIGHTS">
 				<Original>Add Sirenlights</Original>
 				<English>Add Sirenlights</English>
 				<German>Blaulicht</German>
 				<Chinesesimp>警报灯</Chinesesimp>
+				<Korean>경보등 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_BOARDWALL_EXTENSION">
 				<Original>Add Boardwall Extensions</Original>
 				<English>Add Boardwall Extensions</English>
 				<German>Bordwand - Erhöhung</German>
 				<Chinesesimp>板墙延伸</Chinesesimp>
+				<Korean>보드월 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_REAR_BOARDWALL">
 				<Original>Add Rear Boardwall</Original>
 				<English>Add Rear Boardwall</English>
 				<German>Bordwand - Heck</German>
 				<Chinesesimp>后板墙</Chinesesimp>
+				<Korean>후면 보드월 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_REAR_STOWING_BOX">
 				<Original>Add Stowing Box</Original>
 				<English>Add Stowing Box</English>
 				<German>Staukasten</German>
 				<Chinesesimp>收纳箱</Chinesesimp>
+				<Korean>보관함 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_RINGBUOY">
 				<Original>Add Lifesaver</Original>
 				<English>Add Lifesaver</English>
 				<German>Rettungsring</German>
 				<Chinesesimp>救生圈</Chinesesimp>
+				<Korean>구명튜브 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_HFRADIO">
 				<Original>Add HF-Radio</Original>
@@ -4392,90 +4438,105 @@
 				<English>Fold Down Windshield</English>
 				<German>Windschutzscheibe Abklappen</German>
 				<Chinesesimp>折叠式挡风玻璃</Chinesesimp>
+				<Korean>바람막이 접기</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SWOOPERBENCHES">
 				<Original>Add Swooper Benches</Original>
 				<English>Add Swooper Benches</English>
 				<German>Swooper Bänke</German>
 				<Chinesesimp>俯卧撑长椅</Chinesesimp>
+				<Korean>고임목 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_HATCH_RIGHT">
 				<Original>Cargo (Rear Hatch Right)</Original>
 				<English>Cargo (Rear Hatch Right)</English>
 				<German>Passagier (Hintere Luke Rechts)</German>
 				<Chinesesimp>货物(后舱门右侧)</Chinesesimp>
+				<Korean>화물 (후면우측 해치)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_HATCH_LEFT">
 				<Original>Cargo (Rear Hatch Left)</Original>
 				<English>Cargo (Rear Hatch Left)</English>
 				<German>Passagier (Hintere Luke Links)</German>
 				<Chinesesimp>货物(后舱门左侧)</Chinesesimp>
+				<Korean>화물 (후면좌측 해치)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_HATCH_LEFT_MACHINEGUN">
 				<Original>Cargo (Rear Hatch Left, MG)</Original>
 				<English>Cargo (Rear Hatch Left, MG)</English>
 				<German>Passagier (Hintere Luke Links, MG)</German>
 				<Chinesesimp>货物(后舱门右侧,MG)</Chinesesimp>
+				<Korean>화물 (후면좌측 해치, MG)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_HATCH_CENTER">
 				<Original>Cargo (Rear Hatch Center)</Original>
 				<English>Cargo (Rear Hatch Center)</English>
 				<German>Passagier (Hintere Luke Mitte)</German>
 				<Chinesesimp>货物(后舱门中间)</Chinesesimp>
+				<Korean>화물 (후면중앙 해치)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FRONT_HATCH_LEFT">
 				<Original>Cargo (Front Hatch Left)</Original>
 				<English>Cargo (Front Hatch Left)</English>
 				<German>Passagier (Vordere Luke Links)</German>
 				<Chinesesimp>货物(前舱门左侧)</Chinesesimp>
+				<Korean>화물 (전면좌측 해치)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_FRONT_HATCH_RIGHT">
 				<Original>Cargo (Front Hatch Right)</Original>
 				<English>Cargo (Front Hatch Right)</English>
 				<German>Passagier (Vordere Luke Rechts)</German>
 				<Chinesesimp>货物(前舱门右侧)</Chinesesimp>
+				<Korean>화물 (전면좌측 해치)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ICE_CLEATS">
 				<Original>Add Ice Cleats</Original>
 				<English>Add Ice Cleats</English>
 				<German>Eisgreifer</German>
 				<Chinesesimp>冰爪</Chinesesimp>
+				<Korean>스노우체인 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SUPPORT_POLES">
 				<Original>Add Camo Net Poles</Original>
 				<English>Add Camo Net Poles</English>
 				<German>Tarnnetzstangen</German>
 				<Chinesesimp>迷彩网杆</Chinesesimp>
+				<Korean>위장막 지지대 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_EXTRA_WIDE_SIGNS">
 				<Original>Add Extra Wide Signs</Original>
 				<English>Add Extra Wide Signs</English>
 				<German>Überbreite</German>
 				<Chinesesimp>超宽标牌</Chinesesimp>
+				<Korean>안내판 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SPARETRACKS_LEFT">
 				<Original>Add Spare Tracks - Left</Original>
 				<English>Add Spare Tracks - Left</English>
 				<German>Kettenglied - Links</German>
 				<Chinesesimp>备用轨道-左</Chinesesimp>
+				<Korean>여분 궤도 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SPARETRACKS_RIGHT">
 				<Original>Add Spare Tracks - Right</Original>
 				<English>Add Spare Tracks - Right</English>
 				<German>Kettenglied - Rechts</German>
 				<Chinesesimp>备用轨道-右</Chinesesimp>
+				<Korean>여분 궤도 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SPARETRACKS">
 				<Original>Add Spare Tracks</Original>
 				<English>Add Spare Tracks</English>
 				<German>Kettenglied</German>
 				<Chinesesimp>备用轨道</Chinesesimp>
+				<Korean>여분 궤도 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SPAREWHEEL">
 				<Original>Add Spare Wheel</Original>
 				<English>Add Spare Wheel</English>
 				<German>Ersatzrad</German>
 				<Chinesesimp>备胎</Chinesesimp>
+				<Korean>여분 바퀴 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_WHEELCHOCK">
 				<Original/>
@@ -4485,120 +4546,140 @@
 				<English>Add Wheel Chock - Left</English>
 				<German>Unterlegkeil - Links</German>
 				<Chinesesimp>轮挡-左</Chinesesimp>
+				<Korean>휠 초크 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_WHEELCHOCK_RIGHT">
 				<Original>Add Wheel Chock - Right</Original>
 				<English>Add Wheel Chock - Right</English>
 				<German>Unterlegkeil - Right</German>
 				<Chinesesimp>轮挡-右</Chinesesimp>
+				<Korean>휠 초크 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_WOODENBEAM">
 				<Original>Add Wooden Beam</Original>
 				<English>Add Wooden Beam</English>
 				<German>Baumstamm</German>
 				<Chinesesimp>木梁</Chinesesimp>
+				<Korean>나무기둥 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX">
 				<Original>Add Storage Box</Original>
 				<English>Add Storage Box</English>
 				<German>Staukasten</German>
 				<Chinesesimp>储物箱</Chinesesimp>
+				<Korean>보관함 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_LEFT">
 				<Original>Add Storage Box - Left</Original>
 				<English>Add Storage Box - Left</English>
 				<German>Staukasten - Links</German>
 				<Chinesesimp>储物箱-左</Chinesesimp>
+				<Korean>보관함 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_RIGHT">
 				<Original>Add Storage Box - Right</Original>
 				<English>Add Storage Box - Right</English>
 				<German>Staukasten - Rechts</German>
 				<Chinesesimp>储物箱-右</Chinesesimp>
+				<Korean>보관함 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_SMALL">
 				<Original>Add Storage Box - Small</Original>
 				<English>Add Storage Box - Small</English>
 				<German>Staukasten - Klein</German>
 				<Chinesesimp>储物箱-小</Chinesesimp>
+				<Korean>보관함 추가 - 소형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_LARGE">
 				<Original>Add Storage Box - Large</Original>
 				<English>Add Storage Box - Large</English>
 				<German>Staukasten - Groß</German>
 				<Chinesesimp>储物箱-大</Chinesesimp>
+				<Korean>보관함 추가 - 대형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_TURRET">
 				<Original>Add Storage Box Turret </Original>
 				<English>Add Storage Box Turret </English>
 				<German>Staukasten Turm</German>
 				<Chinesesimp>炮塔储物箱</Chinesesimp>
+				<Korean>포탑 보관함 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_TURRET_LEFT">
 				<Original>Add Storage Box Turret - Left</Original>
 				<English>Add Storage Box Turret - Left</English>
 				<German>Staukasten Turm - Links</German>
 				<Chinesesimp>炮塔储物箱-左</Chinesesimp>
+				<Korean>포탑 보관함 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_TURRET_RIGHT">
 				<Original>Add Storage Box Turret - Right</Original>
 				<English>Add Storage Box Turret - Right</English>
 				<German>Staukasten Turm - Rechts</German>
 				<Chinesesimp>炮塔储物箱-右</Chinesesimp>
+				<Korean>포탑 보관함 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_TURRET_SMALL">
 				<Original>Add Storage Box Turret - Small</Original>
 				<English>Add Storage Box Turret - Small</English>
 				<German>Staukasten Turm - Klein</German>
 				<Chinesesimp>炮塔储物箱-小</Chinesesimp>
+				<Korean>포탑 보관함 추가 - 소형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_STORAGEBOX_TURRET_LARGE">
 				<Original>Add Storage Box Turret - Large</Original>
 				<English>Add Storage Box Turret - Large</English>
 				<German>Staukasten Turm - Groß</German>
 				<Chinesesimp>炮塔储物箱-大</Chinesesimp>
+				<Korean>포탑 보관함 추가 - 대형</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_MAINTURRET_SEACRHLIGHT_COVER">
 				<Original>Add Main Searchlight Cover</Original>
 				<English>Add Main Searchlight Cover</English>
 				<German>Haupscheinwerfer Abdeckung</German>
 				<Chinesesimp>主探照灯罩</Chinesesimp>
+				<Korean>주탐조등 덮개 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_COMMANDERTURRET_SEACRHLIGHT_COVER">
 				<Original>Add Commander Searchlight Cover</Original>
 				<English>Add Commander Searchlight Cover</English>
 				<German>Kommandantenscheinwerfer Abdeckung</German>
 				<Chinesesimp>指挥官探照灯罩</Chinesesimp>
+				<Korean>전차장 탐조등덮개 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_MAINTURRET_OPTICS_COVER">
 				<Original>Add Nightsight Cover</Original>
 				<English>Add Nightsight Cover</English>
 				<German>Nachtsichtoptik Abdeckung</German>
 				<Chinesesimp>夜视镜罩</Chinesesimp>
+				<Korean>야투경커버 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_BARREL">
 				<Original>Add Barrel</Original>
 				<English>Add Barrel</English>
 				<German>Fass</German>
 				<Chinesesimp>桶</Chinesesimp>
+				<Korean>바렐 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_BARREL_LEFT">
 				<Original>Add Barrel - Left</Original>
 				<English>Add Barrel - Left</English>
 				<German>Fass - Links</German>
 				<Chinesesimp>桶-左</Chinesesimp>
+				<Korean>바렐 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_BARREL_RIGHT">
 				<Original>Add Barrel - Right</Original>
 				<English>Add Barrel - Right</English>
 				<German>Fass - Rechts</German>
 				<Chinesesimp>桶-右</Chinesesimp>
+				<Korean>바렐 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_BARRELHOLDER">
 				<Original>Add Barrelholder</Original>
 				<English>Add Barrelholder</English>
 				<German>Fasshalter</German>
 				<Chinesesimp>桶架</Chinesesimp>
+				<Korean>주포 고정대 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_SNORKEL">
 				<Original>Add Snorkel</Original>
@@ -4626,66 +4707,77 @@
 				<English>Add Fender</English>
 				<German>Spritzschutz</German>
 				<Chinesesimp>挡泥板</Chinesesimp>
+				<Korean>흙받이 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FENDER_LEFT">
 				<Original>Add Fender - Left</Original>
 				<English>Add Fender - Left</English>
 				<German>Spritzschutz - Links</German>
 				<Chinesesimp>挡泥板-左</Chinesesimp>
+				<Korean>흙받이 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_FENDER_RIGHT">
 				<Original>Add Fender - Right</Original>
 				<English>Add Fender - Right</English>
 				<German>Spritzschutz - Rechts</German>
 				<Chinesesimp>挡泥板-右</Chinesesimp>
+				<Korean>흙받이 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ADDONARMOR">
 				<Original>Add Addon Armor</Original>
 				<English>Add Addon Armor</English>
 				<German>Zusatzpanzerung</German>
 				<Chinesesimp>附加装甲</Chinesesimp>
+				<Korean>추가장갑 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ADDONARMOR_GUNSHIELD">
 				<Original>Add Addon Armor - Gun</Original>
 				<English>Add Addon Armor - Gun</English>
 				<German>Zusatzpanzerung - Schild</German>
 				<Chinesesimp>附加装甲-炮管</Chinesesimp>
+				<Korean>추가장갑 추가 - 동축</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ADDONARMOR_TURRET">
 				<Original>Add Addon Armor - Turret</Original>
 				<English>Add Addon Armor - Turret</English>
 				<German>Zusatzpanzerung - Turm</German>
 				<Chinesesimp>附加装甲-炮塔</Chinesesimp>
+				<Korean>추가장갑 추가 - 포탑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_LADDER">
 				<Original>Add Ladder</Original>
 				<English>Add Ladder</English>
 				<German>Leiter</German>
 				<Chinesesimp>梯子</Chinesesimp>
+				<Korean>사다리 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_LADDER_RIGHT">
 				<Original>Add Ladder - Right</Original>
 				<English>Add Ladder - Right</English>
 				<German>Leiter - Rechts</German>
 				<Chinesesimp>梯子-右</Chinesesimp>
+				<Korean>사다리 추가 - 우측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_LADDER_LEFT">
 				<Original>Add Ladder - Left</Original>
 				<English>Add Ladder - Left</English>
 				<German>Leiter - Links</German>
 				<Chinesesimp>梯子-左</Chinesesimp>
+				<Korean>사다리 추가 - 좌측</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_BUOY">
 				<Original>Add Buoy</Original>
 				<English>Add Buoy</English>
 				<German>Boje</German>
 				<Chinesesimp>浮标</Chinesesimp>
+				<Korean>부표 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_COLLISION_FRAME">
 				<Original>Add Collision Frame</Original>
 				<English>Add Collision Frame</English>
 				<German>Kollisionsschutz</German>
 				<Chinesesimp>防撞支架</Chinesesimp>
+				<Korean>정비 프레임 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_ANTENNA">
 				<Original>Add Antenna</Original>
@@ -4713,42 +4805,49 @@
 				<English>Elevate Antenna</English>
 				<German>Antenne Ausfahren</German>
 				<Chinesesimp>延长天线</Chinesesimp>
+				<Korean>상승 안테나 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ELEVATE_ANTENNA_LEFT">
 				<Original>Elevate Antenna - Left</Original>
 				<English>Elevate Antenna - Left</English>
 				<German>Antenne Ausfahren - Links</German>
 				<Chinesesimp>延长天线-左</Chinesesimp>
+				<Korean>상승 안테나 추가 - 왼쪽</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ELEVATE_ANTENNA_RIGHT">
 				<Original>Elevate Antenna - Right</Original>
 				<English>Elevate Antenna - Right</English>
 				<German>Antenne Ausfahren - Rechts</German>
 				<Chinesesimp>延长天线-右</Chinesesimp>
+				<Korean>상승 안테나 추가 - 오른쪽</Korean>
 			</Key>
 			<Key ID="STR_DN_UA_GM_ARMOR_ON">
 				<Original>Close Armor Shields</Original>
 				<English>Close Armor Shields</English>
 				<German>Beschussklappen Schließen</German>
 				<Chinesesimp>关闭装甲挡板</Chinesesimp>
+				<Korean>장갑 보호대 닫기</Korean>
 			</Key>
 			<Key ID="STR_DN_UA_GM_ARMOR_OFF">
 				<Original>Open Armor Shields</Original>
 				<English>Open Armor Shields</English>
 				<German>Beschussklappen Öffnen</German>
 				<Chinesesimp>打开装甲挡板</Chinesesimp>
+				<Korean>장갑 보호대 열기</Korean>
 			</Key>
 			<Key ID="STR_DN_UA_GM_TRIMVANE_ON">
 				<Original>Unfold Trimvane </Original>
 				<English>Unfold Trimvane </English>
 				<German>Schwallschild Ausklappen</German>
 				<Chinesesimp>展开调整叶片</Chinesesimp>
+				<Korean>트림베인 펼치기</Korean>
 			</Key>
 			<Key ID="STR_DN_UA_GM_TRIMVANE_OFF">
 				<Original>Fold in Trimvane </Original>
 				<English>Fold in Trimvane </English>
 				<German>Schwallschild Einklappen</German>
 				<Chinesesimp>折叠调整叶片</Chinesesimp>
+				<Korean>트림베인 접기</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_COMMANDER">
 				<Original>Commander</Original>
@@ -4776,6 +4875,7 @@
 				<English>Commander (ATGM)</English>
 				<German>Kommandant (PALR)</German>
 				<Chinesesimp>指挥官(ATGM)</Chinesesimp>
+				<Korean>지휘관 (ATGM)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SQUADLEADER">
 				<Original>Squad Leader</Original>
@@ -4866,210 +4966,245 @@
 				<English>Center Left Seat</English>
 				<German>Sitz Mitte Links</German>
 				<Chinesesimp>左侧中间座</Chinesesimp>
+				<Korean>중앙좌측 자리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CENTER_MIDDLE_SEAT">
 				<Original>Center Middle Seat</Original>
 				<English>Center Middle Seat</English>
 				<German>Sitz Mitte</German>
 				<Chinesesimp>中间座位</Chinesesimp>
+				<Korean>중앙 중간 자리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CENTER_RIGHT_SEAT">
 				<Original>Center Right Seat</Original>
 				<English>Center Right Seat</English>
 				<German>Sitz Mitte Rechts</German>
 				<Chinesesimp>右侧中间座</Chinesesimp>
+				<Korean>중앙 우측 자리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_LEFT_SEAT">
 				<Original>Rear Left Seat</Original>
 				<English>Rear Left Seat</English>
 				<German>Sitz Hinten Links</German>
 				<Chinesesimp>左后座</Chinesesimp>
+				<Korean>후방 좌측 자리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_RIGHT_SEAT">
 				<Original>Rear Right Seat</Original>
 				<English>Rear Right Seat</English>
 				<German>Sitz Hinten Rechts</German>
 				<Chinesesimp>右后座</Chinesesimp>
+				<Korean>후방 우측 자리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_LEFT_OUTSIDE">
 				<Original>Rear Left Outside</Original>
 				<English>Rear Left Outside</English>
 				<German>Aussen Hinten Links</German>
 				<Chinesesimp>左后外侧</Chinesesimp>
+				<Korean>후방 좌측 바깥</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_REAR_RIGHT_OUTSIDE">
 				<Original>Rear Right Outside</Original>
 				<English>Rear Right Outside</English>
 				<German>Aussen Hinten Rechts</German>
 				<Chinesesimp>右后外侧</Chinesesimp>
+				<Korean>후방 우측 바깥</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED">
 				<Original>Flatbed</Original>
 				<English>Flatbed</English>
 				<German>Ladefläche</German>
 				<Chinesesimp>平板车</Chinesesimp>
+				<Korean>짐칸좌석</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED01">
 				<Original>Flatbed #1</Original>
 				<English>Flatbed #1</English>
 				<German>Ladefläche #1</German>
 				<Chinesesimp>平板车#1</Chinesesimp>
+				<Korean>짐칸좌석 #1</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED02">
 				<Original>Flatbed #2</Original>
 				<English>Flatbed #2</English>
 				<German>Ladefläche #2</German>
 				<Chinesesimp>平板车#2</Chinesesimp>
+				<Korean>짐칸좌석 #2</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED03">
 				<Original>Flatbed #3</Original>
 				<English>Flatbed #3</English>
 				<German>Ladefläche #3</German>
 				<Chinesesimp>平板车#3</Chinesesimp>
+				<Korean>짐칸좌석 #3</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED04">
 				<Original>Flatbed #4</Original>
 				<English>Flatbed #4</English>
 				<German>Ladefläche #4</German>
 				<Chinesesimp>平板车#4</Chinesesimp>
+				<Korean>짐칸좌석 #4</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED05">
 				<Original>Flatbed #5</Original>
 				<English>Flatbed #5</English>
 				<German>Ladefläche #5</German>
 				<Chinesesimp>平板车#5</Chinesesimp>
+				<Korean>짐칸좌석 #5</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED06">
 				<Original>Flatbed #6</Original>
 				<English>Flatbed #6</English>
 				<German>Ladefläche #6</German>
 				<Chinesesimp>平板车#6</Chinesesimp>
+				<Korean>짐칸좌석 #6</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED07">
 				<Original>Flatbed #7</Original>
 				<English>Flatbed #7</English>
 				<German>Ladefläche #7</German>
 				<Chinesesimp>平板车#7</Chinesesimp>
+				<Korean>짐칸좌석 #7</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED08">
 				<Original>Flatbed #8</Original>
 				<English>Flatbed #8</English>
 				<German>Ladefläche #8</German>
 				<Chinesesimp>平板车#8</Chinesesimp>
+				<Korean>짐칸좌석 #8</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED09">
 				<Original>Flatbed #9</Original>
 				<English>Flatbed #9</English>
 				<German>Ladefläche #9</German>
 				<Chinesesimp>平板车#9</Chinesesimp>
+				<Korean>짐칸좌석 #9</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED10">
 				<Original>Flatbed #10</Original>
 				<English>Flatbed #10</English>
 				<German>Ladefläche #10</German>
 				<Chinesesimp>平板车#10</Chinesesimp>
+				<Korean>짐칸좌석 #10</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED11">
 				<Original>Flatbed #11</Original>
 				<English>Flatbed #11</English>
 				<German>Ladefläche #11</German>
 				<Chinesesimp>平板车#11</Chinesesimp>
+				<Korean>짐칸좌석 #11</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED12">
 				<Original>Flatbed #12</Original>
 				<English>Flatbed #12</English>
 				<German>Ladefläche #12</German>
 				<Chinesesimp>平板车#12</Chinesesimp>
+				<Korean>짐칸좌석 #12</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED13">
 				<Original>Flatbed #13</Original>
 				<English>Flatbed #13</English>
 				<German>Ladefläche #13</German>
 				<Chinesesimp>平板车#13</Chinesesimp>
+				<Korean>짐칸좌석 #13</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED14">
 				<Original>Flatbed #14</Original>
 				<English>Flatbed #14</English>
 				<German>Ladefläche #14</German>
 				<Chinesesimp>平板车#14</Chinesesimp>
+				<Korean>짐칸좌석 #14</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED15">
 				<Original>Flatbed #15</Original>
 				<English>Flatbed #15</English>
 				<German>Ladefläche #15</German>
 				<Chinesesimp>平板车#15</Chinesesimp>
+				<Korean>짐칸좌석 #15</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED16">
 				<Original>Flatbed #16</Original>
 				<English>Flatbed #16</English>
 				<German>Ladefläche #16</German>
 				<Chinesesimp>平板车#16</Chinesesimp>
+				<Korean>짐칸좌석 #16</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH">
 				<Original>Bench</Original>
 				<English>Bench</English>
 				<German>Sitzbank</German>
 				<Chinesesimp>平板车#</Chinesesimp>
+				<Korean>벤치</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH01">
 				<Original>Bench #1</Original>
 				<English>Bench #1</English>
 				<German>Sitzbank #1</German>
 				<Chinesesimp>长凳#1</Chinesesimp>
+				<Korean>벤치 #1</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH02">
 				<Original>Bench #2</Original>
 				<English>Bench #2</English>
 				<German>Sitzbank #2</German>
 				<Chinesesimp>长凳#2</Chinesesimp>
+				<Korean>벤치 #2</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH03">
 				<Original>Bench #3</Original>
 				<English>Bench #3</English>
 				<German>Sitzbank #3</German>
 				<Chinesesimp>长凳#3</Chinesesimp>
+				<Korean>벤치 #3</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH04">
 				<Original>Bench #4</Original>
 				<English>Bench #4</English>
 				<German>Sitzbank #4</German>
 				<Chinesesimp>长凳#4</Chinesesimp>
+				<Korean>벤치 #4</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH05">
 				<Original>Bench #5</Original>
 				<English>Bench #5</English>
 				<German>Sitzbank #5</German>
 				<Chinesesimp>长凳#5</Chinesesimp>
+				<Korean>벤치 #5</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH06">
 				<Original>Bench #6</Original>
 				<English>Bench #6</English>
 				<German>Sitzbank #6</German>
 				<Chinesesimp>长凳#6</Chinesesimp>
+				<Korean>벤치 #6</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH07">
 				<Original>Bench #7</Original>
 				<English>Bench #7</English>
 				<German>Sitzbank #7</German>
 				<Chinesesimp>长凳#7</Chinesesimp>
+				<Korean>벤치 #7</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH08">
 				<Original>Bench #8</Original>
 				<English>Bench #8</English>
 				<German>Sitzbank #8</German>
 				<Chinesesimp>长凳#8</Chinesesimp>
+				<Korean>벤치 #8</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH09">
 				<Original>Bench #9</Original>
 				<English>Bench #9</English>
 				<German>Sitzbank #9</German>
 				<Chinesesimp>长凳#9</Chinesesimp>
+				<Korean>벤치 #9</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH10">
 				<Original>Bench #10</Original>
 				<English>Bench #10</English>
 				<German>Sitzbank #10</German>
 				<Chinesesimp>长凳#10</Chinesesimp>
+				<Korean>벤치 #10</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH11">
 				<Original>Bench #11</Original>
@@ -5083,30 +5218,35 @@
 				<English>Bench #12</English>
 				<German>Sitzbank #12</German>
 				<Chinesesimp>长凳#12</Chinesesimp>
+				<Korean>벤치 #12</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH13">
 				<Original>Bench #13</Original>
 				<English>Bench #13</English>
 				<German>Sitzbank #13</German>
 				<Chinesesimp>长凳#13</Chinesesimp>
+				<Korean>벤치 #13</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH14">
 				<Original>Bench #14</Original>
 				<English>Bench #14</English>
 				<German>Sitzbank #14</German>
 				<Chinesesimp>长凳#14</Chinesesimp>
+				<Korean>벤치 #14</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH15">
 				<Original>Bench #15</Original>
 				<English>Bench #15</English>
 				<German>Sitzbank #15</German>
 				<Chinesesimp>长凳#15</Chinesesimp>
+				<Korean>벤치 #15</Korean>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH16">
 				<Original>Bench #16</Original>
 				<English>Bench #16</English>
 				<German>Sitzbank #16</German>
 				<Chinesesimp>长凳#16</Chinesesimp>
+				<Korean>벤치 #16</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_BOARDWALL">
 				<Original>Open</Original>
@@ -5169,24 +5309,28 @@
 				<English>Take %1</English>
 				<German>%1 Nehmen</German>
 				<Chinesesimp>拿取%1</Chinesesimp>
+				<Korean>잡기 %1</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON">
 				<Original>Store %1</Original>
 				<English>Store %1</English>
 				<German>%1 zur Seite</German>
 				<Chinesesimp>储存%1</Chinesesimp>
+				<Korean>놓기 %1</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_MG3">
 				<Original>Take MG3 7.62x51 mm</Original>
 				<English>Take MG3 7.62x51 mm</English>
 				<German>MG3 7,62x51 mm Nehmen</German>
 				<Chinesesimp>拿取MG3 7.62x51 mm</Chinesesimp>
+				<Korean>MG3 잡기</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON_MG3">
 				<Original>Store MG3 7.62x51 mm</Original>
 				<English>Store MG3 7.62x51 mm</English>
 				<German>MG3 7,62x51 mm zur Seite</German>
 				<Chinesesimp>储存MG3 7.62x51 mm</Chinesesimp>
+				<Korean>MG3 놓기</Korean>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_M2">
 				<Original>Take M2 12.7x99 mm</Original>
@@ -5750,6 +5894,7 @@
 				<English>Helicopters (Woodland, Black)</English>
 				<German>Helikopter (Flecktarn, Schwarz)</German>
 				<Chinesesimp>直升机(林地,黑色)</Chinesesimp>
+				<Korean>헬리콥터 (우드랜드, 검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_WLG">
 				<Original>Helicopters (Woodland, Green)</Original>
@@ -9533,6 +9678,7 @@
 				<English>Danish: Red-Blue-Crimson</English>
 				<German>Dänemark: Rot-Blau-Karmesin</German>
 				<Chinesesimp>丹麦：红-蓝-绯红</Chinesesimp>
+				<Korean>덴마크: 빨강-파랑-진홍</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_RED_BLU_GRN">
 				<Original>Danish: Red-Blue-Green</Original>
@@ -10391,6 +10537,7 @@
 				<English>Danish: Purple-White-Red</English>
 				<German>Dänemark: Violet-Weiß-Rot</German>
 				<Chinesesimp>丹麦：紫-白-红</Chinesesimp>
+				<Korean>덴마크: 보라-하양-빨강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_DK_VLT_WHT_VLT">
 				<Original>Danish: Purple-White-Purple</Original>
@@ -13042,12 +13189,14 @@
 				<English>The MP2 is a 9x19 mm submachinegun of Israeli origin.</English>
 				<German>Die MP2 ist eine 9x19mm Maschinenpistole aus Israel.</German>
 				<Chinesesimp>MP2是一款以色列9x19毫米冲锋枪。</Chinesesimp>
+				<Korean>MP2는 이스라엘에서 만든 9x19mm 기관단총 입니다.</Korean>
 			</Key>
 			<Key ID="STR_DS_GM_MP5_BASE">
 				<Original>The MP5 is a 9x19 mm submachinegun of West German origin.</Original>
 				<English>The MP5 is a 9x19 mm submachinegun of West German origin.</English>
 				<German>Die MP5 ist eine 9x19mm Maschinenpistole aus Westdeutschland.</German>
 				<Chinesesimp>MP5是一款西德9x19毫米冲锋枪。</Chinesesimp>
+				<Korean>MP5는 서독에서 만든 9x19mm 기관단총 입니다.</Korean>
 			</Key>
 			<Key ID="STR_DS_GM_PK_BASE">
 				<Original>The PK is a 7.62x54 mmR machinegun of Soviet origin.</Original>
@@ -13727,21 +13876,21 @@
 				<English>ZVN-64 Rear Sight</English>
 				<German>ZVN-64 Kimme</German>
 				<Chinesesimp>ZVN-64表尺</Chinesesimp>
-				<Korean>ZVN-64 가늠자</Korean>
+				<Korean>ZVN-64 후방 가늠자</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ZVN64_REAR_RPK">
 				<Original>ZVN-69 Rear Sight</Original>
 				<English>ZVN-69 Rear Sight</English>
 				<German>ZVN-69 Kimme</German>
 				<Chinesesimp>ZVN-69后表尺</Chinesesimp>
-				<Korean>ZVN-69 가늠자</Korean>
+				<Korean>ZVN-69 후방 가늠자</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ZVN64_FRONT_BASE">
 				<Original>ZVN-64/69 Front Post</Original>
 				<English>ZVN-64/69 Front Post</English>
 				<German>ZVN-64/69 Korn</German>
 				<Chinesesimp>ZVN-64/69前表尺</Chinesesimp>
-				<Korean>ZVN-69 가늠쇠</Korean>
+				<Korean>ZVN-69 전방 가늠쇠</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_ZVN64_REAR_BASE">
 				<Original>Sight Attachment, Illuminated</Original>
@@ -16718,6 +16867,7 @@
 				<German>Kaliber: 100 mm HEAT-T BK-5M&lt;br /&gt;Anzahl: 7&lt;br /&gt;Eingesetzt von: D10</German>
 				<Chinesesimp>口径: 100 mm HEAT-T BK-5M&lt;br /&gt;Rounds: 7&lt;br /&gt;用于: D10</Chinesesimp>
 				<Russian>Калибр: 100 мм HEAT-T BK-5M&lt;br /&gt;Кол-во: 7&lt;br /&gt;Применение: D10</Russian>
+				<Korean>구경: 100 mm HEAT-T BK-5M&lt;br /&gt;장탄수: 7&lt;br /&gt;사용가능: D10</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_100X695MM_HEAT_T_BK5M">
 				<Original>Caliber: 100 mm HEAT-T BK-5M&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: D10</Original>
@@ -16921,6 +17071,7 @@
 				<English>HEAT DM82&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: LATGM</English>
 				<German>HEAT DM82&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: LPALR</German>
 				<Chinesesimp>HEAT DM82&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: LATGM</Chinesesimp>
+				<Korean>HEAT DM82&lt;br /&gt;장탄수: 1&lt;br /&gt;사용가능: LATGM</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_MILAN_HEAT_DM92">
 				<Original>HEAT DM92&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: LATGM</Original>
@@ -17097,6 +17248,7 @@
 				<English>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Draht&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Verlegen</German>
 				<Chinesesimp>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Korean>신관: 와이어&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 지상</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AT_TM46">
 				<Original>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
@@ -17682,6 +17834,7 @@
 				<English>26.5mm Smoke (Yellow) (20Rnd)</English>
 				<German>26,5mm Signal (Gelb) (20 Sch.)</German>
 				<Chinesesimp>26.5mm Smoke (Yellow) (20Rnd)</Chinesesimp>
+				<Korean>26.5mm 연막 (노랑, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_SMOKE_SINGLE_BLU_GC">
 				<Original>26.5mm Smoke (Blue) (20Rnd)</Original>
@@ -17891,6 +18044,7 @@
 				<English>5.45x39mm 7T3 (2160Rnd)</English>
 				<German>5,45x39mm 7T3 (2160 Sch.)</German>
 				<Chinesesimp>5.45x39mm 7T3 (2160Rnd)</Chinesesimp>
+				<Korean>5.45x39mm 7T3 (2160발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_3RND_40MM_HEAT_PG7V_RPG7">
 				<Original>40mm PG-7V (4Rnd)</Original>
@@ -25810,6 +25964,7 @@
 				<German>Hier WESPE. Verstanden. Grabt euch Richtung Osten ein. Ende.</German>
 				<Chinesesimp>这里是WESPE，收到。向东挖掘防御工事，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，收到。向東挖掘防禦工事，完畢。</Chinese>
+				<Korean>여기는 WESPE. 알겠다. 동쪽방면에 방어선을 펼치겠다. 오버</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_TITLE">
 				<Original>No Smoke Without Fire</Original>
@@ -25825,6 +25980,7 @@
 				<German>2. PzBtl 22 liegt in Stellung und übewacht das Vorgehen jenseits der Grenze.</German>
 				<Chinesesimp>第22装甲营2连正在观察边界另一边的活动。</Chinesesimp>
 				<Chinese>第22裝甲營2連正在觀察邊界另一邊的活動。</Chinese>
+				<Korean>2 기갑척탄대대의 2중대가 정위치에서 국경 너머의 활동들을 정찰중이다</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_TASK_01A_TITLE">
 				<Original>Overwatch Area</Original>
@@ -25855,6 +26011,7 @@
 				<German>Greifen Sie die Feinde auf dem Gebiet der DDR nicht an!</German>
 				<Chinesesimp>不要攻击东德境内的敌军！</Chinesesimp>
 				<Chinese>不要攻擊東德境內的敵軍！</Chinese>
+				<Korean>동독 영토에있는 적 부대를 공격하지 말것!</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_TASK_02_TITLE">
 				<Original>Reach Ribbensdorf</Original>
@@ -25890,6 +26047,7 @@
 				<German>Weitere Kräfte in unbekannter Stärke in Weferlingen.</German>
 				<Chinesesimp>位于韦弗林根地区的敌军兵力不明。</Chinesesimp>
 				<Chinese>位於韋弗林根地區的敵軍兵力不明。</Chinese>
+				<Korean>미확인 규모의 적세력이 벨페르링겐에 있다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_BRIEFING_04">
 				<Original>Their assumed intention is to advance back into West Germany.</Original>
@@ -25912,6 +26070,7 @@
 				<German>1. bei Grasleben in Stellung.</German>
 				<Chinesesimp>1连位于Grasleben。</Chinesesimp>
 				<Chinese>1連位於Grasleben。</Chinese>
+				<Korean>1중대는 그라슬레벤에서 대기중이다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_BRIEFING_07">
 				<Original>2nd company in position at Mackendorf, and Kahlenberg.</Original>
@@ -25919,6 +26078,7 @@
 				<German>2. Kompanie bei Mackendorf, mit vordersten Spitzen in Stellung bei Kahlenberg.</German>
 				<Chinesesimp>2连位于Mackendorf和Kahlenberg。</Chinesesimp>
 				<Chinese>2連位於Mackendorf和Kahlenberg。</Chinese>
+				<Korean>2중대는 매켄도르프와 칼렌베르크에 자리잡았다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_BRIEFING_08">
 				<Original>3rd and 4th Company in position at Grasleben.</Original>
@@ -25926,6 +26086,7 @@
 				<German>3. und 4. Kompanie in Stellung bei Grasleben.</German>
 				<Chinesesimp>3连和4连位于Grasleben。</Chinesesimp>
 				<Chinese>3連和4連位於Grasleben。</Chinese>
+				<Korean>3중대와 4중대는 그라슬레벤에 자리잡았다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_BRIEFING_09">
 				<Original>Task</Original>
@@ -26156,6 +26317,7 @@
 				<German>Hier SEMMEL, Ja, auf dem Gebiet der DDR. Kommen.</German>
 				<Chinesesimp>这里是SEMMEL。是的，在民主德国的领土上，完毕。</Chinesesimp>
 				<Chinese>這裡是SEMMEL。是的，在民主德國的領土上，完畢。</Chinese>
+				<Korean>여기는 SEMMEL. 그렇다, 우린 동독 국경에 있다. 오버</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_007G">
 				<Original>This is WESPE. Wait. Out.</Original>
@@ -26171,6 +26333,7 @@
 				<German>Dein Arsch wandert in den Knast, man.</German>
 				<Chinesesimp>你要上军事法庭了，老兄。</Chinesesimp>
 				<Chinese>你要上軍事法庭了，老兄。</Chinese>
+				<Korean>오우, 자넨 이제 깜방행이겠군.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_007I">
 				<Original>SEMMEL, this is WESPE. Over.</Original>
@@ -26448,6 +26611,7 @@
 				<German>Aufgepasst Jungs, es geht jetzt in den Osten.</German>
 				<Chinesesimp>小伙子们注意，我们要往东走了。</Chinesesimp>
 				<Chinese>小伙子們注意，我們要往東走了。</Chinese>
+				<Korean>분대는 주목해라, 우린 이제 동쪽으로 간다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_002">
 				<Original>And yes, they're Germany, too. So be at your best behaviour.</Original>
@@ -26462,6 +26626,7 @@
 				<German>Hey, Ehrlich. Warum gibt's so wenige Banküberfälle in der DDR?</German>
 				<Chinesesimp>嘿，Ehrlich，你知道东德的银行抢劫案为什么这么少？</Chinesesimp>
 				<Chinese>嘿，Ehrlich，你知道東德的銀行搶劫案為什麼這麼少？</Chinese>
+				<Korean>이봐  엘리히, 왜 동독에선 은행강도가 극히 드문거야?</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_004">
 				<Original>Tell me.</Original>
@@ -26946,6 +27111,7 @@
 				<German>Viel Hilft Viel</German>
 				<Chinesesimp>多多益善</Chinesesimp>
 				<Chinese>多多益善</Chinese>
+				<Korean>다다익선</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_09_OVERVIEW">
 				<Original>2. PzBtl 22 pushes north to disrupt the enemy's flanks.</Original>
@@ -26953,6 +27119,7 @@
 				<German>2. PzBtl 22 stößt nach Norden in die Flanke des Feindes.</German>
 				<Chinesesimp>第22装甲营2连向北推进，瓦解敌人的侧翼。</Chinesesimp>
 				<Chinese>第22裝甲營2連向北推進，瓦解敵人的側翼。</Chinese>
+				<Korean>22 전차대대 2중대가 적의 측면 교란을 위해 북쪽을 밀고있다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_09_TASK_01_TITLE">
 				<Original>Disrupt Enemy</Original>
@@ -26960,6 +27127,7 @@
 				<German>Feind Stören</German>
 				<Chinesesimp>瓦解敌军</Chinesesimp>
 				<Chinese>瓦解敵軍</Chinese>
+				<Korean>적군 교란</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_09_TASK_01_TEXT">
 				<Original>Head with your tanks north to disrupt the enemy assembling forces near Rätzlingen.</Original>
@@ -27076,6 +27244,7 @@
 				<German>Die Brücke hier ist zerstört. Wir müssen uns einen Weg durch die Ortschaft suchen.</German>
 				<Chinesesimp>这里的桥梁都被毁了，我们得找条路穿过村子。</Chinesesimp>
 				<Chinese>這裡的橋樑都被毀了，我們得找條路穿過村子。</Chinese>
+				<Korean>여기의 저 다리들은 파괴되었다. 마을로 향하는 다른 길을 찾아야한다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_09_R_006A">
 				<Original>WESPE, this is SEMMEL. Over.</Original>
@@ -27139,6 +27308,7 @@
 				<German>Halten und verteidigen Sie das Gebiet gegen den anrückenden Feind.</German>
 				<Chinesesimp>坚守和保卫当前位置，抵御来犯的敌军。</Chinesesimp>
 				<Chinese>堅守和保衛當前位置，抵禦來犯的敵軍。</Chinese>
+				<Korean>몰려오는 적세력을 상대로 현 위치를 지키고 사수해라.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_TASK_02_TITLE">
 				<Original>Evade</Original>
@@ -27146,6 +27316,7 @@
 				<German>Ausweichen</German>
 				<Chinesesimp>躲避</Chinesesimp>
 				<Chinese>躲避</Chinese>
+				<Korean>회피</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_TASK_02_TEXT">
 				<Original>Disengage and move west across the border back into West Germany.</Original>
@@ -29505,6 +29676,7 @@
 				<English>Tank Trap</English>
 				<German>Panzersperre</German>
 				<Chinesesimp>坦克陷阱</Chinesesimp>
+				<Korean>전차용 함정</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_01_BASE">
 				<Original>Ammobox Wood Type 01</Original>
@@ -29546,6 +29718,7 @@
 				<English>Sandbags, Bunker</English>
 				<German>Sandsackbunker</German>
 				<Chinesesimp>沙袋(碉堡)</Chinesesimp>
+				<Korean>모래주머니, 벙커</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_02_WALL">
 				<Original>Sandbags, High Wall</Original>
@@ -31802,6 +31975,7 @@
 				<English>Wall (Garden 5)</English>
 				<German>Mauer (Garten 5)</German>
 				<Chinesesimp>墙(花园5)</Chinesesimp>
+				<Korean>벽 (정원5)</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FENCE_GARDEN_13_POST">
 				<Original>Post (Garden 3)</Original>
@@ -32484,6 +32658,7 @@
 				<English>TV Set</English>
 				<German>Fernseher</German>
 				<Chinesesimp>电视机</Chinesesimp>
+				<Korean>TV 세트</Korean>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FURNITURE_RADIO_01">
 				<Original>Radio</Original>
@@ -36360,6 +36535,7 @@
 				<English>Truck gl 452 CL289</English>
 				<German>Lkw gl 452 CL289</German>
 				<Chinesesimp>gl 452 CL289卡车</Chinesesimp>
+				<Korean>gl 452 CL289 트럭</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_KAT1_452_DECON_BASE">
 				<Original>Truck gl 452 Decon</Original>
@@ -36401,6 +36577,7 @@
 				<German>5t gl</German>
 				<Chinesesimp>5t gl</Chinesesimp>
 				<Korean>5t gl</Korean>
+				<Japanese>5t gl</Japanese>
 			</Key>
 			<Key ID="STR_DNS_GM_GE_ARMY_KAT1_454_BASE">
 				<Original>10t gl</Original>
@@ -37807,6 +37984,7 @@
 				<English>Hazard Class 9</English>
 				<German>Gefahrgutklasse 9</German>
 				<Chinesesimp>危险品级别9</Chinesesimp>
+				<Korean>재해 단계 9</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_HAZARD_FUELF12_BLK">
 				<Original>Avgas F-12 (Black)</Original>
@@ -37834,6 +38012,7 @@
 				<English>Avgas F-18 (White)</English>
 				<German>Flugbenzin F-18 (Weiß)</German>
 				<Chinesesimp>航空燃油 F-18(白)</Chinesesimp>
+				<Korean>F-18 항공유 (하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_HAZARD_FUELF22_BLK">
 				<Original>Avgas F-22 (Black)</Original>
