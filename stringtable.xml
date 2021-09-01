@@ -3485,14 +3485,14 @@
 				<Original>Insignia: Company</Original>
 				<English>Insignia: Company</English>
 				<German>Symbol: Kompanie</German>
-				<Chinesesimp>图标：公司</Chinesesimp>
+				<Chinesesimp>图标：连队</Chinesesimp>
 				<Korean>인시그니아: 중대</Korean>
 			</Key>
 			<Key ID="STR_TT_GM_VEHICLEMARKINGS_INSIGNIAS_COMPANY_ATTRIBUTE">
 				<Original>Company-specific symbol.</Original>
 				<English>Company-specific symbol.</English>
 				<German>Kompanieabzeichen.</German>
-				<Chinesesimp>公司专用图标</Chinesesimp>
+				<Chinesesimp>连队专用图标</Chinesesimp>
 				<Korean>특정 중대 문장.</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_VEHICLEMARKINGS_INSIGNIAS_FORMATION_ATTRIBUTE">
@@ -3578,6 +3578,12 @@
 				<German>Texurset des Fahrzeugs.</German>
 				<Chinesesimp>应用在物体上的纹理和材质设置</Chinesesimp>
 				<Korean>텍스쳐와 물질 설정이 물체에 적용되었습니다.</Korean>
+			</Key>
+			<Key ID="STR_DN_GM_BIBER_BRIDGE_ATTRIBUTE">
+				<Original>Place Vehicle with Bridge</Original>
+				<English>Place Vehicle with Bridge</English>
+				<German>Fahrzeug mit Brücke platzieren</German>
+				<Chinesesimp>将车辆置于桥上</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_EDSUBCAT_VEGETATION">
 				<Original>Vegetation</Original>
@@ -4399,7 +4405,7 @@
 				<Original>Add Air Intake Extension</Original>
 				<English>Add Air Intake Extension</English>
 				<German>Luftansaugstütze</German>
-				<Chinesesimp>进气口延长管</Chinesesimp>
+				<Chinesesimp>换气延长管</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_ADD_LIGHTGUARDS">
 				<Original>Add Light Guards</Original>
@@ -4853,21 +4859,21 @@
 				<Original>Elevate Antenna</Original>
 				<English>Elevate Antenna</English>
 				<German>Antenne Ausfahren</German>
-				<Chinesesimp>延长天线</Chinesesimp>
+				<Chinesesimp>延长通气管</Chinesesimp>
 				<Korean>상승 안테나 추가</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ELEVATE_ANTENNA_LEFT">
 				<Original>Elevate Antenna - Left</Original>
 				<English>Elevate Antenna - Left</English>
 				<German>Antenne Ausfahren - Links</German>
-				<Chinesesimp>延长天线-左</Chinesesimp>
+				<Chinesesimp>延长通气管-左</Chinesesimp>
 				<Korean>상승 안테나 추가 - 왼쪽</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_ELEVATE_ANTENNA_RIGHT">
 				<Original>Elevate Antenna - Right</Original>
 				<English>Elevate Antenna - Right</English>
 				<German>Antenne Ausfahren - Rechts</German>
-				<Chinesesimp>延长天线-右</Chinesesimp>
+				<Chinesesimp>延长通气管-右</Chinesesimp>
 				<Korean>상승 안테나 추가 - 오른쪽</Korean>
 			</Key>
 			<Key ID="STR_DN_UA_GM_ARMOR_ON">
@@ -4888,14 +4894,14 @@
 				<Original>Unfold Trimvane </Original>
 				<English>Unfold Trimvane </English>
 				<German>Schwallschild Ausklappen</German>
-				<Chinesesimp>展开调整叶片</Chinesesimp>
+				<Chinesesimp>展开浪涌防护罩</Chinesesimp>
 				<Korean>트림베인 펼치기</Korean>
 			</Key>
 			<Key ID="STR_DN_UA_GM_TRIMVANE_OFF">
 				<Original>Fold in Trimvane </Original>
 				<English>Fold in Trimvane </English>
 				<German>Schwallschild Einklappen</German>
-				<Chinesesimp>折叠调整叶片</Chinesesimp>
+				<Chinesesimp>折叠浪涌防护罩</Chinesesimp>
 				<Korean>트림베인 접기</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKBOX_EJECT_REAL_SHELLS">
@@ -13088,6 +13094,12 @@
 				<German>M126 155mm</German>
 				<Chinesesimp>M126 155mm</Chinesesimp>
 			</Key>
+			<Key ID="STR_GM_155MM_M126G_BASE">
+				<Original>M126G 155mm </Original>
+				<English>M126G 155mm </English>
+				<German>M126G 155mm</German>
+				<Chinesesimp>M126G 155mm</Chinesesimp>
+			</Key>
 			<Key ID="STR_DN_GM_MLRS_122MM_LAUNCHER_BASE">
 				<Original>2B5 122mm</Original>
 				<English>2B5 122mm</English>
@@ -15091,7 +15103,7 @@
 				<Original>26.5 mm Flare DM47 (NBC)</Original>
 				<English>26.5 mm Flare DM47 (NBC)</English>
 				<German>26,5 mm Licht DM47 (ABC-Alarm)</German>
-				<Chinesesimp>26.5 mm 照明弹 DM47 (危险警告)</Chinesesimp>
+				<Chinesesimp>26.5 mm 照明弹 DM47 (三防)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Licht DM47 (ABC-Alarm)</Russian>
 				<Korean>26.5mm DM47 조명탄 (NBC)</Korean>
 			</Key>
@@ -15099,7 +15111,7 @@
 				<Original>26.5 mm Smoke DM22 (Orange)</Original>
 				<English>26.5 mm Smoke DM22 (Orange)</English>
 				<German>26,5 mm Signal DM22 (Orange)</German>
-				<Chinesesimp>26.5 mm 烟雾弹 DM22 (橙色)</Chinesesimp>
+				<Chinesesimp>26.5 mm DM22烟雾弹 (橙色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Signal DM22 (Orange)</Russian>
 				<Korean>26.5mm DM22 연막 (오렌지)</Korean>
 			</Key>
@@ -15107,7 +15119,7 @@
 				<Original>26.5 mm Smoke DM24 (Purple)</Original>
 				<English>26.5 mm Smoke DM24 (Purple)</English>
 				<German>26,5 mm Signal DM24 (Violett)</German>
-				<Chinesesimp>26.5 mm 烟雾弹 DM24 (紫色)</Chinesesimp>
+				<Chinesesimp>26.5 mm DM24烟雾弹 (紫色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Signal DM24 (Violett)</Russian>
 				<Korean>26.5mm DM24 연막 (보라)</Korean>
 			</Key>
@@ -15115,7 +15127,7 @@
 				<Original>26.5 mm Smoke DM19 (Yellow)</Original>
 				<English>26.5 mm Smoke DM19 (Yellow)</English>
 				<German>26,5 mm Signal DM19 (Gelb)</German>
-				<Chinesesimp>26.5 mm 烟雾弹 DM19 (黄色)</Chinesesimp>
+				<Chinesesimp>26.5 mm DM19烟雾弹 (黄色)</Chinesesimp>
 				<Russian>Магазин, 26,5 мм Signal DM19 (Gelb)</Russian>
 				<Korean>26.5mm DM19 연막 (노랑)</Korean>
 			</Key>
@@ -15379,14 +15391,14 @@
 				<Original>84 mm Illum DM16</Original>
 				<English>84 mm Illum DM16</English>
 				<German>84 mm Illum DM16</German>
-				<Chinesesimp>84 mm 照明弹 DM16</Chinesesimp>
+				<Chinesesimp>84 mm DM16照明弹</Chinesesimp>
 				<Korean>84mm DM16 조명탄</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_84X245MM_SMOKE_469C">
 				<Original>84 mm Smoke 469c</Original>
 				<English>84 mm Smoke 469c</English>
 				<German>84 mm Smoke 469c</German>
-				<Chinesesimp>84 mm 烟雾弹 469c</Chinesesimp>
+				<Chinesesimp>84 mm 469c烟雾弹</Chinesesimp>
 				<Korean>84mm 연막 469c</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_60MM_HEAT_DM12">
@@ -15729,7 +15741,7 @@
 				<Original>Fragmentation Grenade RGD5</Original>
 				<English>Fragmentation Grenade RGD5</English>
 				<German>Splittergranate RGD5</German>
-				<Chinesesimp>RGD5型 破片手雷</Chinesesimp>
+				<Chinesesimp>RGD5 破片手雷</Chinesesimp>
 				<Korean>RGD-5 파편수류탄</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_SMOKESHELL_GRN_DM21">
@@ -16148,25 +16160,25 @@
 				<Original>155mm ICM DM602</Original>
 				<English>155mm ICM DM602</English>
 				<German>155mm ICM DM602</German>
-				<Chinesesimp>155mm ICM DM602</Chinesesimp>
+				<Chinesesimp>155mm DM602集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_155MM_SMOKE_DM105">
 				<Original>155mm Smoke DM105</Original>
 				<English>155mm Smoke DM105</English>
 				<German>155mm Nebel DM105</German>
-				<Chinesesimp>155mm Smoke DM105</Chinesesimp>
+				<Chinesesimp>155mm DM105烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_155MM_WP_DM125">
 				<Original>155mm WP DM125</Original>
 				<English>155mm WP DM125</English>
 				<German>155mm WP DM125</German>
-				<Chinesesimp>155mm WP DM125</Chinesesimp>
+				<Chinesesimp>155mm DM125白磷弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_155MM_ILLUM_DM106">
 				<Original>155mm ILLUM DM106</Original>
 				<English>155mm ILLUM DM106</English>
 				<German>155mm ILLUM DM106</German>
-				<Chinesesimp>155mm ILLUM DM106</Chinesesimp>
+				<Chinesesimp>155mm DM106照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_155MM_HE_DM21">
 				<Original>155mm HE DM21</Original>
@@ -16184,25 +16196,25 @@
 				<Original>155mm ICM DM602</Original>
 				<English>155mm ICM DM602</English>
 				<German>155mm ICM DM602</German>
-				<Chinesesimp>155mm ICM DM602</Chinesesimp>
+				<Chinesesimp>155mm DM602集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_155MM_SMOKE_DM105">
 				<Original>155mm Smoke DM105</Original>
 				<English>155mm Smoke DM105</English>
 				<German>155mm Nebel DM105</German>
-				<Chinesesimp>155mm Smoke DM105</Chinesesimp>
+				<Chinesesimp>155mm DM105烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_155MM_WP_DM125">
 				<Original>155mm WP DM125</Original>
 				<English>155mm WP DM125</English>
 				<German>155mm WP DM125</German>
-				<Chinesesimp>155mm WP DM125</Chinesesimp>
+				<Chinesesimp>155mm DM125白磷弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_155MM_ILLUM_DM106">
 				<Original>155mm ILLUM DM106</Original>
 				<English>155mm ILLUM DM106</English>
 				<German>155mm ILLUM DM106</German>
-				<Chinesesimp>155mm ILLUM DM106</Chinesesimp>
+				<Chinesesimp>155mm DM106照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_155MM_HE_DM21">
 				<Original>155mm HE DM21</Original>
@@ -16220,73 +16232,73 @@
 				<Original>155mm ICM DM602</Original>
 				<English>155mm ICM DM602</English>
 				<German>155mm ICM DM602</German>
-				<Chinesesimp>155mm ICM DM602</Chinesesimp>
+				<Chinesesimp>155mm DM602集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_155MM_SMOKE_DM105">
 				<Original>155mm Smoke DM105</Original>
 				<English>155mm Smoke DM105</English>
 				<German>155mm Nebel DM105</German>
-				<Chinesesimp>155mm Smoke DM105</Chinesesimp>
+				<Chinesesimp>155mm DM105烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_155MM_WP_DM125">
 				<Original>155mm WP DM125</Original>
 				<English>155mm WP DM125</English>
 				<German>155mm WP DM125</German>
-				<Chinesesimp>155mm WP DM125</Chinesesimp>
+				<Chinesesimp>155mm DM125白磷弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_155MM_ILLUM_DM106">
 				<Original>155mm ILLUM DM106</Original>
 				<English>155mm ILLUM DM106</English>
 				<German>155mm ILLUM DM106</German>
-				<Chinesesimp>155mm ILLUM DM106</Chinesesimp>
+				<Chinesesimp>155mm DM106照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_4RND_155MM_HE_DM21">
 				<Original>155mm HE DM21</Original>
 				<English>155mm HE DM21</English>
 				<German>155mm HE DM21</German>
-				<Chinesesimp>155mm HE DM21</Chinesesimp>
+				<Chinesesimp>155mm DM21高爆弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_4RND_155MM_HE_DM111">
 				<Original>155mm HE DM111</Original>
 				<English>155mm HE DM111</English>
 				<German>155mm HE DM111</German>
-				<Chinesesimp>155mm HE DM111</Chinesesimp>
+				<Chinesesimp>155mm DM111高爆弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_4RND_155MM_ICM_DM602">
 				<Original>155mm ICM DM602</Original>
 				<English>155mm ICM DM602</English>
 				<German>155mm ICM DM602</German>
-				<Chinesesimp>155mm ICM DM602</Chinesesimp>
+				<Chinesesimp>155mm DM602集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_4RND_155MM_SMOKE_DM105">
 				<Original>155mm Smoke DM105</Original>
 				<English>155mm Smoke DM105</English>
 				<German>155mm Nebel DM105</German>
-				<Chinesesimp>155mm Smoke DM105</Chinesesimp>
+				<Chinesesimp>155mm DM105烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_4RND_155MM_WP_DM125">
 				<Original>155mm WP DM125</Original>
 				<English>155mm WP DM125</English>
 				<German>155mm WP DM125</German>
-				<Chinesesimp>155mm WP DM125</Chinesesimp>
+				<Chinesesimp>155mm DM125白磷弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_4RND_155MM_ILLUM_DM106">
 				<Original>155mm ILLUM DM106</Original>
 				<English>155mm ILLUM DM106</English>
 				<German>155mm ILLUM DM106</German>
-				<Chinesesimp>155mm ILLUM DM106</Chinesesimp>
+				<Chinesesimp>155mm DM106照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_155MM_HE_M107">
 				<Original>155mm HE M107</Original>
 				<English>155mm HE M107</English>
 				<German>155mm HE M107</German>
-				<Chinesesimp>155mm HE M107</Chinesesimp>
+				<Chinesesimp>155mm M107高爆弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_155MM_HE_M795">
 				<Original>155mm HE M795</Original>
 				<English>155mm HE M795</English>
 				<German>155mm HE M795</German>
-				<Chinesesimp>155mm HE M795</Chinesesimp>
+				<Chinesesimp>155mm M795高爆弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_155MM_SMOKE_M116">
 				<Original>155mm Smoke M116</Original>
@@ -16406,7 +16418,7 @@
 				<Original>110mm ICM DM602</Original>
 				<English>110mm ICM DM602</English>
 				<German>110mm ICM DM602</German>
-				<Chinesesimp>110mm ICM DM602</Chinesesimp>
+				<Chinesesimp>110mm DM602集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_36RND_MLRS_110MM_MINE_DM711">
 				<Original>110mm Mine DM711</Original>
@@ -16418,7 +16430,7 @@
 				<Original>110mm Smoke DM15</Original>
 				<English>110mm Smoke DM15</English>
 				<German>110mm Nebel DM15</German>
-				<Chinesesimp>110mm Smoke DM15</Chinesesimp>
+				<Chinesesimp>110mm DM15烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_122X447MM_HE_OF462">
 				<Original>122mm HE OF-462</Original>
@@ -16436,13 +16448,13 @@
 				<Original>122mm Smoke D462</Original>
 				<English>122mm Smoke D462</English>
 				<German>122mm Nebel D462</German>
-				<Chinesesimp>122mm Smoke D462</Chinesesimp>
+				<Chinesesimp>122mm D462烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_122X447MM_ILLUM_S463">
 				<Original>122mm ILLUM S463</Original>
 				<English>122mm ILLUM S463</English>
 				<German>122mm ILLUM S463</German>
-				<Chinesesimp>122mm ILLUM S463</Chinesesimp>
+				<Chinesesimp>122mm S463照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_122X447MM_HEAT_BK6M">
 				<Original>122mm HEAT BK6M</Original>
@@ -16472,13 +16484,13 @@
 				<Original>122mm Smoke D462</Original>
 				<English>122mm Smoke D462</English>
 				<German>122mm Nebel D462</German>
-				<Chinesesimp>122mm Smoke D462</Chinesesimp>
+				<Chinesesimp>122mm D462烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_28RND_122X447MM_ILLUM_S463">
 				<Original>122mm ILLUM S463</Original>
 				<English>122mm ILLUM S463</English>
 				<German>122mm ILLUM S463</German>
-				<Chinesesimp>122mm ILLUM S463</Chinesesimp>
+				<Chinesesimp>122mm S463照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_28RND_122X447MM_HEAT_BK6M">
 				<Original>122mm HEAT BK6M</Original>
@@ -16508,13 +16520,13 @@
 				<Original>122mm Smoke D462</Original>
 				<English>122mm Smoke D462</English>
 				<German>122mm Nebel D462</German>
-				<Chinesesimp>122mm Smoke D462</Chinesesimp>
+				<Chinesesimp>122mm D462烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_9RND_122X447MM_ILLUM_S463">
 				<Original>122mm ILLUM S463</Original>
 				<English>122mm ILLUM S463</English>
 				<German>122mm ILLUM S463</German>
-				<Chinesesimp>122mm ILLUM S463</Chinesesimp>
+				<Chinesesimp>122mm S463照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_9RND_122X447MM_HEAT_BK6M">
 				<Original>122mm HEAT BK6M</Original>
@@ -16550,7 +16562,7 @@
 				<Original>122mm ILLUM S463</Original>
 				<English>122mm ILLUM S463</English>
 				<German>122mm ILLUM S463</German>
-				<Chinesesimp>122mm ILLUM S463</Chinesesimp>
+				<Chinesesimp>122mm S463照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_3RND_122X447MM_HEAT_BK6M">
 				<Original>122mm HEAT BK6M</Original>
@@ -16574,7 +16586,7 @@
 				<Original>122mm ICM 9M218</Original>
 				<English>122mm ICM 9M218</English>
 				<German>122mm ICM 9M218</German>
-				<Chinesesimp>122mm ICM 9M218</Chinesesimp>
+				<Chinesesimp>122mm 9M218集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_40RND_MLRS_122MM_MINE_9M28K">
 				<Original>122mm Mine 9M28K</Original>
@@ -17432,21 +17444,21 @@
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</Original>
 				<English>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</English>
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: LP1, WZ78</German>
-				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
+				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;烟雾弹&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: LP1, WZ78</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_265MM_SMOKE_SINGLE_BLU_GC">
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</Original>
 				<English>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</English>
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: LP1, WZ78</German>
-				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
+				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;烟雾弹&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: LP1, WZ78</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_265MM_SMOKE_SINGLE_BLK_GC">
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</Original>
 				<English>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: LP1, WZ78</English>
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: LP1, WZ78</German>
-				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
+				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;烟雾弹&lt;br /&gt;用于: LP1, WZ78</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: LP1, WZ78</Russian>
 				<Korean>구경: 26.5mm 조명탄&lt;br /&gt;장탄수: 1&lt;br /&gt;사용가능: LP1, WZ78</Korean>
 			</Key>
@@ -17531,7 +17543,7 @@
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: P2A1</Original>
 				<English>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: P2A1</English>
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: P2A1</German>
-				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: P2A1</Chinesesimp>
+				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;烟雾弹&lt;br /&gt;用于: P2A1</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: P2A1</Russian>
 				<Korean>구경: 26.5mm 조명탄&lt;br /&gt;연막&lt;br /&gt;사용가능: P2A1</Korean>
 			</Key>
@@ -17539,14 +17551,14 @@
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: P2A1</Original>
 				<English>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: P2A1</English>
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: P2A1</German>
-				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: P2A1</Chinesesimp>
+				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;烟雾弹&lt;br /&gt;用于: P2A1</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: P2A1</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_265MM_SMOKE_SINGLE_YEL_DM19">
 				<Original>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: P2A1</Original>
 				<English>Caliber: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;Used in: P2A1</English>
 				<German>Kaliber: 26,5 mm Licht&lt;br /&gt;Signal&lt;br /&gt;Eingesetzt von: P2A1</German>
-				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;Smoke&lt;br /&gt;用于: P2A1</Chinesesimp>
+				<Chinesesimp>口径: 26.5 mm flare&lt;br /&gt;烟雾弹&lt;br /&gt;用于: P2A1</Chinesesimp>
 				<Russian>Калибр: 26,5 мм Факелы&lt;br /&gt;Сигнал&lt;br /&gt;Применение: P2A1</Russian>
 				<Korean>구경: 26.5mm 조명탄&lt;br /&gt;Smoke&lt;br /&gt;사용가능: P2A1</Korean>
 			</Key>
@@ -17881,7 +17893,7 @@
 				<Original>Caliber: 84x245 mm Illum DM16&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: PzF84</Original>
 				<English>Caliber: 84x245 mm Illum DM16&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: PzF84</English>
 				<German>Kaliber: 84x245 mm Illum DM16&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: PzF84</German>
-				<Chinesesimp>口径: 84x245 mm Illum DM16&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: PzF84</Chinesesimp>
+				<Chinesesimp>口径: 84x245 mm DM16照明弹&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: PzF84</Chinesesimp>
 				<Russian>Калибр: 84 x 245 мм Illum DM16&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: Pzf84</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_84X245MM_SMOKE_469C_CARLGUSTAF">
@@ -17889,7 +17901,7 @@
 				<English>Caliber: 84x245 mm Smoke 469c&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: PzF84</English>
 				<German>Kaliber: 84x245 mm Nebel 469c&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: PzF84</German>
 				<Chinesesimp>口径: 84x245 mm Smoke 469c&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: PzF84</Chinesesimp>
-				<Russian>Калибр: 84 x 245 мм Smoke 469c&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: Pzf84</Russian>
+				<Russian>Калибр: 84 x 245 мм 469c烟雾弹&lt;br /&gt;Кол-во: 1&lt;br /&gt;Применение: Pzf84</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_60MM_HEAT_DM12_PZF3">
 				<Original>Caliber: 60 mm HEAT DM12A1&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: PzF3</Original>
@@ -18018,601 +18030,601 @@
 				<Original>Illum S-5-O&lt;br /&gt;Rounds: 16&lt;br /&gt;Used in: S-5, MARS-2</Original>
 				<English>Illum S-5-O&lt;br /&gt;Rounds: 16&lt;br /&gt;Used in: S-5, MARS-2</English>
 				<German>Illum S-5-O&lt;br /&gt;Anzahl: 16&lt;br /&gt;Eingesetzt von: S-5, MARS-2</German>
-				<Chinesesimp>Illum S-5-O&lt;br /&gt;Rounds: 16&lt;br /&gt;用于: S-5, MARS-2</Chinesesimp>
+				<Chinesesimp>S-5-O照明弹&lt;br /&gt;Rounds: 16&lt;br /&gt;用于: S-5, MARS-2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_HANDGRENADE_CONC">
 				<Original>Type: Concussion Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Concussion Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Sprenggranate&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Concussion Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 进攻手雷&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_HANDGRENADE_PRACCONC">
 				<Original>Type: Practice Concussion Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Practice Concussion Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Üb-Sprenggranate&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Practice Concussion Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型:进攻手雷(训练)&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_HANDGRENADE_PRACFRAG">
 				<Original>Type: Practice Fragmentation Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Practice Fragmentation Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Üb-Splittergranate&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Practice Fragmentation Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 破片手雷(训练)&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_HANDGRENADE_FRAG">
 				<Original>Type: Fragmentation Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Fragmentation Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Splittergranate&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Fragmentation Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 破片手雷&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_BLK">
 				<Original>Type: Smoke Grenade - Black&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - Black&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Schwarz&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - Black&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 黑色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_BLU">
 				<Original>Type: Smoke Grenade - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Blau&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - Blue&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 蓝色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_GRN">
 				<Original>Type: Smoke Grenade - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Grün&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - Green&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 绿色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 				<Korean>종류: 연막탄 - 초록&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 직접</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_ORG">
 				<Original>Type: Smoke Grenade - Orange&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - Orange&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Orange&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - Orange&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 橙色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_RED">
 				<Original>Type: Smoke Grenade - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Rot&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - Red&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 红色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 				<Korean>종류:  연막탄 - 빨강&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 직접</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_WHT">
 				<Original>Type: Smoke Grenade - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - White&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Weiß&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - White&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 白色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_SMOKESHELL_YEL">
 				<Original>Type: Smoke Grenade - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
 				<English>Type: Smoke Grenade - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</English>
 				<German>Typ: Nebelwurfmittel - Gelb&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Wurf</German>
-				<Chinesesimp>Type: Smoke Grenade - Yellow&lt;br /&gt;Rounds: 1&lt;br /&gt;用于: Hand</Chinesesimp>
+				<Chinesesimp>类型: 烟雾弹 - 黄色&lt;br /&gt;数量: 1&lt;br /&gt;用于: 投掷</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AT_DM21">
 				<Original>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
 				<English>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Bei Kontakt&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Verlegen</German>
-				<Chinesesimp>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Chinesesimp>引信: 接触&lt;br /&gt;数量: 1&lt;br /&gt;应用: 跌落</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AP_DM31">
 				<Original>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
 				<English>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Draht&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Verlegen</German>
-				<Chinesesimp>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Chinesesimp>引信: 电线&lt;br /&gt;数量: 1&lt;br /&gt;应用: 跌落</Chinesesimp>
 				<Korean>신관: 와이어&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 지상</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AT_TM46">
 				<Original>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
 				<English>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Bei Kontakt&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Verlegen</German>
-				<Chinesesimp>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Chinesesimp>引信: 接触&lt;br /&gt;数量: 1&lt;br /&gt;应用: 跌落</Chinesesimp>
 				<Korean>신관: 접촉식&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 지상</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AT_MN111">
 				<Original>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
 				<English>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Bei Kontakt&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Verlegen</German>
-				<Chinesesimp>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Chinesesimp>引信: 接触&lt;br /&gt;数量: 1&lt;br /&gt;应用: 跌落</Chinesesimp>
 				<Korean>신관: 접촉식&lt;br /&gt;장탄수: 1&lt;br /&gt;투척방식: 지상</Korean>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AT_DM1233">
 				<Original>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
 				<English>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Draht&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Abwurf</German>
-				<Chinesesimp>Fuse: Wire&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Chinesesimp>引信: 电线&lt;br /&gt;数量: 1&lt;br /&gt;应用: 跌落</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_MINE_AP_PFM1">
 				<Original>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
 				<English>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
 				<German>Zündug: Bei Kontakt&lt;br /&gt;Anzahl: 1&lt;br /&gt;Anwendung: Abwurf</German>
-				<Chinesesimp>Fuse: Contact&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Chinesesimp>
+				<Chinesesimp>引信: 接触&lt;br /&gt;数量: 1&lt;br /&gt;应用: 跌落</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_HE_DM21">
 				<Original>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM21&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM21高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_HE_DM111">
 				<Original>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM111&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM111高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_ICM_DM602">
 				<Original>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm ICM DM602&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM602集束弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_SMOKE_DM105">
 				<Original>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel DM105&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM105烟雾弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_WP_DM125">
 				<Original>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm WP DM125&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM125白磷弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_ILLUM_DM106">
 				<Original>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum DM106&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM106照明弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_HE_DM21">
 				<Original>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM21&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM21高爆弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_HE_DM111">
 				<Original>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM111&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM111高爆弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_ICM_DM602">
 				<Original>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm ICM DM602&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM602集束弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_SMOKE_DM105">
 				<Original>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel DM105&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM105烟雾弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_WP_DM125">
 				<Original>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm WP DM125&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM125白磷弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_ILLUM_DM106">
 				<Original>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum DM106&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM106照明弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_HE_DM21">
 				<Original>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM21&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM21高爆弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_HE_DM111">
 				<Original>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM111&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM111高爆弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_ICM_DM602">
 				<Original>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm ICM DM602&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM602集束弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_SMOKE_DM105">
 				<Original>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel DM105&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM105烟雾弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_WP_DM125">
 				<Original>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm WP DM125&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM125白磷弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_ILLUM_DM106">
 				<Original>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum DM106&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM106照明弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_HE_DM21">
 				<Original>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM21&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM21&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM21高爆弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_HE_DM111">
 				<Original>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE DM111&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE DM111&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM111高爆弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_ICM_DM602">
 				<Original>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm ICM DM602&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm ICM DM602&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM602集束弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_SMOKE_DM105">
 				<Original>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel DM105&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke DM105&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM105烟雾弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_WP_DM125">
 				<Original>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm WP DM125&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm WP DM125&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM125白磷弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_ILLUM_DM106">
 				<Original>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum DM106&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum DM106&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm DM106照明弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_HE_M107">
 				<Original>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M107&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M107高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_HE_M795">
 				<Original>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M795&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M795高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_SMOKE_M116">
 				<Original>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M116&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M116烟雾弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_SMOKE_M110">
 				<Original>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M110&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M110烟雾弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_155MM_ILLUM_M485">
 				<Original>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum M485&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M485照明弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_HE_M107">
 				<Original>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M107&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M107高爆弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_HE_M795">
 				<Original>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M795&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M795高爆弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_SMOKE_M116">
 				<Original>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M116&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M116烟雾弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_SMOKE_M110">
 				<Original>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M110&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M110烟雾弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_10RND_155MM_ILLUM_M485">
 				<Original>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum M485&lt;br /&gt;Anzahl: 10&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M485照明弹&lt;br /&gt;数量: 10&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_HE_M107">
 				<Original>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M107&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M107高爆弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_HE_M795">
 				<Original>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M795&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M795高爆弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_SMOKE_M116">
 				<Original>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M116&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M116烟雾弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_SMOKE_M110">
 				<Original>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M110&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M110烟雾弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_20RND_155MM_ILLUM_M485">
 				<Original>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum M485&lt;br /&gt;Anzahl: 20&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M485照明弹&lt;br /&gt;数量: 20&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_HE_M107">
 				<Original>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M107&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M107&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M107高爆弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_HE_M795">
 				<Original>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm HE M795&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm HE M795&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M795高爆弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_SMOKE_M116">
 				<Original>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M116&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M116&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M116烟雾弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_SMOKE_M110">
 				<Original>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Nebel M110&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Smoke M110&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M110烟雾弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_4RND_155MM_ILLUM_M485">
 				<Original>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Original>
 				<English>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</English>
 				<German>Kaliber: 155 mm Illum M485&lt;br /&gt;Anzahl: 4&lt;br /&gt;Eingesetzt von: M126,M128,M28,FH70</German>
-				<Chinesesimp>Caliber: 155 mm Illum M485&lt;br /&gt;Rounds: 4&lt;br /&gt;Used in: M126,M128,M28,FH70</Chinesesimp>
+				<Chinesesimp>口径: 155 mm M485照明弹&lt;br /&gt;数量: 4&lt;br /&gt;应用: M126,M128,M28,FH70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_36RND_MLRS_110MM_HE_DM21">
 				<Original>Caliber: 110 mm HE DM21&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Original>
 				<English>Caliber: 110 mm HE DM21&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</English>
 				<German>Kaliber: 110 mm HE DM21&lt;br /&gt;Anzahl: 36&lt;br /&gt;Eingesetzt von: LARS, LARS 2</German>
-				<Chinesesimp>Caliber: 110 mm HE DM21&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Chinesesimp>
+				<Chinesesimp>口径: 110 mm DM21高爆弹&lt;br /&gt;数量: 36&lt;br /&gt;应用: LARS, LARS 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_36RND_MLRS_110MM_ICM_DM602">
 				<Original>Caliber: 110 mm ICM DM602&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Original>
 				<English>Caliber: 110 mm ICM DM602&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</English>
 				<German>Kaliber: 110 mm ICM DM602&lt;br /&gt;Anzahl: 36&lt;br /&gt;Eingesetzt von: LARS, LARS 2</German>
-				<Chinesesimp>Caliber: 110 mm ICM DM602&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Chinesesimp>
+				<Chinesesimp>口径: 110 mm DM602集束弹&lt;br /&gt;数量: 36&lt;br /&gt;应用: LARS, LARS 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_36RND_MLRS_110MM_MINE_DM711">
 				<Original>Caliber: 110 mm Mine DM711&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Original>
 				<English>Caliber: 110 mm Mine DM711&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</English>
 				<German>Kaliber: 110 mm Mine DM711&lt;br /&gt;Anzahl: 36&lt;br /&gt;Eingesetzt von: LARS, LARS 2</German>
-				<Chinesesimp>Caliber: 110 mm Mine DM711&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Chinesesimp>
+				<Chinesesimp>口径: 110 mm DM711反坦克地雷弹&lt;br /&gt;数量: 36&lt;br /&gt;应用: LARS, LARS 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_36RND_MLRS_110MM_SMOKE_DM15">
 				<Original>Caliber: 110 mm Smoke DM15&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Original>
 				<English>Caliber: 110 mm Smoke DM15&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</English>
 				<German>Kaliber: 110 mm Nebel DM15&lt;br /&gt;Anzahl: 36&lt;br /&gt;Eingesetzt von: LARS, LARS 2</German>
-				<Chinesesimp>Caliber: 110 mm Smoke DM15&lt;br /&gt;Rounds: 36&lt;br /&gt;Used in: LARS, LARS 2</Chinesesimp>
+				<Chinesesimp>口径: 110 mm DM15烟雾弹&lt;br /&gt;数量: 36&lt;br /&gt;应用: LARS, LARS 2</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_122X447MM_HE_OF462">
 				<Original>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE OF-452&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm OF-452高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_122X447MM_HE_3OF56">
 				<Original>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE 3OF-56&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 3OF-56高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_122X447MM_SMOKE_D462">
 				<Original>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm Nebel D-462&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm D-462烟雾弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_122X447MM_ILLUM_S463">
 				<Original>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm ILLUM S-463&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm S-463照明弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_122X447MM_HEAT_BK6M">
 				<Original>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT BK-6M&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT BK-6M&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_122X447MM_HEAT_T_BK13">
 				<Original>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT-T BK-13&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT-T BK-13&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_28RND_122X447MM_HE_OF462">
 				<Original>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE OF-452&lt;br /&gt;Anzahl: 28&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm OF-452高爆弹&lt;br /&gt;数量: 28&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_28RND_122X447MM_HE_3OF56">
 				<Original>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE 3OF-56&lt;br /&gt;Anzahl: 28&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 3OF-56高爆弹&lt;br /&gt;数量: 28&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_28RND_122X447MM_SMOKE_D462">
 				<Original>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm Nebel D-462&lt;br /&gt;Anzahl: 28&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm D-462烟雾弹&lt;br /&gt;数量: 28&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_28RND_122X447MM_ILLUM_S463">
 				<Original>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm ILLUM S-463&lt;br /&gt;Anzahl: 28&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm S-463照明弹&lt;br /&gt;数量: 28&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_28RND_122X447MM_HEAT_BK6M">
 				<Original>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT BK-6M&lt;br /&gt;Anzahl: 28&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT BK-6M&lt;br /&gt;数量: 28&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_28RND_122X447MM_HEAT_T_BK13">
 				<Original>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT-T BK-13&lt;br /&gt;Anzahl: 28&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 28&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT-T BK-13&lt;br /&gt;数量: 28&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_9RND_122X447MM_HE_OF462">
 				<Original>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE OF-452&lt;br /&gt;Anzahl: 9&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm OF-452高爆弹&lt;br /&gt;数量: 9&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_9RND_122X447MM_HE_3OF56">
 				<Original>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE 3OF-56&lt;br /&gt;Anzahl: 9&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 3OF-56高爆弹&lt;br /&gt;数量: 9&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_9RND_122X447MM_SMOKE_D462">
 				<Original>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm Nebel D-462&lt;br /&gt;Anzahl: 9&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm D-462烟雾弹&lt;br /&gt;数量: 9&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_9RND_122X447MM_ILLUM_S463">
 				<Original>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm ILLUM S-463&lt;br /&gt;Anzahl: 9&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm S-463照明弹&lt;br /&gt;数量: 9&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_9RND_122X447MM_HEAT_BK6M">
 				<Original>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT BK-6M&lt;br /&gt;Anzahl: 9&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT BK-6M&lt;br /&gt;数量: 9&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_9RND_122X447MM_HEAT_T_BK13">
 				<Original>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT-T BK-13&lt;br /&gt;Anzahl: 9&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 9&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT-T BK-13&lt;br /&gt;数量: 9&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_3RND_122X447MM_HE_OF462">
 				<Original>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE OF-452&lt;br /&gt;Anzahl: 3&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE OF-452&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm OF-452高爆弹&lt;br /&gt;数量: 3&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_3RND_122X447MM_HE_3OF56">
 				<Original>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HE 3OF-56&lt;br /&gt;Anzahl: 3&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HE 3OF-56&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 3OF-56高爆弹&lt;br /&gt;数量: 3&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_3RND_122X447MM_SMOKE_D462">
 				<Original>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm Nebel D-462&lt;br /&gt;Anzahl: 3&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm Smoke D-462&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm D-462烟雾弹&lt;br /&gt;数量: 3&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_3RND_122X447MM_ILLUM_S463">
 				<Original>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm ILLUM S-463&lt;br /&gt;Anzahl: 3&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm ILLUM S-463&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm S-463照明弹&lt;br /&gt;数量: 3&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_3RND_122X447MM_HEAT_BK6M">
 				<Original>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT BK-6M&lt;br /&gt;Anzahl: 3&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT BK-6M&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT BK-6M&lt;br /&gt;数量: 3&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_3RND_122X447MM_HEAT_T_BK13">
 				<Original>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Original>
 				<English>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</English>
 				<German>Kaliber: 122 mm HEAT-T BK-13&lt;br /&gt;Anzahl: 3&lt;br /&gt;Eingesetzt von: 2A18</German>
-				<Chinesesimp>Caliber: 122 mm HEAT-T BK-13&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 2A18</Chinesesimp>
+				<Chinesesimp>口径: 122 mm HEAT-T BK-13&lt;br /&gt;数量: 3&lt;br /&gt;应用: 2A18</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_40RND_MLRS_122MM_HE_9M22U">
 				<Original>Caliber: 122 mm HE 9M22U&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Original>
 				<English>Caliber: 122 mm HE 9M22U&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</English>
 				<German>Kaliber: 122 mm HE 9M22U&lt;br /&gt;Anzahl: 40&lt;br /&gt;Eingesetzt von: BM-21,BM-21-1,RM-70</German>
-				<Chinesesimp>Caliber: 122 mm HE 9M22U&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 9M22U高爆弹&lt;br /&gt;数量: 40&lt;br /&gt;应用: BM-21,BM-21-1,RM-70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_40RND_MLRS_122MM_ICM_9M218">
 				<Original>Caliber: 122 mm ICM 9M218&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Original>
 				<English>Caliber: 122 mm ICM 9M218&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</English>
 				<German>Kaliber: 122 mm ICM 9M218&lt;br /&gt;Anzahl: 40&lt;br /&gt;Eingesetzt von: BM-21,BM-21-1,RM-70</German>
-				<Chinesesimp>Caliber: 122 mm ICM 9M218&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 9M218集束弹&lt;br /&gt;数量: 40&lt;br /&gt;应用: BM-21,BM-21-1,RM-70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_40RND_MLRS_122MM_MINE_9M28K">
 				<Original>Caliber: 122 mm Mine 9M28K&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Original>
 				<English>Caliber: 122 mm Mine 9M28K&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</English>
 				<German>Kaliber: 122 mm Mine 9M28K&lt;br /&gt;Anzahl: 40&lt;br /&gt;Eingesetzt von: BM-21,BM-21-1,RM-70</German>
-				<Chinesesimp>Caliber: 122 mm Mine 9M28K&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 9M28K地雷弹&lt;br /&gt;数量: 40&lt;br /&gt;应用: BM-21,BM-21-1,RM-70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_40RND_MLRS_122MM_MINE_9M22K">
 				<Original>Caliber: 122 mm Mine 9M22K&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Original>
 				<English>Caliber: 122 mm Mine 9M22K&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</English>
 				<German>Kaliber: 122 mm Mine 9M22K&lt;br /&gt;Anzahl: 40&lt;br /&gt;Eingesetzt von: BM-21,BM-21-1,RM-70</German>
-				<Chinesesimp>Caliber: 122 mm Mine 9M22K&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 9M22K地雷弹&lt;br /&gt;数量: 40&lt;br /&gt;应用: BM-21,BM-21-1,RM-70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_40RND_MLRS_122MM_SMOKE_9M43">
 				<Original>Caliber: 122 mm Smoke 9M43&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Original>
 				<English>Caliber: 122 mm Smoke 9M43&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</English>
 				<German>Kaliber: 122 mm Nebel 9M43&lt;br /&gt;Anzahl: 40&lt;br /&gt;Eingesetzt von: BM-21,BM-21-1,RM-70</German>
-				<Chinesesimp>Caliber: 122 mm Smoke 9M43&lt;br /&gt;Rounds: 40&lt;br /&gt;Used in: BM-21,BM-21-1,RM-70</Chinesesimp>
+				<Chinesesimp>口径: 122 mm 9M43烟雾弹&lt;br /&gt;数量: 40&lt;br /&gt;应用: BM-21,BM-21-1,RM-70</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_LUNA_NUC_3R10">
 				<Original>Nuclear 3R10&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2P16</Original>
 				<English>Nuclear 3R10&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2P16</English>
 				<German>Nuklear 3R10&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2P16</German>
-				<Chinesesimp>Nuclear 3R10&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2P16</Chinesesimp>
+				<Chinesesimp>3R10 核弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2P16</Chinesesimp>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_LUNA_HE_3R9">
 				<Original>HE 3R9&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2P16</Original>
 				<English>HE 3R9&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2P16</English>
 				<German>HE 3R9&lt;br /&gt;Anzahl: 1&lt;br /&gt;Eingesetzt von: 2P16</German>
-				<Chinesesimp>HE 3R9&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 2P16</Chinesesimp>
+				<Chinesesimp>3R9高爆弹&lt;br /&gt;数量: 1&lt;br /&gt;应用: 2P16</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_B">
 				<Original>B</Original>
 				<English>B</English>
 				<German>B</German>
-				<Chinesesimp>B</Chinesesimp>
+				<Chinesesimp>实心弹</Chinesesimp>
 				<Korean>B</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_B_T">
 				<Original>B-T</Original>
 				<English>B-T</English>
 				<German>B-T</German>
-				<Chinesesimp>B-T</Chinesesimp>
+				<Chinesesimp>实心曳光弹</Chinesesimp>
 				<Korean>B-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_AP">
@@ -18626,21 +18638,21 @@
 				<Original>AP-T</Original>
 				<English>AP-T</English>
 				<German>AP-T</German>
-				<Chinesesimp>穿甲弹-T</Chinesesimp>
+				<Chinesesimp>穿甲曳光弹</Chinesesimp>
 				<Korean>AP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_API">
 				<Original>API</Original>
 				<English>API</English>
 				<German>API</German>
-				<Chinesesimp>API</Chinesesimp>
+				<Chinesesimp>穿甲燃烧弹</Chinesesimp>
 				<Korean>API</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_API_T">
 				<Original>API-T</Original>
 				<English>API-T</English>
 				<German>API-T</German>
-				<Chinesesimp>API-T</Chinesesimp>
+				<Chinesesimp>穿甲燃烧曳光弹</Chinesesimp>
 				<Korean>API-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APDS">
@@ -18654,7 +18666,7 @@
 				<Original>APDS-T</Original>
 				<English>APDS-T</English>
 				<German>APDS-T</German>
-				<Chinesesimp>脱壳穿甲弹-T</Chinesesimp>
+				<Chinesesimp>脱壳穿甲曳光弹</Chinesesimp>
 				<Korean>APDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APFSDS">
@@ -18668,7 +18680,7 @@
 				<Original>APFSDS-T</Original>
 				<English>APFSDS-T</English>
 				<German>APFSDS-T</German>
-				<Chinesesimp>尾翼稳定脱壳穿甲弹-T</Chinesesimp>
+				<Chinesesimp>尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
 				<Korean>APFSDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAP">
@@ -18682,7 +18694,7 @@
 				<Original>HVAP-T</Original>
 				<English>HVAP-T</English>
 				<German>HVAP-T</German>
-				<Chinesesimp>高速穿甲弹-T</Chinesesimp>
+				<Chinesesimp>高速穿甲曳光弹</Chinesesimp>
 				<Korean>HVAP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAPDS">
@@ -18696,21 +18708,21 @@
 				<Original>HVAPDS-T</Original>
 				<English>HVAPDS-T</English>
 				<German>HVAPDS-T</German>
-				<Chinesesimp>尾翼稳定高速穿甲弹-T</Chinesesimp>
+				<Chinesesimp>尾翼稳定高速穿甲曳光弹</Chinesesimp>
 				<Korean>HVAPDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FAPDS">
 				<Original>FAPDS</Original>
 				<English>FAPDS</English>
 				<German>FAPDS</German>
-				<Chinesesimp>FAPDS</Chinesesimp>
+				<Chinesesimp>易碎脱壳穿甲弹</Chinesesimp>
 				<Korean>FAPDS</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FAPDS_T">
 				<Original>FAPDS-T</Original>
 				<English>FAPDS-T</English>
 				<German>FAPDS-T</German>
-				<Chinesesimp>FAPDS-T</Chinesesimp>
+				<Chinesesimp>易碎脱壳穿甲曳光弹</Chinesesimp>
 				<Korean>FAPDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HE">
@@ -18724,21 +18736,21 @@
 				<Original>HE-T</Original>
 				<English>HE-T</English>
 				<German>HE-T</German>
-				<Chinesesimp>高爆弹-T</Chinesesimp>
+				<Chinesesimp>高爆曳光弹</Chinesesimp>
 				<Korean>HE-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEI">
 				<Original>HEI</Original>
 				<English>HEI</English>
 				<German>HEI</German>
-				<Chinesesimp>HEI</Chinesesimp>
+				<Chinesesimp>高爆燃烧弹</Chinesesimp>
 				<Korean>HEI</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEI_T">
 				<Original>HEI-T</Original>
 				<English>HEI-T</English>
 				<German>HEI-T</German>
-				<Chinesesimp>HEI-T</Chinesesimp>
+				<Chinesesimp>高爆燃烧曳光弹</Chinesesimp>
 				<Korean>HEI-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEAT">
@@ -18752,21 +18764,21 @@
 				<Original>HEAT-T</Original>
 				<English>HEAT-T</English>
 				<German>HEAT-T</German>
-				<Chinesesimp>破甲弹-T</Chinesesimp>
+				<Chinesesimp>破甲曳光弹</Chinesesimp>
 				<Korean>HEAT-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEAT_MP">
 				<Original>HEAT-MP</Original>
 				<English>HEAT-MP</English>
 				<German>HEAT-MP</German>
-				<Chinesesimp>HEAT-MP</Chinesesimp>
+				<Chinesesimp>多用途破甲弹</Chinesesimp>
 				<Korean>HEAT-MP</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEAT_MP_T">
 				<Original>HEAT-MP-T</Original>
 				<English>HEAT-MP-T</English>
 				<German>HEAT-MP-T</German>
-				<Chinesesimp>HEAT-MP-T</Chinesesimp>
+				<Chinesesimp>多用途破甲曳光弹</Chinesesimp>
 				<Korean>HEAT-MP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE">
@@ -18806,7 +18818,7 @@
 				<Original>Flare (NBC)</Original>
 				<English>Flare (NBC)</English>
 				<German>Licht (ABC-Alarm)</German>
-				<Chinesesimp>照明弹(危险警告)</Chinesesimp>
+				<Chinesesimp>照明弹(三防)</Chinesesimp>
 				<Korean>조명탄 (NBC)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_ILLUM">
@@ -18819,13 +18831,13 @@
 				<Original>WP</Original>
 				<English>WP</English>
 				<German>WP</German>
-				<Chinesesimp>WP</Chinesesimp>
+				<Chinesesimp>白磷弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_ICM">
 				<Original>ICM</Original>
 				<English>ICM</English>
 				<German>ICM</German>
-				<Chinesesimp>ICM</Chinesesimp>
+				<Chinesesimp>集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_MINE">
 				<Original>Mine</Original>
@@ -18930,40 +18942,40 @@
 				<Original>Flare (Multi, Green)</Original>
 				<English>Flare (Multi, Green)</English>
 				<German>Licht (Mehrfach, Grün)</German>
-				<Chinesesimp>照明弹 (Multi, Green)</Chinesesimp>
+				<Chinesesimp>照明弹 (多用途，绿色)</Chinesesimp>
 				<Korean>조명탄 (다탄두, 초록)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_MULTI_NBC">
 				<Original>Flare (NBC)</Original>
 				<English>Flare (NBC)</English>
 				<German>Licht (ABC)</German>
-				<Chinesesimp>照明弹 (NBC)</Chinesesimp>
+				<Chinesesimp>照明弹 (三防)</Chinesesimp>
 				<Korean>조명탄 (NBC)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_MULTI_RED">
 				<Original>Flare (Multi, Red)</Original>
 				<English>Flare (Multi, Red)</English>
 				<German>Licht (Mehrfach, Rot)</German>
-				<Chinesesimp>照明弹 (Multi, Red)</Chinesesimp>
+				<Chinesesimp>照明弹 (多用途，红色)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_MULTI_WHT">
 				<Original>Flare (Multi, White)</Original>
 				<English>Flare (Multi, White)</English>
 				<German>Licht (Mehrfach, Weiß)</German>
-				<Chinesesimp>照明弹 (Multi, White)</Chinesesimp>
+				<Chinesesimp>照明弹 (多用途，白色)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_MULTI_YEL">
 				<Original>Flare (Multi, Yellow)</Original>
 				<English>Flare (Multi, Yellow)</English>
 				<German>Licht (Mehrfach, Gelb)</German>
-				<Chinesesimp>照明弹 (Multi, Yellow)</Chinesesimp>
+				<Chinesesimp>照明弹 (多用途，黄色)</Chinesesimp>
 				<Korean>조명탄 (다탄두, 노랑)</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_PARA_YEL">
 				<Original>Flare (Chute, Yellow)</Original>
 				<English>Flare (Chute, Yellow)</English>
 				<German>Licht (Fallschirm, Gelb)</German>
-				<Chinesesimp>照明弹 (Chute, Yellow)</Chinesesimp>
+				<Chinesesimp>照明弹 (降落伞，黄色)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_SINGLE_GRN">
 				<Original>Flare (Green)</Original>
@@ -19200,96 +19212,96 @@
 				<Original>26.5mm Smoke (Yellow) (20Rnd)</Original>
 				<English>26.5mm Smoke (Yellow) (20Rnd)</English>
 				<German>26,5mm Signal (Gelb) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke (Yellow) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm 烟雾弹 (黄色) (20Rnd)</Chinesesimp>
 				<Korean>26.5mm 연막 (노랑, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_SMOKE_SINGLE_BLU_GC">
 				<Original>26.5mm Smoke (Blue) (20Rnd)</Original>
 				<English>26.5mm Smoke (Blue) (20Rnd)</English>
 				<German>26,5mm Signal (Blau) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke (Blue) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm 烟雾弹 (蓝色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_SMOKE_SINGLE_BLK_GC">
 				<Original>26.5mm Smoke (Black) (20Rnd)</Original>
 				<English>26.5mm Smoke (Black) (20Rnd)</English>
 				<German>26,5mm Signal (Black) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke (Black) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm 烟雾弹 (黑色) (20Rnd)</Chinesesimp>
 				<Korean>26.5mm 연막 (검정, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_SINGLE_WHT_DM15">
 				<Original>26.5mm Flare DM15 (White) (20Rnd)</Original>
 				<English>26.5mm Flare DM15 (White) (20Rnd)</English>
 				<German>26,5mm Licht DM15 (Weiß) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM15 (White) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM15照明弹 (白色) (20Rnd)</Chinesesimp>
 				<Korean>26.5mm DM15 조명탄 (하양, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_SINGLE_RED_DM13">
 				<Original>26.5mm Flare DM13 (Red) (20Rnd)</Original>
 				<English>26.5mm Flare DM13 (Red) (20Rnd)</English>
 				<German>26,5mm Licht DM13 (Rot) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM13 (Red) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM13照明弹 (红色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_SINGLE_GRN_DM11">
 				<Original>26.5mm Flare DM11 (Green) (20Rnd)</Original>
 				<English>26.5mm Flare DM11 (Green) (20Rnd)</English>
 				<German>26,5mm Licht DM11 (Grün) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM11 (Green) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM11照明弹 (绿色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_SINGLE_YEL_DM10">
 				<Original>26.5mm Flare DM10 (Yellow) (20Rnd)</Original>
 				<English>26.5mm Flare DM10 (Yellow) (20Rnd)</English>
 				<German>26,5mm Licht DM10 (Gelb) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM10 (Yellow) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM10照明弹 (黄色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_WHT_DM25">
 				<Original>26.5mm Flare DM25 (White) (20Rnd)</Original>
 				<English>26.5mm Flare DM25 (White) (20Rnd)</English>
 				<German>26,5mm Licht DM25 (Weiß) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM25 (White) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM25照明弹 (白色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_RED_DM23">
 				<Original>26.5mm Flare DM23 (Red) (20Rnd)</Original>
 				<English>26.5mm Flare DM23 (Red) (20Rnd)</English>
 				<German>26,5mm Licht DM23 (Rot) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM23 (Red) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM23照明弹 (红色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_GRN_DM21">
 				<Original>26.5mm Flare DM21 (Green) (20Rnd)</Original>
 				<English>26.5mm Flare DM21 (Green) (20Rnd)</English>
 				<German>26,5mm Licht DM21 (Grün) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM21 (Green) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM21照明弹 (绿色)) (20Rnd)</Chinesesimp>
 				<Korean>26.5mm DM21 조명탄 (초록, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_YEL_DM20">
 				<Original>26.5mm Flare DM20 (Yellow) (20Rnd)</Original>
 				<English>26.5mm Flare DM20 (Yellow) (20Rnd)</English>
 				<German>26,5mm Licht DM20 (Gelb) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM20 (Yellow) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM20照明弹 (黄色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_SMOKE_SINGLE_YEL_DM19">
 				<Original>26.5mm Smoke DM19 (Yellow) (20Rnd)</Original>
 				<English>26.5mm Smoke DM19 (Yellow) (20Rnd)</English>
 				<German>26,5mm Signal DM19 (Gelb) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke DM19 (Yellow) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM19烟雾弹 (黄色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_SMOKE_SINGLE_ORG_DM22">
 				<Original>26.5mm Smoke DM22 (Orange) (20Rnd)</Original>
 				<English>26.5mm Smoke DM22 (Orange) (20Rnd)</English>
 				<German>26,5mm Signal DM22 (Orange) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke DM22 (Orange) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM22烟雾弹 (橘色) (20Rnd)</Chinesesimp>
 				<Korean>26.5mm DM22 연막 (오렌지, 20발)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_SMOKE_SINGLE_VLT_DM24">
 				<Original>26.5mm Smoke DM24 (Purple) (20Rnd)</Original>
 				<English>26.5mm Smoke DM24 (Purple) (20Rnd)</English>
 				<German>26,5mm Signal DM24 (Violett) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke DM24 (Purple) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM24烟雾弹 (紫色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_MULTI_NBC_DM47">
 				<Original>26.5mm Flare DM47 (NBC) (20Rnd)</Original>
 				<English>26.5mm Flare DM47 (NBC) (20Rnd)</English>
 				<German>26,5mm Licht DM47 (NBC) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Flare DM47 (NBC) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM47照明弹 (三防) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_2RND_84X245MM_HEAT_T_DM12A1_CARLGUSTAF">
 				<Original>84x245mm HEAT-T DM12a1 (2Rnd)</Original>
@@ -19314,7 +19326,7 @@
 				<Original>84x245mm ILLUM DM16 (2Rnd)</Original>
 				<English>84x245mm ILLUM DM16 (2Rnd)</English>
 				<German>84x245mm ILLUM DM16 (2 Sch.)</German>
-				<Chinesesimp>84x245mm ILLUM DM16 (2Rnd)</Chinesesimp>
+				<Chinesesimp>84x245mm DM16照明弹 (2Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_4RND_67MM_HEAT_DM22A1_G3">
 				<Original>67mm HEAT DM22a1 (4Rnd)</Original>
@@ -19326,79 +19338,79 @@
 				<Original>Smoke Grenade DM21 (Green) (10Rnd)</Original>
 				<English>Smoke Grenade DM21 (Green) (10Rnd)</English>
 				<German>Nebelwurfmittel DM21 (Grün) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade DM21 (Green) (10Rnd)</Chinesesimp>
+				<Chinesesimp>DM21烟雾弹 (绿色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_RED_DM23">
 				<Original>Smoke Grenade DM23 (Red) (10Rnd)</Original>
 				<English>Smoke Grenade DM23 (Red) (10Rnd)</English>
 				<German>Nebelwurfmittel DM23 (Rot) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade DM23 (Red) (10Rnd)</Chinesesimp>
+				<Chinesesimp>DM23烟雾弹 (红色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_YEL_DM26">
 				<Original>Smoke Grenade DM26 (Yellow) (10Rnd)</Original>
 				<English>Smoke Grenade DM26 (Yellow) (10Rnd)</English>
 				<German>Nebelwurfmittel DM26 (Gelb) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade DM26 (Yellow) (10Rnd)</Chinesesimp>
+				<Chinesesimp>DM26烟雾弹 (黄色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_ORG_DM32">
 				<Original>Smoke Grenade DM32 (Orange) (10Rnd)</Original>
 				<English>Smoke Grenade DM32 (Orange) (10Rnd)</English>
 				<German>Nebelwurfmittel DM32 (Orange) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade DM32 (Orange) (10Rnd)</Chinesesimp>
+				<Chinesesimp>DM32烟雾弹 (橘色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_WHT_DM25">
 				<Original>Smoke Grenade DM25 (white) (10Rnd)</Original>
 				<English>Smoke Grenade DM25 (white) (10Rnd)</English>
 				<German>Nebelwurfmittel DM25 (Weiß) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade DM25 (white) (10Rnd)</Chinesesimp>
+				<Chinesesimp>DM25烟雾弹 (白色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_BLK_GC">
 				<Original>Smoke Grenade (Black) (10Rnd)</Original>
 				<English>Smoke Grenade (Black) (10Rnd)</English>
 				<German>Nebelwurfmittel (Schwarz) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (Black) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (黑色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_BLU_GC">
 				<Original>Smoke Grenade (Blue) (10Rnd)</Original>
 				<English>Smoke Grenade (Blue) (10Rnd)</English>
 				<German>Nebelwurfmittel (Blau) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (Blue) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (蓝色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_GRN_GC">
 				<Original>Smoke Grenade (Green) (10Rnd)</Original>
 				<English>Smoke Grenade (Green) (10Rnd)</English>
 				<German>Nebelwurfmittel (Grün) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (Green) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (绿色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_ORG_GC">
 				<Original>Smoke Grenade (Orange) (10Rnd)</Original>
 				<English>Smoke Grenade (Orange) (10Rnd)</English>
 				<German>Nebelwurfmittel (Orange) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (Orange) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (橘色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_RED_GC">
 				<Original>Smoke Grenade (Red) (10Rnd)</Original>
 				<English>Smoke Grenade (Red) (10Rnd)</English>
 				<German>Nebelwurfmittel (Rot) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (Red) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (红色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_WHT_GC">
 				<Original>Smoke Grenade (White) (10Rnd)</Original>
 				<English>Smoke Grenade (White) (10Rnd)</English>
 				<German>Nebelwurfmittel (Weiß) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (White) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (白色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_10RND_SMOKESHELL_YEL_GC">
 				<Original>Smoke Grenade (Yellow) (10Rnd)</Original>
 				<English>Smoke Grenade (Yellow) (10Rnd)</English>
 				<German>Nebelwurfmittel (Gelb) (10 Sch.)</German>
-				<Chinesesimp>Smoke Grenade (Yellow) (10Rnd)</Chinesesimp>
+				<Chinesesimp>烟雾弹 (黄色) (10Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_20RND_265MM_FLARE_PARA_YEL_DM16">
 				<Original>26.5mm Smoke DM16 (Yellow) (20Rnd)</Original>
 				<English>26.5mm Smoke DM16 (Yellow) (20Rnd)</English>
 				<German>26,5mm Signal DM16 (Gelb) (20 Sch.)</German>
-				<Chinesesimp>26.5mm Smoke DM16 (Yellow) (20Rnd)</Chinesesimp>
+				<Chinesesimp>26.5mm DM16烟雾弹 (黄色) (20Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_2160RND_545X39MM_B_7N6_AK74">
 				<Original>5.45x39mm 7N6 (2160Rnd)</Original>
@@ -19547,49 +19559,49 @@
 				<Original>Basic Ammo [GER, '80]</Original>
 				<English>Basic Ammo [GER, '80]</English>
 				<German>Standardmunition [GER, '80]</German>
-				<Chinesesimp>基础弹药[德国，80年代]</Chinesesimp>
+				<Chinesesimp>基础弹药[西德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_EVERYTHING_80">
 				<Original>Supply Box [GER, '80]</Original>
 				<English>Supply Box [GER, '80]</English>
 				<German>Nachschubkiste [GER, '80]</German>
-				<Chinesesimp>补给箱[德国，80年代]</Chinesesimp>
+				<Chinesesimp>补给箱[西德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_SMALLARMS_80">
 				<Original>Basic Weapons [GER, '80]</Original>
 				<English>Basic Weapons [GER, '80]</English>
 				<German>Standardwaffen [GER, '80]</German>
-				<Chinesesimp>基础武器[德国，80年代]</Chinesesimp>
+				<Chinesesimp>基础武器[西德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_CACHE_80">
 				<Original>Weapons Cache [GER, '80]</Original>
 				<English>Weapons Cache [GER, '80]</English>
 				<German>Waffenkiste [GER, '80]</German>
-				<Chinesesimp>武器箱[德国，80年代]</Chinesesimp>
+				<Chinesesimp>武器箱[西德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_ALLMAGAZINES_90">
 				<Original>Basic Ammo [GER, '90]</Original>
 				<English>Basic Ammo [GER, '90]</English>
 				<German>Standardmunition [GER, '90]</German>
-				<Chinesesimp>基础弹药[德国，90年代]</Chinesesimp>
+				<Chinesesimp>基础弹药[西德，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_EVERYTHING_90">
 				<Original>Supply Box [GER, '90]</Original>
 				<English>Supply Box [GER, '90]</English>
 				<German>Nachschubkiste [GER, '90]</German>
-				<Chinesesimp>补给箱[德国，90年代]</Chinesesimp>
+				<Chinesesimp>补给箱[西德，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_SMALLARMS_90">
 				<Original>Basic Weapons [GER, '90]</Original>
 				<English>Basic Weapons [GER, '90]</English>
 				<German>Standardwaffen [GER, '90]</German>
-				<Chinesesimp>基础武器[德国，90年代]</Chinesesimp>
+				<Chinesesimp>基础武器[西德，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_AMMOBOX_CACHE_90">
 				<Original>Weapons Cache [GER, '90]</Original>
 				<English>Weapons Cache [GER, '90]</English>
 				<German>Waffenkiste [GER, '90]</German>
-				<Chinesesimp>武器箱[德国，90年代]</Chinesesimp>
+				<Chinesesimp>武器箱[西德，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_ALLMAGAZINES_80">
 				<Original>Basic Ammo [DK, '80]</Original>
@@ -19601,415 +19613,415 @@
 				<Original>Supply Box [DK, '80]</Original>
 				<English>Supply Box [DK, '80]</English>
 				<German>Nachschubkiste [DK, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>补给箱[丹麦，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_SMALLARMS_80">
 				<Original>Basic Weapons [DK, '80]</Original>
 				<English>Basic Weapons [DK, '80]</English>
 				<German>Standardwaffen [DK, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础武器[丹麦，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_CACHE_80">
 				<Original>Weapons Cache [DK, '80]</Original>
 				<English>Weapons Cache [DK, '80]</English>
 				<German>Waffenkiste [DK, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>武器箱[丹麦，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_ALLMAGAZINES_90">
 				<Original>Basic Ammo [DK, '90]</Original>
 				<English>Basic Ammo [DK, '90]</English>
 				<German>Standardmunition [DK, '90]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础弹药[丹麦，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_EVERYTHING_90">
 				<Original>Supply Box [DK, '90]</Original>
 				<English>Supply Box [DK, '90]</English>
 				<German>Nachschubkiste [DK, '90]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>补给箱[丹麦，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_SMALLARMS_90">
 				<Original>Basic Weapons [DK, '90]</Original>
 				<English>Basic Weapons [DK, '90]</English>
 				<German>Standardwaffen [DK, '90]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础武器[丹麦，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_AMMOBOX_CACHE_90">
 				<Original>Weapons Cache [DK, '90]</Original>
 				<English>Weapons Cache [DK, '90]</English>
 				<German>Waffenkiste [DK, '90]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>武器箱[丹麦，90年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_AMMOBOX_ALLMAGAZINES_80">
 				<Original>Basic Ammo [DDR, '80]</Original>
 				<English>Basic Ammo [DDR, '80]</English>
 				<German>Standardmunition [DDR, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础弹药[东德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_AMMOBOX_EVERYTHING_80">
 				<Original>Supply Box [DDR, '80]</Original>
 				<English>Supply Box [DDR, '80]</English>
 				<German>Nachschubkiste [DDR, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>补给箱[东德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_AMMOBOX_SMALLARMS_80">
 				<Original>Basic Weapons [DDR, '80]</Original>
 				<English>Basic Weapons [DDR, '80]</English>
 				<German>Standardwaffen [DDR, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础武器[东德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_AMMOBOX_CACHE_80">
 				<Original>Weapons Cache [DDR, '80]</Original>
 				<English>Weapons Cache [DDR, '80]</English>
 				<German>Waffenkiste [DDR, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>武器箱[东德，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_AMMOBOX_ALLMAGAZINES_80">
 				<Original>Basic Ammo [PL, '80]</Original>
 				<English>Basic Ammo [PL, '80]</English>
 				<German>Standardmunition [PL, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础弹药[波兰，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_AMMOBOX_EVERYTHING_80">
 				<Original>Supply Box [PL, '80]</Original>
 				<English>Supply Box [PL, '80]</English>
 				<German>Nachschubkiste [PL, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>补给箱[波兰，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_AMMOBOX_SMALLARMS_80">
 				<Original>Basic Weapons [PL, '80]</Original>
 				<English>Basic Weapons [PL, '80]</English>
 				<German>Standardwaffen [PL, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>基础武器[波兰，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_AMMOBOX_CACHE_80">
 				<Original>Weapons Cache [PL, '80]</Original>
 				<English>Weapons Cache [PL, '80]</English>
 				<German>Waffenkiste [PL, '80]</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>武器箱[波兰，80年代]</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_BASE">
 				<Original>155 mm (8Rnd)</Original>
 				<English>155 mm (8Rnd)</English>
 				<German>155 mm (8. Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_HE_DM21">
 				<Original>155 mm HE DM21 (8Rnd)</Original>
 				<English>155 mm HE DM21 (8Rnd)</English>
 				<German>155 mm HE DM21 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE DM21 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_HE_DM111">
 				<Original>155 mm HE DM111 (8Rnd)</Original>
 				<English>155 mm HE DM111 (8Rnd)</English>
 				<German>155 mm HE DM111 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE DM111 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_ICM_DM602">
 				<Original>155 mm ICM DM602 (8Rnd)</Original>
 				<English>155 mm ICM DM602 (8Rnd)</English>
 				<German>155 mm ICM DM602 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM602集束弹 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_SMART_DM702">
 				<Original>155 mm SMART DM702 (8Rnd)</Original>
 				<English>155 mm SMART DM702 (8Rnd)</English>
 				<German>155 mm SMART DM702 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm SMART DM702 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_SMOKE_DM105">
 				<Original>155 mm Smoke DM105 (8Rnd)</Original>
 				<English>155 mm Smoke DM105 (8Rnd)</English>
 				<German>155 mm Nebel DM105 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM105烟雾弹 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_ILLUM_DM106">
 				<Original>155 mm ILLUM DM106 (8Rnd)</Original>
 				<English>155 mm ILLUM DM106 (8Rnd)</English>
 				<German>155 mm ILLUM DM106 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM106照明弹 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_GAS_M110">
 				<Original>155 mm VX M110 (8Rnd)</Original>
 				<English>155 mm VX M110 (8Rnd)</English>
 				<German>155 mm VX M110 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm VX M110 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_GAS_M121">
 				<Original>155 mm HD M121 (8Rnd)</Original>
 				<English>155 mm HD M121 (8Rnd)</English>
 				<German>155 mm HD M121 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HD M121 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_HE_M107">
 				<Original>155 mm HE M107 (8Rnd)</Original>
 				<English>155 mm HE M107 (8Rnd)</English>
 				<German>155 mm HE M107 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE M107 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_HE_M795">
 				<Original>155 mm HE M795 (8Rnd)</Original>
 				<English>155 mm HE M795 (8Rnd)</English>
 				<German>155 mm HE M795 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE M795 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_SMOKE_M116">
 				<Original>155 mm Smoke M116 (8Rnd)</Original>
 				<English>155 mm Smoke M116 (8Rnd)</English>
 				<German>155 mm Nebel M116 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M116烟雾弹 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_SMOKE_M110">
 				<Original>155 mm Smoke M110 (8Rnd)</Original>
 				<English>155 mm Smoke M110 (8Rnd)</English>
 				<German>155 mm Nebel M110 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M110烟雾弹 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_155MM_ILLUM_M485">
 				<Original>155 mm ILLUM M485 (8Rnd)</Original>
 				<English>155 mm ILLUM M485 (8Rnd)</English>
 				<German>155 mm ILLUM M485 (8 Sch.)</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M485照明弹 (8Rnd)</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_HE_DM21">
 				<Original>155 mm HE DM21 Howitzer</Original>
 				<English>155 mm HE DM21 Howitzer</English>
 				<German>155 mm HE DM21 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE DM21 榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_HE_DM111">
 				<Original>155 mm HE DM111 Howitzer</Original>
 				<English>155 mm HE DM111 Howitzer</English>
 				<German>155 mm HE DM111 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE DM111榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_ICM_DM602">
 				<Original>155 mm ICM DM602 Howitzer</Original>
 				<English>155 mm ICM DM602 Howitzer</English>
 				<German>155 mm ICM DM602 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM602集束榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_SMOKE_DM105">
 				<Original>155 mm Smoke DM105 Howitzer</Original>
 				<English>155 mm Smoke DM105 Howitzer</English>
 				<German>155 mm Nebel DM105 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM105烟雾榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_WP_DM125">
 				<Original>155 mm WP DM125 Howitzer</Original>
 				<English>155 mm WP DM125 Howitzer</English>
 				<German>155 mm WP DM125 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM125白磷榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_ILLUM_DM106">
 				<Original>155 mm ILLUM DM106 Howitzer</Original>
 				<English>155 mm ILLUM DM106 Howitzer</English>
 				<German>155 mm ILLUM DM106 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM106照明榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_HE_M107">
 				<Original>155 mm HE M107 Howitzer</Original>
 				<English>155 mm HE M107 Howitzer</English>
 				<German>155 mm HE M107 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE M107榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_HE_M795">
 				<Original>155 mm HE M795 Howitzer</Original>
 				<English>155 mm HE M795 Howitzer</English>
 				<German>155 mm HE M795 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE M795榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_SMOKE_M110">
 				<Original>155 mm Smoke M110 Howitzer</Original>
 				<English>155 mm Smoke M110 Howitzer</English>
 				<German>155 mm Nebel M110 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M110烟雾榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_SMOKE_M116">
 				<Original>155 mm Smoke M116 Howitzer</Original>
 				<English>155 mm Smoke M116 Howitzer</English>
 				<German>155 mm Nebel M116 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M116烟雾榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_155MM_ILLUM_M485">
 				<Original>155 mm ILLUM M485 Howitzer</Original>
 				<English>155 mm ILLUM M485 Howitzer</English>
 				<German>155 mm ILLUM M485 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M485照明榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_122X447MM_HE_OF462">
 				<Original>122 mm HE OF-462 Howitzer</Original>
 				<English>122 mm HE OF-462 Howitzer</English>
 				<German>122 mm HE OF-462 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm HE OF-462榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_122X447MM_HE_3OF56">
 				<Original>122 mm HE 3OF56 Howitzer</Original>
 				<English>122 mm HE 3OF56 Howitzer</English>
 				<German>122 mm HE 3OF56 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm HE 3OF56榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_122X447MM_SMOKE_D462">
 				<Original>122 mm Smoke D-462 Howitzer</Original>
 				<English>122 mm Smoke D-462 Howitzer</English>
 				<German>122 mm Nebel D-462 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm D-462烟雾榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEHOWITZER_SHELL_122X447MM_ILLUM_S463">
 				<Original>122 mm ILLUM S-463 Howitzer</Original>
 				<English>122 mm ILLUM S-463 Howitzer</English>
 				<German>122 mm ILLUM S-463 Haubitze</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm S-463照明榴弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_110MM_HE_DM21">
 				<Original>110 mm HE DM21 Rocket</Original>
 				<English>110 mm HE DM21 Rocket</English>
 				<German>110 mm HE DM21 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>110 mm HE DM21火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_110MM_ICM_DM602">
 				<Original>110 mm ICM DM602 Rocket</Original>
 				<English>110 mm ICM DM602 Rocket</English>
 				<German>110 mm ICM DM602 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>110 mm DM602集束火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_110MM_MINE_DM711">
 				<Original>110 mm Mine DM711 Rocket</Original>
 				<English>110 mm Mine DM711 Rocket</English>
 				<German>110 mm Mine DM711 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>110 mm Mine DM711火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_110MM_SMOKE_DM15">
 				<Original>110 mm Smoke DM15 Rocket</Original>
 				<English>110 mm Smoke DM15 Rocket</English>
 				<German>110 mm Nebel DM15 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>110 mm DM15烟雾火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_122MM_HE_9M22U">
 				<Original>122 mm HE 9M22U Rocket</Original>
 				<English>122 mm HE 9M22U Rocket</English>
 				<German>122 mm HE 9M22U Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm HE 9M22U火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_122MM_ICM_9M218">
 				<Original>122 mm ICM 9M218 Rocket</Original>
 				<English>122 mm ICM 9M218 Rocket</English>
 				<German>122 mm ICM 9M218 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm 9M218集束火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_122MM_MINE_9M28K">
 				<Original>122 mm Mine 9M28K Rocket</Original>
 				<English>122 mm Mine 9M28K Rocket</English>
 				<German>122 mm Mine 9M28K Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm Mine 9M28K火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_122MM_MINE_9M22K">
 				<Original>122 mm Mine 9M22K Rocket</Original>
 				<English>122 mm Mine 9M22K Rocket</English>
 				<German>122 mm Mine 9M22K Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm Mine 9M22K火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_MLRS_122MM_SMOKE_9M43">
 				<Original>122 mm Smoke 9M43 Rocket</Original>
 				<English>122 mm Smoke 9M43 Rocket</English>
 				<German>122 mm Nebel 9M43 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>122 mm 9M43烟雾火箭弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_LUNA_HE_3R9">
 				<Original>Luna HE 3R9 Rocket</Original>
 				<English>Luna HE 3R9 Rocket</English>
 				<German>Luna HE 3R9 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>月神 3R9 高爆弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_MODULEORDNANCEROCKET_ROCKET_LUNA_NUC_3R10">
 				<Original>Luna Nuclear 3R10 Rocket</Original>
 				<English>Luna Nuclear 3R10 Rocket</English>
 				<German>Luna Nuklear 3R10 Rakete</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>月神 3R10 核导弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_BASE">
 				<Original>155 mm</Original>
 				<English>155 mm</English>
 				<German>155 mm</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_HE_DM21">
 				<Original>155 mm HE DM21</Original>
 				<English>155 mm HE DM21</English>
 				<German>155 mm HE DM21</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE DM21</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_HE_DM111">
 				<Original>155 mm HE DM111</Original>
 				<English>155 mm HE DM111</English>
 				<German>155 mm HE DM111</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE DM111</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_ICM_DM602">
 				<Original>155 mm ICM DM602</Original>
 				<English>155 mm ICM DM602</English>
 				<German>155 mm ICM DM602</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM602集束弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_SMART_DM702">
 				<Original>155 mm SMART DM702</Original>
 				<English>155 mm SMART DM702</English>
 				<German>155 mm SMART DM702</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm SMART DM702</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_SMOKE_DM105">
 				<Original>155 mm Smoke DM105</Original>
 				<English>155 mm Smoke DM105</English>
 				<German>155 mm Nebel DM105</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM105烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_ILLUM_DM106">
 				<Original>155 mm ILLUM DM106</Original>
 				<English>155 mm ILLUM DM106</English>
 				<German>155 mm ILLUM DM106</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM106照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_GAS_M110">
 				<Original>155 mm VX M110</Original>
 				<English>155 mm VX M110</English>
 				<German>155 mm VX M110</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm VX M110</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_GAS_M121">
 				<Original>155 mm HD M121</Original>
 				<English>155 mm HD M121</English>
 				<German>155 mm HD M121</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HD M121</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_HE_M107">
 				<Original>155 mm HE M107</Original>
 				<English>155 mm HE M107</English>
 				<German>155 mm HE M107</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE M107</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_HE_M795">
 				<Original>155 mm HE M795</Original>
 				<English>155 mm HE M795</English>
 				<German>155 mm HE M795</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm HE M795</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_SMOKE_M116">
 				<Original>155 mm Smoke M116</Original>
 				<English>155 mm Smoke M116</English>
 				<German>155 mm Nebel M116</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm M116烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_SMOKE_M110">
 				<Original>155 mm Smoke DM21</Original>
 				<English>155 mm Smoke DM21</English>
 				<German>155 mm Nebel DM21</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>155 mm DM21烟雾弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_155MM_ILLUM_M485">
 				<Original>155 mm ILLUM DM21</Original>
 				<English>155 mm ILLUM DM21</English>
 				<German>155 mm ILLUM DM21</German>
-				<Chinesesimp>155 mm DM21型照明弹</Chinesesimp>
+				<Chinesesimp>155 mm DM21照明弹</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_SHELL_122MM_HEAP_01">
 				<Original>Big Shell Heap 122mm</Original>
@@ -20034,6 +20046,72 @@
 				<English>122 mm Shell Casing</English>
 				<German>122 mm Hülse</German>
 				<Chinesesimp>122毫米弹壳</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_LUNA_HE_3R9">
+				<Original>Luna HE 3R9</Original>
+				<English>Luna HE 3R9</English>
+				<German>Luna HE 3R9</German>
+				<Chinesesimp>月神 3R9高爆导弹</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_LUNA_NUC_3R10">
+				<Original>Luna Nuclear 3R10</Original>
+				<English>Luna Nuclear 3R10</English>
+				<German>Luna Nuklear 3R10</German>
+				<Chinesesimp>月神 3R10核导弹<</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_122MM_HE_9M22U">
+				<Original>122 mm HE 9M22U</Original>
+				<English>122 mm HE 9M22U</English>
+				<German>122 mm HE 9M22U</German>
+				<Chinesesimp>122 mm HE 9M22U</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_122MM_ICM_9M218">
+				<Original>122 mm ICM 9M218</Original>
+				<English>122 mm ICM 9M218</English>
+				<German>122 mm ICM 9M218</German>
+				<Chinesesimp>122 mm 9M218集束弹</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_122MM_MINE_9M28K">
+				<Original>122 mm Mine 9M28K</Original>
+				<English>122 mm Mine 9M28K</English>
+				<German>122 mm Mine 9M28K</German>
+				<Chinesesimp>122 mm Mine 9M28K</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_122MM_MINE_9M22K">
+				<Original>122 mm Mine 9M22K</Original>
+				<English>122 mm Mine 9M22K</English>
+				<German>122 mm Mine 9M22K</German>
+				<Chinesesimp>122 mm Mine 9M22K</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_122MM_SMOKE_9M43">
+				<Original>122 mm Smoke 9M43</Original>
+				<English>122 mm Smoke 9M43</English>
+				<German>122 mm Nebel 9M43</German>
+				<Chinesesimp>122 mm 9M43烟雾弹</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_110MM_HE_DM21">
+				<Original>110 mm HE DM21</Original>
+				<English>110 mm HE DM21</English>
+				<German>110 mm HE DM21</German>
+				<Chinesesimp>110 mm HE DM21</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_110MM_ICM_DM602">
+				<Original>110 mm ICM DM602</Original>
+				<English>110 mm ICM DM602</English>
+				<German>110 mm ICM DM602</German>
+				<Chinesesimp>110 mm DM602集束弹</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_110MM_MINE_DM711">
+				<Original>110 mm Mine DM711</Original>
+				<English>110 mm Mine DM711</English>
+				<German>110 mm Mine DM711</German>
+				<Chinesesimp>110 mm Mine DM711</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_ROCKET_MLRS_110MM_SMOKE_DM15">
+				<Original>110 mm Smoke DM15</Original>
+				<English>110 mm Smoke DM15</English>
+				<German>110 mm Nebel DM15</German>
+				<Chinesesimp>110 mm DM15烟雾弹</Chinesesimp>
 			</Key>
 		</Container>
 	</Package>
@@ -20546,7 +20624,7 @@
 				<Original>Chemical Service</Original>
 				<English>Chemical Service</English>
 				<German>Chemische Dienste</German>
-				<Chinesesimp>化学服务</Chinesesimp>
+				<Chinesesimp>三防服务</Chinesesimp>
 				<Korean>화생방</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_ARMOR">
@@ -31924,25 +32002,25 @@
 				<Original>Have Vehicles Follow Exactly</Original>
 				<English>Have Vehicles Follow Exactly</English>
 				<German>Panzerkolonne</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>车辆完全跟随</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_02">
 				<Original>Formation Column!</Original>
 				<English>Formation Column!</English>
 				<German>Kolonnenformation</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>队列专栏！</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_03">
 				<Original>To have your subordinate vehicles follow %11 simply order them into %14.&lt;br/&gt;&lt;br/&gt;To do so open the %12 with %13 and then select %14 with %15.</Original>
 				<English>To have your subordinate vehicles follow %11 simply order them into %14.&lt;br/&gt;&lt;br/&gt;To do so open the %12 with %13 and then select %14 with %15.</English>
 				<German>Um Ihre Fahrzeuge %11 auf der Spur des Führungsfahrzeuges (Ihr Kampfpanzer) fahren zu lassen, befehlen Sie die Formation %14.&lt;br/&gt;&lt;br/&gt;Dazu öffnen Sie das %12 mit der Taste %13 und wählen dann die Formationsart %14 mit der Taste %15.</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>要让你的下属车辆跟随 %11 只需命令他们进入 %14.&lt;br/&gt;&lt;br/&gt;为此，用 %13 打开 %12 然后用 %15 选择 %14.</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_04">
 				<Original>Use this particular formation to navigate narrow and exact paths like bridges with your entire group.</Original>
 				<English>Use this particular formation to navigate narrow and exact paths like bridges with your entire group.</English>
 				<German>Mit dieser Formationsart können Brücken und andere enge Stellen sicher mit der Gruppe überquert werden.</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>利用这种特殊队形，与你的整个团队一起在狭窄而准确的路径上行驶，如桥梁。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_05">
 				<Original>your exact path</Original>
@@ -32020,13 +32098,13 @@
 				<Original>The enemy has entered our sector. Stop them from further advancing west. This marker's placement is just a rough account of the enemy's location. Do not overly rely on this.</Original>
 				<English>The enemy has entered our sector. Stop them from further advancing west. This marker's placement is just a rough account of the enemy's location. Do not overly rely on this.</English>
 				<German>Der Feind ist in unseren Abschnitt eingedrungen. Verhindern Sie das weitere Vordrängen des Feindes nach Westen. Diese Markierung des Feindes ist nur ein grober Anhaltspunkt. Verlassen Sie sich nicht zu sehr darauf.</German>
-				<Chinesesimp></Chinesesimp>
+				<Chinesesimp>敌人已经进入我们的防区。阻止他们继续向西推进。这个标记的位置只是对敌人位置的粗略描述。不要过分依赖这点情报。</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_BRIEFING_01">
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;Gentlemen, it is your task to delay the enemy push onto our territory.&lt;br /&gt;&lt;br /&gt;We are preparing a defense-in-depth 20 kilometers west from your location. To increase our chance of success we must buy time! Your Army Aviation forces will have to successfully ambush, destroy, delay and obstruct the approaching enemy forces long enough for our reinforcements to assume their defensive positions.&lt;br /&gt;&lt;br /&gt;Our goal is to keep the enemy from advancing beyond this sector for 90 minutes. You must accomplish this at a minimum, but if you manage to wipe out all approaching enemy forces we will be able to quickly change over into an offensive push and bring this war back to the enemy's territory.&lt;br /&gt;&lt;br /&gt;This is truly a reckless task that we are asking from you, but your modern PAH-1 helicopters are already legendary ninjas of the air and we trust that you have the best possible equipment to quickly and decisively hit the enemy where it hurts while moving quickly from hot-spot to hot-spot. Be so vicious, so fast, so deadly that the enemy will think there are 10 of you dominating this sector.&lt;br /&gt;&lt;br /&gt;When you run out of ammo, fuel or need a quick repair, return to your forward air base &lt;marker name='base'&gt;here&lt;/marker&gt;. You will find there all you need to accomplish this task.&lt;br /&gt;&lt;br /&gt;This mission will fail should enemy units reach the western edge of this sector!</Original>
 				<English>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;Gentlemen, it is your task to delay the enemy push onto our territory.&lt;br /&gt;&lt;br /&gt;We are preparing a defense-in-depth 20 kilometers west from your location. To increase our chance of success we must buy time! Your Army Aviation forces will have to successfully ambush, destroy, delay and obstruct the approaching enemy forces long enough for our reinforcements to assume their defensive positions.&lt;br /&gt;&lt;br /&gt;Our goal is to keep the enemy from advancing beyond this sector for 90 minutes. You must accomplish this at a minimum, but if you manage to wipe out all approaching enemy forces we will be able to quickly change over into an offensive push and bring this war back to the enemy's territory.&lt;br /&gt;&lt;br /&gt;This is truly a reckless task that we are asking from you, but your modern PAH-1 helicopters are already legendary ninjas of the air and we trust that you have the best possible equipment to quickly and decisively hit the enemy where it hurts while moving quickly from hot-spot to hot-spot. Be so vicious, so fast, so deadly that the enemy will think there are 10 of you dominating this sector.&lt;br /&gt;&lt;br /&gt;When you run out of ammo, fuel or need a quick repair, return to your forward air base &lt;marker name='base'&gt;here&lt;/marker&gt;. You will find there all you need to accomplish this task.&lt;br /&gt;&lt;br /&gt;This mission will fail should enemy units reach the western edge of this sector!</English>
 				<German>%1&lt;br /&gt;Bundesrepublik Deutschland&lt;br /&gt;&lt;br /&gt;Soldaten, ihr heutiger Auftrag ist das Verzögern der Feindspitzen.&lt;br /&gt;&lt;br /&gt;20 Kilometer weiter westlich bereiten sich schon unsere Kräfte auf deren Verteidigungsauftrag vor. Wir verlassen uns auf euch Heeresflieger hier um diesen Vorbereitungen genügend Zeit zu schaffen. Dazu müssen Sie den Feind schnell und präzise schlagen, aus jeder Richtung und so plötzlich wirken, dass ihm keine Reaktion möglich ist.&lt;br /&gt;&lt;br /&gt;Halten Sie diesen Druck auf den Feind für mindestens 90 Minuten aufrecht. Sollten Sie es jedoch schaffen alle Vorstöße des Feindes abzuwehren, dann können unsere Kräfte direkt in einen Gegenangriff übergehen und diesen Krieg auf das Gebiet der DDR verlagern.&lt;br /&gt;&lt;br /&gt;Diese Aufgabe, welche vor Ihnen liegt, gleicht einem Himmelfahrtskommando. Lassen Sie sich aber nicht sagen, dass Ihre PAH-1 nicht die beste Waffe für diesen Zweck sei. Schnell, wendig, schlagkräftig. Sie werden wie Ninjas den Feind stören, zerschlagen, und letzendlich werfen. All dies mit einer solch verheerenden Wirkung, dass der Feind glauben wird, es seien zehn Maschinen in der Luft.&lt;br /&gt;&lt;br /&gt;Dieser vorgeschobene &lt;marker name='base'&gt;Versorgungspunkt&lt;/marker&gt; wird Sie mit Munition, Treibstoff und allem anderen versorgen.&lt;br /&gt;&lt;br /&gt;Diese Mission gilt als Fehlschlag sollten Teile der Feindkräfte die westliche Sektorengrenze erreichen.</German>
-				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;先生们，你们的任务是延缓敌人向我们领土的推进。&lt;br /&gt;&lt;br /&gt;We are preparing a defense-in-depth 20 kilometers west from your location. To increase our chance of success we must buy time! Your Army Aviation forces will have to successfully ambush, destroy, delay and obstruct the approaching enemy forces long enough for our reinforcements to assume their defensive positions.&lt;br /&gt;&lt;br /&gt;Our goal is to keep the enemy from advancing beyond this sector for 90 minutes. You must accomplish this at a minimum, but if you manage to wipe out all approaching enemy forces we will be able to quickly change over into an offensive push and bring this war back to the enemy's territory.&lt;br /&gt;&lt;br /&gt;This is truly a reckless task that we are asking from you, but your modern PAH-1 helicopters are already legendary ninjas of the air and we trust that you have the best possible equipment to quickly and decisively hit the enemy where it hurts while moving quickly from hot-spot to hot-spot. Be so vicious, so fast, so deadly that the enemy will think there are 10 of you dominating this sector.&lt;br /&gt;&lt;br /&gt;When you run out of ammo, fuel or need a quick repair, return to your forward air base &lt;marker name='base'&gt;here&lt;/marker&gt;. 你会在那里找到完成这项任务所需的一切。&lt;br /&gt;&lt;br /&gt;如果敌军部队到达该区域的西部边缘，任务将会失败!</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;先生们，你们的任务是延缓敌人向我们领土的推进。&lt;br /&gt;&lt;br /&gt;我们正准备在距离你们西边20公里的地方进行深入防御。为了增加我们成功的机会，我们必须争取时间！你们陆军航空兵必须成功地伏击、摧毁、拖延和阻挠逼近的敌军，直到我们的增援部队进入防御位置。&lt;br /&gt;&lt;br /&gt;我们的目标是让敌人在90分钟内无法推进到这个区域外。你必须至少完成这个任务，但如果你能设法消灭所有逼近的敌军，我们就能迅速转变为进攻性的推进，将这场战争带回到敌人的领土上。&lt;br /&gt;&lt;br /&gt;这确实是一项我们要求你们执行的不计后果的任务，但你们的现代PAH-1直升机已经是空中传奇忍者，我们相信你们有最好的装备，可以快速和果断地打击敌人的要害，同时快速从一处热点地区移动到另外一处热点地区。如此凶狠，如此迅速，如此致命，以至于敌人会认为有10个你们在控制这片区域。&lt;br /&gt;&lt;br /&gt;当你弹药、燃料耗尽或需要快速修理时，返回&lt;marker name='base'&gt;此处&lt;/marker&gt;的前方空军基地。你会在那里找到完成这项任务所需的一切。&lt;br /&gt;&lt;br /&gt;如果敌军部队到达该区域的西部边缘，任务将会失败!</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_CAMPAIGN_TANK_MISSION_DIFFICULTY_TEXT">
 				<Original>Play this mission with friendly AI companion tanks? (Squad leader mode)&lt;br/&gt;&lt;br/&gt;This changes the mission difficulty and increases the amount of enemy forces encountered.</Original>
@@ -36447,11 +36525,25 @@
 				<Original>BrPz 1 Bridge</Original>
 				<English>BrPz 1 Bridge</English>
 				<German>BrPz 1 Brücke</German>
+				<Chinesesimp>BrPz 1桥梁</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_BIBER_BRIDGE">
 				<Original>Bridge</Original>
 				<English>Bridge</English>
 				<German>Brücke</German>
+				<Chinesesimp>桥梁</Chinesesimp>
+			</Key>
+			<Key ID="STR_DN_GM_BIBER_BRIDGE_HALF">
+				<Original>BrPz 1 Bridge - Half</Original>
+				<English>BrPz 1 Bridge - Half</English>
+				<German>BrPz 1 Brücke - Half</German>
+				<Chinesesimp>BrPz 1桥梁 - 半个</Chinesesimp>
+			</Key>
+			<Key ID="STR_DNS_GM_BIBER_BRIDGE_HALF">
+				<Original>Bridge - Half</Original>
+				<English>Bridge - Half</English>
+				<German>Brücke - Half</German>
+				<Chinesesimp>桥梁 - 半个</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_LEOPARD2">
 				<Original>KPz 2</Original>
