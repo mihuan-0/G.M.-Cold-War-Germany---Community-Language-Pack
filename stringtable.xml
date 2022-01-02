@@ -49,7 +49,7 @@
 				<Chinesesimp>您正在使用高级内容。 购买“全球动员-德国冷战”Dlc以删除该消息。</Chinesesimp>
 				<Chinese>您正在使用高級內容。購買“全球動員-德國冷戰”Dlc以刪除該消息。</Chinese>
 				<korean>프리미엄 컨텐츠를 사용중입니다. 글로벌 모빌리제이션-냉전 독일팩을 사서 메세지를 삭제하세요</korean>
-				<Russian>Вы используете расширенный контент. Купите DLC "Global Mobilization-German Cold War", чтобы удалить новости.</Russian>
+				<Russian>Вы используете расширенный контент. Купите DLC "Global Mobilization-German Cold War", чтобы скрыть это сообщение.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TOOLTIP">
 				<Original>Global Mobilization - Cold War Germany now available. Click to purchase</Original>
@@ -58,7 +58,7 @@
 				<Chinesesimp>全球动员-冷战德国现已可用。点击购买</Chinesesimp>
 				<Chinese>全球動員-冷戰德國現已可用。點擊購買</Chinese>
 				<Korean>글로벌 모빌리제이션-냉전 독일팩이 활성화 됩니다. 구입하려면 클릭하세요.</Korean>
-				<Russian>Глобальная мобилизация - холодная война Германии теперь доступна. Нажмите, чтобы купить</Russian>
+				<Russian>Глобальная Мобилизация - Холодная Война Германии теперь доступна. Нажмите, чтобы купить</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_OVERVIEWTEXT">
 				<Original>The Cold War hits northern Germany. Join the battle on a brand new 419km² terrain along with 42 new vehicles, 21 new weapons and 3 nations. Play the singleplayer campaign or choose from 17 multiplayer scenarios which are available in both summer and winter themes.</Original>
@@ -205,7 +205,7 @@
 				<Chinesesimp>现在是1983年,Arma 3被带回冷战时期,这次是在德国北部!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;血色国旗&quot; - 一场10个任务的单人战役,将带你回到1983年的东德和西德 %1%2 精选13个Coop多人任务,让你马上和朋友一起上手,另外还有少量的各种对抗性场景。%1%2&quot;时尚警察&quot; 多人死亡竞赛游戏模式,别有一番乐趣。%1%2 韦弗林根——一个占地面积超过400平方公里的可用区域。 它位于德国北部,包含了两德部分地区,准确重现了两德边界。 使用全新制作的资产。 此外,还提供了一个完整的冬季版地形。%1%2 阵营 - 西德陆军,西德边防部队,东德陆军,东德边防部队,丹麦陆军,德国平民 %1%2 西德轮式载具 - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 西德运输载具 - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 西德步兵装备 - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 东德轮式载具 - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 东德运输资产 - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 东德步兵装备 - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 东德武器 - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 丹麦资产 - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 平民资产 - P601 East German Car,Typ 1200 West German Car,自行车,平民服装,警察,消防员,邮差%1%2 音轨 - 全新音乐.</Chinesesimp>
 				<Chinese>現在是1983年,Arma 3被帶回冷戰時期,這次是在德國北部!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;血色國旗&quot; - 一場10個任務的單人戰役,將帶你回到1983年的東德和西德 %1%2 精選13個Coop多人任務,讓你馬上和朋友一起上手,另外還有少量的各種對抗性場景。%1%2&quot;時尚警察&quot; 多人死亡競賽遊戲模式,別有一番樂趣。%1%2 韋弗林根——一個佔地面積超過400平方公里的可用區域。 它位於德國北部,包含了兩德部分地區,準確重現了兩德邊界。 使用全新製作的資產。 此外,還提供了一個完整的冬季版地形。%1%2 陣營 - 西德陸軍,西德邊防軍,東德陸軍,東德邊防軍,丹麥陸軍,德國平民 %1%2 西德輪式載具 - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 西德運輸載具 - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 西德步兵裝備 - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 東德輪式資產 - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 東德運輸資產 - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 東德步兵裝備 - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 東德武器 - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 丹麥資產 - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 平民資產 - P601 East German Car,Typ 1200 West German Car,自行車,平民服裝,警察,消防員,郵差%1%2 音軌 - 全新音樂.</Chinese>
 				<Korean>1983년이 왔습니다! 아르마3이 냉전시절 북독일을 찾아갑니다!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;스터디 스칼렛&quot; - 1983년의 동독과 서독을 배경으로한 10개의 싱글켐페인을 즐기세요%1%2 13개의 멀티미션을 친구들과 같이 즐기세요. 시나리오별 다양성도 있습니다.%1%2&quot;패션 경찰&quot; 멀티플레이어 데스매치모드 지원.%1%2 벨페르링겐 - 신규 지형은 400km² 넓이의 맵입니다. 북독일 지역을 기반으로 분단된 독일국경이 사실적으로 구현되었습니다. 완전히 새로 제작된 오브젝트들로 구현되었습니다. 겨울판 지형도 있습니다.%1%2 팩션들 - 서독군, 서독 국경 경비대, 동독군, 동독 국경 경비대, 덴마크군, 독일 시민들%1%2 서독의 차량들 - K125 gl 오토바이, 0.5t 트럭, 0.5t 트럭 ATGM, 2t 수송트럭, 2t 의료트럭, 2t 수리트럭, 5t 수송, 5t 탄약차, 5t 연료트럭, 10t 수송트럭, TPz 1A0 (공병), TPz 1A0 HQ, TPz 1A0 정찰차%1%2 서독의 궤도차량 - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G 지휘차, M113A1G 의무차%1%2 서독의 보병들 - 하계용 육군 유닛, 가을용 육군 유닛, 겨울용 육군 유닛, 여름용 국경 경비대 유닛%1%2 서독의 무기들 - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM 삼각대, 수류탄, 총류탄, 쌍안경, 가변 조준경%1%2 동독의 차량들 - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 동독의 궤도차량들 - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 동독의 보병들 - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 동독의 무기들 - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 대전차무기, 파곳 ATGM 삼각대, 쌍안경%1%2 덴마크의 장비 - KPz 1A3, BPz 2A0, 덴마크군 하계 군복, 덴마크군 동계 군복%1%2 시민의 장비 - P601, Typ 1200, 자전거, 시민용 옷, 경찰관, 소방관, 우체부%1%2 사운드트랙 - 새로운 음악들.</Korean>
-				<Russian>Это 1983 год, Arma 3 возвращается в эпоху холодной войны, на этот раз в северной Германии!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;State Scarlet&quot; - a 10 mission singleplayer campaign that takes you to East and West Germany in 1983%1%2 a selection of 13 Coop Multiplayer Missions to get you started with your friends right away, plus a small variety of adversarial scenarios.%1%2&quot;Fashion Police&quot; Multiplayer Deathmatch Game Mode with a twist.%1%2 Weferlingen - a terrain encompassing over 400km² useable area. It is located in northern Germany and contains parts of both Germanies divided by an accurate recreation of the Inner German Border. Using entirely newly made assets. A full winter-version of this terrain is also available.%1%2 Factions - West German Army, West German Borderguards, East German Army, East German Borderguards, Danish Army, German Civilians%1%2 Wheeled Assets West Germany - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 Tracked Assets West Germany - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 Infantry Assets West Germany - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 Wheeled Assets East Germany - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 Tracked Assets East Germany - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 Infantry Assets East Germany - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 Weapons East Germany - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 Assets Denmark - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 Assets Civilians - P601 East German Car, Typ 1200 West German Car, Bicycle, Civilian Clothing, Policemen, Firemen, Postmen%1%2 Sound Track - new music.</Russian>
+				<Russian>Это 1983 год, Arma 3 возвращается в эпоху холодной войны, на этот раз в северной Германии!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2&quot;Алый Штат&quot; - однопользовательская кампания из 10 миссий, которая перенесет вас в Восточную и Западную Германию в 1983 году%1%2 выбор из 13 совместных многопользовательских миссий, которые вы сможете пройти с друзьями, а также небольшое разнообразие противоборствующих сценариев.%1%2&quot;Полицейский Стиль&quot; Многопользовательский режим игры Deathmatch (Смертельный поединок).%1%2 Weferlingen (Веферлинген) - местность, охватывающая более 400 км² полезной площади. Он расположен на севере Германии и включает части обеих Германий, разделенных точным воссозданием Внутренней немецкой границы. Использование полностью новых активов. Также доступна полная зимняя версия этой местности.%1%2 Фракции - Западногерманская армия, Западногерманские Пограничники, Восточно-германская армия, Восточно-германские Пограничники, Датская армия, Немецкое гражданское население%1%2 Западногерманская колесная техника - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 Западногерманская гусеничная техника - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 Пехотные подразделения Западной Германии - Армейские подразделения Лето, Армейские Подразделения Осень, Армейские подразделения Зима, Подразделения пограничной охраны Лето%1%2 Оружие Западной Германии - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 Восточногерманская колёсная техника - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 Гусеничная техника Восточной Германии - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 Пехотные подразделения Восточной Германии - Армейские части Лето, Армейские Зимние части, Пограничные части Лето%1%2 Оружие Восточная Германия - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 Assets Denmark - KPz 1A3, BPz 2A0, Летняя форма Датской армии, Зимняя форма Датской армии%1%2 Assets Civilians - P601 East German Car, Typ 1200 West German Car, Велосипед, Гражданская одежда, Полицейские, Пожарные, Почтальоны%1%2 Звуковая дорожка - новая музыка.</Russian>
 			</Key>
 		</Container>
 		<Container name="Factions">
@@ -217,6 +217,7 @@
 				<Chinese>保加利亞</Chinese>
 				<Korean>불가리아</Korean>
 				<Japanese>ブルガリア</Japanese>
+				<Russian>Болгария</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CZ">
 				<Original>Czechoslovakia</Original>
@@ -225,6 +226,7 @@
 				<Chinesesimp>捷克斯洛伐克</Chinesesimp>
 				<Chinese>捷克斯洛伐克</Chinese>
 				<Korean>체코슬로바키아</Korean>
+				<Russian>Чехословакия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CS">
 				<Original>Czechoslovakia</Original>
@@ -233,6 +235,7 @@
 				<Chinesesimp>捷克斯洛伐克</Chinesesimp>
 				<Chinese>捷克斯洛伐克</Chinese>
 				<Korean>체코슬로바키아</Korean>
+				<Russian>Чехословакия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC">
 				<Original>East Germany</Original>
@@ -241,6 +244,7 @@
 				<Chinesesimp>东德</Chinesesimp>
 				<Chinese>東德</Chinese>
 				<Korean>동독</Korean>
+				<Russian>Восточная Германия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HU">
 				<Original>Hungary</Original>
@@ -249,6 +253,7 @@
 				<Chinesesimp>匈牙利</Chinesesimp>
 				<Chinese>匈牙利</Chinese>
 				<Korean>헝가리</Korean>
+				<Russian>Венгрия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL">
 				<Original>Poland</Original>
@@ -257,6 +262,7 @@
 				<Chinesesimp>波兰</Chinesesimp>
 				<Chinese>波蘭</Chinese>
 				<Korean>폴란드</Korean>
+				<Russian>Польша</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_WIN">
 				<Original>Poland (Winter)</Original>
@@ -265,6 +271,7 @@
 				<Chinesesimp>波兰(冬季)</Chinesesimp>
 				<Chinese>波蘭（冬季）</Chinese>
 				<Korean>폴란드(겨울)</Korean>
+				<Russian>Польша (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RO">
 				<Original>Romania</Original>
@@ -273,6 +280,7 @@
 				<Chinesesimp>罗马尼亚</Chinesesimp>
 				<Chinese>羅馬尼亞</Chinese>
 				<Korean>루마니아</Korean>
+				<Russian>Румыния</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_UR">
 				<Original>Soviet Union</Original>
@@ -281,6 +289,7 @@
 				<Chinesesimp>苏联</Chinesesimp>
 				<Chinese>蘇聯</Chinese>
 				<Korean>소련</Korean>
+				<Russian>Советский Союз (СССР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BE">
 				<Original>Belgium</Original>
@@ -290,6 +299,7 @@
 				<Chinese>比利時</Chinese>
 				<Korean>벨기에</Korean>
 				<Japanese>ベルギー</Japanese>
+				<Russian>Бельгия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CA">
 				<Original>Canada</Original>
@@ -298,6 +308,7 @@
 				<Chinesesimp>加拿大</Chinesesimp>
 				<Chinese>加拿大</Chinese>
 				<Korean>캐나다</Korean>
+				<Russian>Канада</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK">
 				<Original>Denmark</Original>
@@ -307,6 +318,7 @@
 				<Chinese>丹麥</Chinese>
 				<Korean>덴마크</Korean>
 				<Japanese>デンマーク</Japanese>
+				<Russian>Дания</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FR">
 				<Original>France</Original>
@@ -315,6 +327,7 @@
 				<Chinesesimp>法国</Chinesesimp>
 				<Chinese>法國</Chinese>
 				<Korean>프랑스</Korean>
+				<Russian>Франция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_IC">
 				<Original>Iceland</Original>
@@ -323,6 +336,7 @@
 				<Chinesesimp>冰岛</Chinesesimp>
 				<Chinese>冰島</Chinese>
 				<Korean>아이슬란드</Korean>
+				<Russian>Исландия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_IT">
 				<Original>Italy</Original>
@@ -331,6 +345,7 @@
 				<Chinesesimp>意大利</Chinesesimp>
 				<Chinese>意大利</Chinese>
 				<Korean>이탈리아</Korean>
+				<Russian>Италия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LU">
 				<Original>Luxembourg</Original>
@@ -339,6 +354,7 @@
 				<Chinesesimp>卢森堡</Chinesesimp>
 				<Chinese>盧森堡</Chinese>
 				<Korean>룩셈부르크</Korean>
+				<Russian>Люксембург</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NL">
 				<Original>Netherlands</Original>
@@ -347,6 +363,7 @@
 				<Chinesesimp>荷兰</Chinesesimp>
 				<Chinese>荷蘭</Chinese>
 				<Korean>네덜란드</Korean>
+				<Russian>Нидерланды</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NO">
 				<Original>Norway</Original>
@@ -355,6 +372,7 @@
 				<Chinesesimp>挪威</Chinesesimp>
 				<Chinese>挪威</Chinese>
 				<Korean>노르웨이</Korean>
+				<Russian>Норвегия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PO">
 				<Original>Portugal</Original>
@@ -363,6 +381,7 @@
 				<Chinesesimp>葡萄牙</Chinesesimp>
 				<Chinese>葡萄牙</Chinese>
 				<Korean>포르투갈</Korean>
+				<Russian>Португалия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_UK">
 				<Original>United Kingdom</Original>
@@ -371,6 +390,7 @@
 				<Chinesesimp>英国</Chinesesimp>
 				<Chinese>英國</Chinese>
 				<Korean>영국</Korean>
+				<Russian>Объединенное Королевство</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_US">
 				<Original>United States</Original>
@@ -379,6 +399,7 @@
 				<Chinesesimp>美国</Chinesesimp>
 				<Chinese>美國</Chinese>
 				<Korean>미국</Korean>
+				<Russian>Соединенные Штаты (США)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SE">
 				<Original>Sweden</Original>
@@ -387,6 +408,7 @@
 				<Chinesesimp>瑞典</Chinesesimp>
 				<Chinese>瑞典</Chinese>
 				<Korean>스웨덴</Korean>
+				<Russian>Швеция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GR">
 				<Original>Greece</Original>
@@ -395,6 +417,7 @@
 				<Chinesesimp>希腊</Chinesesimp>
 				<Chinese>希臘</Chinese>
 				<Korean>그리스</Korean>
+				<Russian>Греция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TU">
 				<Original>Turkey</Original>
@@ -403,6 +426,7 @@
 				<Chinesesimp>土耳其</Chinesesimp>
 				<Chinese>土耳其</Chinese>
 				<Korean>터키</Korean>
+				<Russian>Турция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE">
 				<Original>West Germany</Original>
@@ -411,6 +435,7 @@
 				<Chinesesimp>西德</Chinesesimp>
 				<Chinese>西德</Chinese>
 				<Korean>서독</Korean>
+				<Russian>Западная Германия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SP">
 				<Original>Spain</Original>
@@ -419,6 +444,7 @@
 				<Chinesesimp>西班牙</Chinesesimp>
 				<Chinese>西班牙</Chinese>
 				<Korean>스페인</Korean>
+				<Russian>Испания</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AU">
 				<Original>Austria</Original>
@@ -427,6 +453,7 @@
 				<Chinesesimp>奥地利</Chinesesimp>
 				<Chinese>奧地利</Chinese>
 				<Korean>오스트리아</Korean>
+				<Russian>Австрия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SZ">
 				<Original>Switzerland</Original>
@@ -435,6 +462,7 @@
 				<Chinesesimp>瑞士</Chinesesimp>
 				<Chinese>瑞士</Chinese>
 				<Korean>스위스</Korean>
+				<Russian>Швейцария</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FI">
 				<Original>Finland</Original>
@@ -443,6 +471,7 @@
 				<Chinesesimp>芬兰</Chinesesimp>
 				<Chinese>芬蘭</Chinese>
 				<Korean>핀란드</Korean>
+				<Russian>Финляндия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SW">
 				<Original>Sweden</Original>
@@ -451,6 +480,7 @@
 				<Chinesesimp>瑞典</Chinesesimp>
 				<Chinese>瑞典</Chinese>
 				<Korean>스웨덴</Korean>
+				<Russian>Швеция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BU_BGS">
 				<Original>Bulgaria (Borderguards)</Original>
@@ -459,6 +489,7 @@
 				<Chinesesimp>保加利亚（边防部队）</Chinesesimp>
 				<Chinese>保加利亞（邊防軍）</Chinese>
 				<Korean>불가리아(국경 경비대)</Korean>
+				<Russian>Болгария (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CZ_BGS">
 				<Original>Czechoslovakia (Borderguards)</Original>
@@ -467,6 +498,7 @@
 				<Chinesesimp>捷克斯洛伐克（边防部队）</Chinesesimp>
 				<Chinese>捷克斯洛伐克（邊防軍）</Chinese>
 				<Korean>체코슬로바키아(국경 경비대)</Korean>
+				<Russian>Чехословакия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CS_BGS">
 				<Original>Czechoslovakia (Borderguards)</Original>
@@ -475,6 +507,7 @@
 				<Chinesesimp>捷克斯洛伐克（边防部队）</Chinesesimp>
 				<Chinese>捷克斯洛伐克（邊防軍）</Chinese>
 				<Korean>체코슬로바키아(국경 경비대)</Korean>
+				<Russian>Чехословакия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_BGS">
 				<Original>East Germany (Borderguards)</Original>
@@ -483,6 +516,7 @@
 				<Chinesesimp>民主德国（边防部队）</Chinesesimp>
 				<Chinese>民主德國（邊防軍）</Chinese>
 				<Korean>동독(국경 경비대)</Korean>
+				<Russian>Восточная Германия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HU_BGS">
 				<Original>Hungary (Borderguards)</Original>
@@ -491,6 +525,7 @@
 				<Chinesesimp>匈牙利（边防部队）</Chinesesimp>
 				<Chinese>匈牙利（邊防軍）</Chinese>
 				<Korean>불가리아(국경 경비대)</Korean>
+				<Russian>Венгрия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_BGS">
 				<Original>Poland (Borderguards)</Original>
@@ -499,6 +534,7 @@
 				<Chinesesimp>波兰（边防部队）</Chinesesimp>
 				<Chinese>波蘭（邊防軍）</Chinese>
 				<Korean>폴란드(국경 경비대)</Korean>
+				<Russian>Польша (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RO_BGS">
 				<Original>Romania (Borderguards)</Original>
@@ -507,6 +543,7 @@
 				<Chinesesimp>罗马尼亚（边防部队）</Chinesesimp>
 				<Chinese>羅馬尼亞（邊防軍）</Chinese>
 				<Korean>루마니아(국경 경비대)</Korean>
+				<Russian>Румыния (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_UR_BGS">
 				<Original>Soviet Union (Borderguards)</Original>
@@ -515,6 +552,7 @@
 				<Chinesesimp>苏联（边防部队）</Chinesesimp>
 				<Chinese>蘇聯（邊防軍）</Chinese>
 				<Korean>소련(국경 경비대)</Korean>
+				<Russian>Советский Союз (Пограничники СССР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BE_BGS">
 				<Original>Belgium (Borderguards)</Original>
@@ -523,6 +561,7 @@
 				<Chinesesimp>比利时（边防部队）</Chinesesimp>
 				<Chinese>比利時（邊防軍）</Chinese>
 				<Korean>벨기에(국경 경비대)</Korean>
+				<Russian>Бельгия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CA_BGS">
 				<Original>Canada (Borderguards)</Original>
@@ -531,6 +570,7 @@
 				<Chinesesimp>加拿大（边防部队）</Chinesesimp>
 				<Chinese>加拿大（邊防軍）</Chinese>
 				<Korean>캐나다(국경 경비대)</Korean>
+				<Russian>Канада (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BGS">
 				<Original>Denmark (Borderguards)</Original>
@@ -539,6 +579,7 @@
 				<Chinesesimp>丹麦（边防部队）</Chinesesimp>
 				<Chinese>丹麥（邊防軍）</Chinese>
 				<Korean>덴마크(국경 경비대)</Korean>
+				<Russian>Дания (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FR_BGS">
 				<Original>France (Borderguards)</Original>
@@ -547,6 +588,7 @@
 				<Chinesesimp>法国（边防部队）</Chinesesimp>
 				<Chinese>法國（邊防軍）</Chinese>
 				<Korean>프랑스(국경 경비대)</Korean>
+				<Russian>Франция (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_IC_BGS">
 				<Original>Iceland (Borderguards)</Original>
@@ -555,6 +597,7 @@
 				<Chinesesimp>冰岛（边防部队）</Chinesesimp>
 				<Chinese>冰島（邊防軍）</Chinese>
 				<Korean>아이슬란드(국경 경비대)</Korean>
+				<Russian>Исландия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_IT_BGS">
 				<Original>Italy (Borderguards)</Original>
@@ -563,6 +606,7 @@
 				<Chinesesimp>意大利（边防部队）</Chinesesimp>
 				<Chinese>意大利（邊防軍）</Chinese>
 				<Korean>이탈리아(국경 경비대)</Korean>
+				<Russian>Италия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LU_BGS">
 				<Original>Luxembourg (Borderguards)</Original>
@@ -571,6 +615,7 @@
 				<Chinesesimp>卢森堡（边防部队）</Chinesesimp>
 				<Chinese>盧森堡（邊防軍）</Chinese>
 				<Korean>룩셈부르크(국경 경비대)</Korean>
+				<Russian>Люксембург (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NL_BGS">
 				<Original>Netherlands (Borderguards)</Original>
@@ -579,6 +624,7 @@
 				<Chinesesimp>荷兰（边防部队）</Chinesesimp>
 				<Chinese>荷蘭（邊防軍）</Chinese>
 				<Korean>네덜란드(국경 경비대)</Korean>
+				<Russian>Нидерланды (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NO_BGS">
 				<Original>Norway (Borderguards)</Original>
@@ -587,6 +633,7 @@
 				<Chinesesimp>挪威（边防部队）</Chinesesimp>
 				<Chinese>挪威（邊防軍）</Chinese>
 				<Korean>노르웨이(국경 경비대)</Korean>
+				<Russian>Норвегия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PO_BGS">
 				<Original>Portugal (Borderguards)</Original>
@@ -595,6 +642,7 @@
 				<Chinesesimp>葡萄牙（边防部队）</Chinesesimp>
 				<Chinese>葡萄牙（邊防軍）</Chinese>
 				<Korean>포르투갈(국경 경비대)</Korean>
+				<Russian>Португалия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_UK_BGS">
 				<Original>United Kingdom (Borderguards)</Original>
@@ -603,6 +651,7 @@
 				<Chinesesimp>英国（边防部队）</Chinesesimp>
 				<Chinese>英國（邊防軍）</Chinese>
 				<Korean>영국(국경 경비대)</Korean>
+				<Russian>Объединенное Королевство (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_US_BGS">
 				<Original>United States (Borderguards)</Original>
@@ -611,6 +660,7 @@
 				<Chinesesimp>美国（边防部队）</Chinesesimp>
 				<Chinese>美國（邊防軍）</Chinese>
 				<Korean>미국(국경 경비대)</Korean>
+				<Russian>Соединенные Штаты (Пограничники США)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SE_BGS">
 				<Original>Sweden (Borderguards)</Original>
@@ -619,6 +669,7 @@
 				<Chinesesimp>瑞典（边防部队）</Chinesesimp>
 				<Chinese>瑞典（邊防軍）</Chinese>
 				<Korean>스웨덴(국경 경비대)</Korean>
+				<Russian>Швеция (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GR_BGS">
 				<Original>Greece (Borderguards)</Original>
@@ -627,6 +678,7 @@
 				<Chinesesimp>希腊（边防部队）</Chinesesimp>
 				<Chinese>希臘（邊防軍）</Chinese>
 				<Korean>그리스(국경 경비대)</Korean>
+				<Russian>Греция (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TU_BGS">
 				<Original>Turkey (Borderguards)</Original>
@@ -635,6 +687,7 @@
 				<Chinesesimp>土耳其（边防部队）</Chinesesimp>
 				<Chinese>土耳其（邊防軍）</Chinese>
 				<Korean>터키(국경 경비대)</Korean>
+				<Russian>Турция (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS">
 				<Original>West Germany (Borderguards)</Original>
@@ -643,6 +696,7 @@
 				<Chinesesimp>联邦德国（边防部队）</Chinesesimp>
 				<Chinese>聯邦德國（邊防軍）</Chinese>
 				<Korean>서독(국경 경비대)</Korean>
+				<Russian>Западная Германия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SP_BGS">
 				<Original>Spain (Borderguards)</Original>
@@ -651,6 +705,7 @@
 				<Chinesesimp>西班牙（边防部队）</Chinesesimp>
 				<Chinese>西班牙（邊防軍）</Chinese>
 				<Korean>스페인(국경 경비대)</Korean>
+				<Russian>Испания (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AU_BGS">
 				<Original>Austria (Borderguards)</Original>
@@ -659,6 +714,7 @@
 				<Chinesesimp>奥地利（边防部队）</Chinesesimp>
 				<Chinese>奧地利（邊防軍）</Chinese>
 				<Korean>오스트리아(국경 경비대)</Korean>
+				<Russian>Австрия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SZ_BGS">
 				<Original>Switzerland (Borderguards)</Original>
@@ -667,6 +723,7 @@
 				<Chinesesimp>瑞士（边防部队）</Chinesesimp>
 				<Chinese>瑞士（邊防軍）</Chinese>
 				<Korean>스위스(국경 경비대)</Korean>
+				<Russian>Швейцария (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FI_BGS">
 				<Original>Finland (Borderguards)</Original>
@@ -675,6 +732,7 @@
 				<Chinesesimp>芬兰（边防部队）</Chinesesimp>
 				<Chinese>芬蘭（邊防軍）</Chinese>
 				<Korean>핀란드(국경 경비대)</Korean>
+				<Russian>Финляндия (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SW_BGS">
 				<Original>Sweden (Borderguards)</Original>
@@ -683,6 +741,7 @@
 				<Chinesesimp>瑞典（边防部队）</Chinesesimp>
 				<Chinese>瑞典（邊防軍）</Chinese>
 				<Korean>스웨덴(국경 경비대)</Korean>
+				<Russian>Швеция (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BU_CIV">
 				<Original>Bulgaria (Civilians)</Original>
@@ -691,6 +750,7 @@
 				<Chinesesimp>保加利亚（平民）</Chinesesimp>
 				<Chinese>保加利亞（平民）</Chinese>
 				<Korean>불가리아(시민)</Korean>
+				<Russian>Болгария (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CZ_CIV">
 				<Original>Czechoslovakia (Civilians)</Original>
@@ -699,6 +759,7 @@
 				<Chinesesimp>捷克斯洛伐克（平民）</Chinesesimp>
 				<Chinese>捷克斯洛伐克（平民）</Chinese>
 				<Korean>체코슬로바키아(시민)</Korean>
+				<Russian>Чехословакия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CS_CIV">
 				<Original>Czechoslovakia (Civilians)</Original>
@@ -707,6 +768,7 @@
 				<Chinesesimp>捷克斯洛伐克（平民）</Chinesesimp>
 				<Chinese>捷克斯洛伐克（平民）</Chinese>
 				<Korean>체코슬로바키아(시민)</Korean>
+				<Russian>Чехословакия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV">
 				<Original>East Germany (Civilians)</Original>
@@ -715,6 +777,7 @@
 				<Chinesesimp>民主德国（平民）</Chinesesimp>
 				<Chinese>民主德國（平民）</Chinese>
 				<Korean>동독(시민)</Korean>
+				<Russian>Восточная Германия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HU_CIV">
 				<Original>Hungary (Civilians)</Original>
@@ -723,6 +786,7 @@
 				<Chinesesimp>匈牙利（平民）</Chinesesimp>
 				<Chinese>匈牙利（平民）</Chinese>
 				<Korean>헝가리(시민)</Korean>
+				<Russian>Венгрия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_CIV">
 				<Original>Poland (Civilians)</Original>
@@ -731,6 +795,7 @@
 				<Chinesesimp>波兰（平民）</Chinesesimp>
 				<Chinese>波蘭（平民）</Chinese>
 				<Korean>폴란드(시민)</Korean>
+				<Russian>Польша (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RO_CIV">
 				<Original>Romania (Civilians)</Original>
@@ -739,6 +804,7 @@
 				<Chinesesimp>罗马尼亚（平民）</Chinesesimp>
 				<Chinese>羅馬尼亞（平民）</Chinese>
 				<Korean>루마니아(시민)</Korean>
+				<Russian>Румыния (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_UR_CIV">
 				<Original>Soviet Union (Civilians)</Original>
@@ -747,6 +813,7 @@
 				<Chinesesimp>苏联（平民）</Chinesesimp>
 				<Chinese>蘇聯（平民）</Chinese>
 				<Korean>소련(시민)</Korean>
+				<Russian>Советский Союз (Гражданские СССР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BE_CIV">
 				<Original>Belgium (Civilians)</Original>
@@ -755,6 +822,7 @@
 				<Chinesesimp>比利时（平民）</Chinesesimp>
 				<Chinese>比利時（平民）</Chinese>
 				<Korean>벨기에(시민)</Korean>
+				<Russian>Бельгия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CA_CIV">
 				<Original>Canada (Civilians)</Original>
@@ -763,6 +831,7 @@
 				<Chinesesimp>加拿大（平民）</Chinesesimp>
 				<Chinese>加拿大（平民）</Chinese>
 				<Korean>캐나다(시민)</Korean>
+				<Russian>Канада (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_CIV">
 				<Original>Denmark (Civilians)</Original>
@@ -771,6 +840,7 @@
 				<Chinesesimp>丹麦（平民）</Chinesesimp>
 				<Chinese>丹麥（平民）</Chinese>
 				<Korean>덴마크(시민)</Korean>
+				<Russian>Дания (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FR_CIV">
 				<Original>France (Civilians)</Original>
@@ -779,6 +849,7 @@
 				<Chinesesimp>法国（平民）</Chinesesimp>
 				<Chinese>法國（平民）</Chinese>
 				<Korean>프랑스 (시민)</Korean>
+				<Russian>Франция (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_IC_CIV">
 				<Original>Iceland (Civilians)</Original>
@@ -787,6 +858,7 @@
 				<Chinesesimp>冰岛（平民）</Chinesesimp>
 				<Chinese>冰島（平民）</Chinese>
 				<Korean>아이슬란드 (시민)</Korean>
+				<Russian>Исландия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_IT_CIV">
 				<Original>Italy (Civilians)</Original>
@@ -795,6 +867,7 @@
 				<Chinesesimp>意大利（平民）</Chinesesimp>
 				<Chinese>意大利（平民）</Chinese>
 				<Korean>이탈리아 (시민)</Korean>
+				<Russian>Италия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LU_CIV">
 				<Original>Luxembourg (Civilians)</Original>
@@ -803,6 +876,7 @@
 				<Chinesesimp>卢森堡（平民）</Chinesesimp>
 				<Chinese>盧森堡（平民）</Chinese>
 				<Korean>룩셈부르크 (시민)</Korean>
+				<Russian>Люксембург (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NL_CIV">
 				<Original>Netherlands (Civilians)</Original>
@@ -811,6 +885,7 @@
 				<Chinesesimp>荷兰（平民）</Chinesesimp>
 				<Chinese>荷蘭（平民）</Chinese>
 				<Korean>네덜란드 (시민)</Korean>
+				<Russian>Нидерланды (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NO_CIV">
 				<Original>Norway (Civilians)</Original>
@@ -819,6 +894,7 @@
 				<Chinesesimp>挪威（平民）</Chinesesimp>
 				<Chinese>挪威（平民）</Chinese>
 				<Korean>노르웨이 (시민)</Korean>
+				<Russian>Норвегия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PO_CIV">
 				<Original>Portugal (Civilians)</Original>
@@ -827,6 +903,7 @@
 				<Chinesesimp>葡萄牙（平民）</Chinesesimp>
 				<Chinese>葡萄牙（平民）</Chinese>
 				<Korean>포르투갈 (시민)</Korean>
+				<Russian>Португалия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_UK_CIV">
 				<Original>United Kingdom (Civilians)</Original>
@@ -835,6 +912,7 @@
 				<Chinesesimp>英国（平民）</Chinesesimp>
 				<Chinese>英國（平民）</Chinese>
 				<Korean>영국 (시민)</Korean>
+				<Russian>Объединенное Королевство (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_US_CIV">
 				<Original>United States (Civilians)</Original>
@@ -843,6 +921,7 @@
 				<Chinesesimp>美国（平民）</Chinesesimp>
 				<Chinese>美國（平民）</Chinese>
 				<Korean>미국 (시민)</Korean>
+				<Russian>Соединенные Штаты (Гражданские США)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SE_CIV">
 				<Original>Sweden (Civilians)</Original>
@@ -851,6 +930,7 @@
 				<Chinesesimp>瑞典（平民）</Chinesesimp>
 				<Chinese>瑞典（平民）</Chinese>
 				<Korean>스웨덴 (시민)</Korean>
+				<Russian>Швеция (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GR_CIV">
 				<Original>Greece (Civilians)</Original>
@@ -859,6 +939,7 @@
 				<Chinesesimp>希腊（平民）</Chinesesimp>
 				<Chinese>希臘（平民）</Chinese>
 				<Korean>그리스 (시민)</Korean>
+				<Russian>Греция (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TU_CIV">
 				<Original>Turkey (Civilians)</Original>
@@ -867,6 +948,7 @@
 				<Chinesesimp>土耳其（平民）</Chinesesimp>
 				<Chinese>土耳其（平民）</Chinese>
 				<Korean>터키 (시민)</Korean>
+				<Russian>Турция (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_CIV">
 				<Original>West Germany (Civilians)</Original>
@@ -875,6 +957,7 @@
 				<Chinesesimp>联邦德国（平民）</Chinesesimp>
 				<Chinese>聯邦德國（平民）</Chinese>
 				<Korean>서독 (시민)</Korean>
+				<Russian>Западная Германия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SP_CIV">
 				<Original>Spain (Civilians)</Original>
@@ -883,6 +966,7 @@
 				<Chinesesimp>西班牙（平民）</Chinesesimp>
 				<Chinese>西班牙（平民）</Chinese>
 				<Korean>스페인 (시민)</Korean>
+				<Russian>Испания (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AU_CIV">
 				<Original>Austria (Civilians)</Original>
@@ -891,6 +975,7 @@
 				<Chinesesimp>奥地利（平民）</Chinesesimp>
 				<Chinese>奧地利（平民）</Chinese>
 				<Korean>오스트리아 (시민)</Korean>
+				<Russian>Австрия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SZ_CIV">
 				<Original>Switzerland (Civilians)</Original>
@@ -899,6 +984,7 @@
 				<Chinesesimp>瑞士（平民）</Chinesesimp>
 				<Chinese>瑞士（平民）</Chinese>
 				<Korean>스위스 (시민)</Korean>
+				<Russian>Швейцария (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FI_CIV">
 				<Original>Finland (Civilians)</Original>
@@ -907,6 +993,7 @@
 				<Chinesesimp>芬兰（平民）</Chinesesimp>
 				<Chinese>芬蘭（平民）</Chinese>
 				<Korean>핀란드 (시민)</Korean>
+				<Russian>Финляндия (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SW_CIV">
 				<Original>Sweden (Civilians)</Original>
@@ -915,6 +1002,7 @@
 				<Chinesesimp>瑞典（平民）</Chinesesimp>
 				<Chinese>瑞典（平民）</Chinese>
 				<Korean>스웨덴(시민)</Korean>
+				<Russian>Швеция (Гражданские)</Russian>
 			</Key>
 		</Container>
 		<Container name="Characters">
@@ -925,6 +1013,7 @@
 				<Chinesesimp>士兵（非武装）</Chinesesimp>
 				<Chinese>士兵（非武裝）</Chinese>
 				<Korean>군인(비무장)</Korean>
+				<Russian>Солдат (Безоружный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MEDIC_BASE">
 				<Original>Medic</Original>
@@ -932,6 +1021,7 @@
 				<German>Sanitäter</German>
 				<Chinesesimp>医疗兵</Chinesesimp>
 				<Korean>의무병</Korean>
+				<Russian>Медик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_DEMOLITION_BASE">
 				<Original>Demolition</Original>
@@ -939,6 +1029,7 @@
 				<German>Sprengmeister</German>
 				<Chinesesimp>爆破手</Chinesesimp>
 				<Korean>폭파병</Korean>
+				<Russian>Подрывник</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ENGINEER_BASE">
 				<Original>Pioneer</Original>
@@ -946,6 +1037,7 @@
 				<German>Pionier</German>
 				<Chinesesimp>尖兵</Chinesesimp>
 				<Korean>공병</Korean>
+				<Russian>Пионер</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_CIVILIAN_BASE">
 				<Original>Civilian</Original>
@@ -953,6 +1045,7 @@
 				<German>Zivilist</German>
 				<Chinesesimp>平民</Chinesesimp>
 				<Korean>시민</Korean>
+				<Russian>Гражданский</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_RIFLEMAN_BASE">
 				<Original>Rifleman</Original>
@@ -960,6 +1053,7 @@
 				<German>Schütze</German>
 				<Chinesesimp>步枪兵</Chinesesimp>
 				<Korean>소총수</Korean>
+				<Russian>Стрелок</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_RADIOMAN_BASE">
 				<Original>Radioman</Original>
@@ -967,6 +1061,7 @@
 				<German>Funker</German>
 				<Chinesesimp>无线电通信员</Chinesesimp>
 				<Korean>무전병</Korean>
+				<Russian>Радист</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ASSAULT_BASE">
 				<Original>Shock Trooper</Original>
@@ -974,6 +1069,7 @@
 				<German>Sturmsoldat</German>
 				<Chinesesimp>突击兵</Chinesesimp>
 				<Korean>충격군</Korean>
+				<Russian>Штурмовик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_PARATROOPER_BASE">
 				<Original>Paratrooper</Original>
@@ -981,6 +1077,7 @@
 				<German>Fallschirmjäger</German>
 				<Chinesesimp>伞兵</Chinesesimp>
 				<Korean>공수부대원</Korean>
+				<Russian>Десантник</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_GRENADIER_BASE">
 				<Original>Grenadier</Original>
@@ -988,6 +1085,7 @@
 				<German>Grenadier</German>
 				<Chinesesimp>掷弹兵</Chinesesimp>
 				<Korean>척탄병</Korean>
+				<Russian>Гренадер</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYGRENADIER_BASE">
 				<Original>Heavy Grenadier</Original>
@@ -995,6 +1093,7 @@
 				<German>Schwerer Grenadier</German>
 				<Chinesesimp>重掷弹兵</Chinesesimp>
 				<Korean>유탄사수</Korean>
+				<Russian>Тяжелый гренадер</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MACHINEGUNNER_BASE">
 				<Original>Machinegunner</Original>
@@ -1002,6 +1101,7 @@
 				<German>MG-Schütze</German>
 				<Chinesesimp>机枪手</Chinesesimp>
 				<Korean>기관총 사수</Korean>
+				<Russian>Пулемётчик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYMACHINEGUNNER_BASE">
 				<Original>Heavy Machinegunner</Original>
@@ -1009,6 +1109,7 @@
 				<German>Schwerer MG-Schütze</German>
 				<Chinesesimp>重机枪手</Chinesesimp>
 				<Korean>중기관총 사수</Korean>
+				<Russian>Крупнокалиберный пулеметчик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_LIGHTMACHINEGUNNER_BASE">
 				<Original>Light Machinegunner</Original>
@@ -1016,6 +1117,7 @@
 				<German>Leichter MG-Schütze</German>
 				<Chinesesimp>轻机枪手</Chinesesimp>
 				<Korean>경기관총 사수</Korean>
+				<Russian>Ручной пулеметчик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MACHINEGUNNER_ASSISTANT_BASE">
 				<Original>Machinegunner Assistant</Original>
@@ -1023,6 +1125,7 @@
 				<German>MG-Schütze 2</German>
 				<Chinesesimp>副机枪手</Chinesesimp>
 				<Korean>기관총 부사수</Korean>
+				<Russian>Помощник пулемётчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_LIGHT_MACHINEGUNNER_ASSISTANT_BASE">
 				<Original>Light Machinegunner Assistant</Original>
@@ -1030,6 +1133,7 @@
 				<German>Leichter MG-Schütze 2</German>
 				<Chinesesimp>副轻机枪手</Chinesesimp>
 				<Korean>경기관총 부사수</Korean>
+				<Russian>Помощник легкого пулеметчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTITANK_BASE">
 				<Original>Anti-Tank</Original>
@@ -1037,6 +1141,7 @@
 				<German>Panzerabwehrschütze</German>
 				<Chinesesimp>AT兵</Chinesesimp>
 				<Korean>대전차 사수</Korean>
+				<Russian>Гранатомётчик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYANTITANK_BASE">
 				<Original>Heavy Anti-Tank</Original>
@@ -1044,6 +1149,7 @@
 				<German>Schwerer Panzerabwehrschütze</German>
 				<Chinesesimp>重型AT兵</Chinesesimp>
 				<Korean>대전차병</Korean>
+				<Russian>Тяжёлый гранатомётчик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTITANK_ASSISTANT_BASE">
 				<Original>Anti-Tank Assistant</Original>
@@ -1051,6 +1157,7 @@
 				<German>Panzerabwehrschütze 2</German>
 				<Chinesesimp>AT兵助手</Chinesesimp>
 				<Korean>대전차 부사수</Korean>
+				<Russian>Помощник гранатомётчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_HEAVYANTITANK_ASSISTANT_BASE">
 				<Original>Heavy Anti-Tank Assistant</Original>
@@ -1058,6 +1165,7 @@
 				<German>Schwerer Panzerabwehrschütze 2</German>
 				<Chinesesimp>重型AT兵助手</Chinesesimp>
 				<Korean>대전차병 부사수</Korean>
+				<Russian>Помощник тяж. гранатомётчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ATGM_ANTITANK_BASE">
 				<Original>ATGM Gunner</Original>
@@ -1065,6 +1173,7 @@
 				<German>PALR Schütze</German>
 				<Chinesesimp>ATGM射手</Chinesesimp>
 				<Korean>ATGM 사수</Korean>
+				<Russian>Стрелок ПТРК</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTIAIR_BASE">
 				<Original>Anti-Air</Original>
@@ -1072,6 +1181,7 @@
 				<German>Fliegerabwehrschütze</German>
 				<Chinesesimp>AA兵</Chinesesimp>
 				<Korean>대공 사수</Korean>
+				<Russian>Стрелок ПВО</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_ANTIAIR_ASSISTANT_BASE">
 				<Original>Anti-Air Assistant</Original>
@@ -1079,6 +1189,7 @@
 				<German>Fliegerabwehrschütze 2</German>
 				<Chinesesimp>AA兵助手</Chinesesimp>
 				<Korean>대공 부사수</Korean>
+				<Russian>Помощник стрелка ПВО</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_SQUADLEADER_BASE">
 				<Original>Squad Leader</Original>
@@ -1086,6 +1197,7 @@
 				<German>Gruppenführer</German>
 				<Chinesesimp>班长</Chinesesimp>
 				<Korean>분대장</Korean>
+				<Russian>Командир отделения</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_PLATOONLEADER_BASE">
 				<Original>Platoon Leader</Original>
@@ -1093,6 +1205,7 @@
 				<German>Zugführer</German>
 				<Chinesesimp>排长</Chinesesimp>
 				<Korean>소대장</Korean>
+				<Russian>Командир взвода</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_OFFICER_BASE">
 				<Original>Officer</Original>
@@ -1100,6 +1213,7 @@
 				<German>Offizier</German>
 				<Chinesesimp>军官</Chinesesimp>
 				<Korean>장교</Korean>
+				<Russian>Офицер</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_PILOT_BASE">
 				<Original>Pilot</Original>
@@ -1107,6 +1221,7 @@
 				<German>Pilot</German>
 				<Chinesesimp>飞行员</Chinesesimp>
 				<Korean>조종사</Korean>
+				<Russian>Пилот</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_CREW_BASE">
 				<Original>Crew</Original>
@@ -1114,6 +1229,7 @@
 				<German>Besatzung</German>
 				<Chinesesimp>乘员</Chinesesimp>
 				<Korean>승무원</Korean>
+				<Russian>Экипаж</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MILITARYPOLICE_BASE">
 				<Original>Military Policeman</Original>
@@ -1121,6 +1237,7 @@
 				<German>Feldjäger</German>
 				<Chinesesimp>宪兵</Chinesesimp>
 				<Korean>헌병</Korean>
+				<Russian>Военный полицейский</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_80">
 				<Original>Men, '80</Original>
@@ -1128,6 +1245,7 @@
 				<German>Männer, '80</German>
 				<Chinesesimp>男人(80年代)</Chinesesimp>
 				<Korean>사람'80</Korean>
+				<Russian>Люди, '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_80_AUTUMN">
 				<Original>Men, '80 (Autumn)</Original>
@@ -1135,6 +1253,7 @@
 				<German>Männer, '80 (Herbst)</German>
 				<Chinesesimp>男人(80年代,秋季)</Chinesesimp>
 				<Korean>사람'80(가을)</Korean>
+				<Russian>Люди, '80 (Осень)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_80_WINTER">
 				<Original>Men, '80 (Winter)</Original>
@@ -1142,6 +1261,7 @@
 				<German>Männer, '80 (Winter)</German>
 				<Chinesesimp>男人(80年代,冬季)</Chinesesimp>
 				<Korean>사람'80(겨울)</Korean>
+				<Russian>Люди, '80 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_90">
 				<Original>Men, '90</Original>
@@ -1149,6 +1269,7 @@
 				<German>Männer, '90</German>
 				<Chinesesimp>男人(90年代)</Chinesesimp>
 				<Korean>사람'90</Korean>
+				<Russian>Люди, '90</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_90_AUTUMN">
 				<Original>Men, '90 (Autumn)</Original>
@@ -1156,6 +1277,7 @@
 				<German>Männer, '90 (Herbst)</German>
 				<Chinesesimp>男人(80年代,秋季)</Chinesesimp>
 				<Korean>사람'90 (가을)</Korean>
+				<Russian>Люди, '90 (Осень)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_90_WINTER">
 				<Original>Men, '90 (Winter)</Original>
@@ -1163,6 +1285,7 @@
 				<German>Männer, '90 (Winter)</German>
 				<Chinesesimp>男人(90年代,冬季))</Chinesesimp>
 				<Korean>사람'90(겨울)</Korean>
+				<Russian>Люди, '90 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_00">
 				<Original>Men, '00</Original>
@@ -1170,6 +1293,7 @@
 				<German>Männer, '00</German>
 				<Chinesesimp>男人(21世纪)</Chinesesimp>
 				<Korean>사람'00</Korean>
+				<Russian>Люди, '00</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_00_AUTUMN">
 				<Original>Men, '00 (Autumn)</Original>
@@ -1177,6 +1301,7 @@
 				<German>Männer, '00 (Herbst)</German>
 				<Chinesesimp>男人(21世纪,秋季)</Chinesesimp>
 				<Korean>사람'00 (가을)</Korean>
+				<Russian>Люди, '00 (Осень)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_00_WINTER">
 				<Original>Men, '00 (Winter)</Original>
@@ -1184,6 +1309,7 @@
 				<German>Männer, '00 (Winter)</German>
 				<Chinesesimp>男人(21世纪,冬季)</Chinesesimp>
 				<Korean>사람'00 (겨울)</Korean>
+				<Russian>Люди, '00 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80">
 				<Original>Special Forces, '80</Original>
@@ -1191,6 +1317,7 @@
 				<German>Spezialkräfte, '80</German>
 				<Chinesesimp>特种部队(80年代)</Chinesesimp>
 				<Korean>특수부대'80</Korean>
+				<Russian>Спецназ, '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80_AUTUMN">
 				<Original>Special Forces, '80 (Autumn)</Original>
@@ -1198,6 +1325,7 @@
 				<German>Spezialkräfte, '80 (Herbst)</German>
 				<Chinesesimp>特种部队(80年代,秋季)</Chinesesimp>
 				<Korean>특수부대'80 (가을)</Korean>
+				<Russian>Спецназ, '80 (Осень)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80_WINTER">
 				<Original>Special Forces, '80 (Winter)</Original>
@@ -1205,6 +1333,7 @@
 				<German>Spezialkräfte, '80 (Winter)</German>
 				<Chinesesimp>特种部队(80年代,冬季)</Chinesesimp>
 				<Korean>특수부대'80 (겨울)</Korean>
+				<Russian>Спецназ, '80 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAN_MARKSMAN_BASE">
 				<Original>Marksman</Original>
@@ -1212,6 +1341,7 @@
 				<German>Scharfschütze</German>
 				<Chinesesimp>精确射手</Chinesesimp>
 				<Korean>지정사수</Korean>
+				<Russian>Снайпер</Russian>
 			</Key>
 		</Container>
 		<Container name="MilitaryBranches">
@@ -1221,6 +1351,7 @@
 				<German>Nato: Logistik</German>
 				<Chinesesimp>北约:补给</Chinesesimp>
 				<Korean>NATO: 보급</Korean>
+				<Russian>Nato: Supply</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNEANTITANK">
 				<Original>Nato: Airborne Anti Tank</Original>
@@ -1228,6 +1359,7 @@
 				<German>Nato: Luftlande-Panzerabwehr</German>
 				<Chinesesimp>北约:反坦克(空降)</Chinesesimp>
 				<Korean>NATO:공수부대 대전차병</Korean>
+				<Russian>Nato: Airborne Anti Tank</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNEARTILLERY">
 				<Original>Nato: Airborne Artillery</Original>
@@ -1235,6 +1367,7 @@
 				<German>Nato: Luftlande-Artillerie</German>
 				<Chinesesimp>北约:炮兵(空降)</Chinesesimp>
 				<Korean>NATO: 공수부대 포병</Korean>
+				<Russian>Nato: Airborne Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNEENGINEER">
 				<Original>Nato: Airborne Engineer</Original>
@@ -1242,6 +1375,7 @@
 				<German>Nato: Luftlande-Pioniere</German>
 				<Chinesesimp>北约:工程兵(空降)</Chinesesimp>
 				<Korean>NATO: 공수부대 공병</Korean>
+				<Russian>Nato: Airborne Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNEINFANTRY">
 				<Original>Nato: Airborne Infantry</Original>
@@ -1249,6 +1383,7 @@
 				<German>Nato: Luftlande-Infanterie</German>
 				<Chinesesimp>北约:步兵(空降)</Chinesesimp>
 				<Korean>NATO: 공수보병</Korean>
+				<Russian>Nato: Airborne Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRBORNERECON">
 				<Original>Nato: Airborne Recon</Original>
@@ -1256,6 +1391,7 @@
 				<German>Nato: Luftlande-Aufklärer</German>
 				<Chinesesimp>北约:侦察兵(空降)</Chinesesimp>
 				<Korean>NATO: 공수 정찰대</Korean>
+				<Russian>Nato: Airborne Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRDEFENCE">
 				<Original>Nato: Air Defence</Original>
@@ -1263,6 +1399,7 @@
 				<German>Nato: Luftabwehr</German>
 				<Chinesesimp>北约:防空</Chinesesimp>
 				<Korean>NATO: 방공</Korean>
+				<Russian>Nato: Air Defence</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ANTITANK">
 				<Original>Nato: Anti Tank</Original>
@@ -1270,6 +1407,7 @@
 				<German>Nato: Panzerabwehr</German>
 				<Chinesesimp>北约:反坦克</Chinesesimp>
 				<Korean>NATO: 대전차</Korean>
+				<Russian>Nato: Anti Tank</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ARMORED">
 				<Original>Nato: Armored</Original>
@@ -1277,6 +1415,7 @@
 				<German>Nato: Panzertruppe</German>
 				<Chinesesimp>北约:装甲兵</Chinesesimp>
 				<Korean>NATO: 기갑</Korean>
+				<Russian>Nato: Armored</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ARMOREDENGINEER">
 				<Original>Nato: Armored Engineer</Original>
@@ -1284,6 +1423,7 @@
 				<German>Nato: Panzerpioniere</German>
 				<Chinesesimp>北约:装甲工程兵</Chinesesimp>
 				<Korean>NATO: 기갑공병</Korean>
+				<Russian>Nato: Armored Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ARMOREDRECON">
 				<Original>Nato: Armored Recon</Original>
@@ -1291,6 +1431,7 @@
 				<German>Nato: Panzeraufklärer</German>
 				<Chinesesimp>北约:装甲侦察兵</Chinesesimp>
 				<Korean>NATO: 기갑정찰</Korean>
+				<Russian>Nato: Armored Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ARTILLERY">
 				<Original>Nato: Artillery</Original>
@@ -1298,6 +1439,7 @@
 				<German>Nato: Artillerie</German>
 				<Chinesesimp>北约:炮兵</Chinesesimp>
 				<Korean>NATO: 포병</Korean>
+				<Russian>Nato: Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ARTILLERYRECON">
 				<Original>Nato: Artillery Recon</Original>
@@ -1305,6 +1447,7 @@
 				<German>Nato: Artilleriebeobachter</German>
 				<Chinesesimp>北约:火炮侦察兵</Chinesesimp>
 				<Korean>NATO: 포병 관측반</Korean>
+				<Russian>Nato: Artillery Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_CBRN">
 				<Original>Nato: Cbrn</Original>
@@ -1312,6 +1455,7 @@
 				<German>Nato: ABC</German>
 				<Chinesesimp>北约:防化兵</Chinesesimp>
 				<Korean>NATO: 화생방</Korean>
+				<Russian>Nato: Cbrn</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ELECTRONICWARFARE">
 				<Original>Nato: Electronic Warfare</Original>
@@ -1319,6 +1463,7 @@
 				<German>Nato: EloKa</German>
 				<Chinesesimp>北约:电子对抗兵</Chinesesimp>
 				<Korean>NATO: 전자전</Korean>
+				<Russian>Nato: Electronic Warfare</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ENGINEER">
 				<Original>Nato: Engineer</Original>
@@ -1326,6 +1471,7 @@
 				<German>Nato: Pioniere</German>
 				<Chinesesimp>北约:工程兵</Chinesesimp>
 				<Korean>NATO: 공병</Korean>
+				<Russian>Nato: Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_INFANTRY">
 				<Original>Nato: Infantry</Original>
@@ -1333,6 +1479,7 @@
 				<German>Nato: Infanterie</German>
 				<Chinesesimp>北约:步兵</Chinesesimp>
 				<Korean>NATO: 보병</Korean>
+				<Russian>Nato: Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MAINTENANCE">
 				<Original>Nato: Maintenance</Original>
@@ -1340,6 +1487,7 @@
 				<German>Nato: Instandsetzung</German>
 				<Chinesesimp>北约:维修兵</Chinesesimp>
 				<Korean>NATO: 보수대</Korean>
+				<Russian>Nato: Maintenance</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MECHANIZEDANTITANK">
 				<Original>Nato: Mechanized Anti Tank</Original>
@@ -1347,6 +1495,7 @@
 				<German>Nato: Mechanisierte Panzerabwehr</German>
 				<Chinesesimp>北约:机械化反坦克兵</Chinesesimp>
 				<Korean>NATO: 기계화 대전차</Korean>
+				<Russian>Nato: Mechanized Anti Tank</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MECHANIZEDARTILLERY">
 				<Original>Nato: Mechanized Artillery</Original>
@@ -1354,6 +1503,7 @@
 				<German>Nato: Mechanisierte Artillerie</German>
 				<Chinesesimp>北约:自行火炮</Chinesesimp>
 				<Korean>NATO: 기계화포병</Korean>
+				<Russian>Nato: Mechanized Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MECHANIZEDINFANTRY">
 				<Original>Nato: Mechanized Infantry</Original>
@@ -1361,6 +1511,7 @@
 				<German>Nato: Mechanisierte Infanterie</German>
 				<Chinesesimp>北约:机械化步兵</Chinesesimp>
 				<Korean>NATO: 기계화보병</Korean>
+				<Russian>Nato: Mechanized Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MEDICAL">
 				<Original>Nato: Medical</Original>
@@ -1368,6 +1519,7 @@
 				<German>Nato: Sanitätsdienst</German>
 				<Chinesesimp>北约:医疗兵</Chinesesimp>
 				<Korean>NATO: 의료</Korean>
+				<Russian>Nato: Medical</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MILITARYMUSIC">
 				<Original>Nato: Military Music</Original>
@@ -1375,6 +1527,7 @@
 				<German>Nato: Militärmusk</German>
 				<Chinesesimp>北约:军乐队</Chinesesimp>
 				<Korean>NATO: 군가</Korean>
+				<Russian>Nato: Military Music</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MILITARYPOLICE">
 				<Original>Nato: Military Police</Original>
@@ -1382,6 +1535,7 @@
 				<German>Nato: Feldjäger</German>
 				<Chinesesimp>北约:宪兵</Chinesesimp>
 				<Korean>NATO: 헌병</Korean>
+				<Russian>Nato: Military Police</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAINARMORED">
 				<Original>Nato: Mountain Armored</Original>
@@ -1389,6 +1543,7 @@
 				<German>Nato: Gebirgspanzertruppe</German>
 				<Chinesesimp>北约:山地装甲兵</Chinesesimp>
 				<Korean>NATO: 산악기갑</Korean>
+				<Russian>Nato: Mountain Armored</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAINARMOREDRECON">
 				<Original>Nato: Mountain Armored Recon</Original>
@@ -1396,6 +1551,7 @@
 				<German>Nato: Gebirgspanzeraufklärer</German>
 				<Chinesesimp>北约:山地装甲侦察兵</Chinesesimp>
 				<Korean>NATO: 산악기갑정찰</Korean>
+				<Russian>Nato: Mountain Armored Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAINENGINEER">
 				<Original>Nato: Mountain Engineer</Original>
@@ -1403,6 +1559,7 @@
 				<German>Nato: Gebirgspioniere</German>
 				<Chinesesimp>北约:山地工程兵</Chinesesimp>
 				<Korean>NATO: 산악공병</Korean>
+				<Russian>Nato: Mountain Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAININFANTRY">
 				<Original>Nato: Mountain Infantry</Original>
@@ -1410,6 +1567,7 @@
 				<German>Nato: Gebirgsinfanterie</German>
 				<Chinesesimp>北约:山地步兵</Chinesesimp>
 				<Korean>NATO: 산악병</Korean>
+				<Russian>Nato: Mountain Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAINMECHANIZEDARTILLERY">
 				<Original>Nato: Mountain Mechanized Artillery</Original>
@@ -1417,6 +1575,7 @@
 				<German>Nato: Gebirgsmechanisierte Artillerie</German>
 				<Chinesesimp>北约:山地自行火炮</Chinesesimp>
 				<Korean>NATO: 산악 기계화포병</Korean>
+				<Russian>Nato: Mountain Mechanized Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_MOUNTAINRECON">
 				<Original>Nato: Mountain Recon</Original>
@@ -1424,6 +1583,7 @@
 				<German>Nato: Gebirgsaufklärer</German>
 				<Chinesesimp>北约:山地侦察兵</Chinesesimp>
 				<Korean>NATO: 산악정찰</Korean>
+				<Russian>Nato: Mountain Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_RECON">
 				<Original>Nato: Recon</Original>
@@ -1431,6 +1591,7 @@
 				<German>Nato: Aufklärer</German>
 				<Chinesesimp>北约:侦察兵</Chinesesimp>
 				<Korean>NATO: 정찰</Korean>
+				<Russian>Nato: Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ROCKETARTILLERY">
 				<Original>Nato: Rocket Artillery</Original>
@@ -1438,6 +1599,7 @@
 				<German>Nato: Raketenartillerie</German>
 				<Chinesesimp>北约:火箭炮</Chinesesimp>
 				<Korean>NATO: 로켓포병</Korean>
+				<Russian>Nato: Rocket Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_SIGNAL">
 				<Original>Nato: Signal</Original>
@@ -1445,6 +1607,7 @@
 				<German>Nato: Fernmelder</German>
 				<Chinesesimp>北约:信号</Chinesesimp>
 				<Korean>NATO: 통신</Korean>
+				<Russian>Nato: Signal</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_AIRFORCE">
 				<Original>Nato: Air Force</Original>
@@ -1452,6 +1615,7 @@
 				<German>Nato: Luftwaffe</German>
 				<Chinesesimp>北约:空军</Chinesesimp>
 				<Korean>NATO: 공군</Korean>
+				<Russian>Nato: Air Force</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_ARMYAVIATION">
 				<Original>Nato: Helicopter</Original>
@@ -1459,6 +1623,7 @@
 				<German>Nato: Hubschrauber</German>
 				<Chinesesimp>北约:直升机</Chinesesimp>
 				<Korean>NATO: 헬기</Korean>
+				<Russian>Nato: Helicopter</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NATO_HELICOPTERANTITANK">
 				<Original>Nato: Anti Tank Helicopter</Original>
@@ -1466,6 +1631,7 @@
 				<German>Nato: Panzerabwehrhubschrauber</German>
 				<Chinesesimp>北约:反坦克直升机</Chinesesimp>
 				<Korean>NATO: 대전차 헬기</Korean>
+				<Russian>Nato: Anti Tank Helicopter</Russian>
 			</Key>
 		</Container>
 		<Container name="Groups">
@@ -1475,6 +1641,7 @@
 				<German>Logistik</German>
 				<Chinesesimp>补给</Chinesesimp>
 				<Korean>보급</Korean>
+				<Russian>Supply</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEANTITANK">
 				<Original>Airborne Anti Tank</Original>
@@ -1482,6 +1649,7 @@
 				<German>Luftlandepanzerabwehr</German>
 				<Chinesesimp>反坦克(空降)</Chinesesimp>
 				<Korean>공수부대 대전차병</Korean>
+				<Russian>Airborne Anti Tank</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEARTILLERY">
 				<Original>Airborne Artillery</Original>
@@ -1489,6 +1657,7 @@
 				<German>Luftlandeartillerie</German>
 				<Chinesesimp>炮兵(空降)</Chinesesimp>
 				<Korean>공수부대 포병</Korean>
+				<Russian>Airborne Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEENGINEER">
 				<Original>Airborne Engineer</Original>
@@ -1496,6 +1665,7 @@
 				<German>Luftlandepioniere</German>
 				<Chinesesimp>工程兵(空降)</Chinesesimp>
 				<Korean>공수부대 공병</Korean>
+				<Russian>Airborne Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNEINFANTRY">
 				<Original>Airborne Infantry</Original>
@@ -1503,6 +1673,7 @@
 				<German>Fallschirmjäger</German>
 				<Chinesesimp>步兵(空降)</Chinesesimp>
 				<Korean>공수부대원</Korean>
+				<Russian>Airborne Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRBORNERECON">
 				<Original>Airborne Recon</Original>
@@ -1510,6 +1681,7 @@
 				<German>Luftlandeaufklärer</German>
 				<Chinesesimp>侦察兵(空降)</Chinesesimp>
 				<Korean>공수부대 정찰병</Korean>
+				<Russian>Airborne Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRDEFENCE">
 				<Original>Air Defence</Original>
@@ -1517,6 +1689,7 @@
 				<German>Luftabwehr</German>
 				<Chinesesimp>防空</Chinesesimp>
 				<Korean>방공</Korean>
+				<Russian>Air Defence</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ANTITANK">
 				<Original>Anti Tank</Original>
@@ -1524,6 +1697,7 @@
 				<German>Panzerabwehr</German>
 				<Chinesesimp>反坦克</Chinesesimp>
 				<Korean>대전차</Korean>
+				<Russian>Anti Tank</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ARMORED">
 				<Original>Armored</Original>
@@ -1531,6 +1705,7 @@
 				<German>Panzertruppe</German>
 				<Chinesesimp>装甲兵</Chinesesimp>
 				<Korean>기갑</Korean>
+				<Russian>Armored</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ARMOREDENGINEER">
 				<Original>Armored Engineer</Original>
@@ -1538,6 +1713,7 @@
 				<German>Panzerpioniere</German>
 				<Chinesesimp>装甲工程兵</Chinesesimp>
 				<Korean>기갑 공병</Korean>
+				<Russian>Armored Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ARMOREDRECON">
 				<Original>Armored Recon</Original>
@@ -1545,6 +1721,7 @@
 				<German>Panzeraufklärer</German>
 				<Chinesesimp>装甲侦察兵</Chinesesimp>
 				<Korean>기갑정찰병</Korean>
+				<Russian>Armored Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ARTILLERY">
 				<Original>Artillery</Original>
@@ -1552,6 +1729,7 @@
 				<German>Artillerie</German>
 				<Chinesesimp>炮兵</Chinesesimp>
 				<Korean>포병</Korean>
+				<Russian>Артиллерия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ARTILLERYRECON">
 				<Original>Artillery Recon</Original>
@@ -1559,6 +1737,7 @@
 				<German>Artilleriebeobachter</German>
 				<Chinesesimp>火炮侦察兵</Chinesesimp>
 				<Korean>포병 정찰대</Korean>
+				<Russian>Artillery Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BORDERGUARD">
 				<Original>Border Guard</Original>
@@ -1566,6 +1745,7 @@
 				<German>Grenztruppe</German>
 				<Chinesesimp>边防部队</Chinesesimp>
 				<Korean>국경 경비대</Korean>
+				<Russian>Border Guard</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CBRN">
 				<Original>CBRN</Original>
@@ -1573,6 +1753,7 @@
 				<German>ABC-Abwehr</German>
 				<Chinesesimp>防化兵</Chinesesimp>
 				<Korean>CBRN</Korean>
+				<Russian>CBRN</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ELECTRONICWARFARE">
 				<Original>Electronic Warfare</Original>
@@ -1580,6 +1761,7 @@
 				<German>EloKa</German>
 				<Chinesesimp>电子对抗兵</Chinesesimp>
 				<Korean>전자전</Korean>
+				<Russian>Electronic Warfare</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ENGINEER">
 				<Original>Engineer</Original>
@@ -1587,6 +1769,7 @@
 				<German>Pioniere</German>
 				<Chinesesimp>工程兵</Chinesesimp>
 				<Korean>공병</Korean>
+				<Russian>Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEDERALBORDERGUARD">
 				<Original>Federal Border Guard</Original>
@@ -1594,6 +1777,7 @@
 				<German>Bundesgrenzschutz</German>
 				<Chinesesimp>联邦边防部队</Chinesesimp>
 				<Korean>연방 국경 경비대</Korean>
+				<Russian>Federal Border Guard</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INFANTRY">
 				<Original>Infantry</Original>
@@ -1601,6 +1785,7 @@
 				<German>Jäger</German>
 				<Chinesesimp>步兵</Chinesesimp>
 				<Korean>보병</Korean>
+				<Russian>Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MAINTENANCE">
 				<Original>Maintenance</Original>
@@ -1608,6 +1793,7 @@
 				<German>Instandsetzung</German>
 				<Chinesesimp>维修兵</Chinesesimp>
 				<Korean>보수대</Korean>
+				<Russian>Maintenance</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MECHANIZEDANTITANK">
 				<Original>Mechanized Anti Tank</Original>
@@ -1615,6 +1801,7 @@
 				<German>Mechanisierte Panzerabwehr</German>
 				<Chinesesimp>机械化反坦克兵</Chinesesimp>
 				<Korean>기계화 대전차병</Korean>
+				<Russian>Mechanized Anti Tank</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MECHANIZEDARTILLERY">
 				<Original>Mechanized Artillery</Original>
@@ -1622,6 +1809,7 @@
 				<German>Mechanisierte Artillerie</German>
 				<Chinesesimp>自行火炮</Chinesesimp>
 				<Korean>기계화포병</Korean>
+				<Russian>Mechanized Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MECHANIZEDINFANTRY">
 				<Original>Mechanized Infantry</Original>
@@ -1629,6 +1817,7 @@
 				<German>Mechanisierte Infanterie</German>
 				<Chinesesimp>机械化步兵</Chinesesimp>
 				<Korean>기계화보병</Korean>
+				<Russian>Mechanized Infantry</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MEDICAL">
 				<Original>Medical</Original>
@@ -1636,6 +1825,7 @@
 				<German>Sanitätsdienst</German>
 				<Chinesesimp>医疗兵</Chinesesimp>
 				<Korean>의료</Korean>
+				<Russian>Медицинское</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MILITARYMUSIC">
 				<Original>Military Music</Original>
@@ -1643,6 +1833,7 @@
 				<German>Militärmusik</German>
 				<Chinesesimp>军乐队</Chinesesimp>
 				<Korean>군가</Korean>
+				<Russian>Military Music</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MILITARYPOLICE">
 				<Original>Military Police</Original>
@@ -1650,6 +1841,7 @@
 				<German>Feldjäger</German>
 				<Chinesesimp>宪兵</Chinesesimp>
 				<Korean>헌병</Korean>
+				<Russian>Военная Полиция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOTORIZEDINFANTRY">
 				<Original>Motorized Infantry</Original>
@@ -1657,6 +1849,7 @@
 				<German>Motorisierte Schützen</German>
 				<Chinesesimp>山地兵</Chinesesimp>
 				<Korean>차량화보병</Korean>
+				<Russian>Мотопехота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAINARMORED">
 				<Original>Mountain Armored</Original>
@@ -1664,6 +1857,7 @@
 				<German>Gebirgspanzertruppe</German>
 				<Chinesesimp>山地装甲兵</Chinesesimp>
 				<Korean>산악기갑병</Korean>
+				<Russian>Mountain Armored</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAINARMOREDRECON">
 				<Original>Mountain Armored Recon</Original>
@@ -1671,6 +1865,7 @@
 				<German>Gebirgspanzeraufklärer</German>
 				<Chinesesimp>山地装甲侦察兵</Chinesesimp>
 				<Korean>산악 기갑정찰대</Korean>
+				<Russian>Mountain Armored Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAINENGINEER">
 				<Original>Mountain Engineer</Original>
@@ -1678,6 +1873,7 @@
 				<German>Gebirgspioniere</German>
 				<Chinesesimp>山地工程兵</Chinesesimp>
 				<Korean>산악공병</Korean>
+				<Russian>Mountain Engineer</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAININFANTRY">
 				<Original>Mountain Infantry</Original>
@@ -1685,6 +1881,7 @@
 				<German>Gebirgsjäger</German>
 				<Chinesesimp>山地步兵</Chinesesimp>
 				<Korean>산악병</Korean>
+				<Russian>Горная Пехота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAINMECHANIZED ARTILLERY">
 				<Original>Mountain Mechanized Artillery</Original>
@@ -1692,6 +1889,7 @@
 				<German>Gebirgsmechanisierte Artillerie</German>
 				<Chinesesimp>山地自行火炮</Chinesesimp>
 				<Korean>기계화 산악포병</Korean>
+				<Russian>Mountain Mechanized Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MOUNTAINRECON">
 				<Original>Mountain Recon</Original>
@@ -1699,6 +1897,7 @@
 				<German>Gebirgsaufklärer</German>
 				<Chinesesimp>山地侦察兵</Chinesesimp>
 				<Korean>산악 정찰병</Korean>
+				<Russian>Mountain Recon</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RECON">
 				<Original>Recon</Original>
@@ -1706,6 +1905,7 @@
 				<German>Aufklärer</German>
 				<Chinesesimp>侦察兵</Chinesesimp>
 				<Korean>정찰병</Korean>
+				<Russian>Разведка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ROCKETARTILLERY">
 				<Original>Rocket Artillery</Original>
@@ -1713,6 +1913,7 @@
 				<German>Raketenartillerie</German>
 				<Chinesesimp>火箭炮</Chinesesimp>
 				<Korean>로켓포병</Korean>
+				<Russian>Rocket Artillery</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SIGNAL">
 				<Original>Signal</Original>
@@ -1720,6 +1921,7 @@
 				<German>Fernmelder</German>
 				<Chinesesimp>信号</Chinesesimp>
 				<Korean>통신병</Korean>
+				<Russian>Signal</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FIRESUPPORT">
 				<Original>Fire Support</Original>
@@ -1727,6 +1929,7 @@
 				<German>Feuerunterstützung</German>
 				<Chinesesimp>火力支援</Chinesesimp>
 				<Korean>화력지원</Korean>
+				<Russian>Fire Support</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_SUPPLY">
 				<Original>Supply Convoy</Original>
@@ -1734,6 +1937,7 @@
 				<German>Versorgungskolonne</German>
 				<Chinesesimp>补给车队</Chinesesimp>
 				<Korean>보급 수송대</Korean>
+				<Russian>Supply Convoy</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_INFANTRY_80">
 				<Original>Infantry '80</Original>
@@ -1741,6 +1945,7 @@
 				<German>Infanterie '80</German>
 				<Chinesesimp>步兵(80年代)</Chinesesimp>
 				<Korean>보병'80</Korean>
+				<Russian>Пехота '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_INFANTRY_90">
 				<Original>Infantry '90</Original>
@@ -1748,6 +1953,7 @@
 				<German>Infanterie '90</German>
 				<Chinesesimp>步兵(90年代)</Chinesesimp>
 				<Korean>보병'90</Korean>
+				<Russian>Пехота '90</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_MOTORIZEDINFANTRY_80">
 				<Original>Motorized Infantry '80</Original>
@@ -1755,6 +1961,7 @@
 				<German>Motorisierte Schützen '80</German>
 				<Chinesesimp>摩托化步兵(80年代)</Chinesesimp>
 				<Korean>차량화보병'80</Korean>
+				<Russian>Мотопехота '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_MOTORIZEDINFANTRY_90">
 				<Original>Motorized Infantry '90</Original>
@@ -1762,6 +1969,7 @@
 				<German>Motorisierte Schützen '90</German>
 				<Chinesesimp>摩托化步兵(90年代)</Chinesesimp>
 				<Korean>차량화보병'90</Korean>
+				<Russian>Мотопехота '90</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_MECHANIZEDINFANTRY_80">
 				<Original>Mechanized Infantry '80</Original>
@@ -1769,6 +1977,7 @@
 				<German>Mechanisierte Infanterie '80</German>
 				<Chinesesimp>机械化步兵(80年代)</Chinesesimp>
 				<Korean>기계화보병'80</Korean>
+				<Russian>Механизированная пехота '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_MECHANIZEDINFANTRY_90">
 				<Original>Mechanized Infantry '90</Original>
@@ -1776,6 +1985,7 @@
 				<German>Mechanisierte Infanterie '90</German>
 				<Chinesesimp>机械化步兵(90年代)</Chinesesimp>
 				<Korean>기계화보병'90</Korean>
+				<Russian>Механизированная пехота '90</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_ARMOREDENGINEER_80">
 				<Original>Armored Engineer '80</Original>
@@ -1783,6 +1993,7 @@
 				<German>Panzerpioniere '80</German>
 				<Chinesesimp>装甲工程兵(80年代)</Chinesesimp>
 				<Korean>기갑 공병'80</Korean>
+				<Russian>Armored Engineer '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SQUAD_ARMOREDENGINEER_90">
 				<Original>Armored Engineer '90</Original>
@@ -1790,6 +2001,7 @@
 				<German>Panzerpioniere '90</German>
 				<Chinesesimp>装甲工程兵(90年代)</Chinesesimp>
 				<Korean>기갑 공병'90</Korean>
+				<Russian>Armored Engineer '90</Russian>
 			</Key>
 		</Container>
 		<Container name="Weapons">
@@ -36513,13 +36725,13 @@
 				<Original>BrPz 1</Original>
 				<English>BrPz 1</English>
 				<German>BrPz 1</German>
-				<Chinesesimp>BrPz 1</Chinesesimp>
+				<Chinesesimp>BrPz 1舟桥车</Chinesesimp>
 			</Key>
 			<Key ID="STR_DNS_GM_BIBER">
 				<Original>BrPz 1</Original>
 				<English>BrPz 1</English>
 				<German>BrPz 1</German>
-				<Chinesesimp>BrPz 1</Chinesesimp>
+				<Chinesesimp>BrPz 1舟桥车</Chinesesimp>
 			</Key>
 			<Key ID="STR_DN_GM_BIBER_BRIDGE">
 				<Original>BrPz 1 Bridge</Original>
@@ -42131,4 +42343,350 @@
 			</Key>
 		</Container>
 	</Package>
+</Project>
+
+//Global Mobilization Extra - Altis Armed Forces
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - AAF">
+  <Package name="GMX_AAF_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_AAF_NAME">
+        <Original>Global Mobilization Extra - Altis Armed Forces</Original>
+        <English>Global Mobilization Extra - Altis Armed Forces</English>
+        <German>Global Mobilization Extra - Altis Armed Forces</German>
+		<Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_VERSION">
+        <Original>Global Mobilization Extra - Altis Armed Forces v1.1.28</Original>
+        <English>Global Mobilization Extra - Altis Armed Forces v1.1.28</English>
+        <German>Global Mobilization Extra - Altis Armed Forces v1.1.28</German>
+		<Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军 1.1.28版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+		<Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_NAMESHORT">
+        <Original>GMX - AAF</Original>
+        <English>GMX - AAF</English>
+        <German>GMX - AAF</German>
+		<Chinesesimp>GMX - AAF</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_ARMY">
+        <Original>Altis Armed Forces</Original>
+        <English>Altis Armed Forces</English>
+        <German>Altis Armed Forces</German>
+		<Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF">
+        <Original>Altis</Original>
+        <English>Altis</English>
+        <German>Altis</German>
+		<Chinesesimp>阿尔蒂斯</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="TextureSources">
+      <Key ID="STR_DN_GMX_AAF_WDL">
+        <Original>AAF (Digital Green)</Original>
+        <English>AAF (Digital Green)</English>
+        <German>AAF (Digital Grün)</German>
+		<Chinesesimp>AAF (数码绿)</Chinesesimp>
+      </Key>
+    </Container>
+  <Container name="Displaynames">
+      <Key ID="STR_DN_GMX_INSIGNIA_AAF_01">
+        <Original>Altis Armed Forces</Original>
+        <English>Altis Armed Forces</English>
+        <German>Altis Armed Forces</German>
+		<Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_LICENSEPLATE_AAF_YEL">
+        <Original>Altis Armed Forces</Original>
+        <English>Altis Armed Forces</English>
+        <German>Altis Armed Forces</German>
+		<Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_FONT_AAF_BLK_YEL">
+        <Original>Altis Armed Forces - Black/Yellow</Original>
+        <English>Altis Armed Forces - Black/Yellow</English>
+        <German>Altis Armed Forces - Schwarz/Gelb</German>
+		<Chinesesimp>阿尔蒂斯政府军 - 黑色/黄色</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>
+
+//Global Mobilization Extra - Chernarussian Movement of the Red Star
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - ChDKZ">
+  <Package name="GMX_CHDKZ_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_CHDKZ_NAME">
+        <Original>Global Mobilization Extra - Chernarussian Movement of the Red Star</Original>
+        <English>Global Mobilization Extra - Chernarussian Movement of the Red Star</English>
+        <German>Global Mobilization Extra - Chernarussian Movement of the Red Star</German>
+		<Chinesesimp>全球动员扩展 - 黑俄罗斯红星运动</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_VERSION">
+        <Original>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</Original>
+        <English>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</English>
+        <German>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</German>
+		<Chinesesimp>全球动员扩展 - 黑俄罗斯红星运动 1.3.28版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+		<Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_NAMESHORT">
+        <Original>GMX - ChDKZ</Original>
+        <English>GMX - ChDKZ</English>
+        <German>GMX - ChDKZ</German>
+		<Chinesesimp>GMX - ChDKZ</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ">
+        <Original>ChDKZ</Original>
+        <English>ChDKZ</English>
+        <German>ChDKZ</German>
+		<Chinesesimp>ChDKZ</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_ARMY">
+        <Original>ChDKZ</Original>
+        <English>ChDKZ</English>
+        <German>ChDKZ</German>
+		<Chinesesimp>ChDKZ</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="TextureSources">
+      <Key ID="STR_DN_GMX_CHDKZ_WDL">
+        <Original>ChDKZ (Woodland)</Original>
+        <English>ChDKZ (Woodland)</English>
+        <German>ChDKZ (Flecktarn)</German>
+		<Chinesesimp>ChDKZ (林地)</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_WDR">
+        <Original>ChDKZ (Woodland-Red Stripes)</Original>
+        <English>ChDKZ (Woodland-Red Stripes)</English>
+        <German>ChDKZ (Flecktarn - Roter Strich)</German>
+		<Chinesesimp>ChDKZ (林地-红色条纹)</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Ranks">
+      <Key ID="STR_DN_GMX_CHDKZ_rank_01">
+        <Original>Private</Original>
+        <English>Private</English>
+        <German>Gefreiter</German>
+		<Chinesesimp>列兵</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_rank_02">
+        <Original>Corporal</Original>
+        <English>Corporal</English>
+        <German>Unteroffizier</German>
+		<Chinesesimp>下士</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_rank_03">
+        <Original>Sergeant</Original>
+        <English>Sergeant</English>
+        <German>Feldwebel</German>
+		<Chinesesimp>中士</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_rank_04">
+        <Original>Lieutenant</Original>
+        <English>Lieutenant</English>
+        <German>Leutnant</German>
+		<Chinesesimp>中尉</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_rank_05">
+        <Original>Captain</Original>
+        <English>Captain</English>
+        <German>Hauptmann</German>
+		<Chinesesimp>上尉</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_rank_06">
+        <Original>Major</Original>
+        <English>Major</English>
+        <German>Major</German>
+		<Chinesesimp>少校</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_CHDKZ_rank_07">
+        <Original>Colonel</Original>
+        <English>Colonel</English>
+        <German>Oberst</German>
+		<Chinesesimp>上校</Chinesesimp>
+      </Key>
+    </Container>
+  <Container name="Displaynames">
+      <Key ID="STR_DN_gmx_insignia_ChDKZ_01">
+        <Original>ChDKZistan</Original>
+        <English>ChDKZistan</English>
+        <German>ChDKZistan</German>
+		<Chinesesimp>ChDKZistan</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>
+
+//Global Mobilization Extra - Takistan Armed Forces
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - TAK">
+  <Package name="gmx_tak_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_TAK_NAME">
+        <Original>Global Mobilization Extra - Takistan Armed Forces</Original>
+        <English>Global Mobilization Extra - Takistan Armed Forces</English>
+        <German>Global Mobilization Extra - Takistan Armed Forces</German>
+		<Chinesesimp>全球动员扩展 - 塔基斯坦政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_VERSION">
+        <Original>Global Mobilization Extra - Takistan Armed Forces v1.1.28</Original>
+        <English>Global Mobilization Extra - Takistan Armed Forces v1.1.28</English>
+        <German>Global Mobilization Extra - Takistan Armed Forces v1.1.28</German>
+		<Chinesesimp>全球动员扩展 - 塔基斯坦政府军 1.1.28版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+		<Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_NAMESHORT">
+        <Original>GMX - Tak</Original>
+        <English>GMX - Tak</English>
+        <German>GMX - Tak</German>
+		<Chinesesimp>GMX - Tak</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK">
+        <Original>Takistan</Original>
+        <English>Takistan</English>
+        <German>Takistan</German>
+		<Chinesesimp>塔基斯坦</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_ARMY">
+        <Original>Takistan Army</Original>
+        <English>Takistan Army</English>
+        <German>Takistanische Armee</German>
+		<Chinesesimp>塔基斯坦陆军</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="TextureSources">
+      <Key ID="STR_DN_GMX_TAK_DES">
+        <Original>Takistan (Desert)</Original>
+        <English>Takistan (Desert)</English>
+        <German>Takistan (Wüste)</German>
+		<Chinesesimp>塔基斯坦(沙漠)</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_TAN">
+        <Original>Takistan (Tan)</Original>
+        <English>Takistan (Tan)</English>
+        <German>Takistan (Sand)</German>
+		<Chinesesimp>塔基斯坦(棕褐色)</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Ranks">
+      <Key ID="STR_DN_gmx_tak_rank_01">
+        <Original>Private</Original>
+        <English>Private</English>
+        <German>Gefreiter</German>
+		<Chinesesimp>列兵</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_02">
+        <Original>Corporal</Original>
+        <English>Corporal</English>
+        <German>Unteroffizier</German>
+		<Chinesesimp>下士</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_03">
+        <Original>Sergeant</Original>
+        <English>Sergeant</English>
+        <German>Feldwebel</German>
+		<Chinesesimp>中士</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_04">
+        <Original>Lieutenant</Original>
+        <English>Lieutenant</English>
+        <German>Leutnant</German>
+		<Chinesesimp>中尉</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_05">
+        <Original>Captain</Original>
+        <English>Captain</English>
+        <German>Hauptmann</German>
+		<Chinesesimp>上尉</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_06">
+        <Original>Major</Original>
+        <English>Major</English>
+        <German>Major</German>
+		<Chinesesimp>少校</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_07">
+        <Original>Colonel</Original>
+        <English>Colonel</English>
+        <German>Oberst</German>
+		<Chinesesimp>上校</Chinesesimp>
+      </Key>
+    </Container>
+  <Container name="Displaynames">
+      <Key ID="STR_DN_gmx_insignia_tak_01">
+        <Original>Takistan Armed Forces</Original>
+        <English>Takistan Armed Forces</English>
+        <German>Takistan Armed Forces</German>
+		<Chinesesimp>塔基斯坦政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_licenseplate_tak_wht">
+        <Original>Takistan Armed Forces</Original>
+        <English>Takistan Armed Forces</English>
+        <German>Takistan Armed Forces</German>
+		<Chinesesimp>塔基斯坦政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_font_tak_blk">
+        <Original>Takistan Arabic - Black</Original>
+        <English>Takistan Arabic - Black</English>
+        <German>Takistan Arabisch - Schwarz</German>
+		<Chinesesimp>塔基斯坦阿拉伯人 - 黑人</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_font_tak_wht">
+        <Original>Takistan Arabic - White</Original>
+        <English>Takistan Arabic - White</English>
+        <German>Takistan Arabisch - Weiß</German>
+		<Chinesesimp>塔基斯坦阿拉伯人 - 白人</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>
+
+//Global Mobilization Extra - TFAR Compatibility
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - TFAR">
+  <Package name="gmx_TFAR_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_TFAR_NAME">
+        <Original>Global Mobilization Extra - TFAR Compatibility</Original>
+        <English>Global Mobilization Extra - TFAR Compatibility</English>
+        <German>Global Mobilization Extra - TFAR Compatibility</German>
+		<Chinesesimp>全球动员扩展 - TFAR兼容模组</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TFAR_VERSION">
+        <Original>Global Mobilization Extra - TFAR Compatibility v1.3</Original>
+        <English>Global Mobilization Extra - TFAR Compatibility v1.3</English>
+        <German>Global Mobilization Extra - TFAR Compatibility v1.3</German>
+		<Chinesesimp>全球动员扩展 - TFAR兼容模组1.3版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TFAR_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+		<Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TFAR_NAMESHORT">
+        <Original>GMX - TFAR</Original>
+        <English>GMX - TFAR</English>
+        <German>GMX - TFAR</German>
+		<Chinesesimp>GMX - TFAR</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
 </Project>
