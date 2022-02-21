@@ -1,0 +1,722 @@
+<Project name="SP">
+	<Package name="SP1">
+		<Container name="Brifing">
+			<Key ID="STR_Name">
+				<Original>GAINING ALTITUDE</Original>
+				<Russian>НАБИРАЯ ВЫСОТУ</Russian>
+				<Chinesesimp>保持高度</Chinesesimp>
+				<Chinese>保持高度</Chinese>
+			</Key>
+			<Key ID="STR_Author">
+				<Original>Doctor Oktobofest</Original>
+				<Russian>Доктор Октобофест</Russian>
+			</Key>
+			<Key ID="STR_Load_name">
+				<Original>Save the delegation at any cost.</Original>
+				<Russian>Спасите делегацию любой ценой.</Russian>
+				<Chinesesimp>不惜一切代价拯救代表团。</Chinesesimp>
+				<Chinese>不惜一切代價拯救代表團。</Chinese>
+			</Key>
+			<Key ID="STR_Situation">
+				<Original>Situation</Original>
+				<Russian>Ситуация</Russian>
+				<Chinesesimp>情况</Chinesesimp>
+				<Chinese>情況</Chinese>
+			</Key>
+			<Key ID="STR_Situation_info">
+				<Original>The trial over the Orecastro tragedy was due to take place today, it was decided to hold it in the capital of Malden &lt;marker name="marker_156"&gt;La Trinite&lt;marker&gt;. But someone shot down helicopters with a delegation that should be representatives of different sides. Among the delegates, the UN Security Council is primarily interested in the condition of their employee Edward Evans. As we know, he has a lot of refuting information on the version of events provided by the rebel organization "Freedom and Independence Army" (FIA).&lt;br/&gt;&lt;br/&gt;The UN Security Council has put forward for the search and rescue operation &lt;marker name="m5"&gt;7th platoon of the Task Force ZEAL&lt;marker&gt;.&lt;br/&gt;&lt;br/&lt;marker name="m1"&gt;The crash site of&lt;marker&gt; helicopters is a ruined town and a military base during the "Malden Islands Crisis". We were unable to contact the crew and delegates, a jammer is most likely operating at the crash site. An unmanned scout under the call sign "Owl" reports that shooting is underway in the crash zone, presumably the helicopter crew is defending the delegates. So we don't have much time, we can't waste a minute.</Original>
+				<Russian>Судебный процесс по делу о трагедии в Орекастро должен был состояться сегодня, его было решено провести в столице Малдена &lt;marker name="marker_156"&gt;Ла Трините&lt;marker&gt;. Но кто-то сбил вертолёты с делегацией которая должна быть представителями разных сторон. Среди делегатов Совет Безопасности ООН в первую очередь интересуется состоянием своего сотрудника Эдварда Эванса. Как мы знаем, у него есть много опровергающей информации о версии событий, предоставленной повстанческой организацией "Армия свободы и независимости" (FIA).&lt;br/&gt;&lt;br/&gt;Совет Безопасности ООН выдвинул для проведения поисково-спасательной операции &lt;marker name="m5"&gt;7-й взвод ОТГ ZEAL&lt;marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="m1"&gt;Место крушения&lt;marker&gt; вертолётов представляет собой разрушенный городок и военную базу времён "Кризиса на Малденских островах".  Мы не смогли связаться с экипажем и делегатами, скорее всего, на месте крушения работает глушилка. Беспилотный разведчик под позывным "Филин" сообщает, что в зоне крушения ведется стрельба, предположительно экипаж вертолета защищает делегатов. Так что у нас не так много времени, мы не можем терять ни минуты.</Russian>
+				<Chinesesimp>对奥雷卡斯特罗悲剧的审判原定于今天进行，决定在马尔登拉特林特的首都举行。但有人击落了带有代表团的直升机，这些代表团应该是不同方面的代表。在这些代表中，联合国安理会主要关心的是他们的雇员爱德华·埃文斯的状况。如我们所知，他对反叛组织 "自由与独立军"（FIA）提供的事件版本有很多反驳的信息。联合国安理会已经提出了搜索和救援行动的ZEAL特遣部队第七排。直升机的坠毁地点是一个被毁坏的城镇，也是 "马尔登群岛危机 "期间的一个军事基地。我们无法联系到机组人员和代表，一个干扰器很可能在坠机地点运行。一个呼号为 "猫头鹰 "的无人侦察机报告说，坠机区有交火声传出，估计是直升机机组人员在保卫代表们的安全。所以我们的时间不多，我们不能浪费一分一秒。</Chinesesimp>
+				<Chinese>對奧雷卡斯特羅悲劇的審判原定於今天進行，決定在馬爾登拉特林特的首都舉行。但有人擊落了帶有代表團的直升機，這些代表團應該是不同方面的代表。在這些代表中，聯合國安理會主要關心的是他們的僱員愛德華·埃文斯的狀況。如我們所知，他對反叛組織 "自由與獨立軍"（FIA）提供的事件版本有很多反駁的信息。聯合國安理會已經提出了搜索和救援行動的ZEAL特遣部隊第七排。直升機的墜毀地點是一個被毀壞的城鎮，也是 "馬爾登群島危機 "期間的一個軍事基地。我們無法聯繫到機組人員和代表，一個乾擾器很可能在墜機地點運行。一個呼號為 "貓頭鷹 "的無人偵察機報告說，墜機區有交火声传出，估計是直升機機組人員在保衛代表們的安全。所以我們的時間不多，我們不能浪費一分一秒。</Chinese>
+			</Key>
+			<Key ID="STR_Brif">
+				<Original>Mission</Original>
+				<Russian>Задание</Russian>
+				<Chinesesimp>任务</Chinesesimp>
+				<Chinese>任務</Chinese>
+			</Key>
+			<Key ID="STR_Brif_info">
+				<Original>&lt;marker name="m5"&gt;Hotel&lt;marker&gt; to deliver to the &lt;marker name="m1"&gt;crash site&lt;marker&gt; eliminate the enemy in the &lt;marker name="m1"&gt;sector&lt;marker&gt;. Find the delegates and evacuate them from Oscar 3. Wait for further instructions.</Original>
+				<Russian>&lt;marker name="m5"&gt;Хотел&lt;marker&gt; доставит к &lt;marker name="m1"&gt;месту крушения&lt;marker&gt;, ликвидируйте противника в &lt;marker name="m1"&gt;секторе.&lt;marker&gt; Найдите делегатов и эвакуируйте их с Оскар 3. Ожидайте дальнейших инструкций.</Russian>
+				<Chinesesimp>&lt;marker name="m5"&gt;Hotel&lt;marker&gt;前往 &lt;marker name="m1"&gt;坠机地点&lt;marker&gt;并且消灭&lt;marker name="m1"&gt;该区域&lt;marker&gt;的敌军。寻找幸存者搭上 Oscar 3撤离直升机，等待进一步指示。</Chinesesimp>
+				<Chinese>&lt;marker name="m5"&gt;Hotel&lt;marker&gt;前往 &lt;marker name="m1"&gt;墜機地點&lt;marker&gt;並且消滅&lt;marker name="m1"&gt;該區域&lt;marker&gt;的敵軍。尋找倖存者搭上 Oscar 3撤離直升機，等待進一步指示。</Chinese>
+			</Key>
+			<Key ID="STR_Execution">
+				<Original>Execution</Original>
+				<Russian>Выполнение</Russian>
+				<Chinesesimp>行动</Chinesesimp>
+				<Chinese>行動</Chinese>
+			</Key>
+			<Key ID="STR_Execution_info">
+				<Original>1. Move in a column up to &lt;marker name="m1"&gt;crash site&lt;marker&gt;.&lt;br/&gt;2. Eliminate enemy forces in the &lt;marker name="m1"&gt;sector&lt;marker&gt;.&lt;br/&gt;3. Evacuate the delegates and wait for further instructions.</Original>
+				<Russian>1. Двигайтесь в колонне до &lt;marker name="m1"&gt;места крушения&lt;marker&gt;.&lt;br/&gt;2. Ликвидируйте силы противника в &lt;marker name="m1"&gt;секторе&lt;marker&gt;.&lt;br/&gt;3. Эвакуируйте делегатов и ожидайте дальнейших указаний.</Russian>
+				<Chinesesimp>1. 以纵队形式移动到&lt;marker name="m1"&gt;坠机地点&lt;marker&gt;。&lt;br/&gt;2. 消灭&lt;marker name="m1"&gt;该区域&lt;marker&gt;的敌军。&lt;br/&gt;3.撤离幸存者，等待进一步指示。</Chinesesimp>
+				<Chinese>1. 以縱隊形式移動到&lt;marker name="m1"&gt;墜機地點&lt;marker&gt;。 &lt;br/&gt;2. 消滅&lt;marker name="m1"&gt;該區域&lt;marker&gt;的敵軍。 &lt;br/&gt;3.撤離倖存者，等待進一步指示。</Chinese>
+			</Key>
+			<Key ID="STR_Signal">
+				<Original>Signal</Original>
+				<Russian>Сигнал</Russian>
+				<Chinesesimp>呼号</Chinesesimp>
+				<Chinese>呼號</Chinese>
+			</Key>
+			<Key ID="STR_Signal_info">
+				<Original>&lt;marker name="m5"&gt;Delta&lt;marker&gt; - your group&lt;br/&gt;&lt;marker name="m5"&gt;Hotel&lt;marker&gt; - column of "Hunter" cars&lt;br/&gt;Oscar 3 - "UH-80 Ghost Hawk" helicopter to evacuate delegates&lt;br/&gt;Baseplate - headquarters</Original>
+				<Russian>&lt;marker name="m5"&gt;Дельта&lt;marker&gt; - ваша группа&lt;br/&gt;&lt;marker name="m5"&gt;Хотел&lt;marker&gt; - колонна из машин "Hunter"&lt;br/&gt;Оскар 3 - вертолёт "UH-80 Ghost Hawk" для эвакуации делегатов&lt;br/&gt;Центр - командование</Russian>
+				<Chinesesimp>&lt;marker name="m5"&gt;Delta&lt;marker&gt; - 你的小队&lt;br/&gt;&lt;marker name="m5"&gt;Hotel&lt;marker&gt; - “猎人”车队&lt;br/&gt;Oscar 3--"UH-80鬼鹰"撤离直升机&lt;br/&gt;基地 - HQ</Chinesesimp>
+				<Chinese>&lt;marker name="m5"&gt;Delta&lt;marker&gt; - 你的小隊&lt;br/&gt;&lt;marker name="m5"&gt;Hotel&lt;marker&gt; - “獵人”車隊&lt;br/&gt;Oscar 3--"UH-80鬼鷹"撤離直升機&lt;br/&gt;Baseplate - HQ</Chinese>
+			</Key>
+		</Container>
+		<Container name="Win">
+			<Key ID="STR_Win">
+				<Original>Mission accomplished</Original>
+				<Russian>Миссия выполнена</Russian>
+				<Chinesesimp>任务完成</Chinesesimp>
+				<Chinese>任務完成</Chinese>
+			</Key>
+			<Key ID="STR_Win_info">
+				<Original>Did you manage to evacuate</Original>
+				<Russian>Вы успели эвакуироваться</Russian>
+				<Chinesesimp>你设法撤离了</Chinesesimp>
+				<Chinese>你設法撤離了</Chinese>
+			</Key>
+			<Key ID="STR_Win_info2">
+				<Original>Your group managed to evacuate. We've sent a takeover team to Stratis to take over the server room, I bet that should shed some light on this situation.</Original>
+				<Russian>Вам удалось эвакуироваться. Мы послали группу захвата на Стратис для захвата серверной комнаты, держим пари, что это должно пролить свет на эту ситуацию.</Russian>
+				<Chinesesimp>你的小组成功地撤离了。我们已经派了一个接管小组去斯特拉蒂斯岛接管服务器机房，我打赌这应该会对这个情况有所了解。</Chinesesimp>
+				<Chinese>你的小組成功地撤離了。我們已經派了一個接管小組去斯特拉蒂斯島接管服務器機房，我打賭這應該會對這個情況有所了解。</Chinese>
+			</Key>
+		<Container name="Loser">
+			<Key ID="STR_Lose_info">
+				<Original>Pilot was killed</Original>
+				<Russian>Пилот был убит</Russian>
+				<Chinesesimp>飞行员被杀</Chinesesimp>
+				<Chinese>飛行員被殺</Chinese>
+			</Key>
+			<Key ID="STR_Lose_info2">
+				<Original>You could not save the only living witness, the investigation and the search for survivors are delayed.</Original>
+				<Russian>Вы не смогли спасти единственного живого свидетеля, расследование и поиски выживших затягиваются.</Russian>
+				<Chinesesimp>你没有拯救唯一活着的幸存者，调查和寻找幸存者的工作被推迟了。</Chinesesimp>
+				<Chinese>你沒有拯救唯一活著的倖存者，調查和尋找倖存者的工作被推遲了。</Chinese>
+			</Key>
+		</Container>
+		<Container name="Say">
+			<Key ID="STR_Say">
+				<Original>&lt;t font='PuristaMedium' size='1.8'&gt;GAINING ALTITUDE&lt;/t&gt;&lt;br/&gt;&lt;t font='PuristaMedium' size='1.1'&gt;5:48 15-10-2034&lt;br/&gt;7th platoon TF ZEAL&lt;br/&gt;North-East Malden&lt;/t&gt;</Original>
+				<Russian>&lt;t font='PuristaMedium' size='1.8'&gt;НАБИРАЯ ВЫСОТУ&lt;/t&gt;&lt;br/&gt;&lt;t font='PuristaMedium' size='1.1'&gt;5:48 15-10-2034&lt;br/&gt;7-й взвод ОТГ ZEAL&lt;br/&gt;Северо-восточный Малден&lt;/t&gt;</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' size='1.8'&gt;保持高度&lt;/t&gt;&lt;br/&gt;&lt;t font='PuristaMedium' size='1.1'&gt;2034年10月15日5时48分&lt;br/&gt;TF ZEAL第7排&lt;br/&gt;马尔登岛东北部 &lt;/t&gt;</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' size='1.8'&gt;保持高度&lt;/t&gt;&lt;br/&gt;&lt;t font='PuristaMedium' size='1.1'&gt;2034年10月15日5時48分&lt;br/&gt;TF ZEAL第7排&lt;br/&gt;馬爾登島東北部 &lt;/t&gt;</Chinese>
+			</Key>
+		</Container>
+		<Container name="Marker">
+			<Key ID="STR_Marker1">
+				<Original> Place of wreck helicopters</Original>
+				<Russian> Место крушения</Russian>
+				<Chinesesimp>失事直升机位置</Chinesesimp>
+				<Chinese>失事直升機位置</Chinese>
+			</Key>
+			<Key ID="STR_Marker2">
+				<Original>Radio station</Original>
+				<Russian>Радиостанция</Russian>
+				<Chinesesimp>无线电站</Chinesesimp>
+				<Chinese>無線電站</Chinese>
+			</Key>
+			<Key ID="STR_Marker3">
+				<Original>Helicopter</Original>
+				<Russian>Вертолёт</Russian>
+				<Chinesesimp>直升机</Chinesesimp>
+				<Chinese>直升機</Chinese>
+			</Key>
+			<Key ID="STR_Marker4">
+				<Original>Romeo</Original>
+				<Russian>Ромео</Russian>
+				<Chinesesimp>罗密欧</Chinesesimp>
+				<Chinese>羅密歐</Chinese>
+			</Key>
+			<Key ID="STR_Marker5">
+				<Original>Evacuation point</Original>
+				<Russian>Точка эвакуации</Russian>
+				<Chinesesimp>撤离点</Chinesesimp>
+				<Chinese>撤離點</Chinese>
+			</Key>
+		</Container>
+		<Container name="MainHero">
+			<Key ID="STR_MH">
+				<Original>Henry Blackburn</Original>
+				<Russian>Генри Блэкберн</Russian>
+				<Chinesesimp>亨利·布莱克本</Chinesesimp>
+				<Chinese>亨利·布萊克本</Chinese>
+			</Key>
+			<Key ID="STR_MH1">
+				<Original>Henry</Original>
+				<Russian>Генри</Russian>
+				<Chinesesimp>亨利</Chinesesimp>
+				<Chinese>亨利</Chinese>
+			</Key>
+			<Key ID="STR_MH2">
+				<Original>Blackburn</Original>
+				<Russian>Блэкберн</Russian>
+				<Chinesesimp>布莱克本</Chinesesimp>
+				<Chinese>布萊克本</Chinese>
+			</Key>
+			<Key ID="STR_MH3">
+				<Original>Delta</Original>
+				<Russian>Дельта</Russian>
+				<Chinesesimp>三角洲</Chinesesimp>
+				<Chinese>三角洲</Chinese>
+			</Key>
+		</Container>
+		<Container name="Task">
+			<Key ID="STR_Task1">
+				<Original>Save the delegation</Original>
+				<Russian>Спасти делегацию</Russian>
+				<Chinesesimp>拯救代表团</Chinesesimp>
+				<Chinese>拯救代表團</Chinese>
+			</Key>
+			<Key ID="STR_Task2">
+				<Original>Follow the ROE</Original>
+				<Russian>Соблюдать ППО</Russian>
+				<Chinesesimp>遵守交战规则</Chinesesimp>
+				<Chinese>遵守交战规则</Chinese>
+			</Key>
+			<Key ID="STR_Task3">
+				<Original>Clean up the sector</Original>
+				<Russian>Зачистить сектор</Russian>
+				<Chinesesimp>清理该区域</Chinesesimp>
+				<Chinese>清理該區域</Chinese>
+			</Key>
+			<Key ID="STR_Task4">
+				<Original>Provide first aid</Original>
+				<Russian>Оказать первую помощь</Russian>
+				<Chinesesimp>提供急救</Chinesesimp>
+				<Chinese>提供急救</Chinese>
+			</Key>
+			<Key ID="STR_Task5">
+				<Original>Protect the pilot</Original>
+				<Russian>Защитить пилота</Russian>
+				<Chinesesimp>保护飞行员</Chinesesimp>
+				<Chinese>保護飛行員</Chinese>
+			</Key>
+			<Key ID="STR_Task6">
+				<Original>Get in the car</Original>
+				<Russian>Сесть в машину</Russian>
+				<Chinesesimp>上车</Chinesesimp>
+				<Chinese>上車</Chinese>
+			</Key>
+			<Key ID="STR_Task7">
+				<Original>Storm the radio station</Original>
+				<Russian>Штурмовать радиостанцию</Russian>
+				<Chinesesimp>突袭无线电站</Chinesesimp>
+				<Chinese>突襲無線電站</Chinese>
+			</Key>
+			<Key ID="STR_Task7_1">
+				<Original>Capture a radio station (optional)</Original>
+				<Russian>Захватить радиостанцию (доп.)</Russian>
+				<Chinesesimp>夺取一处无线电站（可选）</Chinesesimp>
+				<Chinese>奪取一處無線電站（可選）</Chinese>
+			</Key>
+			<Key ID="STR_Task7_2">
+				<Original>Connect to the control unit</Original>
+				<Russian>Подключиться к блоку управления</Russian>
+				<Chinesesimp>与指挥部取得联系</Chinesesimp>
+				<Chinese>與指揮部取得聯繫</Chinese>
+			</Key>
+			<Key ID="STR_Task8">
+				<Original>Evacuate</Original>
+				<Russian>Эвакуируйтесь</Russian>
+				<Chinesesimp>撤离</Chinesesimp>
+				<Chinese>撤離</Chinese>
+			</Key>
+			<Key ID="STR_Task9">
+				<Original>[Secret Mission] Unknown combatant</Original>
+				<Russian>[Секретное задание] Неизвестный комбатант</Russian>
+				<Chinesesimp>[秘密任务]不明武装人员</Chinesesimp>
+				<Chinese>[秘密任務]不明武裝人員</Chinese>
+			</Key>
+			<Key ID="STR_infoTask1">
+				<Original>&lt;marker name="m5"&gt;Hotel&lt;marker&gt;, will take you to &lt;marker name="m1"&gt;helicopter crash site&lt;marker&gt;, find delegates in particular Edward Evans and start evacuation.&lt;br/&gt;&lt;br/&gt;Photo by Edward Evans&lt;img image='Photo.paa' width='400' height='250' /&gt;</Original>
+				<Russian>&lt;marker name="m5"&gt;Хотел&lt;marker&gt;, доставит вас к &lt;marker name="m1"&gt;месту крушения вертолётов&lt;marker&gt;, найдите делегатов в частности Эдварда Эванса и начинайте эвакуацию.&lt;br/&gt;&lt;br/&gt;Фото Эдварда Эванса&lt;img image='Photo.paa' width='400' height='250' /&gt;</Russian>
+				<Chinesesimp>&lt;marker name="m5"&gt;Hotel&lt;marker&gt;, 将会带你前往 &lt;marker name="m1"&gt;失事直升机地点&lt;marker&gt;找到代表们，特别是爱德华·埃文斯，然后撤离。&lt;br/&gt;&lt;br/&gt;照片：爱德华·埃文斯&lt;img image='Photo.paa' width='400' height='250' /&gt;</Chinesesimp>
+				<Chinese>&lt;marker name="m5"&gt;Hotel&lt;marker&gt;, 將會帶你前往 &lt;marker name="m1"&gt;失事直升機地點&lt;marker&gt;找到代表們，特別是愛德華·埃文斯，然後撤離。 &lt;br/&gt;&lt;br/&gt;照片：愛德華·埃文斯&lt;img image='Photo.paa' width='400' height='250' /&gt;</Chinese>
+			</Key>
+			<Key ID="STR_infoTask2">
+				<Original>Follow the Rules of Engagement. Do not fire unless upon.</Original>
+				<Russian>Следуйте правилам применения оружия. Не стреляйте, если по вам не стреляют.</Russian>
+				<Chinesesimp>遵守交战规则，不要主动开火，除非暴露了。</Chinesesimp>
+				<Chinese>遵守交戰規則，不要主動開火，除非暴露了。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask3">
+				<Original>Move to &lt;marker name="m1"&gt;crash site&lt;marker&gt;, eliminate enemy forces in the sector.</Original>
+				<Russian>Двигайтесь на &lt;marker name="m1"&gt;место крушения&lt;marker&gt;, ликвидируйте силы противника в секторе.</Russian>
+				<Chinesesimp>前往&lt;marker name="m1"&gt;失事地点&lt;marker&gt;，消灭该区域的武装分子。</Chinesesimp>
+				<Chinese>前往&lt;marker name="m1"&gt;失事地點&lt;marker&gt;，消滅該區域的武裝分子。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask4">
+				<Original>Find the helicopter pilot at &lt;marker name="m1"&gt;crash site&lt;marker&gt; and give him first aid.</Original>
+				<Russian>Найдите пилота вертолета на &lt;marker name="m1"&gt;месте крушения&lt;marker&gt; и окажите ему первую помощь.</Russian>
+				<Chinesesimp>在&lt;marker name="m1"&gt;失事地点&lt;marker&gt; 寻找直升机飞行员，并第一时间提供急救。</Chinesesimp>
+				<Chinese>在&lt;marker name="m1"&gt;失事地點&lt;marker&gt; 尋找直升機飛行員，並第一時間提供急救。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask5">
+				<Original>Protect the helicopter pilot until the arrival of the evacuation &lt;marker name="marker_7"&gt;helicopter&lt;marker&gt; under the call sign Oscar 3.</Original>
+				<Russian>Защищайте пилота вертолёта до прибытия эвакуационного &lt;marker name="marker_7"&gt;вертолёта&lt;marker&gt; под позывным Оскар 3.</Russian>
+				<Chinesesimp>保护直升机飞行员，直到呼号为Oscar 3的&lt;marker name="marker_7"&gt;撤离直升机&lt;marker&gt;到达。</Chinesesimp>
+				<Chinese>保護直升機飛行員，直到呼號為Oscar 3的&lt;marker name="marker_7"&gt;撤離直升機&lt;marker&gt;到達。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask6">
+				<Original>Together with your squad, get into the transport from the convoy. he will take you to the &lt;marker name="m2"&gt;radio station&lt;marker&gt;.</Original>
+				<Russian>Вместе со своим отрядом садитесь в транспорт из колонны. он вас довезёт до &lt;marker name="m2"&gt;радиостанции&lt;marker&gt;.</Russian>
+				<Chinesesimp>和你的小队一起，登上车队的运输车。他将带你前往&lt;marker name="m2"&gt;无线电站&lt;marker&gt;。</Chinesesimp>
+				<Chinese>和你的小隊一起，登上車隊的運輸車。他將帶你前往&lt;marker name="m2"&gt;無線電站&lt;marker&gt;。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask7">
+				<Original>Storm the &lt;marker name="m2"&gt;radio station&lt;marker&gt; simultaneously completing tasks with the support of the Romeo group.</Original>
+				<Russian>Штурмуйте &lt;marker name="m2"&gt;радиостанцию&lt;marker&gt; попутно выполняя задания с поддержкой группы Ромео.</Russian>
+				<Chinesesimp>在同时完成任务了的罗密欧小组的支援下，突袭&lt;marker name="m2"&gt;无线电站&lt;marker&gt;。</Chinesesimp>
+				<Chinese>在同時完成任務了的羅密歐小組的支援下，突襲&lt;marker name="m2"&gt;無線電站&lt;marker&gt;。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask7_1">
+				<Original>Eliminate the enemy forces on the &lt;marker name="m2"&gt;radio station&lt;marker&gt;.</Original>
+				<Russian>Ликвидируйте силы противника на &lt;marker name="m2"&gt;радиостанции&lt;marker&gt;.</Russian>
+				<Chinesesimp>消灭&lt;marker name="m2"&gt;无线电站&lt;marker&gt;内的所有武装分子。</Chinesesimp>
+				<Chinese>消滅&lt;marker name="m2"&gt;無線電站&lt;marker&gt;內的所有武裝分子。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask7_2">
+				<Original>Find the radar control unit on &lt;marker name="m2"&gt;radio station&lt;marker&gt; and connect to it to reconnaissance the area.</Original>
+				<Russian>Найдите на &lt;marker name="m2"&gt;радиостанции&lt;marker&gt; блок управления радаром и подключитесь к нему для рекогносцировки местности.</Russian>
+				<Chinesesimp>找到&lt;marker name="m2"&gt;无线电站&lt;marker&gt;的雷达控制单元，并与之连接以侦察该地区。</Chinesesimp>
+				<Chinese>找到&lt;marker name="m2"&gt;無線電站&lt;marker&gt;的雷達控制單元，並與之連接以偵察該地區。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask8">
+				<Original>Move to &lt;marker name="m3"&gt;evacuation point&lt;marker&gt; and get into the "HEMTT" truck with your squad.</Original>
+				<Russian>Двигайтесь к &lt;marker name="m3"&gt;точке эвакуации&lt;marker&gt; и садитесь вместе со своим отрядом в грузовик "HEMTT".</Russian>
+				<Chinesesimp>移动到&lt;marker name="m3"&gt;撤离点&lt;marker&gt;，和你的小队一起进入"HEMTT"卡车。</Chinesesimp>
+				<Chinese>移動到&lt;marker name="m3"&gt;撤離點&lt;marker&gt;，和你的小隊一起進入"HEMTT"卡車。</Chinese>
+			</Key>
+			<Key ID="STR_infoTask9">
+				<Original>You were able to find the dead combatant, but whose side is he on?</Original>
+				<Russian>Вы смогли найти убитого комбатанта, но на чьей он стороне?</Russian>
+				<Chinesesimp>你们找到了一名阵亡的士兵，但他是站在哪一边的？</Chinesesimp>
+				<Chinese>你們找到了一名陣亡的士兵，但他是站在哪一邊的？</Chinese>
+			</Key>
+		</Container>
+		<Container name="Komp">
+			<Key ID="STR_Komp1">
+				<Original>Provide first aid</Original>
+				<Russian>Оказать первую медицинскую помощь</Russian>
+				<Chinesesimp>提供急救</Chinesesimp>
+				<Chinese>提供急救</Chinese>
+			</Key>
+			<Key ID="STR_Komp2">
+				<Original>Get access</Original>
+				<Russian>Получить доступ</Russian>
+				<Chinesesimp>获取访问权限</Chinesesimp>
+				<Chinese>獲取訪問權限</Chinese>
+			</Key>
+		</Container>
+		<Container name="Sound">
+			<Key ID="STR_CutIntro">
+				<Original>&lt;t font='PuristaMedium' size = '2' &gt;GAINING ALTITUDE</Original>
+				<Russian>&lt;t font='PuristaMedium' size = '2' &gt;НАБИРАЯ ВЫСОТУ</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' size = '2' &gt;保持高度</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' size = '2' &gt;保持高度</Chinese>
+			</Key>
+			<Key ID="STR_CutIntro2">
+				<Original>In 2023, after a series of devastating defeats of UN peacekeepers in different parts of the world and crushing criticism, the UN Security Council was completely reformed.</Original>
+				<Russian>В 2023 году, после серии сокрушительных поражений миротворцев ООН в разных частях света и сокрушительной критики, Совет Безопасности ООН был полностью реформирован.</Russian>
+				<Chinesesimp>2023年，联合国维和人员在世界不同地区遭受了一系列毁灭性的失败和压倒性的批评之后，联合国安理会进行了一次彻底改革。</Chinesesimp>
+				<Chinese>2023年，聯合國維和人員在世界不同地區遭受了一系列毀滅性的失敗和壓倒性的批評之後，聯合國安理會進行了一次徹底改革。</Chinese>
+			</Key>
+			<Key ID="STR_CutIntro3">
+				<Original>The new UN Security Council has begun to strengthen the UN army and create Task Force ZEAL</Original>
+				<Russian>Новый Совет Безопасности ООН приступил к укреплению армии ООН и созданию Оперативной-тактической группы ZEAL</Russian>
+				<Chinesesimp>新联合国安全理事会开始加强联合国军队的武装实力，并建立了ZEAL特遣部队</Chinesesimp>
+				<Chinese>新聯合國安全理事會開始加強聯合國軍隊的武裝實力，並建立了ZEAL特遣部隊</Chinese>
+			</Key>
+			<Key ID="STR_CutIntro4">
+				<Original>ZEAL is the elite of the UN peacekeeping forces. Only the most outstanding fighters who have passed enhanced examination checks and training get into the ranks of the Task Force.</Original>
+				<Russian>ZEAL - элита миротворческих сил ООН. В ряды ОТГ попадают только самые выдающиеся бойцы, прошедшие усиленные экзаменационные проверки и тренировки.</Russian>
+				<Chinesesimp>ZEAL 是联合国维和部队的精英。只有通过强化考试和训练的最优秀战斗人员才能进入特遣部队。</Chinesesimp>
+				<Chinese>ZEAL 是聯合國維和部隊的精英。只有通過強化考試和訓練的最優秀戰鬥人員才能進入特遣部隊。</Chinese>
+			</Key>
+			<Key ID="STR_Intro">
+				<Original>10:58&lt;br/&gt;AFTER THE CRASH</Original>
+				<Russian>10:58&lt;br/&gt;ПОСЛЕ КРУШЕНИЯ</Russian>
+				<Chinesesimp>10:58&lt;br/&gt;坠机后</Chinesesimp>
+				<Chinese>10:58&lt;br/&gt;墜機後</Chinese>
+			</Key>
+			<Key ID="STR_Intro2">
+				<Original>10:59&lt;br/&gt;AFTER THE CRASH</Original>
+				<Russian>10:59&lt;br/&gt;ПОСЛЕ КРУШЕНИЯ</Russian>
+				<Chinesesimp>10:59&lt;br/&gt;坠机后</Chinesesimp>
+				<Chinese>10:59&lt;br/&gt;墜機後</Chinese>
+			</
+			<Key ID="STR_Intro3">
+				<Original>11:00&lt;br/&gt;AFTER THE CRASH</Original>
+				<Russian>11:00&lt;br/&gt;ПОСЛЕ КРУШЕНИЯ</Russian>
+				<Chinesesimp>11:00&lt;br/&gt;坠机后</Chinesesimp>
+				<Chinese>11:00&lt;br/&gt;墜機後</Chinese>
+			</Key>
+			<Key ID="STR_Intro4">
+				<Original></Original>
+				<Russian></Russian>
+				<Chinesesimp></Chinesesimp>
+				<Chinese></Chinese>
+			</Key>
+			<Key ID="STR_A1">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Baseplate, Delta, we're about a minute from the crash site. Receipt.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ХОТЕЛ:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Центр, Дельта, мы примерно в минуте от места крушения. Приём.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 基地，这里是三角洲，我们还有一分钟就到坠机地点了。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 基地，這裡是三角洲，我們還有一分鐘就到墜機地點了。</Chinese>
+			</Key>
+			<Key ID="STR_A2">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Accepted. An unmanned scout with the call sign "Owl" reports on the arrival of a van at the crash site.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Принято. Беспилотный разведчик с позывным "Филин" сообщает о прибывшем фургоне на место крушения.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 收到。一架呼号为“猫头鹰”的无人侦察机侦察到一辆货车抵达了坠机地点。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 收到。一架呼號為“貓頭鷹”的無人偵察機偵察到一輛貨車抵達了墜機地點。</Chinese>
+			</Key>
+			<Key ID="STR_A3">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, remember, among the delegates, first of all we are interested in the condition of Edward Evans, you should have his photo.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, помните среди делегатов в первую очередь нас интересует состояние Эдварда Эванса, его фотография должна быть у вас.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，记住，在众多代表中，我们对爱德华·埃文斯先生的情况最为感兴趣，你应该有他的照片。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，記住，在眾多代表中，我們對愛德華·埃文斯先生的情況最為感興趣，你應該有他的照片。</Chinese>
+			</Key>
+			<Key ID="STR_A4">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; We tried to contact the crew of the van that arrived, but they keep complete radio silence.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Мы попытались связаться с экипажем прибывшего фургона, но они держат полное радиомолчание.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 我们试图联系赶来的货车上的人员，但他们完全保持无线电静默。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 我們試圖聯繫趕來的貨車上的人員，但他們完全保持無線電靜默。</Chinese>
+			</Key>
+			<Key ID="STR_A5">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; The cars have extra gear for you.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; В машинах есть дополнительная экипировка для вас.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 车内有为你准备的额外装备。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 車內有為你準備的額外裝備。</Chinese>
+			</Key>
+			<Key ID="STR_A6">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Remember the rules - don't shoot until you come under fire. The Security Council is nervous. We will keep you informed. Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Помните о правилах - не стрелять, пока не попали под огонь. Совет Безопасности нервничает. Будем держать вас в курсе. Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 记住交战规则--在受到攻击之前不要开枪。安理会现在很紧张。我们会随时通知你新消息，完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 記住交戰規則--在受到攻擊之前不要開槍。安理會現在很緊張。我們會隨時通知你新消息，完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A7">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; I see clouds of smoke, we're almost there.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ХОТЕЛ:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Вижу клубы дыма, мы почти на месте.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 我看到黑烟了，我们就快到了。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 我看到黑煙了，我們就快到了。</Chinese>
+			</Key>
+			<Key ID="STR_A8">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Center, we've been attacked! Requesting support.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ХОТЕЛ:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Центр, на нас напали! Запрашиваем поддержку.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 基地，我们被攻击了！请求支援。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 基地，我們被攻擊了！請求支援。</Chinese>
+			</Key>
+			<Key ID="STR_A9">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Everyone stay in the cars, the bombs is coming.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Всем остаться в машинах, бомбы пошли.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 所有人都待在车里，导弹支援要来了。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 所有人都待在車裡，导弹支援要來了。</Chinese>
+			</Key>
+			<Key ID="STR_A10">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; The targets have been eliminated.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Цели ликвидированы.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 目标已被消灭。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 目標已被消滅。</Chinese>
+			</Key>
+			<Key ID="STR_A11">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta land and proceed to the main target, I give permission to open fire first. Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта высаживайтесь и приступайте к главной цели, даю разрешение открывать огонь первыми. Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲已下车，前往主要目标，请求主动开火，完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲已下車，前往主要目標，請求先行開火，完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A12">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; </Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; </Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; </Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; </Chinese>
+			</Key>
+			<Key ID="STR_A13">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; The Security Council won't be thrilled when it finds out what happened here.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Совет Безопасности не будет в восторге когда узнает что здесь произошло.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 安理会如果知道这里发生了什么，肯定不会高兴的。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 安理會如果知道這裡發生了什麼，肯定不會高興的。</Chinese>
+			</Key>
+			<Key ID="STR_A14">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Attention, Delta, protect the pilot at all costs, the Owl has spotted enemy reinforcements from the forest.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Внимание, Дельта, защищайте пилота любой ценой, "Филин" засёк подкрепление противника из леса.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 注意，三角洲，不惜一切代价保护飞行员，猫头鹰在森林中发现了敌人的援军。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 注意，三角洲，不惜一切代價保護飛行員，貓頭鷹在森林中發現了敵人的援軍。</Chinese>
+			</Key>
+			<Key ID="STR_A15">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; The helicopter is on its way to carry out the evacuation of the pilot. Call sign Oscar 3. Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Вертолёт уже в пути для проведения эвакуации пилота. Позывной Оскар 3. Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 直升机正在前往执行飞行员的撤离任务，呼号Oscar 3。完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 直升機正在前往執行飛行員的撤離任務，呼號Oscar 3。完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A16">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Clear the landing site, I'm landing. Receipt.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ОСКАР 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Расчистите место посадки, я приземляюсь. Приём.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 清理着陆点，我正在降落，完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 清理著陸點，我正在降落，完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A17">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; I picked up the pilot, I'm going back to base. Receipt.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ОСКАР 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Забрал пилота, возвращаюсь на базу. Приём.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 我接到飞行员了，准备返回基地，完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 我接到飛行員了，準備返回基地，完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A18">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Understood you, Oscar 3. Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Понял вас, Оскар 3. Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 明白，Oscar 3。完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 明白，Oscar 3。完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A19">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, "Owl" begins reconnaissance of the area, return to the group Hotel, and wait for further instructions.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, "Филин" начинает рекогносцировку местности, возвращайтесь к группе Хотел, и ждите дальнейших инструкций.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，“猫头鹰”开始侦察该地区，返回与Hotel小组会合，并等待进一步的指示。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，“貓頭鷹”開始偵察該地區，返回與Hotel小組會合，並等待進一步的指示。</Chinese>
+			</Key>
+			<Key ID="STR_A20">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; I report that we have just lost contact with the "Owl". Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Докладываю, мы только что потеряли связь с "Филином". Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 这里是基地，我们刚刚与“猫头鹰”失去了联系，完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 這裡是基地，我們剛剛與“貓頭鷹”失去了聯繫，完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A21">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Hotel, Delta, the task is updated, go to the radio station. You have to access the radar.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Хотел, Дельта, задание обновлено, отправляйтесь на радиостанцию. Вы должны получить доступ над радаром.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Hotel，三角洲，任务更新后，前往无线电台。你们必须使用里面的雷达。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Hotel，三角洲，任務更新後，前往無線電台。你們必須使用裡面的雷達。</Chinese>
+			</Key>
+			<Key ID="STR_A22">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; I confirm the information, the owner of this radio station, a military official of the AAF.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Подтверждаю информацию, владелец этой радиостанции, военный чиновник AAF.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 确认新情报，该无线电站的主人，是AAF的一名军官。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 確認新情報，該無線電站的主人，是AAF的一名軍官。</Chinese>
+			</Key>
+			<Key ID="STR_A23">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; But we have too little information to say that the combatants with whom you fought are the ones who attacked the delegation.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Но нас слишком мало информации, чтобы утверждать, что комбатанты с которыми вы вели бой и есть те кто напал на делегацию.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 但是，我们掌握的信息仍然太少了，无法证明与你交战的武装人员就是袭击代表团的人。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 但是，我們掌握的信息仍然太少了，無法證明與你交戰的武裝人員就是襲擊代表團的人。</Chinese>
+			</Key>
+			<Key ID="STR_A24">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Hotel, drop Delta off at the checkpoint, and then return to the base. As understood?</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Хотел, высадите Дельту, возле КПП, и затем возвращайтесь на базу. Как поняли?</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Hotel，在检查站放下三角洲，然后返回基地。是否明白？</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Hotel，在檢查站放下三角洲，然後返回基地。是否明白？</Chinese>
+			</Key>
+			<Key ID="STR_A25">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Copy that, Baseplate.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ХОТЕЛ:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Понял вас, Центр.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 收到，基地。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;HOTEL:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 收到，基地。</Chinese>
+			</Key>
+			<Key ID="STR_A26">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, we will arrange an alternative evacuation for you. Wait for further information. As understood?</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, мы организуем для вас альтернативную эвакуацию. Ждите дальнейшей информации. Как поняли?</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，我们会为你安排另一次撤离。等待进一步消息。是否明白？</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，我們會為你安排另一次撤離。等待進一步消息。是否明白？</Chinese>
+			</Key>
+			<Key ID="STR_A27">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, we have sent you a group Romeo, they will storm the radio station through the western entrance.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, мы отправили вам группу Ромео, они начнут штурм радиостанции через западный вход.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，我们已经派了罗密欧小组前去支援，他们会从西边的入口突入无线电站。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，我們已經派了羅密歐小組前去支援，他們會從西邊的入口突入無線電站。</Chinese>
+			</Key>
+			<Key ID="STR_A28">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; After completing the task, they will evacuate you by truck. Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; После выполнения задания они вас эвакуируют на грузовике. Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 完成任务后，他们会用卡车带你们撤离。完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 完成任務後，他們會用卡車帶你們撤離。完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A29">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, Romeo, stay in your positions and wait for the signal.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, Ромео, оставайтесь на своих позициях и ожидайте сигнала.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，罗密欧，原地待命，等待信号。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，羅密歐，原地待命，等待信號。</Chinese>
+			</Key>
+			<Key ID="STR_A30">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, Romeo, move up!</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, Ромео, выступайте!</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，罗密欧，前进！</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，羅密歐，前進！</Chinese>
+			</Key>
+			<Key ID="STR_A31">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, Romeo is suffering serious losses, they are retreating to the evacuation point, Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, Ромео терпит серьёзные потери, они отступают к точке эвакуации, Отбой.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，罗密欧遭受重大损失，他们正撤往撤离点，完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，羅密歐遭受重大損失，他們正撤往撤離點，完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A32">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BASEPLATE:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; They're jamming...the signal...artillery...evacuate...</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ЦЕНТР:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Они глу...сиг...артиллерия...эваку...</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 他们在干扰...信号...炮击...快撤....</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;基地:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 他們在干擾...信號...砲擊...快撤....</Chinese>
+			</Key>
+			<Key ID="STR_A33">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BLACKBURN:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Area clear!</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;БЛЭКБЕРН:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Сектор чист!</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;布莱克本:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 区域安全！</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;布萊克本:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 區域安全！</Chinese>
+			</Key>
+			<Key ID="STR_A34">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Delta, it's too dangerous there, I landed near a military base. Over.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;ОСКАР 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Дельта, там слишком опасно, я приземлился возле военной базы. Конец связи.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，那里太危险了，我降落在一个军事基地附近。完毕。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;OSCAR 3:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 三角洲，那裡太危險了，我降落在一個軍事基地附近。完畢。</Chinese>
+			</Key>
+			<Key ID="STR_A35">
+				<Original>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;BLACKBURN:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Accepted.</Original>
+				<Russian>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;БЛЭКБЕРН:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; Принято.</Russian>
+				<Chinesesimp>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;布莱克本:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 收到。</Chinesesimp>
+				<Chinese>&lt;t font='PuristaMedium' color= '#00FFFF' shadow = '2' size = '1.5' &gt;布萊克本:&lt;/t&gt;&lt;t font='PuristaMedium' size = '1.5'&gt; 收到。</Chinese>
+			</Key>
+			<Container name="ORBAT">
+			<Key ID="STR_UN_Base">
+				<Original>UN Security Council</Original>
+				<Russian>Совет Безопасности ООН</Russian>
+				<Chinesesimp>联合国安理会</Chinesesimp>
+				<Chinese>聯合國安理會</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_Base">
+				<Original>Jacob Newton (BASEPLATE)</Original>
+				<Russian>Джекоб Ньютон (ЦЕНТР)</Russian>
+				<Chinesesimp>雅各布·牛顿(基地)</Chinesesimp>
+				<Chinese>雅各布·牛頓(基地)</Chinese>
+			</Key>
+			<Key ID="STR_UN">
+				<Original>UN Peacekeeping Mission on Malden</Original>
+				<Russian>Миротворческая миссия ООН на Малдене</Russian>
+				<Chinesesimp>联合国马尔登维和特派团</Chinesesimp>
+				<Chinese>聯合國馬爾登維和特派團</Chinese>
+			</Key>
+			<Key ID="STR_UN_info">
+				<Original>The UN peacekeeping mission on Malden is to maintain peace on the island, and due to the recent events on Altis, it was also decided to hold a trial in the island's capital.</Original>
+				<Russian>Миротворческая миссия ООН на Малдене призвана поддерживать мир на острове, и в связи с недавними событиями на Альтисе также было решено провести судебное разбирательство в столице острова.</Russian>
+				<Chinesesimp>联合国在马尔登的维和任务是为了维护该岛的和平，由于最近在阿尔蒂斯发生的暴力事件，联合国决定在该岛的首都进行一次审判。</Chinesesimp>
+				<Chinese>聯合國在馬爾登的維和任務是為了維護該島的和平，由於最近在阿爾蒂斯發生的暴力事件，聯合國決定在該島的首都進行一次審判。</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_I">
+				<Original>Task Force ZEAL</Original>
+				<Russian>ОТГ ZEAL</Russian>
+				<Chinesesimp>ZEAL特遣部队</Chinesesimp>
+				<Chinese>ZEAL特遣部隊</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_info_I">
+				<Original>Task Force ZEAL - the elite of the UN peacekeeping forces.&lt;br/&gt;Created for immediate response to any threats to the world.</Original>
+				<Russian>ОТГ ZEAL - элита миротворческих сил ООН.&lt;br/&gt;Создана для немедленного реагирования на любые угрозы миру.</Russian>
+				<Chinesesimp>ZEAL特遣部队——是联合国维和部队的精英。&lt;br/&gt;为即时应对世界上的任何威胁而创建。</Chinesesimp>
+				<Chinese>ZEAL特遣部隊——是聯合國維和部隊的精英。 &lt;br/&gt;為即時應對世界上的任何威脅而創建。</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL">
+				<Original>7th platoon Task Force ZEAL </Original>
+				<Russian>7-й взвод ОТГ ZEAL</Russian>
+				<Chinesesimp>ZEAL特遣部队第七排</Chinesesimp>
+				<Chinese>ZEAL特遣部隊第七排</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_info">
+				<Original></Original>
+				<Russian></Russian>
+				<Chinesesimp></Chinesesimp>
+				<Chinese></Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL1">
+				<Original>Delta group</Original>
+				<Russian>группа Дельта</Russian>
+				<Chinesesimp>三角洲小组</Chinesesimp>
+				<Chinese>三角洲小組</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_C1">
+				<Original>Henry Blackburn</Original>
+				<Russian>Генри Блэкберн</Russian>
+				<Chinesesimp>亨利·布莱克本</Chinesesimp>
+				<Chinese>亨利·布萊克本</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL2">
+				<Original>Hotel group</Original>
+				<Russian>группа Хотел</Russian>
+				<Chinesesimp>Hotel小组</Chinesesimp>
+				<Chinese>Hotel小組</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_info2">
+				<Original></Original>
+				<Russian></Russian>
+				<Chinesesimp></Chinesesimp>
+				<Chinese></Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_C2">
+				<Original>Harry Cooper</Original>
+				<Russian>Гарри Купер</Russian>
+				<Chinesesimp>哈里·库珀</Chinesesimp>
+				<Chinese>哈里·庫珀</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL3">
+				<Original>Oscar group</Original>
+				<Russian>группа Оскар</Russian>
+				<Chinesesimp>Oscar小组</Chinesesimp>
+				<Chinese>Oscar小組</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_C3">
+				<Original>Kyle Griffiths</Original>
+				<Russian>Кайл Гриффитс</Russian>
+				<Chinesesimp>凯尔·格里菲斯</Chinesesimp>
+				<Chinese>凱爾·格里菲斯</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL4">
+				<Original>Romeo group</Original>
+				<Russian>группа Ромео</Russian>
+				<Chinesesimp>罗密欧小组</Chinesesimp>
+				<Chinese>羅密歐小組</Chinese>
+			</Key>
+			<Key ID="STR_UN_ZEAL_C4">
+				<Original>Liam Price</Original>
+				<Russian>Лайам Прайс</Russian>
+				<Chinesesimp>利亚姆·普莱斯</Chinesesimp>
+				<Chinese>利亞姆·普萊斯</Chinese>
+			</Key>
+			<Key ID="STR_UNP">
+				<Original>UN peacekeepers</Original>
+				<Russian>Миротворцы ООН</Russian>
+				<Chinesesimp>联合国维和部队</Chinesesimp>
+				<Chinese>聯合國維和部隊</Chinese>
+			</Key>
+			<Key ID="STR_UNP_C1">
+				<Original>Aaron Kelly</Original>
+				<Russian>Аарон Келли</Russian>
+				<Chinesesimp>艾伦·凯利</Chinesesimp>
+				<Chinese>艾倫·凱利</Chinese>
+			</Key>
+			<Key ID="STR_UNP_C2">
+				<Original>William Reed</Original>
+				<Russian>Уильям Рид</Russian>
+				<Chinesesimp>威廉·里德</Chinesesimp>
+				<Chinese>威廉·里德</Chinese>
+			</Key>
+			<Key ID="STR_UNP_info">
+				<Original>The armed contingents of the UN member states allocated in accordance with the UN Charter in order to prevent or eliminate threats to peace and security through joint coercive actions, if economic and political measures prove or prove insufficient.</Original>
+				<Russian>Вооружённые контингенты стран — членов ООН, выделенные согласно Уставу ООН в целях предотвращения или ликвидации угрозы миру и безопасности путём совместных принудительных действий, если меры экономического и политического характера окажутся или оказались недостаточными.</Russian>
+				<Chinesesimp>根据《联合国宪章》分配的联合国成员国的维和部队，目的是在经济和政治措施证明或证明不足的情况下，通过联合强制行动防止或清除对和平与安全产生威胁的目标。</Chinesesimp>
+				<Chinese>根據《聯合國憲章》分配的聯合國成員國的維和部隊，目的是在經濟和政治措施證明或證明不足的情況下，通過聯合強制行動防止或清除對和平與安全產生威脅的目標。</Chinese>
+			</Key>
+			<Key ID="STR_IDAP">
+				<Original>IDAP</Original>
+				<Russian>IDAP</Russian>
+				<Chinesesimp>IDAP</Chinesesimp>
+				<Chinese>IDAP</Chinese>
+			</Key>
+			<Key ID="STR_IDAP_info">
+				<Original>IDAP, is a non-governmental organization that specializes in rapid response to humanitarian disasters.</Original>
+				<Russian>IDAP, является неправительственной организацией, которая специализируется на быстром реагировании на гуманитарные катастрофы.</Russian>
+				<Chinesesimp>IDAP，是一个专门从事人道主义灾难快速反应的非政府救援组织。</Chinesesimp>
+				<Chinese>IDAP，是一個專門從事人道主義災難快速反應的非政府救援組織。</Chinese>
+			</Key>
+			<Key ID="STR_IDAP_C1">
+				<Original>Unified IDAP Management</Original>
+				<Russian>Объединенное управление IDAP</Russian>
+				<Chinesesimp>IDAP综合管理</Chinesesimp>
+				<Chinese>IDAP綜合管理</Chinese>
+			</Key>
+		</Container>
+	</Package>
+</Project>
