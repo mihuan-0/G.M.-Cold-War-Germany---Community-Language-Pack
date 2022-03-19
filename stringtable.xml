@@ -390,7 +390,7 @@
 				<Chinesesimp>英国</Chinesesimp>
 				<Chinese>英國</Chinese>
 				<Korean>영국</Korean>
-				<Russian>Объединенное Королевство</Russian>
+				<Russian>Великобритания</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_US">
 				<Original>United States</Original>
@@ -651,7 +651,7 @@
 				<Chinesesimp>英国（边防部队）</Chinesesimp>
 				<Chinese>英國（邊防軍）</Chinese>
 				<Korean>영국(국경 경비대)</Korean>
-				<Russian>Объединенное Королевство (Пограничники)</Russian>
+				<Russian>Великобритания (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_US_BGS">
 				<Original>United States (Borderguards)</Original>
@@ -912,7 +912,7 @@
 				<Chinesesimp>英国（平民）</Chinesesimp>
 				<Chinese>英國（平民）</Chinese>
 				<Korean>영국 (시민)</Korean>
-				<Russian>Объединенное Королевство (Гражданские)</Russian>
+				<Russian>Великобритания (Гражданские)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_US_CIV">
 				<Original>United States (Civilians)</Original>
@@ -5763,6 +5763,7 @@
 				<German>Ladefläche</German>
 				<Chinesesimp>平板车</Chinesesimp>
 				<Korean>짐칸좌석</Korean>
+				<Russian>Кузов</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED01">
 				<Original>Flatbed #1</Original>
@@ -5770,6 +5771,7 @@
 				<German>Ladefläche #1</German>
 				<Chinesesimp>平板车#1</Chinesesimp>
 				<Korean>짐칸좌석 #1</Korean>
+				<Russian>Кузов #1</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED02">
 				<Original>Flatbed #2</Original>
@@ -5777,6 +5779,7 @@
 				<German>Ladefläche #2</German>
 				<Chinesesimp>平板车#2</Chinesesimp>
 				<Korean>짐칸좌석 #2</Korean>
+				<Russian>Кузов #2</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED03">
 				<Original>Flatbed #3</Original>
@@ -5784,6 +5787,7 @@
 				<German>Ladefläche #3</German>
 				<Chinesesimp>平板车#3</Chinesesimp>
 				<Korean>짐칸좌석 #3</Korean>
+				<Russian>Кузов #3</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED04">
 				<Original>Flatbed #4</Original>
@@ -5791,6 +5795,7 @@
 				<German>Ladefläche #4</German>
 				<Chinesesimp>平板车#4</Chinesesimp>
 				<Korean>짐칸좌석 #4</Korean>
+				<Russian>Кузов #4</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED05">
 				<Original>Flatbed #5</Original>
@@ -5798,6 +5803,7 @@
 				<German>Ladefläche #5</German>
 				<Chinesesimp>平板车#5</Chinesesimp>
 				<Korean>짐칸좌석 #5</Korean>
+				<Russian>Кузов #5</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED06">
 				<Original>Flatbed #6</Original>
@@ -5805,6 +5811,7 @@
 				<German>Ladefläche #6</German>
 				<Chinesesimp>平板车#6</Chinesesimp>
 				<Korean>짐칸좌석 #6</Korean>
+				<Russian>Кузов #6</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED07">
 				<Original>Flatbed #7</Original>
@@ -5812,6 +5819,7 @@
 				<German>Ladefläche #7</German>
 				<Chinesesimp>平板车#7</Chinesesimp>
 				<Korean>짐칸좌석 #7</Korean>
+				<Russian>Кузов #7</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED08">
 				<Original>Flatbed #8</Original>
@@ -5819,6 +5827,7 @@
 				<German>Ladefläche #8</German>
 				<Chinesesimp>平板车#8</Chinesesimp>
 				<Korean>짐칸좌석 #8</Korean>
+				<Russian>Кузов #8</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED09">
 				<Original>Flatbed #9</Original>
@@ -5826,6 +5835,7 @@
 				<German>Ladefläche #9</German>
 				<Chinesesimp>平板车#9</Chinesesimp>
 				<Korean>짐칸좌석 #9</Korean>
+				<Russian>Кузов #9</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED10">
 				<Original>Flatbed #10</Original>
@@ -5833,6 +5843,7 @@
 				<German>Ladefläche #10</German>
 				<Chinesesimp>平板车#10</Chinesesimp>
 				<Korean>짐칸좌석 #10</Korean>
+				<Russian>Кузов #10</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED11">
 				<Original>Flatbed #11</Original>
@@ -5840,6 +5851,7 @@
 				<German>Ladefläche #11</German>
 				<Chinesesimp>平板车#11</Chinesesimp>
 				<Korean>짐칸좌석 #11</Korean>
+				<Russian>Кузов #11</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED12">
 				<Original>Flatbed #12</Original>
@@ -5847,6 +5859,7 @@
 				<German>Ladefläche #12</German>
 				<Chinesesimp>平板车#12</Chinesesimp>
 				<Korean>짐칸좌석 #12</Korean>
+				<Russian>Кузов #12</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED13">
 				<Original>Flatbed #13</Original>
@@ -5854,6 +5867,7 @@
 				<German>Ladefläche #13</German>
 				<Chinesesimp>平板车#13</Chinesesimp>
 				<Korean>짐칸좌석 #13</Korean>
+				<Russian>Кузов #13</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED14">
 				<Original>Flatbed #14</Original>
@@ -5861,6 +5875,7 @@
 				<German>Ladefläche #14</German>
 				<Chinesesimp>平板车#14</Chinesesimp>
 				<Korean>짐칸좌석 #14</Korean>
+				<Russian>Кузов #14</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED15">
 				<Original>Flatbed #15</Original>
@@ -5868,6 +5883,7 @@
 				<German>Ladefläche #15</German>
 				<Chinesesimp>平板车#15</Chinesesimp>
 				<Korean>짐칸좌석 #15</Korean>
+				<Russian>Кузов #15</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_FLATBED16">
 				<Original>Flatbed #16</Original>
@@ -5875,6 +5891,7 @@
 				<German>Ladefläche #16</German>
 				<Chinesesimp>平板车#16</Chinesesimp>
 				<Korean>짐칸좌석 #16</Korean>
+				<Russian>Кузов #16</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH">
 				<Original>Bench</Original>
@@ -5882,6 +5899,7 @@
 				<German>Sitzbank</German>
 				<Chinesesimp>平板车#</Chinesesimp>
 				<Korean>벤치</Korean>
+				<Russian>Скамейка</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH01">
 				<Original>Bench #1</Original>
@@ -5889,6 +5907,7 @@
 				<German>Sitzbank #1</German>
 				<Chinesesimp>长凳#1</Chinesesimp>
 				<Korean>벤치 #1</Korean>
+				<Russian>Скамейка #1</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH02">
 				<Original>Bench #2</Original>
@@ -5896,6 +5915,7 @@
 				<German>Sitzbank #2</German>
 				<Chinesesimp>长凳#2</Chinesesimp>
 				<Korean>벤치 #2</Korean>
+				<Russian>Скамейка #2</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH03">
 				<Original>Bench #3</Original>
@@ -5903,6 +5923,7 @@
 				<German>Sitzbank #3</German>
 				<Chinesesimp>长凳#3</Chinesesimp>
 				<Korean>벤치 #3</Korean>
+				<Russian>Скамейка #3</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH04">
 				<Original>Bench #4</Original>
@@ -5910,6 +5931,7 @@
 				<German>Sitzbank #4</German>
 				<Chinesesimp>长凳#4</Chinesesimp>
 				<Korean>벤치 #4</Korean>
+				<Russian>Скамейка #4</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH05">
 				<Original>Bench #5</Original>
@@ -5917,6 +5939,7 @@
 				<German>Sitzbank #5</German>
 				<Chinesesimp>长凳#5</Chinesesimp>
 				<Korean>벤치 #5</Korean>
+				<Russian>Скамейка #5</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH06">
 				<Original>Bench #6</Original>
@@ -5924,6 +5947,7 @@
 				<German>Sitzbank #6</German>
 				<Chinesesimp>长凳#6</Chinesesimp>
 				<Korean>벤치 #6</Korean>
+				<Russian>Скамейка #6</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH07">
 				<Original>Bench #7</Original>
@@ -5931,6 +5955,7 @@
 				<German>Sitzbank #7</German>
 				<Chinesesimp>长凳#7</Chinesesimp>
 				<Korean>벤치 #7</Korean>
+				<Russian>Скамейка #7</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH08">
 				<Original>Bench #8</Original>
@@ -5938,6 +5963,7 @@
 				<German>Sitzbank #8</German>
 				<Chinesesimp>长凳#8</Chinesesimp>
 				<Korean>벤치 #8</Korean>
+				<Russian>Скамейка #8</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH09">
 				<Original>Bench #9</Original>
@@ -5945,6 +5971,7 @@
 				<German>Sitzbank #9</German>
 				<Chinesesimp>长凳#9</Chinesesimp>
 				<Korean>벤치 #9</Korean>
+				<Russian>Скамейка #9</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH10">
 				<Original>Bench #10</Original>
@@ -5952,6 +5979,7 @@
 				<German>Sitzbank #10</German>
 				<Chinesesimp>长凳#10</Chinesesimp>
 				<Korean>벤치 #10</Korean>
+				<Russian>Скамейка #10</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH11">
 				<Original>Bench #11</Original>
@@ -5959,6 +5987,7 @@
 				<German>Sitzbank #11</German>
 				<Chinesesimp>长凳#11</Chinesesimp>
 				<Korean>벤치 #11</Korean>
+				<Russian>Скамейка #11</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH12">
 				<Original>Bench #12</Original>
@@ -5966,6 +5995,7 @@
 				<German>Sitzbank #12</German>
 				<Chinesesimp>长凳#12</Chinesesimp>
 				<Korean>벤치 #12</Korean>
+				<Russian>Скамейка #12</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH13">
 				<Original>Bench #13</Original>
@@ -5973,6 +6003,7 @@
 				<German>Sitzbank #13</German>
 				<Chinesesimp>长凳#13</Chinesesimp>
 				<Korean>벤치 #13</Korean>
+				<Russian>Скамейка #13</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH14">
 				<Original>Bench #14</Original>
@@ -5980,6 +6011,7 @@
 				<German>Sitzbank #14</German>
 				<Chinesesimp>长凳#14</Chinesesimp>
 				<Korean>벤치 #14</Korean>
+				<Russian>Скамейка #14</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH15">
 				<Original>Bench #15</Original>
@@ -5987,6 +6019,7 @@
 				<German>Sitzbank #15</German>
 				<Chinesesimp>长凳#15</Chinesesimp>
 				<Korean>벤치 #15</Korean>
+				<Russian>Скамейка #15</Russian>
 			</Key>
 			<Key ID="STR_GN_GM_BENCH16">
 				<Original>Bench #16</Original>
@@ -5994,6 +6027,7 @@
 				<German>Sitzbank #16</German>
 				<Chinesesimp>长凳#16</Chinesesimp>
 				<Korean>벤치 #16</Korean>
+				<Russian>Скамейка #16</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_BOARDWALL">
 				<Original>Open</Original>
@@ -6001,6 +6035,7 @@
 				<German>Auf</German>
 				<Chinesesimp>打开</Chinesesimp>
 				<Korean>열기</Korean>
+				<Russian>Открыть</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CLOSE_BOARDWALL">
 				<Original>Close</Original>
@@ -6008,6 +6043,7 @@
 				<German>Zu</German>
 				<Chinesesimp>关闭</Chinesesimp>
 				<Korean>닫기</Korean>
+				<Russian>Закрыть</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WEAPON">
 				<Original>Weapon</Original>
@@ -6015,6 +6051,7 @@
 				<German>Waffe</German>
 				<Chinesesimp>武器</Chinesesimp>
 				<Korean>무기</Korean>
+				<Russian>Оружие</Russian>
 			</Key>
 			<Key ID="STR_DN_UA_SLINGLOADLIGHTS_OFF">
 				<Original>Work Light Off</Original>
@@ -6022,6 +6059,7 @@
 				<German>Arbeitslicht Aus</German>
 				<Chinesesimp>关闭防撞灯</Chinesesimp>
 				<Korean>워크라이트 끄기</Korean>
+				<Russian>Рабочий Свет Откл.</Russian>
 			</Key>
 			<Key ID="STR_DN_UA_SLINGLOADLIGHTS_ON">
 				<Original>Work Light On</Original>
@@ -6029,6 +6067,7 @@
 				<German>Arbeitslicht An</German>
 				<Chinesesimp>开启防撞灯</Chinesesimp>
 				<Korean>워크라이트 켜기</Korean>
+				<Russian>Рабочий Свет Вкл.</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_DISASSMBLE_MG3AATRIPOD">
 				<Original>Disassemble MG3 - Anti Air Tripod</Original>
@@ -6036,6 +6075,7 @@
 				<German>MG3 - Flugabwehrlafette Abbauen</German>
 				<Chinesesimp>拆卸MG3-防空三脚架</Chinesesimp>
 				<Korean>분해된 MG3 - 대공 삼각대</Korean>
+				<Russian>Разобрать MG3 - Зенитная Тренога</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_MOUNT_TURRET_WEAPON_MG3">
 				<Original>Mount MG3</Original>
@@ -6043,6 +6083,7 @@
 				<German>MG3 Aufbauen</German>
 				<Chinesesimp>安装MG3</Chinesesimp>
 				<Korean>MG3 거치</Korean>
+				<Russian>Установить MG3</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_DISMOUNT_TURRET_WEAPON_MG3">
 				<Original>Dismount MG3</Original>
@@ -6050,6 +6091,7 @@
 				<German>MG3 Abbauen</German>
 				<Chinesesimp>拆卸MG3</Chinesesimp>
 				<Korean>MG3 탈거</Korean>
+				<Russian>Отсоединить MG3</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON">
 				<Original>Take %1</Original>
@@ -6057,6 +6099,7 @@
 				<German>%1 Nehmen</German>
 				<Chinesesimp>拿取%1</Chinesesimp>
 				<Korean>잡기 %1</Korean>
+				<Russian>Взять %1</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON">
 				<Original>Store %1</Original>
@@ -6064,6 +6107,7 @@
 				<German>%1 zur Seite</German>
 				<Chinesesimp>储存%1</Chinesesimp>
 				<Korean>놓기 %1</Korean>
+				<Russian>Store %1</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_MG3">
 				<Original>Take MG3 7.62x51 mm</Original>
@@ -6071,6 +6115,7 @@
 				<German>MG3 7,62x51 mm Nehmen</German>
 				<Chinesesimp>拿取MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 잡기</Korean>
+				<Russian>Взять MG3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON_MG3">
 				<Original>Store MG3 7.62x51 mm</Original>
@@ -6078,18 +6123,21 @@
 				<German>MG3 7,62x51 mm zur Seite</German>
 				<Chinesesimp>储存MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 놓기</Korean>
+				<Russian>Store MG3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_M2">
 				<Original>Take M2 12.7x99 mm</Original>
 				<English>Take M2 12.7x99 mm</English>
 				<German>M2 12,7x99 mm Nehmen</German>
 				<Chinesesimp>拿取M2 12.7x99 mm</Chinesesimp>
+				<Russian>Взять M2 12.7x99 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON_M2">
 				<Original>Store M2 12.7x99 mm</Original>
 				<English>Store M2 12.7x99 mm</English>
 				<German>M2 12,7x99 mm zur Seite</German>
 				<Chinesesimp>储存M2 12.7x99 mm</Chinesesimp>
+				<Russian>Store M2 12.7x99 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_DSHKM">
 				<Original>Take DShKM 12.7x108 mm</Original>
@@ -6097,6 +6145,7 @@
 				<German>DShKM 12,7x108 mm Nehmen</German>
 				<Chinesesimp>拿取DShKM 12.7x108 mm</Chinesesimp>
 				<Korean>DShKM 잡기</Korean>
+				<Russian>Взять ДШКМ 12.7x108 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON_DSHKM">
 				<Original>Store DShKM 12.7x108 mm</Original>
@@ -6104,66 +6153,77 @@
 				<German>DShKM 12,7x108 mm zur Seite</German>
 				<Chinesesimp>储存DShKM 12.7x108 mm</Chinesesimp>
 				<Korean>DShKM 놓기</Korean>
+				<Russian>Store ДШКМ 12.7x108 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_MILAN">
 				<Original>Take ATGM Launcher</Original>
 				<English>Take ATGM Launcher</English>
 				<German>PALR Werfer Nehmen</German>
 				<Chinesesimp>拿取ATGM发射器</Chinesesimp>
+				<Russian>Взять ПТУРС Установку</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_STORE_TURRET_WEAPON_MILAN">
 				<Original>Store ATGM Launcher</Original>
 				<English>Store ATGM Launcher</English>
 				<German>PALR Werfer zur Seite</German>
 				<Chinesesimp>储存ATGM发射器</Chinesesimp>
+				<Russian>Store ПТУРС Установку</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TURNON_BEACON">
 				<Original>Beacon On</Original>
 				<English>Beacon On</English>
 				<German>Rundumkennleuchte An</German>
 				<Chinesesimp>开启信标灯</Chinesesimp>
+				<Russian>Маяк Вкл.</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TURNOFF_BEACON">
 				<Original>Beacon Off</Original>
 				<English>Beacon Off</English>
 				<German>Rundumkennleuchte Aus</German>
 				<Chinesesimp>关闭信标灯</Chinesesimp>
+				<Russian>Маяк Откл.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_USERACTION_ENABLESMOKE">
 				<Original>Smoke Generator On</Original>
 				<English>Smoke Generator On</English>
 				<German>Nebelgenerator An</German>
 				<Chinesesimp>开启烟雾发生器</Chinesesimp>
+				<Russian>Дымогенератор Вкл.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_USERACTION_STOPSMOKE">
 				<Original>Smoke Generator Off</Original>
 				<English>Smoke Generator Off</English>
 				<German>Nebelgenerator Aus</German>
 				<Chinesesimp>关闭烟雾发生器</Chinesesimp>
+				<Russian>Дымогенератор Откл.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_USERACTION_ENABLESPRAY">
 				<Original>Sprayer On</Original>
 				<English>Sprayer On</English>
 				<German>Sprüher An</German>
 				<Chinesesimp>启用喷雾器</Chinesesimp>
+				<Russian>Распылитель Вкл.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_USERACTION_STOPSPRAY">
 				<Original>Sprayer Off</Original>
 				<English>Sprayer Off</English>
 				<German>Sprüher Aus</German>
 				<Chinesesimp>停用喷雾器</Chinesesimp>
+				<Russian>Распылитель Откл.</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_WINDSHIELD_UP">
 				<Original>Windshield Up</Original>
 				<English>Windshield Up</English>
 				<German>Windschutzscheibe Runter</German>
 				<Chinesesimp>升起挡风玻璃</Chinesesimp>
+				<Russian>Лобовое Стекло Поднять</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_WINDSHIELD_DOWN">
 				<Original>Windshield Down</Original>
 				<English>Windshield Down</English>
 				<German>Windschutzscheibe Hoch</German>
 				<Chinesesimp>降下挡风玻璃</Chinesesimp>
+				<Russian>Лобовое Стекло Опустить</Russian>
 			</Key>
 		</Container>
 		<Container name="vehicleclasses">
@@ -6173,30 +6233,35 @@
 				<German>Flugabwehr (Schwarz)</German>
 				<Chinesesimp>AA(黑色)</Chinesesimp>
 				<Korean>대공 (검정)</Korean>
+				<Russian>ПВО (Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_BLW">
 				<Original>Anti-Air (Black, Winter)</Original>
 				<English>Anti-Air (Black, Winter)</English>
 				<German>Flugabwehr (Schwarz, Winter)</German>
 				<Chinesesimp>AA(黑色,冬季)</Chinesesimp>
+				<Russian>ПВО (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_DES">
 				<Original>Anti-Air (Desert)</Original>
 				<English>Anti-Air (Desert)</English>
 				<German>Flugabwehr (Wüste)</German>
 				<Chinesesimp>AA(沙漠)</Chinesesimp>
+				<Russian>ПВО (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_GRN">
 				<Original>Anti-Air (Green)</Original>
 				<English>Anti-Air (Green)</English>
 				<German>Flugabwehr (Grün)</German>
 				<Chinesesimp>AA(绿色)</Chinesesimp>
+				<Russian>ПВО (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_INV">
 				<Original>Anti-Air (Invasion)</Original>
 				<English>Anti-Air (Invasion)</English>
 				<German>Flugabwehr (Invasion)</German>
 				<Chinesesimp>AA(入侵)</Chinesesimp>
+				<Russian>ПВО (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_OLB">
 				<Original>Anti-Air (Woodland, Black)</Original>
@@ -6204,6 +6269,7 @@
 				<German>Flugabwehr (Flecktarn, Schwarz)</German>
 				<Chinesesimp>AA(林地,黑色)</Chinesesimp>
 				<Korean>대공 (우드랜드, 검정)</Korean>
+				<Russian>ПВО (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_OLI">
 				<Original>Anti-Air (Olive)</Original>
@@ -6211,18 +6277,21 @@
 				<German>Flugabwehr (Oliv)</German>
 				<Chinesesimp>AA(橄榄色)</Chinesesimp>
 				<Korean>대공 (올리브)</Korean>
+				<Russian>ПВО (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_OLS">
 				<Original>Anti-Air (Olive, Mud)</Original>
 				<English>Anti-Air (Olive, Mud)</English>
 				<German>Flugabwehr (Oliv, Schlamm)</German>
 				<Chinesesimp>AA(橄榄色,泥土)</Chinesesimp>
+				<Russian>ПВО (Олива, Грязный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_OLW">
 				<Original>Anti-Air (Olive, Winter)</Original>
 				<English>Anti-Air (Olive, Winter)</English>
 				<German>Flugabwehr (Oliv, Winter)</German>
 				<Chinesesimp>AA(橄榄色,冬季)</Chinesesimp>
+				<Russian>ПВО (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_TAN">
 				<Original>Anti-Air (Tan)</Original>
@@ -6230,24 +6299,28 @@
 				<German>Flugabwehr (Sand)</German>
 				<Chinesesimp>AA(沙漠)</Chinesesimp>
 				<Korean>대공 (Tan)</Korean>
+				<Russian>ПВО (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_TRP">
 				<Original>Anti-Air (Tropical)</Original>
 				<English>Anti-Air (Tropical)</English>
 				<German>Flugabwehr (Tropen)</German>
 				<Chinesesimp>AA(热带)</Chinesesimp>
+				<Russian>ПВО (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_UN">
 				<Original>Anti-Air (White)</Original>
 				<English>Anti-Air (White)</English>
 				<German>Flugabwehr (Weiß)</German>
 				<Chinesesimp>AA(白色)</Chinesesimp>
+				<Russian>ПВО (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_WDL">
 				<Original>Anti-Air (Woodland)</Original>
 				<English>Anti-Air (Woodland)</English>
 				<German>Flugabwehr (Flecktarn)</German>
 				<Chinesesimp>AA(林地)</Chinesesimp>
+				<Russian>ПВО (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_WIN">
 				<Original>Anti-Air (Winter)</Original>
@@ -6255,30 +6328,35 @@
 				<German>Flugabwehr (Winter)</German>
 				<Chinesesimp>AA(冬季)</Chinesesimp>
 				<Korean>대공 (겨울)</Korean>
+				<Russian>ПВО (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_WIW">
 				<Original>Anti-Air (Winter, Wrong)</Original>
 				<English>Anti-Air (Winter, Wrong)</English>
 				<German>Flugabwehr (Winter, Falsch)</German>
 				<Chinesesimp>AA(冬季,故障)</Chinesesimp>
+				<Russian>ПВО (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_AA_WLG">
 				<Original>Anti-Air (Woodland, Green)</Original>
 				<English>Anti-Air (Woodland, Green)</English>
 				<German>Flugabwehr (Flecktarn, Grün)</German>
 				<Chinesesimp>AA(林地,绿色)</Chinesesimp>
+				<Russian>ПВО (Лесной, Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_BEG">
 				<Original>APCs (Beige-Green)</Original>
 				<English>APCs (Beige-Green)</English>
 				<German>Truppentransporter (Beige-Grün)</German>
 				<Chinesesimp>APC(米绿色)</Chinesesimp>
+				<Russian>БТР (Бежево-Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_BGB">
 				<Original>APCs (Blue-Green)</Original>
 				<English>APCs (Blue-Green)</English>
 				<German>Truppentransporter (Blau-Grün)</German>
 				<Chinesesimp>APC(蓝绿色)</Chinesesimp>
+				<Russian>БТР (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_BLK">
 				<Original>APCs (Black)</Original>
@@ -6286,78 +6364,91 @@
 				<German>Truppentransporter (Schwarz)</German>
 				<Chinesesimp>APC(黑色)</Chinesesimp>
 				<Korean>APC (검정)</Korean>
+				<Russian>БТР (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_BLW">
 				<Original>APCs (Black, Winter)</Original>
 				<English>APCs (Black, Winter)</English>
 				<German>Truppentransporter (Schwarz, Winter)</German>
 				<Chinesesimp>APC(黑色,冬季)</Chinesesimp>
+				<Russian>БТР (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_BRB">
 				<Original>APCs (Beige-Brown)</Original>
 				<English>APCs (Beige-Brown)</English>
 				<German>Truppentransporter (Beige-Brown)</German>
 				<Chinesesimp>APC(米棕色)</Chinesesimp>
+				<Russian>БТР (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_BRG">
 				<Original>APCs (Brown-Green)</Original>
 				<English>APCs (Brown-Green)</English>
 				<German>Truppentransporter (Braun-Grün)</German>
 				<Chinesesimp>APC(褐绿色)</Chinesesimp>
+				<Russian>БТР (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_DES">
 				<Original>APCs (Desert)</Original>
 				<English>APCs (Desert)</English>
 				<German>Truppentransporter (Wüste)</German>
 				<Chinesesimp>APC(沙漠)</Chinesesimp>
+				<Russian>БТР (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_FLP">
 				<Original>APCs (Orange-Blue)</Original>
 				<English>APCs (Orange-Blue)</English>
 				<German>Truppentransporter (Orange-Blau)</German>
 				<Chinesesimp>APC(橙蓝色)</Chinesesimp>
+				<Russian>БТР (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_GRG">
 				<Original>APCs (Green-Grey)</Original>
 				<English>APCs (Green-Grey)</English>
 				<German>Truppentransporter (Grün-Grau)</German>
 				<Chinesesimp>APC(灰绿色)</Chinesesimp>
+				<Russian>БТР (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_GRN">
 				<Original>APCs (Green)</Original>
 				<English>APCs (Green)</English>
 				<German>Truppentransporter (Grün)</German>
 				<Chinesesimp>APC(绿色)</Chinesesimp>
+				<Russian>БТР (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_INV">
 				<Original>APCs (Invasion)</Original>
 				<English>APCs (Invasion)</English>
 				<German>Truppentransporter (Invasion)</German>
 				<Chinesesimp>APC(入侵)</Chinesesimp>
+				<Russian>БТР (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_OLB">
 				<Original>APCs (Woodland, Black)</Original>
 				<English>APCs (Woodland, Black)</English>
 				<German>Truppentransporter (Flecktarn, Schwarz)</German>
 				<Chinesesimp>APC(林地,黑色)</Chinesesimp>
+				<Russian>БТР (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_OLI">
 				<Original>APCs (Olive)</Original>
 				<English>APCs (Olive)</English>
 				<German>Truppentransporter (Oliv)</German>
 				<Chinesesimp>APC(橄榄)</Chinesesimp>
+				<Russian>БТР (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_OLS">
 				<Original>APCs (Olive, Mud)</Original>
 				<English>APCs (Olive, Mud)</English>
 				<German>Truppentransporter (Oliv, Schlamm)</German>
 				<Chinesesimp>APC(橄榄色,泥土)</Chinesesimp>
+				<Russian>БТР (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_OLW">
 				<Original>APCs (Olive, Winter)</Original>
 				<English>APCs (Olive, Winter)</English>
 				<German>Truppentransporter (Oliv, Winter)</German>
 				<Chinesesimp>APC(橄榄色,冬季)</Chinesesimp>
+				<Russian>БТР (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_TAN">
 				<Original>APCs (Tan)</Original>
@@ -6365,6 +6456,7 @@
 				<German>Truppentransporter (Sand)</German>
 				<Chinesesimp>APC(沙漠)</Chinesesimp>
 				<Korean>APC (Tan)</Korean>
+				<Russian>БТР (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_TRP">
 				<Original>APCs (Tropical)</Original>
@@ -6372,48 +6464,56 @@
 				<German>Truppentransporter (Tropen)</German>
 				<Chinesesimp>APC(热带)</Chinesesimp>
 				<Korean>APC (열대)</Korean>
+				<Russian>БТР (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_UN">
 				<Original>APCs (White)</Original>
 				<English>APCs (White)</English>
 				<German>Truppentransporter (Weiß)</German>
 				<Chinesesimp>APC(白色)</Chinesesimp>
+				<Russian>БТР (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_WDL">
 				<Original>APCs (Woodland)</Original>
 				<English>APCs (Woodland)</English>
 				<German>Truppentransporter (Flecktarn)</German>
 				<Chinesesimp>APC(林地)</Chinesesimp>
+				<Russian>БТР (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_WIN">
 				<Original>APCs (Winter)</Original>
 				<English>APCs (Winter)</English>
 				<German>Truppentransporter (Winter)</German>
 				<Chinesesimp>APC(冬季)</Chinesesimp>
+				<Russian>БТР (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_WIW">
 				<Original>APCs (Winter, Wrong)</Original>
 				<English>APCs (Winter, Wrong)</English>
 				<German>Truppentransporter (Winter, Falsch)</German>
 				<Chinesesimp>APC(冬季,故障)</Chinesesimp>
+				<Russian>БТР (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_APC_WLG">
 				<Original>APCs (Woodland, Green)</Original>
 				<English>APCs (Woodland, Green)</English>
 				<German>Truppentransporter (Flecktarn, Grün)</German>
 				<Chinesesimp>APC(林地,绿色)</Chinesesimp>
+				<Russian>БТР (Лес, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_BEG">
 				<Original>Tanks (Beige-Green)</Original>
 				<English>Tanks (Beige-Green)</English>
 				<German>Panzer (Beige-Grün)</German>
 				<Chinesesimp>坦克(米绿色)</Chinesesimp>
+				<Russian>Танки (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_BGB">
 				<Original>Tanks (Blue-Green)</Original>
 				<English>Tanks (Blue-Green)</English>
 				<German>Panzer (Blau-Grün)</German>
 				<Chinesesimp>坦克(蓝绿色)</Chinesesimp>
+				<Russian>Танки (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_BLK">
 				<Original>Tanks (Black)</Original>
@@ -6421,6 +6521,7 @@
 				<German>Panzer (Schwarz)</German>
 				<Chinesesimp>坦克(黑色)</Chinesesimp>
 				<Korean>전차 (검정)</Korean>
+				<Russian>Танки (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_BLW">
 				<Original>Tanks (Black, Winter)</Original>
@@ -6428,72 +6529,84 @@
 				<German>Panzer (Schwarz, Winter)</German>
 				<Chinesesimp>坦克(黑色,冬季)</Chinesesimp>
 				<Korean>전차(검정, 겨울)</Korean>
+				<Russian>Танки (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_BRB">
 				<Original>Tanks (Beige-Brown)</Original>
 				<English>Tanks (Beige-Brown)</English>
 				<German>Panzer (Beige-Brown)</German>
 				<Chinesesimp>坦克(米棕色)</Chinesesimp>
+				<Russian>Танки (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_BRG">
 				<Original>Tanks (Brown-Green)</Original>
 				<English>Tanks (Brown-Green)</English>
 				<German>Panzer (Braun-Grün)</German>
 				<Chinesesimp>坦克(褐绿色)</Chinesesimp>
+				<Russian>Танки (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_DES">
 				<Original>Tanks (Desert)</Original>
 				<English>Tanks (Desert)</English>
 				<German>Panzer (Wüste)</German>
 				<Chinesesimp>坦克(沙漠)</Chinesesimp>
+				<Russian>Танки (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_FLP">
 				<Original>Tanks (Orange-Blue)</Original>
 				<English>Tanks (Orange-Blue)</English>
 				<German>Panzer (Orange-Blau)</German>
 				<Chinesesimp>坦克(橙蓝色)</Chinesesimp>
+				<Russian>Танки (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_GRG">
 				<Original>Tanks (Green-Grey)</Original>
 				<English>Tanks (Green-Grey)</English>
 				<German>Panzer (Grün-Grau)</German>
 				<Chinesesimp>坦克(灰绿色)</Chinesesimp>
+				<Russian>Танки (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_GRN">
 				<Original>Tanks (Green)</Original>
 				<English>Tanks (Green)</English>
 				<German>Panzer (Grün)</German>
 				<Chinesesimp>坦克(绿色)</Chinesesimp>
+				<Russian>Танки (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_INV">
 				<Original>Tanks (Invasion)</Original>
 				<English>Tanks (Invasion)</English>
 				<German>Panzer (Invasion)</German>
 				<Chinesesimp>坦克(入侵)</Chinesesimp>
+				<Russian>Танки (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_OLB">
 				<Original>Tanks (Woodland, Black)</Original>
 				<English>Tanks (Woodland, Black)</English>
 				<German>Panzer (Flecktarn, Schwarz)</German>
 				<Chinesesimp>坦克(林地,黑色)</Chinesesimp>
+				<Russian>Танки (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_OLI">
 				<Original>Tanks (Olive)</Original>
 				<English>Tanks (Olive)</English>
 				<German>Panzer (Oliv)</German>
 				<Chinesesimp>坦克(橄榄)</Chinesesimp>
+				<Russian>Танки (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_OLS">
 				<Original>Tanks (Olive, Mud)</Original>
 				<English>Tanks (Olive, Mud)</English>
 				<German>Panzer (Oliv, Schlamm)</German>
 				<Chinesesimp>坦克(橄榄色,泥土)</Chinesesimp>
+				<Russian>Танки (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_OLW">
 				<Original>Tanks (Olive, Winter)</Original>
 				<English>Tanks (Olive, Winter)</English>
 				<German>Panzer (Oliv, Winter)</German>
 				<Chinesesimp>坦克(橄榄色,冬季)</Chinesesimp>
+				<Russian>Танки (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_TAN">
 				<Original>Tanks (Tan)</Original>
@@ -6501,54 +6614,63 @@
 				<German>Panzer (Sand)</German>
 				<Chinesesimp>坦克(沙漠)</Chinesesimp>
 				<Korean>전차 (Tan)</Korean>
+				<Russian>Танки (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_TRP">
 				<Original>Tanks (Tropical)</Original>
 				<English>Tanks (Tropical)</English>
 				<German>Panzer (Tropen)</German>
 				<Chinesesimp>坦克(热带)</Chinesesimp>
+				<Russian>Танки (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_UN">
 				<Original>Tanks (White)</Original>
 				<English>Tanks (White)</English>
 				<German>Panzer (Weiß)</German>
 				<Chinesesimp>坦克(白色)</Chinesesimp>
+				<Russian>Танки (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_WDL">
 				<Original>Tanks (Woodland)</Original>
 				<English>Tanks (Woodland)</English>
 				<German>Panzer (Flecktarn)</German>
 				<Chinesesimp>坦克(林地)</Chinesesimp>
+				<Russian>Танки (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_WIN">
 				<Original>Tanks (Winter)</Original>
 				<English>Tanks (Winter)</English>
 				<German>Panzer (Winter)</German>
 				<Chinesesimp>坦克(冬季)</Chinesesimp>
+				<Russian>Танки (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_WIW">
 				<Original>Tanks (Winter, Wrong)</Original>
 				<English>Tanks (Winter, Wrong)</English>
 				<German>Panzer (Winter, Falsch)</German>
 				<Chinesesimp>坦克(冬季,故障)</Chinesesimp>
+				<Russian>Танки (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARMOR_WLG">
 				<Original>Tanks (Woodland, Green)</Original>
 				<English>Tanks (Woodland, Green)</English>
 				<German>Panzer (Flecktarn, Grün)</German>
 				<Chinesesimp>坦克(林地,绿色)</Chinesesimp>
+				<Russian>Танки (Лес, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_BEG">
 				<Original>Cars (Beige-Green)</Original>
 				<English>Cars (Beige-Green)</English>
 				<German>Autos (Beige-Grün)</German>
 				<Chinesesimp>汽车(米绿色)</Chinesesimp>
+				<Russian>Автомобили (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_BGB">
 				<Original>Cars (Blue-Green)</Original>
 				<English>Cars (Blue-Green)</English>
 				<German>Autos (Blau-Grün)</German>
 				<Chinesesimp>汽车(蓝绿色)</Chinesesimp>
+				<Russian>Автомобили (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_BLK">
 				<Original>Cars (Black)</Original>
@@ -6556,6 +6678,7 @@
 				<German>Autos (Schwarz)</German>
 				<Chinesesimp>汽车(黑色)</Chinesesimp>
 				<Korean>자동차 (검정)</Korean>
+				<Russian>Автомобили (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_BLW">
 				<Original>Cars (Black, Winter)</Original>
@@ -6563,12 +6686,14 @@
 				<German>Autos (Schwarz, Winter)</German>
 				<Chinesesimp>汽车(黑色,冬季)</Chinesesimp>
 				<Korean>자동차 (검정, 겨울)</Korean>
+				<Russian>Автомобили (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_BRB">
 				<Original>Cars (Beige-Brown)</Original>
 				<English>Cars (Beige-Brown)</English>
 				<German>Autos (Beige-Brown)</German>
 				<Chinesesimp>汽车(米棕色)</Chinesesimp>
+				<Russian>Автомобили (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_BRG">
 				<Original>Cars (Brown-Green)</Original>
@@ -6576,12 +6701,14 @@
 				<German>Autos (Braun-Grün)</German>
 				<Chinesesimp>汽车(褐绿色)</Chinesesimp>
 				<Korean>차 (갈색-초록)</Korean>
+				<Russian>Автомобили (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_DES">
 				<Original>Cars (Desert)</Original>
 				<English>Cars (Desert)</English>
 				<German>Autos (Wüste)</German>
 				<Chinesesimp>汽车(沙漠)</Chinesesimp>
+				<Russian>Автомобили (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_FLP">
 				<Original>Cars (Orange-Blue)</Original>
@@ -6589,6 +6716,7 @@
 				<German>Autos (Orange-Blau)</German>
 				<Chinesesimp>汽车(橙蓝色)</Chinesesimp>
 				<Korean>자동차 (오렌지-파랑)</Korean>
+				<Russian>Автомобили (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_GRG">
 				<Original>Cars (Green-Grey)</Original>
@@ -6596,90 +6724,105 @@
 				<German>Autos (Grün-Grau)</German>
 				<Chinesesimp>汽车(灰绿色)</Chinesesimp>
 				<Korean>자동차 (초록-회색)</Korean>
+				<Russian>Автомобили (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_GRN">
 				<Original>Cars (Green)</Original>
 				<English>Cars (Green)</English>
 				<German>Autos (Grün)</German>
 				<Chinesesimp>汽车(绿色)</Chinesesimp>
+				<Russian>Автомобили (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_INV">
 				<Original>Cars (Invasion)</Original>
 				<English>Cars (Invasion)</English>
 				<German>Autos (Invasion)</German>
 				<Chinesesimp>汽车(入侵)</Chinesesimp>
+				<Russian>Автомобили (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_OLB">
 				<Original>Cars (Woodland, Black)</Original>
 				<English>Cars (Woodland, Black)</English>
 				<German>Autos (Flecktarn, Schwarz)</German>
 				<Chinesesimp>汽车(林地,黑色)</Chinesesimp>
+				<Russian>Автомобили (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_OLI">
 				<Original>Cars (Olive)</Original>
 				<English>Cars (Olive)</English>
 				<German>Autos (Oliv)</German>
 				<Chinesesimp>汽车(橄榄)</Chinesesimp>
+				<Russian>Автомобили (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_OLS">
 				<Original>Cars (Olive, Mud)</Original>
 				<English>Cars (Olive, Mud)</English>
 				<German>Autos (Oliv, Schlamm)</German>
 				<Chinesesimp>汽车(橄榄色,泥土)</Chinesesimp>
+				<Russian>Автомобили (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_OLW">
 				<Original>Cars (Olive, Winter)</Original>
 				<English>Cars (Olive, Winter)</English>
 				<German>Autos (Oliv, Winter)</German>
 				<Chinesesimp>汽车(橄榄色,冬季)</Chinesesimp>
+				<Russian>Автомобили (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_TAN">
 				<Original>Cars (Tan)</Original>
 				<English>Cars (Tan)</English>
 				<German>Autos (Sand)</German>
 				<Chinesesimp>汽车(沙漠)</Chinesesimp>
+				<Russian>Автомобили (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_TRP">
 				<Original>Cars (Tropical)</Original>
 				<English>Cars (Tropical)</English>
 				<German>Autos (Tropen)</German>
 				<Chinesesimp>汽车(热带)</Chinesesimp>
+				<Russian>Автомобили (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_UN">
 				<Original>Cars (White)</Original>
 				<English>Cars (White)</English>
 				<German>Autos (Weiß)</German>
 				<Chinesesimp>汽车(白色)</Chinesesimp>
+				<Russian>Автомобили (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_WDL">
 				<Original>Cars (Woodland)</Original>
 				<English>Cars (Woodland)</English>
 				<German>Autos (Flecktarn)</German>
 				<Chinesesimp>汽车(林地)</Chinesesimp>
+				<Russian>Автомобили (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_WIN">
 				<Original>Cars (Winter)</Original>
 				<English>Cars (Winter)</English>
 				<German>Autos (Winter)</German>
 				<Chinesesimp>汽车(冬季)</Chinesesimp>
+				<Russian>Автомобили (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_WIW">
 				<Original>Cars (Winter, Wrong)</Original>
 				<English>Cars (Winter, Wrong)</English>
 				<German>Autos (Winter, Falsch)</German>
 				<Chinesesimp>汽车(冬季,故障)</Chinesesimp>
+				<Russian>Автомобили (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_CAR_WLG">
 				<Original>Cars (Woodland, Green)</Original>
 				<English>Cars (Woodland, Green)</English>
 				<German>Autos (Flecktarn, Grün)</German>
 				<Chinesesimp>汽车(林地,绿色)</Chinesesimp>
+				<Russian>Автомобили (Лесной, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_BEG">
 				<Original>Helicopters (Beige-Green)</Original>
 				<English>Helicopters (Beige-Green)</English>
 				<German>Helikopter (Beige-Grün)</German>
 				<Chinesesimp>直升机(米绿色)</Chinesesimp>
+				<Russian>Вертолеты (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_BGB">
 				<Original>Helicopters (Blue-Green)</Original>
@@ -6687,6 +6830,7 @@
 				<German>Helikopter (Blau-Grün)</German>
 				<Chinesesimp>直升机(蓝绿色)</Chinesesimp>
 				<Korean>헬리콥터 (파랑-초록)</Korean>
+				<Russian>Вертолеты (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_BLK">
 				<Original>Helicopters (Black)</Original>
@@ -6694,12 +6838,14 @@
 				<German>Helikopter (Schwarz)</German>
 				<Chinesesimp>直升机(黑色)</Chinesesimp>
 				<Korean>헬리콥터 (검정)</Korean>
+				<Russian>Вертолеты (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_BLW">
 				<Original>Helicopters (Black, Winter)</Original>
 				<English>Helicopters (Black, Winter)</English>
 				<German>Helikopter (Schwarz, Winter)</German>
 				<Chinesesimp>直升机(黑色,冬季)</Chinesesimp>
+				<Russian>Вертолеты (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_BRB">
 				<Original>Helicopters (Beige-Brown)</Original>
@@ -6707,6 +6853,7 @@
 				<German>Helikopter (Beige-Brown)</German>
 				<Chinesesimp>直升机(米棕色)</Chinesesimp>
 				<Korean>헬리콥터 (베이지-갈색)</Korean>
+				<Russian>Вертолеты (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_BRG">
 				<Original>Helicopters (Brown-Green)</Original>
@@ -6714,60 +6861,70 @@
 				<German>Helikopter (Braun-Grün)</German>
 				<Chinesesimp>直升机(褐绿色)</Chinesesimp>
 				<Korean>헬리콥터 (갈색-초록)</Korean>
+				<Russian>Вертолеты (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_DES">
 				<Original>Helicopters (Desert)</Original>
 				<English>Helicopters (Desert)</English>
 				<German>Helikopter (Wüste)</German>
 				<Chinesesimp>直升机(沙漠)</Chinesesimp>
+				<Russian>Вертолеты (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_FLP">
 				<Original>Helicopters (Orange-Blue)</Original>
 				<English>Helicopters (Orange-Blue)</English>
 				<German>Helikopter (Orange-Blau)</German>
 				<Chinesesimp>直升机(橙蓝色)</Chinesesimp>
+				<Russian>Вертолеты (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_GRG">
 				<Original>Helicopters (Green-Grey)</Original>
 				<English>Helicopters (Green-Grey)</English>
 				<German>Helikopter (Grün-Grau)</German>
 				<Chinesesimp>直升机(灰绿色)</Chinesesimp>
+				<Russian>Вертолеты (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_GRN">
 				<Original>Helicopters (Green)</Original>
 				<English>Helicopters (Green)</English>
 				<German>Helikopter (Grün)</German>
 				<Chinesesimp>直升机(绿色)</Chinesesimp>
+				<Russian>Вертолеты (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_INV">
 				<Original>Helicopters (Invasion)</Original>
 				<English>Helicopters (Invasion)</English>
 				<German>Helikopter (Invasion)</German>
 				<Chinesesimp>直升机(入侵)</Chinesesimp>
+				<Russian>Вертолеты (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_N62">
 				<Original>Helicopters (Norm 62)</Original>
 				<English>Helicopters (Norm 62)</English>
 				<German>Helikopter (Norm 62)</German>
 				<Chinesesimp>直升机(62号标准)</Chinesesimp>
+				<Russian>Вертолеты (Образ. 62)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_N72">
 				<Original>Helicopters (Norm 72)</Original>
 				<English>Helicopters (Norm 72)</English>
 				<German>Helikopter (Norm 72)</German>
 				<Chinesesimp>直升机(72号标准)</Chinesesimp>
+				<Russian>Вертолеты (Образ. 72)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_N83">
 				<Original>Helicopters (Norm 83)</Original>
 				<English>Helicopters (Norm 83)</English>
 				<German>Helikopter (Norm 83)</German>
 				<Chinesesimp>直升机(83号标准)</Chinesesimp>
+				<Russian>Вертолеты (Образ. 83)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_N84">
 				<Original>Helicopters (Norm 84)</Original>
 				<English>Helicopters (Norm 84)</English>
 				<German>Helikopter (Norm 84)</German>
 				<Chinesesimp>直升机(84号标准)</Chinesesimp>
+				<Russian>Вертолеты (Образ. 84)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_OLB">
 				<Original>Helicopters (Woodland, Black)</Original>
@@ -6775,66 +6932,77 @@
 				<German>Helikopter (Flecktarn, Schwarz)</German>
 				<Chinesesimp>直升机(林地,黑色)</Chinesesimp>
 				<Korean>헬리콥터 (우드랜드, 검정)</Korean>
+				<Russian>Вертолеты (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_OLI">
 				<Original>Helicopters (Olive)</Original>
 				<English>Helicopters (Olive)</English>
 				<German>Helikopter (Oliv)</German>
 				<Chinesesimp>直升机(橄榄)</Chinesesimp>
+				<Russian>Вертолеты (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_OLO">
 				<Original>Helicopters (Olive, Enemy)</Original>
 				<English>Helicopters (Olive, Enemy)</English>
 				<German>Helikopter (Oliv, Feind)</German>
 				<Chinesesimp>直升机(橄榄,敌军)</Chinesesimp>
+				<Russian>Вертолеты (Олива, Враг)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_OLS">
 				<Original>Helicopters (Olive, Mud)</Original>
 				<English>Helicopters (Olive, Mud)</English>
 				<German>Helikopter (Oliv, Schlamm)</German>
 				<Chinesesimp>直升机(橄榄色,泥土)</Chinesesimp>
+				<Russian>Вертолеты (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_OLU">
 				<Original>Helicopters (Olive-White)</Original>
 				<English>Helicopters (Olive-White)</English>
 				<German>Helikopter (Oliv-Weiß)</German>
 				<Chinesesimp>直升机(橄榄白)</Chinesesimp>
+				<Russian>Вертолеты (Оливково-Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_OLW">
 				<Original>Helicopters (Olive, Winter)</Original>
 				<English>Helicopters (Olive, Winter)</English>
 				<German>Helikopter (Oliv, Winter)</German>
 				<Chinesesimp>直升机(橄榄色,冬季)</Chinesesimp>
+				<Russian>Вертолеты (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_TAN">
 				<Original>Helicopters (Tan)</Original>
 				<English>Helicopters (Tan)</English>
 				<German>Helikopter (Sand)</German>
 				<Chinesesimp>直升机(沙漠)</Chinesesimp>
+				<Russian>Вертолеты (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_TIG">
 				<Original>Helicopters (Tiger)</Original>
 				<English>Helicopters (Tiger)</English>
 				<German>Helikopter (Tiger)</German>
 				<Chinesesimp>直升机(虎斑)</Chinesesimp>
+				<Russian>Вертолеты (Тигр)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_TRP">
 				<Original>Helicopters (Tropical)</Original>
 				<English>Helicopters (Tropical)</English>
 				<German>Helikopter (Tropen)</German>
 				<Chinesesimp>直升机(热带)</Chinesesimp>
+				<Russian>Вертолеты (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_UN">
 				<Original>Helicopters (White)</Original>
 				<English>Helicopters (White)</English>
 				<German>Helikopter (Weiß)</German>
 				<Chinesesimp>直升机(白色)</Chinesesimp>
+				<Russian>Вертолеты (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_WDL">
 				<Original>Helicopters (Woodland)</Original>
 				<English>Helicopters (Woodland)</English>
 				<German>Helikopter (Flecktarn)</German>
 				<Chinesesimp>直升机(林地)</Chinesesimp>
+				<Russian>Вертолеты (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_WIN">
 				<Original>Helicopters (Winter)</Original>
@@ -6842,18 +7010,21 @@
 				<German>Helikopter (Winter)</German>
 				<Chinesesimp>直升机(冬季)</Chinesesimp>
 				<Korean>헬기(겨울)</Korean>
+				<Russian>Вертолеты (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_WIW">
 				<Original>Helicopters (Winter, Wrong)</Original>
 				<English>Helicopters (Winter, Wrong)</English>
 				<German>Helikopter (Winter, Falsch)</German>
 				<Chinesesimp>直升机(冬季,故障)</Chinesesimp>
+				<Russian>Вертолеты (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HELICOPTER_WLG">
 				<Original>Helicopters (Woodland, Green)</Original>
 				<English>Helicopters (Woodland, Green)</English>
 				<German>Helikopter (Flecktarn, Grün)</German>
 				<Chinesesimp>直升机(林地,绿色)</Chinesesimp>
+				<Russian>Вертолеты (Лес, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_BEG">
 				<Original>Objects (Beige-Green)</Original>
@@ -6861,6 +7032,7 @@
 				<German>Objekte (Beige-Grün)</German>
 				<Chinesesimp>物体(米绿色)</Chinesesimp>
 				<Korean>물체 (베이지-초록)</Korean>
+				<Russian>Объекты (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_BGB">
 				<Original>Objects (Blue-Green)</Original>
@@ -19304,7 +19476,7 @@
 				<Original>B-T</Original>
 				<English>B-T</English>
 				<German>B-T</German>
-				<Chinesesimp>实心曳光弹</Chinesesimp>
+				<Chinesesimp>实心弹（曳光）</Chinesesimp>
 				<Korean>B-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_AP">
@@ -19318,7 +19490,7 @@
 				<Original>AP-T</Original>
 				<English>AP-T</English>
 				<German>AP-T</German>
-				<Chinesesimp>穿甲曳光弹</Chinesesimp>
+				<Chinesesimp>穿甲弹（曳光）</Chinesesimp>
 				<Korean>AP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_API">
@@ -19332,7 +19504,7 @@
 				<Original>API-T</Original>
 				<English>API-T</English>
 				<German>API-T</German>
-				<Chinesesimp>穿甲燃烧曳光弹</Chinesesimp>
+				<Chinesesimp>穿甲燃烧弹（曳光）</Chinesesimp>
 				<Korean>API-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APDS">
@@ -19346,7 +19518,7 @@
 				<Original>APDS-T</Original>
 				<English>APDS-T</English>
 				<German>APDS-T</German>
-				<Chinesesimp>脱壳穿甲曳光弹</Chinesesimp>
+				<Chinesesimp>脱壳穿甲弹（曳光）</Chinesesimp>
 				<Korean>APDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_APFSDS">
@@ -19360,7 +19532,7 @@
 				<Original>APFSDS-T</Original>
 				<English>APFSDS-T</English>
 				<German>APFSDS-T</German>
-				<Chinesesimp>尾翼稳定脱壳穿甲曳光弹</Chinesesimp>
+				<Chinesesimp>尾翼稳定脱壳穿甲弹（曳光）</Chinesesimp>
 				<Korean>APFSDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAP">
@@ -19374,7 +19546,7 @@
 				<Original>HVAP-T</Original>
 				<English>HVAP-T</English>
 				<German>HVAP-T</German>
-				<Chinesesimp>高速穿甲曳光弹</Chinesesimp>
+				<Chinesesimp>高速穿甲弹（曳光）</Chinesesimp>
 				<Korean>HVAP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HVAPDS">
@@ -19388,7 +19560,7 @@
 				<Original>HVAPDS-T</Original>
 				<English>HVAPDS-T</English>
 				<German>HVAPDS-T</German>
-				<Chinesesimp>尾翼稳定高速穿甲曳光弹</Chinesesimp>
+				<Chinesesimp>尾翼稳定高速穿甲弹（曳光）</Chinesesimp>
 				<Korean>HVAPDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FAPDS">
@@ -19402,7 +19574,7 @@
 				<Original>FAPDS-T</Original>
 				<English>FAPDS-T</English>
 				<German>FAPDS-T</German>
-				<Chinesesimp>易碎脱壳穿甲曳光弹</Chinesesimp>
+				<Chinesesimp>易碎脱壳穿甲弹（曳光）</Chinesesimp>
 				<Korean>FAPDS-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HE">
@@ -19416,7 +19588,7 @@
 				<Original>HE-T</Original>
 				<English>HE-T</English>
 				<German>HE-T</German>
-				<Chinesesimp>高爆曳光弹</Chinesesimp>
+				<Chinesesimp>高爆弹（曳光）</Chinesesimp>
 				<Korean>HE-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEI">
@@ -19430,7 +19602,7 @@
 				<Original>HEI-T</Original>
 				<English>HEI-T</English>
 				<German>HEI-T</German>
-				<Chinesesimp>高爆燃烧曳光弹</Chinesesimp>
+				<Chinesesimp>高爆燃烧弹（曳光）</Chinesesimp>
 				<Korean>HEI-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEAT">
@@ -19444,7 +19616,7 @@
 				<Original>HEAT-T</Original>
 				<English>HEAT-T</English>
 				<German>HEAT-T</German>
-				<Chinesesimp>破甲曳光弹</Chinesesimp>
+				<Chinesesimp>破甲弹（曳光）</Chinesesimp>
 				<Korean>HEAT-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_HEAT_MP">
@@ -19458,7 +19630,7 @@
 				<Original>HEAT-MP-T</Original>
 				<English>HEAT-MP-T</English>
 				<German>HEAT-MP-T</German>
-				<Chinesesimp>多用途破甲曳光弹</Chinesesimp>
+				<Chinesesimp>多用途破甲弹（曳光）</Chinesesimp>
 				<Korean>HEAT-MP-T</Korean>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE">
@@ -28005,8 +28177,8 @@
 				<Original>----------------@Z01240108@@STATE SCARLET@STATE SCARLET@STATE SCARLET@@EXECUTE@STOP@</Original>
 				<English>----------------@Z01240108@@STATE SCARLET@STATE SCARLET@STATE SCARLET@@EXECUTE@STOP@</English>
 				<German>----------------@Z01240108@@STATE SCARLET@STATE SCARLET@STATE SCARLET@@EXECUTE@ENDE@</German>
-				<Chinesesimp>----------------@Z01240108@@血色国旗@血色国旗@血色国旗@@执行@完毕@</Chinesesimp>
-				<Chinese>----------------@Z01240108@@血色國旗@血色國旗@血色國旗@@執行@完畢@</Chinese>
+				<Chinesesimp>----------------@Z01240108@@血色国旗@血色国旗@血色国旗@@作战@完毕@</Chinesesimp>
+				<Chinese>----------------@Z01240108@@血色國旗@血色國旗@血色國旗@@作戰@完畢@</Chinese>
 				<Korean>----------------@Z01240108@@스터디 스칼렛@스터디 스칼렛@스터디 스칼렛@@실행@멈춤@</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_02">
@@ -28205,8 +28377,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作戰</Chinese>
 				<Korean>수행할 임무</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_11">
@@ -28953,8 +29125,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作戰</Chinese>
 				<Korean>수행할 임무</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_BRIEFING_12">
@@ -28976,8 +29148,8 @@
 				<Original>Execute!</Original>
 				<English>Execute!</English>
 				<German>Ausführung!</German>
-				<Chinesesimp>执行！</Chinesesimp>
-				<Chinese>執行！</Chinese>
+				<Chinesesimp>作战！</Chinesesimp>
+				<Chinese>作戰！</Chinese>
 				<Korean>싹 쓸어버려!</Korean>
 			</Key>
 			<Key ID="STR_DN_TREEGRENADE">
@@ -29291,8 +29463,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作戰</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_04_BRIEFING_12">
 				<Original>2nd Company secures northern flank of the bataillon.</Original>
@@ -29648,8 +29820,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作戰</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_BRIEFING_12">
 				<Original>2nd Company secures border in position at Kahlenberg.</Original>
@@ -29706,8 +29878,8 @@
 				<Original>What if they shoot at us?</Original>
 				<English>What if they shoot at us?</English>
 				<German>Und wenn die auf uns schießen?</German>
-				<Chinesesimp>如果他们朝我们开枪怎么办？</Chinesesimp>
-				<Chinese>如果他們朝我們開槍怎麼辦？</Chinese>
+				<Chinesesimp>如果他们朝我们开火怎么办？</Chinesesimp>
+				<Chinese>如果他們朝我們開火怎麼辦？</Chinese>
 				<Korean>저들이 우릴 쏘면 어떻게 합니까?</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_001D">
@@ -29721,8 +29893,8 @@
 				<Original>Two SPW-40s... looks like recon.</Original>
 				<English>Two SPW-40s... looks like recon.</English>
 				<German>Zwei SPW-40. Vermutlich ein Spähtrupp.</German>
-				<Chinesesimp>两架SPW-40...看起来像是侦察的。</Chinesesimp>
-				<Chinese>兩架SPW-40...看起來像是偵察的。</Chinese>
+				<Chinesesimp>两辆SPW-40...看起来像是侦察的。</Chinesesimp>
+				<Chinese>兩辆SPW-40...看起來像是偵察的。</Chinese>
 				<Korean>SPW-40이 둘... 정찰대같군.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_003A">
@@ -29745,8 +29917,8 @@
 				<Original>This is SEMMEL, At coordinate 0131 9901, two SPW-40 moving north. Continuing observation. Over.</Original>
 				<English>This is SEMMEL, At coordinate 0131 9901, two SPW-40 moving north. Continuing observation. Over.</English>
 				<German>Hier SEMMEL, Bei Koordinate 0131 9901, zwo SPW-40 in Fahrtrichtung Nord. Beobachte weiter. Kommen.</German>
-				<Chinesesimp>WESPE，在坐标0131-9901，发现两架SPW-40正在向北移动。继续观察中，完毕。</Chinesesimp>
-				<Chinese>WESPE，在坐標0131-9901，發現兩架SPW-40正在向北移動。繼續觀察中，完畢。</Chinese>
+				<Chinesesimp>WESPE，在坐标0131-9901，发现两辆SPW-40正在向北移动。继续观察中，完毕。</Chinesesimp>
+				<Chinese>WESPE，在坐標0131-9901，發現兩辆SPW-40正在向北移動。繼續觀察中，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_003D">
 				<Original>This is WESPE, understood. Out.</Original>
@@ -29784,8 +29956,8 @@
 				<Original>This is SEMMEL, At coordinate 0137 9913, three T-55 moving West. Continuing with task. Over.</Original>
 				<English>This is SEMMEL, At coordinate 0137 9913, three T-55 moving West. Continuing with task. Over.</English>
 				<German>Hier SEMMEL, Bei Koordinate 0137 9913, drei T-55 in Fahrtrichtung West. Setze Auftrag weiter fort. Kommen.</German>
-				<Chinesesimp>这里是SEMMEL，在坐标0137-9913，发现三辆T-55正在向西移动。继续执行任务中，完毕。</Chinesesimp>
-				<Chinese>這裡是SEMMEL，在坐標0137-9913，發現三輛T-55正在向西移動。繼續執行任務中，完畢。</Chinese>
+				<Chinesesimp>这里是SEMMEL，在坐标0137-9913，发现三辆T-55正在向西移动。继续作战任务中，完毕。</Chinesesimp>
+				<Chinese>這裡是SEMMEL，在坐標0137-9913，發現三輛T-55正在向西移動。繼續作戰任務中，完畢。</Chinese>
 				<Korean>여기는 SEMMEL, 0137 9913, 좌표지점에 T-55 3대가 서쪽으로 움직인다. 임무를 속행하겠다. 오버.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_06_R_005D">
@@ -30057,8 +30229,8 @@
 				<Original>Heavy concentration of enemy forces in Weferlingen. Their assumed intention is to advance and destroy our forces in the north.</Original>
 				<English>Heavy concentration of enemy forces in Weferlingen. Their assumed intention is to advance and destroy our forces in the north.</English>
 				<German>Starke feindliche Kräfte bei Weferlingen, vermutete Absicht ist es nach Norden vorzurücken, um eigene Kräfte zu zerschlagen.</German>
-				<Chinesesimp>敌军大量集结于韦弗林根，他们的目的是推进并摧毁我军北方部队。</Chinesesimp>
-				<Chinese>敵軍大量集結於韋弗林根，他們的目的是推進並摧毀我軍北方部隊。</Chinese>
+				<Chinesesimp>敌军大量集结于韦弗林根，他们的目的是推进并消灭我军北方部队。</Chinesesimp>
+				<Chinese>敵軍大量集結於韋弗林根，他們的目的是推進並消灭我軍北方部隊。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_BRIEFING_03">
 				<Original>Our situation</Original>
@@ -30107,8 +30279,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作战</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_BRIEFING_10">
 				<Original>2nd Company continues battle at Kahlenberg.</Original>
@@ -30158,8 +30330,8 @@
 				<Original>And yes, they're Germany, too. So be at your best behaviour.</Original>
 				<English>And yes, they're Germany, too. So be at your best behaviour.</English>
 				<German>Und ja, auch drüben ist Deutschland. Also benehmt euch alle gefälligst.</German>
-				<Chinesesimp>是的，他们也是德国人，所以要表现出你们最好的一面。</Chinesesimp>
-				<Chinese>是的，他們也是德國人，所以要表現出你們最好的一面。</Chinese>
+				<Chinesesimp>是的，他们也是德国人，所以要表现出你们最绅士的一面。</Chinesesimp>
+				<Chinese>是的，他們也是德國人，所以要表現出你們最绅士的一面。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_003">
 				<Original>Hey Ehrlich, why are there so few bankrobberies in the GDR?</Original>
@@ -30188,15 +30360,15 @@
 				<Original>Dude, I'll kick you out of this tank!</Original>
 				<English>Dude, I'll kick you out of this tank!</English>
 				<German>Alter, ich schmeiß Dich gleich hier aus dem Panzer!</German>
-				<Chinesesimp>伙计，我要把你从这辆坦克APC里踢出去！</Chinesesimp>
-				<Chinese>伙計，我要把你從這輛坦克APC裡踢出去！</Chinese>
+				<Chinesesimp>伙计，我要把你从这辆APC里踢出去！</Chinesesimp>
+				<Chinese>伙計，我要把你從這輛APC裡踢出去！</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_007">
 				<Original>This is the border.</Original>
 				<English>This is the border.</English>
 				<German>Das ist die Grenze hier.</German>
-				<Chinesesimp>这里就是边境了嘛。</Chinesesimp>
-				<Chinese>這裡就是邊境了嗎。</Chinese>
+				<Chinesesimp>这里就是边境了。</Chinesesimp>
+				<Chinese>這裡就是邊境了。</Chinese>
 				<Korean>여기가 국경이다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_008">
@@ -30211,15 +30383,15 @@
 				<Original>The Gate ahead? Should we push through?</Original>
 				<English>The Gate ahead? Should we push through?</English>
 				<German>Das Tor vor uns. Sollen wir da einfach durch?</German>
-				<Chinesesimp>前面的大门? 我们要冲过去吗？</Chinesesimp>
-				<Chinese>前面的大門? 我們要衝過去嗎？</Chinese>
+				<Chinesesimp>前面的边防站？我们要冲过去吗？</Chinesesimp>
+				<Chinese>前面的边防站？我們要衝過去嗎？</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_010">
 				<Original>Yes, just drive through.</Original>
 				<English>Yes, just drive through.</English>
 				<German>Ja, einfach durchfahren.</German>
-				<Chinesesimp>不，仅仅开过去就行了。</Chinesesimp>
-				<Chinese>不，僅僅開過去就行了。</Chinese>
+				<Chinesesimp>是的，直接开过去。</Chinesesimp>
+				<Chinese>是的，僅僅開過去就行了。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_011">
 				<Original>Take it slow from here.</Original>
@@ -30239,15 +30411,15 @@
 				<Original>Hey, Ehrlich. How do you double the value of a Trabbi?</Original>
 				<English>Hey, Ehrlich. How do you double the value of a Trabbi?</English>
 				<German>Hey, Ehrlich. Wie verdoppelst du am einfachsten den Wert eines Trabbis?</German>
-				<Chinesesimp>嘿，Ehrlich。你是如何将Trabbi的价值翻倍的？</Chinesesimp>
-				<Chinese>嘿，Ehrlich。你是如何將Trabbi的價值翻倍的？</Chinese>
+				<Chinesesimp>嘿，Ehrlich。你知道如何将Trabbi的价值翻倍的？</Chinesesimp>
+				<Chinese>嘿，Ehrlich。你知道如何將Trabbi的價值翻倍的？</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_014">
 				<Original>Urgh, how?</Original>
 				<English>Urgh, how?</English>
 				<German>Urgh, na wie?</German>
-				<Chinesesimp>呃，怎么了？</Chinesesimp>
-				<Chinese>呃，怎麼了？</Chinese>
+				<Chinesesimp>呃，怎么做？</Chinesesimp>
+				<Chinese>呃，怎麼做？</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_015">
 				<Original>Put a banana on the back seat.</Original>
@@ -30274,7 +30446,7 @@
 				<Original>Probably means they are just regrouping somewhere east.</Original>
 				<English>Probably means they are just regrouping somewhere east.</English>
 				<German>Das heißt nur, dass die sich irgendwo weiter östlich wieder Sammeln.</German>
-				<Chinesesimp>也可能意味着他们只是在东部某处重新集结。</Chinesesimp>
+				<Chinesesimp>也可能意味着他们只是在东部得某处重新集结。</Chinesesimp>
 				<Chinese>也可能意味著他們只是在東部某處重新集結。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_07_R_019">
@@ -30365,8 +30537,8 @@
 				<Original>Use Machine</Original>
 				<English>Use Machine</English>
 				<German>Geld Einwerfen</German>
-				<Chinesesimp>使用机器</Chinesesimp>
-				<Chinese>使用機器</Chinese>
+				<Chinesesimp>投币</Chinesesimp>
+				<Chinese>投币</Chinese>
 				<Korean>기계를 사용</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_TITLE">
@@ -30396,8 +30568,8 @@
 				<Original>Proceed to Klinze and secure the village.</Original>
 				<English>Proceed to Klinze and secure the village.</English>
 				<German>Rücken sie auf Klinze vor und sichern Sie die Ortschaft.</German>
-				<Chinesesimp>前往Klinze，夺取村庄。</Chinesesimp>
-				<Chinese>前往Klinze，奪取村莊。</Chinese>
+				<Chinesesimp>前往Klinze，夺取小镇。</Chinesesimp>
+				<Chinese>前往Klinze，奪取小镇。</Chinese>
 				<Korean>클린제를 보호하고 마을을 확보하라.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_TASK_02_TITLE">
@@ -30485,8 +30657,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作戰</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_BRIEFING_11">
 				<Original>4th Company attacks forces in Klinze.</Original>
@@ -30513,8 +30685,8 @@
 				<Original>We do not have a lot of time before the enemy moves their command post.</Original>
 				<English>We do not have a lot of time before the enemy moves their command post.</English>
 				<German>Wir haben nicht viel Zeit bevor der Gefechtsstand ausweicht! </German>
-				<Chinesesimp>在敌人转移指挥所之前，我们时间不多了。</Chinesesimp>
-				<Chinese>在敵人轉移指揮所之前，我們時間不多了。</Chinese>
+				<Chinesesimp>在敌人转移指挥所之前，我们时间不多。</Chinesesimp>
+				<Chinese>在敵人轉移指揮所之前，我們時間不多。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_BRIEFING_15">
 				<Original>Get moving!</Original>
@@ -30550,8 +30722,8 @@
 				<Original>Use covering fire and close the distance to the enemy. Get to the village!</Original>
 				<English>Use covering fire and close the distance to the enemy. Get to the village!</English>
 				<German>Mit Deckungsfeuer an den Feind ran. Wir müssen zum Ortseingang!</German>
-				<Chinesesimp>火力掩护，拉近与敌人的距离。到村子里去！</Chinesesimp>
-				<Chinese>火力掩護，拉近與敵人的距離。到村子裡去！</Chinese>
+				<Chinesesimp>火力掩护，拉近与敌人的距离。到镇子里去！</Chinesesimp>
+				<Chinese>火力掩護，拉近與敵人的距離。到镇子裡去！</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_005">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -30573,8 +30745,8 @@
 				<Original>This is HAMMER. Ambushed by enemy. Two vehicles lost. Bridge destroyed. Approaching Klinze on foot. Over.</Original>
 				<English>This is HAMMER. Ambushed by enemy. Two vehicles lost. Bridge destroyed. Approaching Klinze on foot. Over.</English>
 				<German>Hier HAMMER. Feindlicher Hinterhalt. Zwei Fahrzeuge ausgefallen. Brücke zerstört. Nähern uns Klinze abgesessen. Kommen.</German>
-				<Chinesesimp>这里是HAMMER。遭遇敌军伏击。损失两辆汽车。桥梁被毁。徒步接近Klinze中，完毕。</Chinesesimp>
-				<Chinese>這裡是HAMMER。遭遇敵軍伏擊。損失兩輛汽車。橋樑被毀。徒步接近Klinze中，完畢。</Chinese>
+				<Chinesesimp>这里是HAMMER。遭遇敌军伏击。损失两辆APC。桥梁被毁。徒步接近Klinze中，完毕。</Chinesesimp>
+				<Chinese>這裡是HAMMER。遭遇敵軍伏擊。損失兩輛APC。橋樑被毀。徒步接近Klinze中，完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_008">
 				<Original>This is WESPE. Understood. Out.</Original>
@@ -30604,8 +30776,8 @@
 				<Original>This is HAMMER. We have reached Klinze. Continuing north to next task. Over.</Original>
 				<English>This is HAMMER. We have reached Klinze. Continuing north to next task. Over.</English>
 				<German>Hier HAMMER. Wir haben Klinze erreicht. Setzen Auftrag im Norden fort. Kommen.</German>
-				<Chinesesimp>这里是HAMMER。我们已经到达Klinze。继续向北，执行下一个任务。完毕。</Chinesesimp>
-				<Chinese>這裡是HAMMER。我們已經到達Klinze。繼續向北，執行下一個任務。完畢。</Chinese>
+				<Chinesesimp>这里是HAMMER。我们已经到达Klinze。继续向北，作战下一个任务。完毕。</Chinesesimp>
+				<Chinese>這裡是HAMMER。我們已經到達Klinze。繼續向北，作戰下一個任務。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_08_R_010B">
 				<Original>This is WESPE. Understood. Out.</Original>
@@ -30783,8 +30955,8 @@
 				<Original>Those bridges here are destroyed. We'll have to find a way through the village then.</Original>
 				<English>Those bridges here are destroyed. We'll have to find a way through the village then.</English>
 				<German>Die Brücke hier ist zerstört. Wir müssen uns einen Weg durch die Ortschaft suchen.</German>
-				<Chinesesimp>这里的桥梁都被毁了，我们得找条路穿过村子。</Chinesesimp>
-				<Chinese>這裡的橋樑都被毀了，我們得找條路穿過村子。</Chinese>
+				<Chinesesimp>这里的桥梁都被毁了，我们得找条路通过村子穿过河流。</Chinesesimp>
+				<Chinese>這裡的橋樑都被毀了，我們得找條路通过村子穿过河流。</Chinese>
 				<Korean>여기의 저 다리들은 파괴되었다. 마을로 향하는 다른 길을 찾아야한다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_09_R_006A">
@@ -30855,8 +31027,8 @@
 				<Original>Evade</Original>
 				<English>Evade</English>
 				<German>Ausweichen</German>
-				<Chinesesimp>躲避</Chinesesimp>
-				<Chinese>躲避</Chinese>
+				<Chinesesimp>大撤退</Chinesesimp>
+				<Chinese>大撤退</Chinese>
 				<Korean>회피</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_TASK_02_TEXT">
@@ -30929,8 +31101,8 @@
 				<Original>Execution</Original>
 				<English>Execution</English>
 				<German>Durchführung</German>
-				<Chinesesimp>执行</Chinesesimp>
-				<Chinese>執行</Chinese>
+				<Chinesesimp>作战</Chinesesimp>
+				<Chinese>作戰</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_BRIEFING_10">
 				<Original>All units hold position at Rätzlingen and delay enemy.</Original>
@@ -30958,8 +31130,8 @@
 				<Original>Scatter Mines - 15:36</Original>
 				<English>Scatter Mines - 15:36</English>
 				<German>Wurfminensperre - 15:36</German>
-				<Chinesesimp>埋设地雷——15:36</Chinesesimp>
-				<Chinese>埋設地雷——15:36</Chinese>
+				<Chinesesimp>部署雷区——15:36</Chinesesimp>
+				<Chinese>部署雷區——15:36</Chinese>
 				<Korean>확산지뢰 - 15:36</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_R_001A">
@@ -30974,8 +31146,8 @@
 				<Original>Be careful what you wish for.</Original>
 				<English>Be careful what you wish for.</English>
 				<German>Pass auf was Du dir herbeiwünschst.</German>
-				<Chinesesimp>小心你的愿望。</Chinesesimp>
-				<Chinese>小心你的願望。</Chinese>
+				<Chinesesimp>小心你的乌鸦嘴。</Chinesesimp>
+				<Chinese>小心你的乌鸦嘴。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_R_001C">
 				<Original>Anything is better than this.</Original>
@@ -31012,8 +31184,8 @@
 				<Original>This is WESPE, Break contact with the enemy and move 8000 to the south-west. A regiment-strong enemy is approaching. Over.</Original>
 				<English>This is WESPE, Break contact with the enemy and move 8000 to the south-west. A regiment-strong enemy is approaching. Over.</English>
 				<German>Hier WESPE, Vom Feind lösen und 8000 nach Süd-West verlegen. Der Feind kommt in Regimentsstärke auf Sie zu. Kommen.</German>
-				<Chinesesimp>这里是WESPE，与敌军脱离接触，向西南方向移动8千米。一个团级的敌人正在靠近。完毕。</Chinesesimp>
-				<Chinese>這裡是WESPE，與敵軍脫離接觸，向西南方向移動8千米。一個團級的敵人正在靠近。完畢。</Chinese>
+				<Chinesesimp>这里是WESPE，与敌军脱离接触，向西南方向移动8千米。一个团级规模的敌人正在逼近。完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，與敵軍脫離接觸，向西南方向移動8千米。一個團級規模的敵人正在逼近。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_R_002D">
 				<Original>This is SEMMEL, understood. Out.</Original>
@@ -31171,8 +31343,8 @@
 				<Original>This is WESPE, Coordinate 0139 9976, at 15:36, Scattermines. Over.</Original>
 				<English>This is WESPE, Coordinate 0139 9976, at 15:36, Scattermines. Over.</English>
 				<German>Hier WESPE, Bei Koordinate 0139 9976 um 15:36 Uhr. Wurfminensperre. Kommen.</German>
-				<Chinesesimp>这里是WESPE，坐标01399976,在15:36，埋放地雷。完毕。</Chinesesimp>
-				<Chinese>這裡是WESPE，坐標01399976,在15:36，埋放地雷。完畢。</Chinese>
+				<Chinesesimp>这里是WESPE，15:36，在坐标01399976，埋放地雷。完毕。</Chinesesimp>
+				<Chinese>這裡是WESPE，，15:36，在坐標01399976埋放地雷。完畢。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_10_R_008D">
 				<Original>This is SEMMEL, understood. Out.</Original>
@@ -31193,32 +31365,32 @@
 				<Original>Republikflucht</Original>
 				<English>Republikflucht</English>
 				<German>Republikflucht</German>
-				<Chinesesimp>共和国之路</Chinesesimp>
-				<Chinese>共和國之路</Chinese>
+				<Chinesesimp>漫漫回家路</Chinesesimp>
+				<Chinese>漫漫回家路</Chinese>
 				<Korean>공화국 탈출</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_OVERVIEW">
 				<Original>Lost behind enemy lines, you must return to West Germany.</Original>
 				<English>Lost behind enemy lines, you must return to West Germany.</English>
 				<German>Verschollen hinter feindlichen Linien gilt es zurück in den Westen zu finden.</German>
-				<Chinesesimp>迷失在敌后，你必须返回西德。</Chinesesimp>
-				<Chinese>迷失在敵後，你必須返回西德。</Chinese>
+				<Chinesesimp>迷失在敌后，你必须返回西德境内。</Chinesesimp>
+				<Chinese>迷失在敵後，你必須返回西德境內。</Chinese>
 				<Korean>적진에서 고립되었다, 당신은 서독으로 반드시 돌아가야 한다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_TASK_01_TITLE">
 				<Original>Reach the West</Original>
 				<English>Reach the West</English>
 				<German>Den Westen Erreichen</German>
-				<Chinesesimp>到达西德</Chinesesimp>
-				<Chinese>到達西德</Chinese>
+				<Chinesesimp>西行之路</Chinesesimp>
+				<Chinese>西行之路</Chinese>
 				<Korean>서독으로 돌아가기</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_TASK_01_TEXT">
 				<Original>Leave East Germany and return to friendly units in the area.&lt;br/&gt;&lt;br/&gt;The enemy reacts with hightened attention to any gunfire and will move to investigate. Use this to distract and mislead enemy patrols.&lt;br/&gt;&lt;br/&gt;Commandeer civilian vehicles if you see no alternative. Threaten the occupants with your gun to exit the vehicle. Warning shots into the air will do as well. But do not harm them!</Original>
 				<English>Leave East Germany and return to friendly units in the area.&lt;br/&gt;&lt;br/&gt;The enemy reacts with hightened attention to any gunfire and will move to investigate. Use this to distract and mislead enemy patrols.&lt;br/&gt;&lt;br/&gt;Commandeer civilian vehicles if you see no alternative. Threaten the occupants with your gun to exit the vehicle. Warning shots into the air will do as well. But do not harm them!</English>
 				<German>Verlassen Sie das Gebiet der DDR und erreichen sie verbündete Einheiten.&lt;br/&gt;&lt;br/&gt;Der Feind reagiert extrem empfindlich auf Schüsse und wird Sie anhand dieser Geräusche verfolgen. Nutzen Sie dies zur Ablenkung als Vorteil.&lt;br/&gt;&lt;br/&gt;Übernehmen Sie Fahrzeuge der Zivilbevölkerung nur wenn Sie es wirklich müssen. Drohen Sie dem Fahrer mit Ihrer Waffe, Warnschüsse nur als letztes Mittel. Verletzen Sie die Bevölkerung aber auf keinen Fall!</German>
-				<Chinesesimp>离开东德境内，回到该地区的友军部队中。&lt;br/&gt;&lt;br/&gt;敌军对任何枪声都高度警惕，并将前往调查。利用这点来分散和误导敌军巡逻队。&lt;br/&gt;&lt;br/&gt;如果你认为没有其他的选择，征用民用车辆。用你的枪威胁车上的人下车。向空中开枪恐吓也可以，但不要伤害他们。</Chinesesimp>
-				<Chinese>離開東德境內，回到該地區的友軍部隊中。 &lt;br/&gt;&lt;br/&gt;敵軍對任何槍聲都高度警惕，並將前往調查。利用這點來分散和誤導敵軍巡邏隊。 &lt;br/&gt;&lt;br/&gt;如果你認為沒有其他的選擇，徵用民用車輛。用你的槍威脅車上的人下車。向空中開槍恐嚇也可以，但不要傷害他們。</Chinese>
+				<Chinesesimp>离开东德，回到西德地区的友军部队中。&lt;br/&gt;&lt;br/&gt;敌军对任何枪声都高度警惕，并将前往调查。利用这点来分散和误导敌军巡逻队。&lt;br/&gt;&lt;br/&gt;如果你认为没有其他的选择，允许征用民用车辆。用你的枪威胁车上的人下车。向空中开枪恐吓即可，但不要伤害他们。</Chinesesimp>
+				<Chinese>離開東德，回到西德地區的友軍部隊中。 &lt;br/&gt;&lt;br/&gt;敵軍對任何槍聲都高度警惕，並將前往調查。利用這點來分散和誤導敵軍巡邏隊。 &lt;br/&gt;&lt;br/&gt;如果你認為沒有其他的選擇，允許徵用民用車輛。用你的槍威脅車上的人下車。向空中開槍恐嚇即可，但不要傷害他們。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_R_001">
 				<Original>Shit! Shit! Shit!</Original>
@@ -31279,8 +31451,8 @@
 				<Original>Yesterday evening a grave incident occurred at the Inner German Border.</Original>
 				<English>Yesterday evening a grave incident occurred at the Inner German Border.</English>
 				<German>Gestern Nacht ereignete sich an der Innerdeutschen Grenze ein Zwischenfall in bisher nicht dagewesenen ausmaßen.</German>
-				<Chinesesimp>昨晚，在德国内部边界发生了一起前所未有的军事冲突。</Chinesesimp>
-				<Chinese>昨晚，在德國內部邊界發生了一起前所未有的軍事衝突。</Chinese>
+				<Chinesesimp>昨晚，在两德边境线发生了一起前所未有的军事冲突。</Chinesesimp>
+				<Chinese>昨晚，在兩德邊境線發生了一起前所未有的軍事衝突。</Chinese>
 				<Korean>어제 저녁시간에 독일 국경지역에서 국경분쟁이 일어났습니다.</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_REPORT_02">
@@ -31294,8 +31466,8 @@
 				<Original>The State of Defence has not been declared.</Original>
 				<English>The State of Defence has not been declared.</English>
 				<German>Aufgrund der räumlichen Begrenzung wurde der Verteidigungsfall nicht ausgerufen.</German>
-				<Chinesesimp>尚未宣布进入国家紧急状态。</Chinesesimp>
-				<Chinese>尚未宣布進入國家緊急狀態。</Chinese>
+				<Chinesesimp>兩德均尚未宣布进入国家紧急状态。</Chinesesimp>
+				<Chinese>兩德均尚未宣布進入國家緊急狀態。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_REPORT_04">
 				<Original>Preliminary information reveals that this action was taken on the command of a colonel in the East German Army. His motives are unclear at present.</Original>
@@ -31315,8 +31487,8 @@
 				<Original>At around 4 AM the West German Army countered this hostility with forces from nearby Braunschweig.</Original>
 				<English>At around 4 AM the West German Army countered this hostility with forces from nearby Braunschweig.</English>
 				<German>Um circa 4 Uhr Morgens entgegnete diesem Übertritt der NVA die Bundeswehr mit Kräften aus dem nahegelegenen Braunschweig.</German>
-				<Chinesesimp>凌晨4点左右，以来自附近不伦瑞克的西德军队反击了这种敌对行为。</Chinesesimp>
-				<Chinese>凌晨4點左右，以來自附近不倫瑞克的西德軍隊反擊了這種敵對行為。</Chinese>
+				<Chinesesimp>凌晨4点左右，以来自不伦瑞克附近的西德军队反击了这种敌对行为。</Chinesesimp>
+				<Chinese>凌晨4點左右，以來自不倫瑞克附近的西德軍隊反擊了這種敵對行為。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_REPORT_07">
 				<Original>Battles between West- and East German Army continued until 3 PM this afternoon.</Original>
@@ -31364,8 +31536,8 @@
 				<Original>Plant supervisors expect week-long delays until production of automobiles can be resumed.</Original>
 				<English>Plant supervisors expect week-long delays until production of automobiles can be resumed.</English>
 				<German>Laut Werksleitung wird es einige Wochen dauern die Produktion wieder auf Soll-Niveau zu bringen.</German>
-				<Chinesesimp>工厂主管人员预计，在汽车生产能够恢复之前，将出现长达一周的延误。</Chinesesimp>
-				<Chinese>工廠主管人員預計，在汽車生產能夠恢復之前，將出現長達一周的延誤。</Chinese>
+				<Chinesesimp>工厂主管人员预计，在汽车生产能够恢复之前，将出现长达一周的订单延误。</Chinesesimp>
+				<Chinese>工廠主管人員預計，在汽車生產能夠恢復之前，將出現長達一周的訂單延誤。</Chinese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_REPORT_14">
 				<Original>The entire scope of the damages occurred is still unclear.</Original>
@@ -32784,7 +32956,7 @@
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;Gentlemen, it is your task to delay the enemy push onto our territory.&lt;br /&gt;&lt;br /&gt;We are preparing a defense-in-depth 20 kilometers west from your location. To increase our chance of success we must buy time! Your Army Aviation forces will have to successfully ambush, destroy, delay and obstruct the approaching enemy forces long enough for our reinforcements to assume their defensive positions.&lt;br /&gt;&lt;br /&gt;Our goal is to keep the enemy from advancing beyond this sector for 90 minutes. You must accomplish this at a minimum, but if you manage to wipe out all approaching enemy forces we will be able to quickly change over into an offensive push and bring this war back to the enemy's territory.&lt;br /&gt;&lt;br /&gt;This is truly a reckless task that we are asking from you, but your modern PAH-1 helicopters are already legendary ninjas of the air and we trust that you have the best possible equipment to quickly and decisively hit the enemy where it hurts while moving quickly from hot-spot to hot-spot. Be so vicious, so fast, so deadly that the enemy will think there are 10 of you dominating this sector.&lt;br /&gt;&lt;br /&gt;When you run out of ammo, fuel or need a quick repair, return to your forward air base &lt;marker name='base'&gt;here&lt;/marker&gt;. You will find there all you need to accomplish this task.&lt;br /&gt;&lt;br /&gt;This mission will fail should enemy units reach the western edge of this sector!</Original>
 				<English>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;Gentlemen, it is your task to delay the enemy push onto our territory.&lt;br /&gt;&lt;br /&gt;We are preparing a defense-in-depth 20 kilometers west from your location. To increase our chance of success we must buy time! Your Army Aviation forces will have to successfully ambush, destroy, delay and obstruct the approaching enemy forces long enough for our reinforcements to assume their defensive positions.&lt;br /&gt;&lt;br /&gt;Our goal is to keep the enemy from advancing beyond this sector for 90 minutes. You must accomplish this at a minimum, but if you manage to wipe out all approaching enemy forces we will be able to quickly change over into an offensive push and bring this war back to the enemy's territory.&lt;br /&gt;&lt;br /&gt;This is truly a reckless task that we are asking from you, but your modern PAH-1 helicopters are already legendary ninjas of the air and we trust that you have the best possible equipment to quickly and decisively hit the enemy where it hurts while moving quickly from hot-spot to hot-spot. Be so vicious, so fast, so deadly that the enemy will think there are 10 of you dominating this sector.&lt;br /&gt;&lt;br /&gt;When you run out of ammo, fuel or need a quick repair, return to your forward air base &lt;marker name='base'&gt;here&lt;/marker&gt;. You will find there all you need to accomplish this task.&lt;br /&gt;&lt;br /&gt;This mission will fail should enemy units reach the western edge of this sector!</English>
 				<German>%1&lt;br /&gt;Bundesrepublik Deutschland&lt;br /&gt;&lt;br /&gt;Soldaten, ihr heutiger Auftrag ist das Verzögern der Feindspitzen.&lt;br /&gt;&lt;br /&gt;20 Kilometer weiter westlich bereiten sich schon unsere Kräfte auf deren Verteidigungsauftrag vor. Wir verlassen uns auf euch Heeresflieger hier um diesen Vorbereitungen genügend Zeit zu schaffen. Dazu müssen Sie den Feind schnell und präzise schlagen, aus jeder Richtung und so plötzlich wirken, dass ihm keine Reaktion möglich ist.&lt;br /&gt;&lt;br /&gt;Halten Sie diesen Druck auf den Feind für mindestens 90 Minuten aufrecht. Sollten Sie es jedoch schaffen alle Vorstöße des Feindes abzuwehren, dann können unsere Kräfte direkt in einen Gegenangriff übergehen und diesen Krieg auf das Gebiet der DDR verlagern.&lt;br /&gt;&lt;br /&gt;Diese Aufgabe, welche vor Ihnen liegt, gleicht einem Himmelfahrtskommando. Lassen Sie sich aber nicht sagen, dass Ihre PAH-1 nicht die beste Waffe für diesen Zweck sei. Schnell, wendig, schlagkräftig. Sie werden wie Ninjas den Feind stören, zerschlagen, und letzendlich werfen. All dies mit einer solch verheerenden Wirkung, dass der Feind glauben wird, es seien zehn Maschinen in der Luft.&lt;br /&gt;&lt;br /&gt;Dieser vorgeschobene &lt;marker name='base'&gt;Versorgungspunkt&lt;/marker&gt; wird Sie mit Munition, Treibstoff und allem anderen versorgen.&lt;br /&gt;&lt;br /&gt;Diese Mission gilt als Fehlschlag sollten Teile der Feindkräfte die westliche Sektorengrenze erreichen.</German>
-				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;先生们，你们的任务是延缓敌人向我们领土的推进。&lt;br /&gt;&lt;br /&gt;我们正准备在距离你们西边20公里的地方进行深入防御。为了增加我们成功的机会，我们必须争取时间！你们陆军航空兵必须成功地伏击、摧毁、拖延和阻挠逼近的敌军，直到我们的增援部队进入防御位置。&lt;br /&gt;&lt;br /&gt;我们的目标是让敌人在90分钟内无法推进到这个区域外。你必须至少完成这个任务，但如果你能设法消灭所有逼近的敌军，我们就能迅速转变为进攻性的推进，将这场战争带回到敌人的领土上。&lt;br /&gt;&lt;br /&gt;这确实是一项我们要求你们执行的不计后果的任务，但你们的现代PAH-1直升机已经是空中传奇忍者，我们相信你们有最好的装备，可以快速和果断地打击敌人的要害，同时快速从一处热点地区移动到另外一处热点地区。如此凶狠，如此迅速，如此致命，以至于敌人会认为有10个你们在控制这片区域。&lt;br /&gt;&lt;br /&gt;当你弹药、燃料耗尽或需要快速修理时，返回&lt;marker name='base'&gt;此处&lt;/marker&gt;的前方空军基地。你会在那里找到完成这项任务所需的一切。&lt;br /&gt;&lt;br /&gt;如果敌军部队到达该区域的西部边缘，任务将会失败!</Chinesesimp>
+				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;先生们，你们的任务是延缓敌人向我们领土的推进。&lt;br /&gt;&lt;br /&gt;我们正准备在距离你们西边20公里的地方进行深入防御。为了增加我们成功的机会，我们必须争取时间！你们陆军航空兵必须成功地伏击、摧毁、拖延和阻挠逼近的敌军，直到我们的增援部队进入防御位置。&lt;br /&gt;&lt;br /&gt;我们的目标是让敌人在90分钟内无法推进到这个区域外。你必须至少完成这个任务，但如果你能设法消灭所有逼近的敌军，我们就能迅速转变为进攻性的推进，将这场战争带回到敌人的领土上。&lt;br /&gt;&lt;br /&gt;这确实是一项我们要求你们作战的不计后果的任务，但你们的现代PAH-1直升机已经是空中传奇忍者，我们相信你们有最好的装备，可以快速和果断地打击敌人的要害，同时快速从一处热点地区移动到另外一处热点地区。如此凶狠，如此迅速，如此致命，以至于敌人会认为有10个你们在控制这片区域。&lt;br /&gt;&lt;br /&gt;当你弹药、燃料耗尽或需要快速修理时，返回&lt;marker name='base'&gt;此处&lt;/marker&gt;的前方空军基地。你会在那里找到完成这项任务所需的一切。&lt;br /&gt;&lt;br /&gt;如果敌军部队到达该区域的西部边缘，任务将会失败!</Chinesesimp>
 			</Key>
 			<Key ID="STR_GM_CAMPAIGN_TANK_MISSION_DIFFICULTY_TEXT">
 				<Original>Play this mission with friendly AI companion tanks? (Squad leader mode)&lt;br/&gt;&lt;br/&gt;This changes the mission difficulty and increases the amount of enemy forces encountered.</Original>
