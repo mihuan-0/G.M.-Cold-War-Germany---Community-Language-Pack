@@ -10,7 +10,7 @@
 				<Chinese>全球動員-冷戰危機</Chinese>
 				<korean>글로벌 모빌리제이션</korean>
 				<Japanese>グローバル·モビリゼーション</Japanese>
-				<Russian>Глобальная мобилизация</Russian>
+				<Russian>Глобальная Мобилизация</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM">
 				<Original>GM</Original>
@@ -7040,6 +7040,7 @@
 				<German>Objekte (Blau-Grün)</German>
 				<Chinesesimp>物体(蓝绿色)</Chinesesimp>
 				<Korean>물체 (파랑-초록)</Korean>
+				<Russian>Объекты (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_BLK">
 				<Original>Objects (Black)</Original>
@@ -7047,6 +7048,7 @@
 				<German>Objekte (Schwarz)</German>
 				<Chinesesimp>物体(黑色)</Chinesesimp>
 				<Korean>물체 (검정)</Korean>
+				<Russian>Объекты (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_BLW">
 				<Original>Objects (Black, Winter)</Original>
@@ -7054,6 +7056,7 @@
 				<German>Objekte (Schwarz, Winter)</German>
 				<Chinesesimp>物体(黑色,冬季)</Chinesesimp>
 				<Korean>물체 (검정, 겨울)</Korean>
+				<Russian>Объекты (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_BRB">
 				<Original>Objects (Beige-Brown)</Original>
@@ -7061,120 +7064,140 @@
 				<German>Objekte (Beige-Brown)</German>
 				<Chinesesimp>物体(米棕色)</Chinesesimp>
 				<Korean>물체 (베이지-갈색)</Korean>
+				<Russian>Объекты (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_BRG">
 				<Original>Objects (Brown-Green)</Original>
 				<English>Objects (Brown-Green)</English>
 				<German>Objekte (Braun-Grün)</German>
 				<Chinesesimp>物体(褐绿色)</Chinesesimp>
+				<Russian>Объекты (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_DES">
 				<Original>Objects (Desert)</Original>
 				<English>Objects (Desert)</English>
 				<German>Objekte (Wüste)</German>
 				<Chinesesimp>物体(沙漠)</Chinesesimp>
+				<Russian>Объекты (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_FLP">
 				<Original>Objects (Orange-Blue)</Original>
 				<English>Objects (Orange-Blue)</English>
 				<German>Objekte (Orange-Blau)</German>
 				<Chinesesimp>物体(橙蓝色)</Chinesesimp>
+				<Russian>Объекты (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_GRG">
 				<Original>Objects (Green-Grey)</Original>
 				<English>Objects (Green-Grey)</English>
 				<German>Objekte (Grün-Grau)</German>
 				<Chinesesimp>物体(灰绿色)</Chinesesimp>
+				<Russian>Объекты (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_GRN">
 				<Original>Objects (Green)</Original>
 				<English>Objects (Green)</English>
 				<German>Objekte (Grün)</German>
 				<Chinesesimp>物体(绿色)</Chinesesimp>
+				<Russian>Объекты (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_INV">
 				<Original>Objects (Invasion)</Original>
 				<English>Objects (Invasion)</English>
 				<German>Objekte (Invasion)</German>
 				<Chinesesimp>物体(入侵)</Chinesesimp>
+				<Russian>Объекты (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_OLB">
 				<Original>Objects (Woodland, Black)</Original>
 				<English>Objects (Woodland, Black)</English>
 				<German>Objekte (Flecktarn, Schwarz)</German>
 				<Chinesesimp>物体(林地,黑色)</Chinesesimp>
+				<Russian>Объекты (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_OLI">
 				<Original>Objects (Olive)</Original>
 				<English>Objects (Olive)</English>
 				<German>Objekte (Oliv)</German>
 				<Chinesesimp>物体(橄榄)</Chinesesimp>
+				<Russian>Объекты (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_OLS">
 				<Original>Objects (Olive, Mud)</Original>
 				<English>Objects (Olive, Mud)</English>
 				<German>Objekte (Oliv, Schlamm)</German>
 				<Chinesesimp>物体(橄榄色,泥土)</Chinesesimp>
+				<Russian>Объекты (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_OLW">
 				<Original>Objects (Olive, Winter)</Original>
 				<English>Objects (Olive, Winter)</English>
 				<German>Objekte (Oliv, Winter)</German>
 				<Chinesesimp>物体(橄榄色,冬季)</Chinesesimp>
+				<Russian>Объекты (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_TAN">
 				<Original>Objects (Tan)</Original>
 				<English>Objects (Tan)</English>
 				<German>Objekte (Sand)</German>
 				<Chinesesimp>物体(沙漠)</Chinesesimp>
+				<Russian>Объекты (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_TRP">
 				<Original>Objects (Tropical)</Original>
 				<English>Objects (Tropical)</English>
 				<German>Objekte (Tropen)</German>
 				<Chinesesimp>物体(热带)</Chinesesimp>
+				<Russian>Объекты (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_UN">
 				<Original>Objects (White)</Original>
 				<English>Objects (White)</English>
 				<German>Objekte (Weiß)</German>
 				<Chinesesimp>物体(白色)</Chinesesimp>
+				<Russian>Объекты (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_WDL">
 				<Original>Objects (Woodland)</Original>
 				<English>Objects (Woodland)</English>
 				<German>Objekte (Flecktarn)</German>
 				<Chinesesimp>物体(林地)</Chinesesimp>
+				<Russian>Объекты (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_WIN">
 				<Original>Objects (Winter)</Original>
 				<English>Objects (Winter)</English>
 				<German>Objekte (Winter)</German>
 				<Chinesesimp>物体(冬季)</Chinesesimp>
+				<Russian>Объекты (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_WIW">
 				<Original>Objects (Winter, Wrong)</Original>
 				<English>Objects (Winter, Wrong)</English>
 				<German>Objekte (Winter, Falsch)</German>
 				<Chinesesimp>物体(冬季,故障)</Chinesesimp>
+				<Russian>Объекты (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_OBJECT_WLG">
 				<Original>Objects (Woodland, Green)</Original>
 				<English>Objects (Woodland, Green)</English>
 				<German>Objekte (Flecktarn, Grün)</German>
 				<Chinesesimp>物体(林地,绿色)</Chinesesimp>
+				<Russian>Объекты (Лес, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_BEG">
 				<Original>Planes (Beige-Green)</Original>
 				<English>Planes (Beige-Green)</English>
 				<German>Flugzeuge (Beige-Grün)</German>
 				<Chinesesimp>飞机(米绿色)</Chinesesimp>
+				<Russian>Самолёты (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_BGB">
 				<Original>Planes (Blue-Green)</Original>
 				<English>Planes (Blue-Green)</English>
 				<German>Flugzeuge (Blau-Grün)</German>
 				<Chinesesimp>飞机(蓝绿色)</Chinesesimp>
+				<Russian>Самолёты (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_BLK">
 				<Original>Planes (Black)</Original>
@@ -7182,18 +7205,21 @@
 				<German>Flugzeuge (Schwarz)</German>
 				<Chinesesimp>飞机(黑色)</Chinesesimp>
 				<Korean>비행기 (검정)</Korean>
+				<Russian>Самолёты (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_BLW">
 				<Original>Planes (Black, Winter)</Original>
 				<English>Planes (Black, Winter)</English>
 				<German>Flugzeuge (Schwarz, Winter)</German>
 				<Chinesesimp>飞机(黑色,冬季)</Chinesesimp>
+				<Russian>Самолёты (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_BRB">
 				<Original>Planes (Beige-Brown)</Original>
 				<English>Planes (Beige-Brown)</English>
 				<German>Flugzeuge (Beige-Brown)</German>
 				<Chinesesimp>飞机(米棕色)</Chinesesimp>
+				<Russian>Самолёты (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_BRG">
 				<Original>Planes (Brown-Green)</Original>
@@ -7201,102 +7227,119 @@
 				<German>Flugzeuge (Braun-Grün)</German>
 				<Chinesesimp>飞机(褐绿色)</Chinesesimp>
 				<Korean>비행기 (갈색-초록)</Korean>
+				<Russian>Самолёты (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_DES">
 				<Original>Planes (Desert)</Original>
 				<English>Planes (Desert)</English>
 				<German>Flugzeuge (Wüste)</German>
 				<Chinesesimp>飞机(沙漠)</Chinesesimp>
+				<Russian>Самолёты (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_FLP">
 				<Original>Planes (Orange-Blue)</Original>
 				<English>Planes (Orange-Blue)</English>
 				<German>Flugzeuge (Orange-Blau)</German>
 				<Chinesesimp>飞机(橙蓝色)</Chinesesimp>
+				<Russian>Самолёты (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_GRG">
 				<Original>Planes (Green-Grey)</Original>
 				<English>Planes (Green-Grey)</English>
 				<German>Flugzeuge (Grün-Grau)</German>
 				<Chinesesimp>飞机(灰绿色)</Chinesesimp>
+				<Russian>Самолёты (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_GRN">
 				<Original>Planes (Green)</Original>
 				<English>Planes (Green)</English>
 				<German>Flugzeuge (Grün)</German>
 				<Chinesesimp>飞机(绿色)</Chinesesimp>
+				<Russian>Самолёты (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_INV">
 				<Original>Planes (Invasion)</Original>
 				<English>Planes (Invasion)</English>
 				<German>Flugzeuge (Invasion)</German>
 				<Chinesesimp>飞机(入侵)</Chinesesimp>
+				<Russian>Самолёты (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_N62">
 				<Original>Planes (Norm 62)</Original>
 				<English>Planes (Norm 62)</English>
 				<German>Flugzeuge (Norm 62)</German>
 				<Chinesesimp>飞机(62号标准)</Chinesesimp>
+				<Russian>Самолёты (Образ. 62)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_N72">
 				<Original>Planes (Norm 72)</Original>
 				<English>Planes (Norm 72)</English>
 				<German>Flugzeuge (Norm 72)</German>
 				<Chinesesimp>飞机(72号标准)</Chinesesimp>
+				<Russian>Самолёты (Образ. 72)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_N83">
 				<Original>Planes (Norm 83)</Original>
 				<English>Planes (Norm 83)</English>
 				<German>Flugzeuge (Norm 83)</German>
 				<Chinesesimp>飞机(83号标准)</Chinesesimp>
+				<Russian>Самолёты (Образ. 83)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_N84">
 				<Original>Planes (Norm 84)</Original>
 				<English>Planes (Norm 84)</English>
 				<German>Flugzeuge (Norm 84)</German>
 				<Chinesesimp>飞机(84号标准)</Chinesesimp>
+				<Russian>Самолёты (Образ. 84)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_N87">
 				<Original>Planes (Norm 87)</Original>
 				<English>Planes (Norm 87)</English>
 				<German>Flugzeuge (Norm 87)</German>
 				<Chinesesimp>飞机(87号标准)</Chinesesimp>
+				<Russian>Самолёты (Образ. 87)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_OLB">
 				<Original>Planes (Woodland, Black)</Original>
 				<English>Planes (Woodland, Black)</English>
 				<German>Flugzeuge (Flecktarn, Schwarz)</German>
 				<Chinesesimp>飞机(林地,黑色)</Chinesesimp>
+				<Russian>Самолёты (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_OLI">
 				<Original>Planes (Olive)</Original>
 				<English>Planes (Olive)</English>
 				<German>Flugzeuge (Oliv)</German>
 				<Chinesesimp>飞机(橄榄)</Chinesesimp>
+				<Russian>Самолёты (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_OLO">
 				<Original>Planes (Olive, Enemy)</Original>
 				<English>Planes (Olive, Enemy)</English>
 				<German>Flugzeuge (Oliv, Feind)</German>
 				<Chinesesimp>飞机(橄榄,敌军)</Chinesesimp>
+				<Russian>Самолёты (Олива, Враг)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_OLS">
 				<Original>Planes (Olive, Mud)</Original>
 				<English>Planes (Olive, Mud)</English>
 				<German>Flugzeuge (Oliv, Schlamm)</German>
 				<Chinesesimp>飞机(橄榄色,泥土)</Chinesesimp>
+				<Russian>Самолёты (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_OLU">
 				<Original>Planes (Olive-White)</Original>
 				<English>Planes (Olive-White)</English>
 				<German>Flugzeuge (Oliv-Weiß)</German>
 				<Chinesesimp>飞机(橄榄白)</Chinesesimp>
+				<Russian>Самолёты (Оливково-Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_OLW">
 				<Original>Planes (Olive, Winter)</Original>
 				<English>Planes (Olive, Winter)</English>
 				<German>Flugzeuge (Oliv, Winter)</German>
 				<Chinesesimp>飞机(橄榄色,冬季)</Chinesesimp>
+				<Russian>Самолёты (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_TAN">
 				<Original>Planes (Tan)</Original>
@@ -7304,12 +7347,14 @@
 				<German>Flugzeuge (Sand)</German>
 				<Chinesesimp>飞机(沙漠)</Chinesesimp>
 				<Korean>비행기 (Tan)</Korean>
+				<Russian>Самолёты (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_TIG">
 				<Original>Planes (Tiger)</Original>
 				<English>Planes (Tiger)</English>
 				<German>Flugzeuge (Tiger)</German>
 				<Chinesesimp>飞机(虎斑)</Chinesesimp>
+				<Russian>Самолёты (Тигр)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_TRP">
 				<Original>Planes (Tropical)</Original>
@@ -7317,6 +7362,7 @@
 				<German>Flugzeuge (Tropen)</German>
 				<Chinesesimp>飞机(热带)</Chinesesimp>
 				<Korean>비행기 (열대)</Korean>
+				<Russian>Самолёты (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_UN">
 				<Original>Planes (White)</Original>
@@ -7324,24 +7370,28 @@
 				<German>Flugzeuge (Weiß)</German>
 				<Chinesesimp>飞机(白色)</Chinesesimp>
 				<Korean>비행기 (하양)</Korean>
+				<Russian>Самолёты (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_WDL">
 				<Original>Planes (Woodland)</Original>
 				<English>Planes (Woodland)</English>
 				<German>Flugzeuge (Flecktarn)</German>
 				<Chinesesimp>飞机(林地)</Chinesesimp>
+				<Russian>Самолёты (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_WIN">
 				<Original>Planes (Winter)</Original>
 				<English>Planes (Winter)</English>
 				<German>Flugzeuge (Winter)</German>
 				<Chinesesimp>飞机(冬季)</Chinesesimp>
+				<Russian>Самолёты (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_WIW">
 				<Original>Planes (Winter, Wrong)</Original>
 				<English>Planes (Winter, Wrong)</English>
 				<German>Flugzeuge (Winter, Falsch)</German>
 				<Chinesesimp>飞机(冬季,故障)</Chinesesimp>
+				<Russian>Самолёты (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_PLANE_WLG">
 				<Original>Planes (Woodland, Green)</Original>
@@ -7349,18 +7399,21 @@
 				<German>Flugzeuge (Flecktarn, Grün)</German>
 				<Chinesesimp>飞机(林地,绿色)</Chinesesimp>
 				<Korean>비행기 (우드랜드, 초록)</Korean>
+				<Russian>Самолёты (Лес, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_BEG">
 				<Original>Turret (Beige-Green)</Original>
 				<English>Turret (Beige-Green)</English>
 				<German>Geschütz (Beige-Grün)</German>
 				<Chinesesimp>炮塔(米绿色)</Chinesesimp>
+				<Russian>Турель (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_BGB">
 				<Original>Turret (Blue-Green)</Original>
 				<English>Turret (Blue-Green)</English>
 				<German>Geschütz (Blau-Grün)</German>
 				<Chinesesimp>炮塔(蓝绿色)</Chinesesimp>
+				<Russian>Турель (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_BLK">
 				<Original>Turret (Black)</Original>
@@ -7368,30 +7421,35 @@
 				<German>Geschütz (Schwarz)</German>
 				<Chinesesimp>炮塔(黑色)</Chinesesimp>
 				<Korean>포탑 (검정)</Korean>
+				<Russian>Турель (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_BLW">
 				<Original>Turret (Black, Winter)</Original>
 				<English>Turret (Black, Winter)</English>
 				<German>Geschütz (Schwarz, Winter)</German>
 				<Chinesesimp>炮塔(黑色,冬季)</Chinesesimp>
+				<Russian>Турель (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_BRB">
 				<Original>Turret (Beige-Brown)</Original>
 				<English>Turret (Beige-Brown)</English>
 				<German>Geschütz (Beige-Brown)</German>
 				<Chinesesimp>炮塔(米棕色)</Chinesesimp>
+				<Russian>Турель (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_BRG">
 				<Original>Turret (Brown-Green)</Original>
 				<English>Turret (Brown-Green)</English>
 				<German>Geschütz (Braun-Grün)</German>
 				<Chinesesimp>炮塔(褐绿色)</Chinesesimp>
+				<Russian>Турель (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_DES">
 				<Original>Turret (Desert)</Original>
 				<English>Turret (Desert)</English>
 				<German>Geschütz (Desert)</German>
 				<Chinesesimp>炮塔(沙漠)</Chinesesimp>
+				<Russian>Турель (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_FLP">
 				<Original>Turret (Orange-Blue)</Original>
@@ -7399,6 +7457,7 @@
 				<German>Geschütz (Orange-Blau)</German>
 				<Chinesesimp>炮塔(橙蓝色)</Chinesesimp>
 				<Korean>포탑 (오렌지-파랑)</Korean>
+				<Russian>Турель (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_GRG">
 				<Original>Turret (Green-Grey)</Original>
@@ -7406,66 +7465,77 @@
 				<German>Geschütz (Grün-Grau)</German>
 				<Chinesesimp>炮塔(灰绿色)</Chinesesimp>
 				<Korean>포탑 (초록-회색)</Korean>
+				<Russian>Турель (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_GRN">
 				<Original>Turret (Green)</Original>
 				<English>Turret (Green)</English>
 				<German>Geschütz (Grün)</German>
 				<Chinesesimp>炮塔(绿色)</Chinesesimp>
+				<Russian>Турель (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_INV">
 				<Original>Turret (Invasion)</Original>
 				<English>Turret (Invasion)</English>
 				<German>Geschütz (Invasion)</German>
 				<Chinesesimp>炮塔(入侵)</Chinesesimp>
+				<Russian>Турель (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_OLB">
 				<Original>Turret (Woodland, Black)</Original>
 				<English>Turret (Woodland, Black)</English>
 				<German>Geschütz (Flecktarn, Schwarze)</German>
 				<Chinesesimp>炮塔(林地,黑色)</Chinesesimp>
+				<Russian>Турель (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_OLI">
 				<Original>Turret (Olive)</Original>
 				<English>Turret (Olive)</English>
 				<German>Geschütz (Oliv)</German>
 				<Chinesesimp>炮塔(橄榄)</Chinesesimp>
+				<Russian>Турель (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_OLS">
 				<Original>Turret (Olive, Mud)</Original>
 				<English>Turret (Olive, Mud)</English>
 				<German>Geschütz (Oliv, Schlamm)</German>
 				<Chinesesimp>炮塔(橄榄色,泥土)</Chinesesimp>
+				<Russian>Турель (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_OLW">
 				<Original>Turret (Olive, Winter)</Original>
 				<English>Turret (Olive, Winter)</English>
 				<German>Geschütz (Oliv, Winter)</German>
 				<Chinesesimp>炮塔(橄榄色,冬季)</Chinesesimp>
+				<Russian>Турель (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_TAN">
 				<Original>Turret (Tan)</Original>
 				<English>Turret (Tan)</English>
 				<German>Geschütz (Sand)</German>
 				<Chinesesimp>炮塔(沙漠)</Chinesesimp>
+				<Russian>Турель (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_TRP">
 				<Original>Turret (Tropical)</Original>
 				<English>Turret (Tropical)</English>
 				<German>Geschütz (Tropen)</German>
 				<Chinesesimp>炮塔(热带)</Chinesesimp>
+				<Russian>Турель (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_UN">
 				<Original>Turret (White)</Original>
 				<English>Turret (White)</English>
 				<German>Geschütz (Weiß)</German>
 				<Chinesesimp>炮塔(白色)</Chinesesimp>
+				<Russian>Турель (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_WDL">
 				<Original>Turret (Woodland)</Original>
 				<English>Turret (Woodland)</English>
 				<German>Geschütz (Flecktarn)</German>
 				<Chinesesimp>炮塔(林地)</Chinesesimp>
+				<Russian>Турель (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_WIN">
 				<Original>Turret (Winter)</Original>
@@ -7473,12 +7543,14 @@
 				<German>Geschütz (Winter)</German>
 				<Chinesesimp>炮塔(冬季)</Chinesesimp>
 				<Korean>포탑 (겨울)</Korean>
+				<Russian>Турель (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_WIW">
 				<Original>Turret (Winter, Wrong)</Original>
 				<English>Turret (Winter, Wrong)</English>
 				<German>Geschütz (Winter, Falsch)</German>
 				<Chinesesimp>炮塔(冬季,故障)</Chinesesimp>
+				<Russian>Турель (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_TURRET_WLG">
 				<Original>Turret (Woodland, Green)</Original>
@@ -7486,138 +7558,161 @@
 				<German>Geschütz (Flecktarn, Grün)</German>
 				<Chinesesimp>炮塔(林地,绿色)</Chinesesimp>
 				<Korean>포탑 (우드랜드, 초록)</Korean>
+				<Russian>Турель (Лесной, Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_BEG">
 				<Original>Artillery (Beige-Green)</Original>
 				<English>Artillery (Beige-Green)</English>
 				<German>Artillerie (Beige-Grün)</German>
 				<Chinesesimp>火炮(米绿色)</Chinesesimp>
+				<Russian>Артиллерия (Бежево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_BGB">
 				<Original>Artillery (Blue-Green)</Original>
 				<English>Artillery (Blue-Green)</English>
 				<German>Artillerie (Blau-Grün)</German>
 				<Chinesesimp>火炮(蓝绿色)</Chinesesimp>
+				<Russian>Артиллерия (Сине-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_BLK">
 				<Original>Artillery (Black)</Original>
 				<English>Artillery (Black)</English>
 				<German>Artillerie (Schwarz)</German>
 				<Chinesesimp>火炮(黑色)</Chinesesimp>
+				<Russian>Артиллерия (Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_BLW">
 				<Original>Artillery (Black, Winter)</Original>
 				<English>Artillery (Black, Winter)</English>
 				<German>Artillerie (Schwarz, Winter)</German>
 				<Chinesesimp>火炮(黑色,冬季)</Chinesesimp>
+				<Russian>Артиллерия (Черный, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_BRB">
 				<Original>Artillery (Beige-Brown)</Original>
 				<English>Artillery (Beige-Brown)</English>
 				<German>Artillerie (Beige-Brown)</German>
 				<Chinesesimp>火炮(米棕色)</Chinesesimp>
+				<Russian>Артиллерия (Бежево-Коричневый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_BRG">
 				<Original>Artillery (Brown-Green)</Original>
 				<English>Artillery (Brown-Green)</English>
 				<German>Artillerie (Braun-Grün)</German>
 				<Chinesesimp>火炮(褐绿色)</Chinesesimp>
+				<Russian>Артиллерия (Коричнево-Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_DES">
 				<Original>Artillery (Desert)</Original>
 				<English>Artillery (Desert)</English>
 				<German>Artillerie (Desert)</German>
 				<Chinesesimp>火炮(沙漠)</Chinesesimp>
+				<Russian>Артиллерия (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_FLP">
 				<Original>Artillery (Orange-Blue)</Original>
 				<English>Artillery (Orange-Blue)</English>
 				<German>Artillerie (Orange-Blau)</German>
 				<Chinesesimp>火炮(橙蓝色)</Chinesesimp>
+				<Russian>Артиллерия (Оранжево-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_GRG">
 				<Original>Artillery (Green-Grey)</Original>
 				<English>Artillery (Green-Grey)</English>
 				<German>Artillerie (Grün-Grau)</German>
 				<Chinesesimp>火炮(灰绿色)</Chinesesimp>
+				<Russian>Артиллерия (Зелено-Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_GRN">
 				<Original>Artillery (Green)</Original>
 				<English>Artillery (Green)</English>
 				<German>Artillerie (Grün)</German>
 				<Chinesesimp>火炮(绿色)</Chinesesimp>
+				<Russian>Артиллерия (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_INV">
 				<Original>Artillery (Invasion)</Original>
 				<English>Artillery (Invasion)</English>
 				<German>Artillerie (Invasion)</German>
 				<Chinesesimp>火炮(入侵)</Chinesesimp>
+				<Russian>Артиллерия (Вторжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_OLB">
 				<Original>Artillery (Woodland, Black)</Original>
 				<English>Artillery (Woodland, Black)</English>
 				<German>Artillerie (Flecktarn, Schwarze)</German>
 				<Chinesesimp>火炮(林地,黑色)</Chinesesimp>
+				<Russian>Артиллерия (Лесной, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_OLI">
 				<Original>Artillery (Olive)</Original>
 				<English>Artillery (Olive)</English>
 				<German>Artillerie (Oliv)</German>
 				<Chinesesimp>火炮(橄榄色)</Chinesesimp>
+				<Russian>Артиллерия (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_OLS">
 				<Original>Artillery (Olive, Mud)</Original>
 				<English>Artillery (Olive, Mud)</English>
 				<German>Artillerie (Oliv, Schlamm)</German>
 				<Chinesesimp>火炮(橄榄色,泥土)</Chinesesimp>
+				<Russian>Артиллерия (Олива, Грязь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_OLW">
 				<Original>Artillery (Olive, Winter)</Original>
 				<English>Artillery (Olive, Winter)</English>
 				<German>Artillerie (Oliv, Winter)</German>
 				<Chinesesimp>火炮(橄榄色,冬季)</Chinesesimp>
+				<Russian>Артиллерия (Олива, Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_TAN">
 				<Original>Artillery (Tan)</Original>
 				<English>Artillery (Tan)</English>
 				<German>Artillerie (Sand)</German>
 				<Chinesesimp>火炮(沙漠)</Chinesesimp>
+				<Russian>Артиллерия (Песок)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_TRP">
 				<Original>Artillery (Tropical)</Original>
 				<English>Artillery (Tropical)</English>
 				<German>Artillerie (Tropen)</German>
 				<Chinesesimp>火炮(热带)</Chinesesimp>
+				<Russian>Артиллерия (Тропики)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_UN">
 				<Original>Artillery (White)</Original>
 				<English>Artillery (White)</English>
 				<German>Artillerie (Weiß)</German>
 				<Chinesesimp>火炮(白色)</Chinesesimp>
+				<Russian>Артиллерия (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_WDL">
 				<Original>Artillery (Woodland)</Original>
 				<English>Artillery (Woodland)</English>
 				<German>Artillerie (Flecktarn)</German>
 				<Chinesesimp>火炮(林地)</Chinesesimp>
+				<Russian>Артиллерия (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_WIN">
 				<Original>Artillery (Winter)</Original>
 				<English>Artillery (Winter)</English>
 				<German>Artillerie (Winter)</German>
 				<Chinesesimp>火炮(冬季)</Chinesesimp>
+				<Russian>Артиллерия (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_WIW">
 				<Original>Artillery (Winter, Wrong)</Original>
 				<English>Artillery (Winter, Wrong)</English>
 				<German>Artillerie (Winter, Falsch)</German>
 				<Chinesesimp>火炮(冬季,故障)</Chinesesimp>
+				<Russian>Артиллерия (Зима, Обратный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_ARTILLERY_WLG">
 				<Original>Artillery (Woodland, Green)</Original>
 				<English>Artillery (Woodland, Green)</English>
 				<German>Artillerie (Flecktarn, Grün)</German>
 				<Chinesesimp>火炮(林地,绿色)</Chinesesimp>
+				<Russian>Артиллерия (Лесной, Зелёный)</Russian>
 			</Key>
 		</Container>
 		<Container name="Flags">
@@ -7627,6 +7722,7 @@
 				<German>Flagge (BRD)</German>
 				<Chinesesimp>旗帜(西德)</Chinesesimp>
 				<Korean>깃발 (서독)</Korean>
+				<Russian>Флаг (ФРГ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_GC">
 				<Original>Flag (East Germany)</Original>
@@ -7634,6 +7730,7 @@
 				<German>Flagge (DDR)</German>
 				<Chinesesimp>旗帜(东德)</Chinesesimp>
 				<Korean>깃발 (동독)</Korean>
+				<Russian>Флаг (ГДР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_DK">
 				<Original>Flag (Denmark)</Original>
@@ -7641,6 +7738,7 @@
 				<German>Flagge (Dänemark)</German>
 				<Chinesesimp>旗帜(丹麦)</Chinesesimp>
 				<Korean>깃발 (덴마크)</Korean>
+				<Russian>Флаг (Дания)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_PL">
 				<Original>Flag (Poland)</Original>
@@ -7648,6 +7746,7 @@
 				<German>Flagge (Poland)</German>
 				<Chinesesimp>旗帜(波兰)</Chinesesimp>
 				<Korean>깃발 (폴란드)</Korean>
+				<Russian>Флаг (Польша)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_BE">
 				<Original>Flag (Belgium)</Original>
@@ -7655,6 +7754,7 @@
 				<German>Flagge (Belgien)</German>
 				<Chinesesimp>旗帜(比利时)</Chinesesimp>
 				<Korean>깃발 (벨기에)</Korean>
+				<Russian>Флаг (Бельгия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_CS">
 				<Original>Flag (Czechoslovakia)</Original>
@@ -7662,6 +7762,7 @@
 				<German>Flagge (Tschechoslowakei)</German>
 				<Chinesesimp>旗帜(捷克)</Chinesesimp>
 				<Korean>깃발 (체코슬로바키아)</Korean>
+				<Russian>Флаг (Чехословакия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_BU">
 				<Original>Flag (Bulgaria)</Original>
@@ -7669,6 +7770,7 @@
 				<German>Flagge (Bulgarien)</German>
 				<Chinesesimp>旗帜(保加利亚)</Chinesesimp>
 				<Korean>깃발 (불가리아)</Korean>
+				<Russian>Флаг (Болгария)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_CA">
 				<Original>Flag (Canada)</Original>
@@ -7676,6 +7778,7 @@
 				<German>Flagge (Kanada)</German>
 				<Chinesesimp>旗帜(加拿大)</Chinesesimp>
 				<Korean>깃발 (캐나다)</Korean>
+				<Russian>Флаг (Канада)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_FI">
 				<Original>Flag (Finland)</Original>
@@ -7683,6 +7786,7 @@
 				<German>Flagge (Finnland)</German>
 				<Chinesesimp>旗帜(芬兰)</Chinesesimp>
 				<Korean>깃발 (핀란드)</Korean>
+				<Russian>Флаг (Финляндия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_HU">
 				<Original>Flag (Hungary)</Original>
@@ -7690,6 +7794,7 @@
 				<German>Flagge (Ungarn)</German>
 				<Chinesesimp>旗帜(匈牙利)</Chinesesimp>
 				<Korean>깃발 (헝가리)</Korean>
+				<Russian>Флаг (Венгрия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_IC">
 				<Original>Flag (Iceland)</Original>
@@ -7697,6 +7802,7 @@
 				<German>Flagge (Island)</German>
 				<Chinesesimp>旗帜(冰岛)</Chinesesimp>
 				<Korean>깃발 (아이슬란드)</Korean>
+				<Russian>Флаг (Исландия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_IT">
 				<Original>Flag (Italy)</Original>
@@ -7704,6 +7810,7 @@
 				<German>Flagge (Italien)</German>
 				<Chinesesimp>旗帜(意大利)</Chinesesimp>
 				<Korean>깃발 (이탈리아)</Korean>
+				<Russian>Флаг (Италия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_LU">
 				<Original>Flag (Luxemburg)</Original>
@@ -7711,204 +7818,238 @@
 				<German>Flagge (Luxemburg)</German>
 				<Chinesesimp>旗帜(卢森堡)</Chinesesimp>
 				<Korean>깃발 (룩셈부르크)</Korean>
+				<Russian>Флаг (Люксембург)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_NL">
 				<Original>Flag (Netherlands)</Original>
 				<English>Flag (Netherlands)</English>
 				<German>Flagge (Niederlande)</German>
 				<Chinesesimp>旗帜(荷兰)</Chinesesimp>
+				<Russian>Флаг (Нидерланды)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_NO">
 				<Original>Flag (Norway)</Original>
 				<English>Flag (Norway)</English>
 				<German>Flagge (Norwegen)</German>
 				<Chinesesimp>旗帜(挪威)</Chinesesimp>
+				<Russian>Флаг (Норвегия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_PO">
 				<Original>Flag (Portugal)</Original>
 				<English>Flag (Portugal)</English>
 				<German>Flagge (Portugal)</German>
 				<Chinesesimp>旗帜(葡萄牙)</Chinesesimp>
+				<Russian>Флаг (Португалия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_RO">
 				<Original>Flag (Romania)</Original>
 				<English>Flag (Romania)</English>
 				<German>Flagge (Rumänien)</German>
 				<Chinesesimp>旗帜(罗马尼亚)</Chinesesimp>
+				<Russian>Флаг (Румыния)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_SE">
 				<Original>Flag (Sweden)</Original>
 				<English>Flag (Sweden)</English>
 				<German>Flagge (Schweden)</German>
 				<Chinesesimp>旗帜(瑞典)</Chinesesimp>
+				<Russian>Флаг (Швеция)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_SP">
 				<Original>Flag (Spain)</Original>
 				<English>Flag (Spain)</English>
 				<German>Flagge (Spanien)</German>
 				<Chinesesimp>旗帜(西班牙)</Chinesesimp>
+				<Russian>Флаг (Испания)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_TU">
 				<Original>Flag (Turkey)</Original>
 				<English>Flag (Turkey)</English>
 				<German>Flagge (Türkey)</German>
 				<Chinesesimp>旗帜(土耳其)</Chinesesimp>
+				<Russian>Флаг (Турция)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FLAG_UR">
 				<Original>Flag (USSR)</Original>
 				<English>Flag (USSR)</English>
 				<German>Flagge (Sowjetunion)</German>
 				<Chinesesimp>旗帜(苏联)</Chinesesimp>
+				<Russian>Флаг (СССР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_GE">
 				<Original>Banner (West Germany)</Original>
 				<English>Banner (West Germany)</English>
 				<German>Banner (BRD)</German>
 				<Chinesesimp>横幅(西德)</Chinesesimp>
+				<Russian>Баннер (ФРГ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_GC">
 				<Original>Banner (East Germany)</Original>
 				<English>Banner (East Germany)</English>
 				<German>Banner (DDR)</German>
 				<Chinesesimp>横幅(东德)</Chinesesimp>
+				<Russian>Баннер (ГДР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_DK">
 				<Original>Banner (Denmark)</Original>
 				<English>Banner (Denmark)</English>
 				<German>Banner (Dänemark)</German>
 				<Chinesesimp>横幅(丹麦)</Chinesesimp>
+				<Russian>Баннер (Дания)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_PL">
 				<Original>Banner (Poland)</Original>
 				<English>Banner (Poland)</English>
 				<German>Banner (Poland)</German>
 				<Chinesesimp>横幅(波兰)</Chinesesimp>
+				<Russian>Баннер (Польша)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_BE">
 				<Original>Banner (Belgium)</Original>
 				<English>Banner (Belgium)</English>
 				<German>Banner (Belgien)</German>
 				<Chinesesimp>横幅(比利时)</Chinesesimp>
+				<Russian>Баннер (Бельгия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_CS">
 				<Original>Banner (Czechoslovakia)</Original>
 				<English>Banner (Czechoslovakia)</English>
 				<German>Banner (Tschechoslowakei)</German>
 				<Chinesesimp>横幅(捷克)</Chinesesimp>
+				<Russian>Баннер (Чехословакия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_BU">
 				<Original>Banner (Bulgaria)</Original>
 				<English>Banner (Bulgaria)</English>
 				<German>Banner (Bulgarien)</German>
 				<Chinesesimp>横幅(保加利亚)</Chinesesimp>
+				<Russian>Баннер (Болгария)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_CA">
 				<Original>Banner (Canada)</Original>
 				<English>Banner (Canada)</English>
 				<German>Banner (Kanada)</German>
 				<Chinesesimp>横幅(加拿大)</Chinesesimp>
+				<Russian>Баннер (Канада)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_FI">
 				<Original>Banner (Finland)</Original>
 				<English>Banner (Finland)</English>
 				<German>Banner (Finnland)</German>
 				<Chinesesimp>横幅(芬兰)</Chinesesimp>
+				<Russian>Баннер (Финляндия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_HU">
 				<Original>Banner (Hungary)</Original>
 				<English>Banner (Hungary)</English>
 				<German>Banner (Ungarn)</German>
 				<Chinesesimp>横幅(匈牙利)</Chinesesimp>
+				<Russian>Баннер (Венгрия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_IC">
 				<Original>Banner (Iceland)</Original>
 				<English>Banner (Iceland)</English>
 				<German>Banner (Island)</German>
 				<Chinesesimp>横幅(冰岛)</Chinesesimp>
+				<Russian>Баннер (Исландия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_IT">
 				<Original>Banner (Italy)</Original>
 				<English>Banner (Italy)</English>
 				<German>Banner (Italien)</German>
 				<Chinesesimp>横幅(意大利)</Chinesesimp>
+				<Russian>Баннер (Италия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_LU">
 				<Original>Banner (Luxemburg)</Original>
 				<English>Banner (Luxemburg)</English>
 				<German>Banner (Luxemburg)</German>
 				<Chinesesimp>横幅(卢森堡)</Chinesesimp>
+				<Russian>Баннер (Люксембург)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_NL">
 				<Original>Banner (Netherlands)</Original>
 				<English>Banner (Netherlands)</English>
 				<German>Banner (Niederlande)</German>
 				<Chinesesimp>横幅(荷兰)</Chinesesimp>
+				<Russian>Баннер (Нидерланды)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_NO">
 				<Original>Banner (Norway)</Original>
 				<English>Banner (Norway)</English>
 				<German>Banner (Norwegen)</German>
 				<Chinesesimp>横幅(挪威)</Chinesesimp>
+				<Russian>Баннер (Норвегия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_PO">
 				<Original>Banner (Portugal)</Original>
 				<English>Banner (Portugal)</English>
 				<German>Banner (Portugal)</German>
 				<Chinesesimp>横幅(葡萄牙)</Chinesesimp>
+				<Russian>Баннер (Португалия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_RO">
 				<Original>Banner (Romania)</Original>
 				<English>Banner (Romania)</English>
 				<German>Banner (Rumänien)</German>
 				<Chinesesimp>横幅(罗马尼亚)</Chinesesimp>
+				<Russian>Баннер (Румыния)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_SE">
 				<Original>Banner (Sweden)</Original>
 				<English>Banner (Sweden)</English>
 				<German>Banner (Schweden)</German>
 				<Chinesesimp>横幅(瑞典)</Chinesesimp>
+				<Russian>Баннер (Швеция)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_SP">
 				<Original>Banner (Spain)</Original>
 				<English>Banner (Spain)</English>
 				<German>Banner (Spanien)</German>
 				<Chinesesimp>横幅(西班牙)</Chinesesimp>
+				<Russian>Баннер (Испания)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_TU">
 				<Original>Banner (Turkey)</Original>
 				<English>Banner (Turkey)</English>
 				<German>Banner (Türkey)</German>
 				<Chinesesimp>横幅(土耳其)</Chinesesimp>
+				<Russian>Баннер (Турция)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_UK">
 				<Original>Banner (United Kingdom)</Original>
 				<English>Banner (United Kingdom)</English>
 				<German>Banner (Vereinigtes Königreich)</German>
 				<Chinesesimp>横幅(英国)</Chinesesimp>
+				<Russian>Баннер (Великобритания)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_UR">
 				<Original>Banner (USSR)</Original>
 				<English>Banner (USSR)</English>
 				<German>Banner (Sowjetunion)</German>
 				<Chinesesimp>横幅(苏联)</Chinesesimp>
+				<Russian>Баннер (СССР)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BANNER_US">
 				<Original>Banner (USA)</Original>
 				<English>Banner (USA)</English>
 				<German>Banner (USA)</German>
 				<Chinesesimp>横幅(美国)</Chinesesimp>
+				<Russian>Баннер (США)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VEHICLECUSTOMIZER">
 				<Original>Vehicle Styler</Original>
 				<English>Vehicle Styler</English>
 				<German>Fahrzeug-Styler</German>
 				<Chinesesimp>车辆样式</Chinesesimp>
+				<Russian>Vehicle Styler</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VIC_ATTRIBUTES">
 				<Original>Attributes</Original>
 				<English>Attributes</English>
 				<German>Attribute</German>
 				<Chinesesimp>属性</Chinesesimp>
+				<Russian>Атрибуты</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VIC_PAINT">
 				<Original>Paint</Original>
@@ -7916,12 +8057,14 @@
 				<German>Anstrich</German>
 				<Chinesesimp>图装</Chinesesimp>
 				<Korean>도색</Korean>
+				<Russian>Краска</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VIC_PARTS">
 				<Original>Components</Original>
 				<English>Components</English>
 				<German>Komponenten</German>
 				<Chinesesimp>组件</Chinesesimp>
+				<Russian>Компоненты</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VIC_EXIT">
 				<Original>Close Interface</Original>
@@ -7929,6 +8072,7 @@
 				<German>Schließen</German>
 				<Chinesesimp>关闭界面</Chinesesimp>
 				<Korean>인터페이스 끄기</Korean>
+				<Russian>Закрыть Интерфейс</Russian>
 			</Key>
 			<Key ID="STR_DN_POSITION_01">
 				<Original>Position #1</Original>
@@ -7936,6 +8080,7 @@
 				<German>Position #1</German>
 				<Chinesesimp>位置#1</Chinesesimp>
 				<Korean>포지션 #1</Korean>
+				<Russian>Позиция #1</Russian>
 			</Key>
 			<Key ID="STR_DN_POSITION_02">
 				<Original>Position #2</Original>
@@ -7943,6 +8088,7 @@
 				<German>Position #2</German>
 				<Chinesesimp>位置#2</Chinesesimp>
 				<Korean>포지션 #2</Korean>
+				<Russian>Позиция #2</Russian>
 			</Key>
 			<Key ID="STR_DN_POSITION_03">
 				<Original>Position #3</Original>
@@ -7950,6 +8096,7 @@
 				<German>Position #3</German>
 				<Chinesesimp>位置#3</Chinesesimp>
 				<Korean>포지션 #3</Korean>
+				<Russian>Позиция #3</Russian>
 			</Key>
 			<Key ID="STR_DN_POSITION_04">
 				<Original>Position #4</Original>
@@ -7957,6 +8104,7 @@
 				<German>Position #4</German>
 				<Chinesesimp>位置#4</Chinesesimp>
 				<Korean>포지션 #4</Korean>
+				<Russian>Позиция #4</Russian>
 			</Key>
 			<Key ID="STR_DN_POSITION_05">
 				<Original>Position #5</Original>
@@ -7964,6 +8112,7 @@
 				<German>Position #5</German>
 				<Chinesesimp>位置#5</Chinesesimp>
 				<Korean>포지션 #5</Korean>
+				<Russian>Позиция #5</Russian>
 			</Key>
 			<Key ID="STR_DN_POSITION_06">
 				<Original>Position #6</Original>
@@ -7971,78 +8120,91 @@
 				<German>Position #6</German>
 				<Chinesesimp>位置#6</Chinesesimp>
 				<Korean>포지션 #6</Korean>
+				<Russian>Позиция #6</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VL_TITLE">
 				<Original>Change Vehicle Ammo</Original>
 				<English>Change Vehicle Ammo</English>
 				<German>Munition Austauschen (Fahrzeug)</German>
 				<Chinesesimp>更换车辆弹药</Chinesesimp>
+				<Russian>Замена Боезапаса (Транспорт)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VL_START">
 				<Original>Applying new loadout...</Original>
 				<English>Applying new loadout...</English>
 				<German>Tausche Munition aus...</German>
 				<Chinesesimp>装载新弹药...</Chinesesimp>
+				<Russian>Загрузка нового боезапаса...</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VL_END">
 				<Original>New loadout applied!</Original>
 				<English>New loadout applied!</English>
 				<German>Neue Munition bereit!</German>
 				<Chinesesimp>新弹药已装载</Chinesesimp>
+				<Russian>Новый Боезапас готов!</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VL_ERROR1">
 				<Original>Loadout change aborted. Wait for current reload to complete.</Original>
 				<English>Loadout change aborted. Wait for current reload to complete.</English>
 				<German>Munitionstausch abgebrochen. Warten Sie bis der aktuelle Vorgang abgeschlossen ist.</German>
 				<Chinesesimp>弹药更换已中止。等待当前换弹完毕。</Chinesesimp>
+				<Russian>Замена боеприпасов прекращена. Дождитесь завершения текущей перезагрузки.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VL_ERROR2">
 				<Original>Loadout change not possible. Wait for current reload to complete.</Original>
 				<English>Loadout change not possible. Wait for current reload to complete.</English>
 				<German>Munitionstausch nicht möglich. Warten Sie bis der aktuelle Vorgang abgeschlossen ist.</German>
 				<Chinesesimp>无法更换弹药。等待当前换弹完毕。</Chinesesimp>
+				<Russian>Замена боеприпасов невозможна. Дождитесь завершения текущей перезагрузки.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULE_VL_APPLY">
 				<Original>Apply</Original>
 				<English>Apply</English>
 				<German>Anwenden</German>
 				<Chinesesimp>更换</Chinesesimp>
+				<Russian>Применить</Russian>
 			</Key>
 			<Key ID="STR_TT_GM_MODULE_VL_APPLY">
 				<Original>Apply selected new ammo loadout</Original>
 				<English>Apply selected new ammo loadout</English>
 				<German>Wechselt das Fahrzeug auf die neu ausgewählte Munition</German>
 				<Chinesesimp>更换选定的新弹药</Chinesesimp>
+				<Russian>Применить выбранный новый комплект боеприпасов</Russian>
 			</Key>
 			<Key ID="STR_TT_GM_MODULE_VL_EXIT">
 				<Original>Exit</Original>
 				<English>Exit</English>
 				<German>Abbrechen</German>
 				<Chinesesimp>取消</Chinesesimp>
+				<Russian>Отмена</Russian>
 			</Key>
 			<Key ID="STR_DN_UA_GM_BRIDGEABORT">
 				<Original>Cancel Deployment</Original>
 				<English>Cancel Deployment</English>
 				<German>Vorgang Abbrechen</German>
 				<Chinesesimp>取消操作</Chinesesimp>
+				<Russian>Отменить Процесс</Russian>
 			</Key>
 			<Key ID="STR_DN_UA_GM_BRIDGEACCEPTPOSITION">
 				<Original>Confirm Placement</Original>
 				<English>Confirm Placement</English>
 				<German>Position Bestätigen</German>
 				<Chinesesimp>确认安放</Chinesesimp>
+				<Russian>Подтвердить Размещение</Russian>
 			</Key>
 			<Key ID="STR_DN_UA_GM_BRIDGEDEPLOY">
 				<Original>Deploy Bridge</Original>
 				<English>Deploy Bridge</English>
 				<German>Brücke Ablegen</German>
 				<Chinesesimp>部署桥梁</Chinesesimp>
+				<Russian>Развернуть Мост</Russian>
 			</Key>
 			<Key ID="STR_DN_UA_GM_BRIDGEPICKUP">
 				<Original>Pick Up Bridge</Original>
 				<English>Pick Up Bridge</English>
 				<German>Brücke Aufnehmen</German>
 				<Chinesesimp>回收桥梁</Chinesesimp>
+				<Russian>Поднять Мост</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -8054,6 +8216,7 @@
 				<German>Dänemark: Schwarz-Schwarz-Schwarz</German>
 				<Chinesesimp>丹麦：黑-黑-黑</Chinesesimp>
 				<Korean>덴마크: 검정-검정-검정</Korean>
+				<Russian>Дания: Черный-Черный-Черный</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_BLK_BLU">
 				<Original>Danish: Black-Black-Blue</Original>
@@ -12723,6 +12886,7 @@
 				<German>MG3 7,62x51 mm</German>
 				<Chinesesimp>MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 7.62x51mm</Korean>
+				<Russian>MG3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MG3_BLK">
 				<Original>MG3 7.62x51 mm</Original>
@@ -12730,6 +12894,7 @@
 				<German>MG3 7,62x51 mm</German>
 				<Chinesesimp>MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 7.62x51mm</Korean>
+				<Russian>MG3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MG3_DES">
 				<Original>MG3 7.62x51 mm (Tan)</Original>
@@ -12737,6 +12902,7 @@
 				<German>MG3 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>MG3 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>MG3 7.62x51mm (Tan)</Korean>
+				<Russian>MG3 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGM62_BASE">
 				<Original>LMG M/62 7.62x51 mm</Original>
@@ -12744,6 +12910,7 @@
 				<German>LMG M/62 7.62x51 mm</German>
 				<Chinesesimp>LMG M/62 7.62x51 mm</Chinesesimp>
 				<Korean>LMG M/62 7.62x51mm</Korean>
+				<Russian>LMG M/62 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGM62_BLK">
 				<Original>LMG M/62 7.62x51 mm</Original>
@@ -12751,6 +12918,7 @@
 				<German>LMG M/62 7.62x51 mm</German>
 				<Chinesesimp>LMG M/62 7.62x51 mm</Chinesesimp>
 				<Korean>LMG M/62 7.62x51mm</Korean>
+				<Russian>LMG M/62 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_BASE">
 				<Original>G3A3 7.62x51 mm</Original>
@@ -12758,6 +12926,7 @@
 				<German>G3A3 7,62x51 mm</German>
 				<Chinesesimp>G3A3 7.62x51 mm</Chinesesimp>
 				<Korean>G3A3 7.62x51mm</Korean>
+				<Russian>G3A3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_BASE">
 				<Original>G3A4 7.62x51 mm</Original>
@@ -12765,6 +12934,7 @@
 				<German>G3A4 7,62x51 mm</German>
 				<Chinesesimp>G3A4 7.62x51 mm</Chinesesimp>
 				<Korean>G3A4 7.62x51mm</Korean>
+				<Russian>G3A4 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_OLI">
 				<Original>G3A3 7.62x51 mm</Original>
@@ -12772,6 +12942,7 @@
 				<German>G3A3 7,62x51 mm</German>
 				<Chinesesimp>G3A3 7.62x51 mm</Chinesesimp>
 				<Korean>G3A3 7.62x51mm</Korean>
+				<Russian>G3A3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_GRN">
 				<Original>G3A3 7.62x51 mm (Green)</Original>
@@ -12779,6 +12950,7 @@
 				<German>G3A3 7,62x51 mm (Grün)</German>
 				<Chinesesimp>G3A3 7.62x51 mm (绿色)</Chinesesimp>
 				<Korean>G3A3 7.62x51mm (초록)</Korean>
+				<Russian>G3A3 7.62x51 mm (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_OLI">
 				<Original>G3A4 7.62x51 mm</Original>
@@ -12786,6 +12958,7 @@
 				<German>G3A4 7,62x51 mm</German>
 				<Chinesesimp>G3A4 7.62x51 mm</Chinesesimp>
 				<Korean>G3A4 7.62x51mm</Korean>
+				<Russian>G3A4 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_GRN">
 				<Original>G3A4 7.62x51 mm (Green)</Original>
@@ -12793,6 +12966,7 @@
 				<German>G3A4 7,62x51 mm (Grün)</German>
 				<Chinesesimp>G3A4 7.62x51 mm (绿色)</Chinesesimp>
 				<Korean>G3A4 7.62x51mm (초록)</Korean>
+				<Russian>G3A4 7.62x51 mm (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_BLK">
 				<Original>G3A3 7.62x51 mm (Black)</Original>
@@ -12800,6 +12974,7 @@
 				<German>G3A3 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A3 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>G3A3 7.62x51mm (검정)</Korean>
+				<Russian>G3A3 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_BLK">
 				<Original>G3A4 7.62x51 mm (Black)</Original>
@@ -12807,6 +12982,7 @@
 				<German>G3A4 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A4 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>G3A4 7.62x51mm (검정)</Korean>
+				<Russian>G3A4 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DES">
 				<Original>G3A3 7.62x51 mm (Tan)</Original>
@@ -12814,6 +12990,7 @@
 				<German>G3A3 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A3 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>G3A3 7.62x51mm (Tan)</Korean>
+				<Russian>G3A3 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DES">
 				<Original>G3A4 7.62x51 mm (Tan)</Original>
@@ -12821,6 +12998,7 @@
 				<German>G3A4 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A4 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>G3A4 7.62x51mm (Tan)</Korean>
+				<Russian>G3A4 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_EBR_BASE">
 				<Original>G3A3 EBR 7.62x51 mm</Original>
@@ -12828,6 +13006,7 @@
 				<German>G3A3 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A3 EBR 7.62x51mm</Korean>
+				<Russian>G3A3 EBR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_EBR_BASE">
 				<Original>G3A4 EBR 7.62x51 mm</Original>
@@ -12835,6 +13014,7 @@
 				<German>G3A4 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A4 EBR 7.62x51mm</Korean>
+				<Russian>G3A4 EBR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_EBR_OLI">
 				<Original>G3A3 EBR 7.62x51 mm</Original>
@@ -12842,6 +13022,7 @@
 				<German>G3A3 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A3 EBR 7.62x51mm</Korean>
+				<Russian>G3A3 EBR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_EBR_OLI">
 				<Original>G3A4 EBR 7.62x51 mm</Original>
@@ -12849,6 +13030,7 @@
 				<German>G3A4 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A4 EBR 7.62x51mm</Korean>
+				<Russian>G3A4 EBR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_EBR_BLK">
 				<Original>G3A3 EBR 7.62x51 mm (Black)</Original>
@@ -12856,6 +13038,7 @@
 				<German>G3A3 EBR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>G3A3 EBR 7.62x51mm (검정)</Korean>
+				<Russian>G3A3 EBR 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_EBR_BLK">
 				<Original>G3A4 EBR 7.62x51 mm (Black)</Original>
@@ -12863,6 +13046,7 @@
 				<German>G3A4 EBR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>G3A4 EBR 7.62x51mm (검정)</Korean>
+				<Russian>G3A4 EBR 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_EBR_DES">
 				<Original>G3A3 EBR 7.62x51 mm (Tan)</Original>
@@ -12870,6 +13054,7 @@
 				<German>G3A3 EBR 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>G3A3 EBR 7.62x51mm (Tan)</Korean>
+				<Russian>G3A3 EBR 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_EBR_DES">
 				<Original>G3A4 EBR 7.62x51 mm (Tan)</Original>
@@ -12877,6 +13062,7 @@
 				<German>G3A4 EBR 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A4 EBR 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>G3A4 EBR 7.62x51mm (Tan)</Korean>
+				<Russian>G3A4 EBR 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_BASE">
 				<Original>G3A3 EBR 7.62x51 mm</Original>
@@ -12884,6 +13070,7 @@
 				<German>G3A3 EBR 7,62x51 mm</German>
 				<Chinesesimp>G3A3 EBR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A3 EBR 7.62x51mm</Korean>
+				<Russian>G3A3 EBR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_BASE">
 				<Original>G3A4 DMR 7.62x51 mm</Original>
@@ -12891,6 +13078,7 @@
 				<German>G3A4 DMR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 DMR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A4 DMR 7.62x51mm</Korean>
+				<Russian>G3A4 DMR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_OLI">
 				<Original>G3A3 DMR 7.62x51 mm</Original>
@@ -12898,6 +13086,7 @@
 				<German>G3A3 DMR 7,62x51 mm</German>
 				<Chinesesimp>G3A3 DMR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A3 DMR 7.62x51mm</Korean>
+				<Russian>G3A3 DMR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_OLI">
 				<Original>G3A4 DMR 7.62x51 mm</Original>
@@ -12905,6 +13094,7 @@
 				<German>G3A4 DMR 7,62x51 mm</German>
 				<Chinesesimp>G3A4 DMR 7.62x51 mm</Chinesesimp>
 				<Korean>G3A4 DMR 7.62x51mm</Korean>
+				<Russian>G3A4 DMR 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_BLK">
 				<Original>G3A3 DMR 7.62x51 mm (Black)</Original>
@@ -12912,6 +13102,7 @@
 				<German>G3A3 DMR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A3 DMR 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>G3A3 DMR 7.62x51mm (검정)</Korean>
+				<Russian>G3A3 DMR 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_BLK">
 				<Original>G3A4 DMR 7.62x51 mm (Black)</Original>
@@ -12919,6 +13110,7 @@
 				<German>G3A4 DMR 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>G3A4 DMR 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>G3A4 DMR 7.62x51mm (검정)</Korean>
+				<Russian>G3A4 DMR 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A3_DMR_DES">
 				<Original>G3A3 DMR 7.62x51 mm (Tan)</Original>
@@ -12926,18 +13118,21 @@
 				<German>G3A3 DMR 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A3 DMR 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>G3A3 DMR 7.62x51mm (Tan)</Korean>
+				<Russian>G3A3 DMR 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G3A4_DMR_DES">
 				<Original>G3A4 DMR 7.62x51 mm (Tan)</Original>
 				<English>G3A4 DMR 7.62x51 mm (Tan)</English>
 				<German>G3A4 DMR 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>G3A4 DMR 7.62x51 mm (沙漠)</Chinesesimp>
+				<Russian>G3A4 DMR 7.62x51 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36_BASE">
 				<Original>G36 5.56x45 mm</Original>
 				<English>G36 5.56x45 mm</English>
 				<German>G36 5,56x45 mm</German>
 				<Chinesesimp>G36 5.56x45 mm</Chinesesimp>
+				<Russian>G36 5.56x45 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36A0_BASE">
 				<Original>G36 5.56x45 mm</Original>
@@ -12957,6 +13152,7 @@
 				<German>G36 5,56x45 mm (Wüste)</German>
 				<Chinesesimp>G36 5.56x45 mm (沙漠)</Chinesesimp>
 				<Korean>G36 5.56x45mm (Tan)</Korean>
+				<Russian>G36 5.56x45 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36A1_BASE">
 				<Original>G36A1 5.56x45 mm</Original>
@@ -12964,6 +13160,7 @@
 				<German>G36A1 5,56x45 mm</German>
 				<Chinesesimp>G36A1 5.56x45 mm</Chinesesimp>
 				<Korean>G36A1 5.56x45mm</Korean>
+				<Russian>G36A1 5.56x45 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36A1_BLK">
 				<Original>G36A1 5.56x45 mm</Original>
@@ -12971,6 +13168,7 @@
 				<German>G36A1 5,56x45 mm</German>
 				<Chinesesimp>G36A1 5.56x45 mm</Chinesesimp>
 				<Korean>G36A1 5.56x45mm</Korean>
+				<Russian>G36A1 5.56x45 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36A1_DES">
 				<Original>G36A1 5.56x45 mm (Tan)</Original>
@@ -12978,6 +13176,7 @@
 				<German>G36A1 5,56x45 mm (Wüste)</German>
 				<Chinesesimp>G36A1 5.56x45 mm (沙漠)</Chinesesimp>
 				<Korean>G36A1 5.56x45mm (Tan)</Korean>
+				<Russian>G36A1 5.56x45 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36A2_BASE">
 				<Original>G36A2 5.56x45 mm</Original>
@@ -12997,6 +13196,7 @@
 				<German>G36A2 5,56x45 mm (Wüste)</German>
 				<Chinesesimp>G36A2 5.56x45 mm (沙漠)</Chinesesimp>
 				<Korean>G36A2 5.56x45mm (Tan)</Korean>
+				<Russian>G36A2 5.56x45 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_G36E_BASE">
 				<Original>G36E 5.56x45 mm</Original>
@@ -13029,6 +13229,7 @@
 				<German>GV M/75 7,62x51 mm (Grün)</German>
 				<Chinesesimp>GV M/75 7.62x51 mm (绿色)</Chinesesimp>
 				<Korean>GV M/75 7.62x51mm (초록)</Korean>
+				<Russian>GV M/75 7.62x51 mm (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GVM75_BLK">
 				<Original>GV M/75 7.62x51 mm (Black)</Original>
@@ -13036,6 +13237,7 @@
 				<German>GV M/75 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>GV M/75 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>GV M/75 7.62x51mm (검정)</Korean>
+				<Russian>GV M/75 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GVM75CARB_BASE">
 				<Original>GV M/75 Carbine 7.62x51 mm</Original>
@@ -13043,6 +13245,7 @@
 				<German>GV M/75 Karabiner 7,62x51 mm</German>
 				<Chinesesimp>GV M/75 卡宾枪 7.62x51 mm</Chinesesimp>
 				<Korean>GV M/75 카빈 7.62x51mm</Korean>
+				<Russian>GV M/75 Карабин 7,62x51 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GVM75CARB_OLI">
 				<Original>GV M/75 Carbine 7.62x51 mm</Original>
@@ -13050,6 +13253,7 @@
 				<German>GV M/75 Karabiner 7,62x51 mm</German>
 				<Chinesesimp>GV M/75 卡宾枪 7.62x51 mm</Chinesesimp>
 				<Korean>GV M/75 카빈 7.62x51mm</Korean>
+				<Russian>GV M/75 Карабин 7,62x51 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GVM75CARB_GRN">
 				<Original>GV M/75 Carbine 7.62x51 mm (Green)</Original>
@@ -13057,6 +13261,7 @@
 				<German>GV M/75 Karabiner 7,62x51 mm (Grün)</German>
 				<Chinesesimp>GV M/75 卡宾枪 7.62x51 mm (绿色)</Chinesesimp>
 				<Korean>GV M/75 카빈 7.62x51mm (초록)</Korean>
+				<Russian>GV M/75 Карабин 7.62x51 мм (Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GVM75CARB_BLK">
 				<Original>GV M/75 Carbine 7.62x51 mm (Black)</Original>
@@ -13064,6 +13269,7 @@
 				<German>GV M/75 Karabiner 7,62x51 mm (Schwarz)</German>
 				<Chinesesimp>GV M/75 卡宾枪 7.62x51 mm (黑色)</Chinesesimp>
 				<Korean>GV M/75 카빈 7.62x51mm (검정)</Korean>
+				<Russian>GV M/75 Карабин 7.62x51 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GVM95_BASE">
 				<Original>GV M/95 5.56x45 mm</Original>
@@ -13083,6 +13289,7 @@
 				<German>GV M/95 5,56x45 mm (Oliv)</German>
 				<Chinesesimp>GV M/95 5.56x45 mm (橄榄色)</Chinesesimp>
 				<Korean>GV M/95 5.56x45 mm (올리브)</Korean>
+				<Russian>GV M/95 5.56x45 мм (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C7A1_BASE">
 				<Original>C7A1 5.56x45 mm</Original>
@@ -13096,6 +13303,7 @@
 				<German>C7A1 5,56x45 mm (Schwarz)</German>
 				<Chinesesimp>C7A1 5.56x45 mm (黑色)</Chinesesimp>
 				<Korean>C7A1 5.56x45mm (검정)</Korean>
+				<Russian>C7A1 5.56x45 mm (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C7A1_GRN">
 				<Original>C7A1 5.56x45 mm (Green)</Original>
@@ -13103,6 +13311,7 @@
 				<German>C7A1 5,56x45 mm (Grün)</German>
 				<Chinesesimp>C7A1 5.56x45 mm (绿色)</Chinesesimp>
 				<Korean>C7A1 5.56x45mm (초록)</Korean>
+				<Russian>C7A1 5.56x45 mm (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C7A1_OLI">
 				<Original>C7A1 5.56x45 mm</Original>
@@ -13110,6 +13319,7 @@
 				<German>C7A1 5,56x45 mm</German>
 				<Chinesesimp>C7A1 5.56x45 mm</Chinesesimp>
 				<Korean>C7A1 5.56x45mm</Korean>
+				<Russian>C7A1 5.56x45 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_M16A1_BASE">
 				<Original>M16A1 5.56x45 mm</Original>
@@ -13159,6 +13369,7 @@
 				<German>PzF44-2 (Wüste)</German>
 				<Chinesesimp>PzF44-2 (沙漠)</Chinesesimp>
 				<Korean>PzF44-2 (Tan)</Korean>
+				<Russian>PzF44-2 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PZF44_2_WIN">
 				<Original>PzF44-2 (Winter)</Original>
@@ -13166,6 +13377,7 @@
 				<German>PzF44-2 (Winter)</German>
 				<Chinesesimp>PzF44-2 (冬季)</Chinesesimp>
 				<Korean>PzF44-2 (겨울)</Korean>
+				<Russian>PzF44-2 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PZF84_BASE">
 				<Original>PzF84</Original>
@@ -13187,6 +13399,7 @@
 				<German>PzF84 (Wüste)</German>
 				<Chinesesimp>PzF84 (沙漠)</Chinesesimp>
 				<Korean>PzF84 (Tan)</Korean>
+				<Russian>PzF84 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PZF84_WIN">
 				<Original>PzF84 (Winter)</Original>
@@ -13194,6 +13407,7 @@
 				<German>PzF84 (Winter)</German>
 				<Chinesesimp>PzF84 (冬季)</Chinesesimp>
 				<Korean>PzF84 (겨울)</Korean>
+				<Russian>PzF84 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPG7_BASE">
 				<Original>RPG-7</Original>
@@ -13201,6 +13415,7 @@
 				<German>RPG-7</German>
 				<Chinesesimp>RPG-7</Chinesesimp>
 				<Korean>RPG-7</Korean>
+				<Russian>РПГ-7</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPG7_PRP">
 				<Original>RPG-7 (Plum)</Original>
@@ -13208,6 +13423,7 @@
 				<German>RPG-7 (Dunkellila)</German>
 				<Chinesesimp>RPG-7 (暗紫色)</Chinesesimp>
 				<Korean>RPG-7 (자주색)</Korean>
+				<Russian>РПГ-7 (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPG7_WUD">
 				<Original>RPG-7</Original>
@@ -13215,6 +13431,7 @@
 				<German>RPG-7</German>
 				<Chinesesimp>RPG-7</Chinesesimp>
 				<Korean>RPG-7</Korean>
+				<Russian>РПГ-7</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_P1_BASE">
 				<Original>P1 9x19 mm</Original>
@@ -13274,12 +13491,14 @@
 				<English>PM 9x18 mm</English>
 				<German>PM 9x18 mm</German>
 				<Chinesesimp>PM 9x18 mm</Chinesesimp>
+				<Russian>ПМ 9x18 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PM_BLK">
 				<Original>PM 9x18 mm</Original>
 				<English>PM 9x18 mm</English>
 				<German>PM 9x18 mm</German>
 				<Chinesesimp>PM 9x18 mm</Chinesesimp>
+				<Russian>ПМ 9x18 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MP2_BASE">
 				<Original>MP2 9x19 mm</Original>
@@ -13305,12 +13524,14 @@
 				<German>PKT 7,62x54 mmR</German>
 				<Chinesesimp>PKT 7.62x54 mmR</Chinesesimp>
 				<Korean>PKT 7.62x54mmR</Korean>
+				<Russian>ПКТ 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PK_BLK">
 				<Original>PK 7.62x54 mmR</Original>
 				<English>PK 7.62x54 mmR</English>
 				<German>PK 7,62x54 mmR</German>
 				<Chinesesimp>PK 7.62x54 mmR</Chinesesimp>
+				<Russian>ПК 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SGMT_BASE">
 				<Original>SGM 7.62x54 mmR</Original>
@@ -13318,6 +13539,7 @@
 				<German>SGM 7,62x54 mmR</German>
 				<Chinesesimp>SGM 7.62x54 mmR</Chinesesimp>
 				<Korean>SGM 7.62x54mmR</Korean>
+				<Russian>СГМ 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MILAN_LAUNCHER_BASE">
 				<Original>LATGM</Original>
@@ -13325,6 +13547,7 @@
 				<German>LPALR</German>
 				<Chinesesimp>LATGM</Chinesesimp>
 				<Korean>LATGM</Korean>
+				<Russian>LATGM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MALJUTKA_LAUNCHER_BASE">
 				<Original>Maljutka</Original>
@@ -13332,6 +13555,7 @@
 				<German>Maljutka</German>
 				<Chinesesimp>Maljutka</Chinesesimp>
 				<Korean>말류트카</Korean>
+				<Russian>Малютка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HOT_LAUNCHER_BASE">
 				<Original>HATGM</Original>
@@ -13339,6 +13563,7 @@
 				<German>SPALR</German>
 				<Chinesesimp>HATGM</Chinesesimp>
 				<Korean>HATGM</Korean>
+				<Russian>HATGM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FAGOT_LAUNCHER_BASE">
 				<Original>Fagot</Original>
@@ -13346,6 +13571,7 @@
 				<German>Fagot</German>
 				<Chinesesimp>Fagot</Chinesesimp>
 				<Korean>파곳</Korean>
+				<Russian>Фагот</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AK74_BASE">
 				<Original>AK-74 5.45x39 mm</Original>
@@ -13360,6 +13586,7 @@
 				<German>AK-74N 5,45x39 mm</German>
 				<Chinesesimp>AK-74N 5.45x39 mm</Chinesesimp>
 				<Korean>AK-74N 5.45x39mm</Korean>
+				<Russian>АК-74Н 5,45х39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKS74N_BASE">
 				<Original>AKS-74N 5.45x39 mm</Original>
@@ -13367,12 +13594,14 @@
 				<German>AKS-74N 5,45x39 mm</German>
 				<Chinesesimp>AKS-74N 5.45x39 mm</Chinesesimp>
 				<Korean>AKS-74N 5.45x39mm</Korean>
+				<Russian>АКС-74Н 5,45х39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKS74NK_BASE">
 				<Original>AKS-74NK 5.45x39 mm</Original>
 				<English>AKS-74NK 5.45x39 mm</English>
 				<German>AKS-74NK 5,45x39 mm</German>
 				<Chinesesimp>AKS-74NK 5.45x39 mm</Chinesesimp>
+				<Russian>АКС-74НУ 5,45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPK74_BASE">
 				<Original>RPK-74 5.45x39 mm</Original>
@@ -13380,18 +13609,21 @@
 				<German>RPK-74 5,45x39 mm</German>
 				<Chinesesimp>RPK-74 5.45x39 mm</Chinesesimp>
 				<Korean>RPK-74 5.45x39mm</Korean>
+				<Russian>РПК-74 5,45х39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPK74N_BASE">
 				<Original>RPK-74N 5.45x39 mm</Original>
 				<English>RPK-74N 5.45x39 mm</English>
 				<German>RPK-74N 5,45x39 mm</German>
 				<Chinesesimp>RPK-74N 5.45x39 mm</Chinesesimp>
+				<Russian>РПК-74Н 5,45х39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAK74N_BASE">
 				<Original>MPi AK-74 5.45x39 mm</Original>
 				<English>MPi AK-74 5.45x39 mm</English>
 				<German>MPi AK-74 5,45x39 mm</German>
 				<Chinesesimp>MPi AK-74 5.45x39 mm</Chinesesimp>
+				<Russian>MPi AK-74 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAK74N_PRP">
 				<Original>MPi AK-74 5.45x39 mm (Plum)</Original>
@@ -13399,6 +13631,7 @@
 				<German>MPi AK-74 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi AK-74 5.45x39 mm (暗紫色)</Chinesesimp>
 				<Korean>MPi AK-74 5.45x39mm (자주색)</Korean>
+				<Russian>MPi AK-74 5.45x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74N_BASE">
 				<Original>MPi AKS-74 5.45x39 mm</Original>
@@ -13406,6 +13639,7 @@
 				<German>MPi AKS-74 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74 5.45x39 mm</Chinesesimp>
 				<Korean>MPi AKS-74 5.45x39mm</Korean>
+				<Russian>MPi АКС-74 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74N_PRP">
 				<Original>MPi AKS-74 5.45x39 mm (Plum)</Original>
@@ -13413,6 +13647,7 @@
 				<German>MPi AKS-74 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi AKS-74 5.45x39 mm (暗紫色)</Chinesesimp>
 				<Korean>MPi AKS-74 5.45x39mm (자주색)</Korean>
+				<Russian>MPi АКС-74 5.45x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74NK_BASE">
 				<Original>MPi AKS-74K 5.45x39 mm</Original>
@@ -13420,6 +13655,7 @@
 				<German>MPi AKS-74K 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74K 5.45x39 mm</Chinesesimp>
 				<Korean>MPi AKS-74K 5.45x39mm</Korean>
+				<Russian>MPi АКС-74У 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74NK_PRP">
 				<Original>MPi AKS-74K 5.45x39 mm (Plum)</Original>
@@ -13427,6 +13663,7 @@
 				<German>MPi AKS-74K 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi AKS-74K 5.45x39 mm (暗紫色)</Chinesesimp>
 				<Korean>MPi AKS-74K 5.45x39mm (자주색)</Korean>
+				<Russian>MPi АКС-74У 5.45x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK74N_PRP">
 				<Original>LMG RPK-74 5.45x39 mm (Plum)</Original>
@@ -13434,18 +13671,21 @@
 				<German>lMG RPK-74 5,45x39 mm (Dunkellila)</German>
 				<Chinesesimp>LMG RPK-74 5.45x39 mm (暗紫色)</Chinesesimp>
 				<Korean>LMG RPK-74 5.45x39mm (자주색)</Korean>
+				<Russian>РПК-74 5.45x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAK74N_BRN">
 				<Original>MPi AK-74 5.45x39 mm</Original>
 				<English>MPi AK-74 5.45x39 mm</English>
 				<German>MPi AK-74 5,45x39 mm</German>
 				<Chinesesimp>MPi AK-74 5.45x39 mm</Chinesesimp>
+				<Russian>MPi AK-74 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74N_BRN">
 				<Original>MPi AKS-74 5.45x39 mm</Original>
 				<English>MPi AKS-74 5.45x39 mm</English>
 				<German>MPi AKS-74 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74 5.45x39 mm</Chinesesimp>
+				<Russian>MPi АКС-74 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIAKS74NK_BRN">
 				<Original>MPi AKS-74K 5.45x39 mm</Original>
@@ -13453,24 +13693,28 @@
 				<German>MPi AKS-74K 5,45x39 mm</German>
 				<Chinesesimp>MPi AKS-74K 5.45x39 mm</Chinesesimp>
 				<Korean>MPi AKS-74K 5.45x39mm</Korean>
+				<Russian>MPi AKС-74У 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK74N_BRN">
 				<Original>LMG RPK-74 5.45x39 mm</Original>
 				<English>LMG RPK-74 5.45x39 mm</English>
 				<German>lMG RPK-74 5,45x39 mm</German>
 				<Chinesesimp>LMG RPK-74 5.45x39 mm</Chinesesimp>
+				<Russian>РПК-74 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PK_BASE">
 				<Original>PK 7.62x54 mmR</Original>
 				<English>PK 7.62x54 mmR</English>
 				<German>PK 7,62x54 mmR</German>
 				<Chinesesimp>PK 7.62x54 mmR</Chinesesimp>
+				<Russian>ПК 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PKM_BASE">
 				<Original>PKM 7.62x54 mmR</Original>
 				<English>PKM 7.62x54 mmR</English>
 				<German>PKM 7,62x54 mmR</German>
 				<Chinesesimp>PKM 7.62x54 mmR</Chinesesimp>
+				<Russian>ПКМ 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HMGPKM_BASE">
 				<Original>HMG PKM 7.62x54 mmR</Original>
@@ -13478,6 +13722,7 @@
 				<German>sMG PKM 7,62x54 mmR</German>
 				<Chinesesimp>HMG PKM 7.62x54 mmR</Chinesesimp>
 				<Korean>HMG PKM 7.62x54mmR</Korean>
+				<Russian>ПКМ 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HMGPKM_PRP">
 				<Original>HMG PKM 7.62x54 mmR</Original>
@@ -13485,30 +13730,35 @@
 				<German>sMG PKM 7,62x54 mmR</German>
 				<Chinesesimp>HMG PKM 7.62x54 mmR</Chinesesimp>
 				<Korean>HMG PKM 7.62x54mmR</Korean>
+				<Russian>ПКМ 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PKM_PRP">
 				<Original>HMG PKM 7.62x54 mmR</Original>
 				<English>HMG PKM 7.62x54 mmR</English>
 				<German>sMG PKM 7,62x54 mmR</German>
 				<Chinesesimp>HMG PKM 7.62x54 mmR</Chinesesimp>
+				<Russian>ПКМ 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SVD_BASE">
 				<Original>SVD 7.62x54 mmR</Original>
 				<English>SVD 7.62x54 mmR</English>
 				<German>SVD 7.62x54 mmR</German>
 				<Chinesesimp>SVD 7.62x54 mmR</Chinesesimp>
+				<Russian>СВД 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SVD_WUD">
 				<Original>SVD 7.62x54 mmR</Original>
 				<English>SVD 7.62x54 mmR</English>
 				<German>SVD 7.62x54 mmR</German>
 				<Chinesesimp>SVD 7.62x54 mmR</Chinesesimp>
+				<Russian>СВД 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK_BRN">
 				<Original>LMG RPK 7.62x39 mm</Original>
 				<English>LMG RPK 7.62x39 mm</English>
 				<German>lMG RPK 7,62x39 mm</German>
 				<Chinesesimp>LMG RPK 7.62x39 mm</Chinesesimp>
+				<Russian>РПК 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK_PRP">
 				<Original>LMG RPK 7.62x39 mm (Plum)</Original>
@@ -13516,6 +13766,7 @@
 				<German>lMG RPK 7,62x39 mm (Dunkellila)</German>
 				<Chinesesimp>LMG RPK 7.62x39 mm (暗紫色)</Chinesesimp>
 				<Korean>LMG RPK 7.62x39mm (자주색)</Korean>
+				<Russian>РПК 7.62x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKM72_BRN">
 				<Original>MPi KM-72 7.62x39 mm</Original>
@@ -13523,6 +13774,7 @@
 				<German>MPi KM-72 7,62x39 mm</German>
 				<Chinesesimp>MPi KM-72 7.62x39 mm</Chinesesimp>
 				<Korean>MPi KM-72 7.62x39mm</Korean>
+				<Russian>MPi KM-72 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKM72_PRP">
 				<Original>MPi KM-72 7.62x39 mm (Plum)</Original>
@@ -13530,6 +13782,7 @@
 				<German>MPi KM-72 7,62x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi KM-72 7.62x39 mm (暗紫色)</Chinesesimp>
 				<Korean>MPi KM-72 7.62x39mm (자주색)</Korean>
+				<Russian>MPi KM-72 7.62x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKMS72_BRN">
 				<Original>MPi KMS-72 7.62x39 mm</Original>
@@ -13537,6 +13790,7 @@
 				<German>MPi KMS-72 7,62x39 mm</German>
 				<Chinesesimp>MPi KMS-72 7.62x39 mm</Chinesesimp>
 				<Korean>MPi KMS-72 7.62x39mm</Korean>
+				<Russian>MPi КМS-72 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKMS72_PRP">
 				<Original>MPi KMS-72 7.62x39 mm (Plum)</Original>
@@ -13544,6 +13798,7 @@
 				<German>MPi KMS-72 7,62x39 mm (Dunkellila)</German>
 				<Chinesesimp>MPi KMS-72 7.62x39 mm (暗紫色)</Chinesesimp>
 				<Korean>MPi KMS-72 7.62x39mm (자주색)</Korean>
+				<Russian>MPi KMS-72 7.62x39 мм (Слива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AK47_BASE">
 				<Original>AK-47 7.62x39 mm</Original>
@@ -13551,6 +13806,7 @@
 				<German>AK-47 7,62x39 mm</German>
 				<Chinesesimp>AK-47 7.62x39 mm</Chinesesimp>
 				<Korean>AK-47 7.62x39mm</Korean>
+				<Russian>AK-47 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKM_BASE">
 				<Original>AKM 7.62x39 mm</Original>
@@ -13558,6 +13814,7 @@
 				<German>AKM 7,62x39 mm</German>
 				<Chinesesimp>AKM 7.62x39 mm</Chinesesimp>
 				<Korean>AKM (GM-CWG)</Korean>
+				<Russian>AKM 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKM_WUD">
 				<Original>AKM 7.62x39 mm</Original>
@@ -13565,6 +13822,7 @@
 				<German>AKM 7,62x39 mm</German>
 				<Chinesesimp>AKM 7.62x39 mm</Chinesesimp>
 				<Korean>AKM (GM-CWG)</Korean>
+				<Russian>AKM 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKMN_BASE">
 				<Original>AKMN 7.62x39 mm</Original>
@@ -13572,6 +13830,7 @@
 				<German>AKMN 7,62x39 mm</German>
 				<Chinesesimp>AKMN 7.62x39 mm</Chinesesimp>
 				<Korean>AKMN 7.62x39mm</Korean>
+				<Russian>АКМН 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKMN_WUD">
 				<Original>AKMN 7.62x39 mm</Original>
@@ -13579,6 +13838,7 @@
 				<German>AKMN 7,62x39 mm</German>
 				<Chinesesimp>AKMN 7.62x39 mm</Chinesesimp>
 				<Korean>AKMN 7.62x39mm</Korean>
+				<Russian>АКМН 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKM_PALLAD_BASE">
 				<Original>AKM Pallad 7.62x39 mm</Original>
@@ -13586,6 +13846,7 @@
 				<German>AKM Pallad 7,62x39 mm</German>
 				<Chinesesimp>AKM Pallad 7.62x39 mm</Chinesesimp>
 				<Korean>AKM 팔라드 7.62x39 mm</Korean>
+				<Russian>AKM Pallad 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AKM_PALLAD_WUD">
 				<Original>AKM Pallad 7.62x39 mm</Original>
@@ -13593,6 +13854,7 @@
 				<German>AKM Pallad 7,62x39 mm</German>
 				<Chinesesimp>AKM Pallad 7.62x39 mm</Chinesesimp>
 				<Korean>AKM 팔라드 7.62x39 mm</Korean>
+				<Russian>AKM Pallad 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_KM72_BASE">
 				<Original>MPi KM-72 7.62x39 mm</Original>
@@ -13600,6 +13862,7 @@
 				<German>MPi KM-72 7,62x39 mm</German>
 				<Chinesesimp>MPi KM-72 7.62x39 mm</Chinesesimp>
 				<Korean>MPi KM-72 7.62x39mm</Korean>
+				<Russian>MPi KM-72 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_KMS72_BASE">
 				<Original>MPi KMS-72 7.62x39 mm</Original>
@@ -13607,6 +13870,7 @@
 				<German>MPi KMS-72 7,62x39 mm</German>
 				<Chinesesimp>MPi KMS-72 7.62x39 mm</Chinesesimp>
 				<Korean>MPi KMS-72 7.62x39mm</Korean>
+				<Russian>MPi KMS-72 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPK_BASE">
 				<Original>LMG RPK 7.62x39 mm</Original>
@@ -13614,6 +13878,7 @@
 				<German>lMG RPK 7,62x39 mm</German>
 				<Chinesesimp>LMG RPK 7.62x39 mm</Chinesesimp>
 				<Korean>LMG RPK 7.62x39mm</Korean>
+				<Russian>РПК 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_RPK_WUD">
 				<Original>RPK 7.62x39 mm</Original>
@@ -13621,24 +13886,28 @@
 				<German>RPK 7,62x39 mm</German>
 				<Chinesesimp>RPK 7.62x39 mm</Chinesesimp>
 				<Korean>RPK 7.62x39mm</Korean>
+				<Russian>РПК 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKM72_BASE">
 				<Original>MPi KM-72 7.62x39 mm</Original>
 				<English>MPi KM-72 7.62x39 mm</English>
 				<German>MPi KM-72 7,62x39 mm</German>
 				<Chinesesimp>MPi KM-72 7.62x39 mm</Chinesesimp>
+				<Russian>MPi KM-72 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MPIKMS72_BASE">
 				<Original>MPi KMS-72 7.62x39 mm</Original>
 				<English>MPi KMS-72 7.62x39 mm</English>
 				<German>MPi KMS-72 7,62x39 mm</German>
 				<Chinesesimp>MPi KMS-72 7.62x39 mm</Chinesesimp>
+				<Russian>MPi KMS-72 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGRPK_BASE">
 				<Original>LMG RPK 7.62x39 mm</Original>
 				<English>LMG RPK 7.62x39 mm</English>
 				<German>lMG RPK 7,62x39 mm</German>
 				<Chinesesimp>LMG RPK 7.62x39 mm</Chinesesimp>
+				<Russian>РПК 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DSHKM_BASE">
 				<Original>DSHKM 12.7x108mm </Original>
@@ -13646,6 +13915,7 @@
 				<German>DSHKM 12,7x108mm </German>
 				<Chinesesimp>DSHKM 12.7x108mm </Chinesesimp>
 				<Korean>DSHKM 12.7x108mm</Korean>
+				<Russian>ДШКМ 12.7x108мм </Russian>
 			</Key>
 			<Key ID="STR_DN_GM_M2_BASE">
 				<Original>M2 12.7x99mm </Original>
@@ -13653,6 +13923,7 @@
 				<German>M2 12,7x99mm </German>
 				<Chinesesimp>M2 12.7x99mm </Chinesesimp>
 				<Korean>M2 12.7x99mm</Korean>
+				<Russian>M2 12.7x99mm </Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MP5_BASE">
 				<Original>SG5 9x19 mm</Original>
@@ -13660,6 +13931,7 @@
 				<German>SG5 9x19 mm</German>
 				<Chinesesimp>SG5 9x19 mm</Chinesesimp>
 				<Korean>SG5 9x19mm</Korean>
+				<Russian>SG5 9x19 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MP5A2_BASE">
 				<Original>SG5A2 9x19 mm</Original>
@@ -13719,6 +13991,7 @@
 				<German>SG5A2 9x19 mm (Wüste)</German>
 				<Chinesesimp>SG5A2 9x19 mm (沙漠)</Chinesesimp>
 				<Korean>SG5A2 9x19mm (Tan)</Korean>
+				<Russian>SG5A2 9x19 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MP5A3_DES">
 				<Original>SG5A3 9x19 mm (Tan)</Original>
@@ -13726,12 +13999,14 @@
 				<German>SG5A3 9x19 mm (Wüste)</German>
 				<Chinesesimp>SG5A3 9x19 mm (沙漠)</Chinesesimp>
 				<Korean>SG5A3 9x19mm (Tan)</Korean>
+				<Russian>SG5A3 9x19 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MP5SD2_DES">
 				<Original>SG5SD2 9x19 mm (Tan)</Original>
 				<English>SG5SD2 9x19 mm (Tan)</English>
 				<German>SG5SD2 9x19 mm (Wüste)</German>
 				<Chinesesimp>SG5SD2 9x19 mm (沙漠)</Chinesesimp>
+				<Russian>SG5SD2 9x19 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MP5SD3_DES">
 				<Original>SG5SD3 9x19 mm (Tan)</Original>
@@ -13739,6 +14014,7 @@
 				<German>SG5SD3 9x19 mm (Wüste)</German>
 				<Chinesesimp>SG5SD3 9x19 mm (沙漠)</Chinesesimp>
 				<Korean>SG5SD3 9x19mm (Tan)</Korean>
+				<Russian>SG5SD3 9x19 mm (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PZF3_BASE">
 				<Original>PzF3</Original>
@@ -13753,6 +14029,7 @@
 				<German>PzF3 (Verbraucht)</German>
 				<Chinesesimp>PzF3 (空)</Chinesesimp>
 				<Korean>PzF3 (사용됨)</Korean>
+				<Russian>PzF3 (Отстрел)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PZF3_BLK">
 				<Original>PzF3</Original>
@@ -13767,6 +14044,7 @@
 				<German>FIM-43</German>
 				<Chinesesimp>FIM-43</Chinesesimp>
 				<Korean>FIM-43</Korean>
+				<Russian>FIM-43</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_9K32M_OLI">
 				<Original>Strela-2M</Original>
@@ -13774,6 +14052,7 @@
 				<German>Strela-2M</German>
 				<Chinesesimp>Strela-2M</Chinesesimp>
 				<Korean>스트렐라-2M</Korean>
+				<Russian>Стрела-2M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_M72A3_OLI">
 				<Original>M72A3 LAW</Original>
@@ -13781,6 +14060,7 @@
 				<German>M72A3 LAW</German>
 				<Chinesesimp>M72A3 LAW</Chinesesimp>
 				<Korean>M72A3 LAW</Korean>
+				<Russian>M72A3 LAW</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FIM43_SPENT_OLI">
 				<Original>FIM-43 (Spent)</Original>
@@ -13788,6 +14068,7 @@
 				<German>FIM-43 (Verbraucht)</German>
 				<Chinesesimp>FIM-43 (空)</Chinesesimp>
 				<Korean>FIM-43 (사용됨)</Korean>
+				<Russian>FIM-43 (Отстрел)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_9K32M_SPENT_OLI">
 				<Original>Strela-2M (Spent)</Original>
@@ -13795,6 +14076,7 @@
 				<German>Strela-2M (Verbraucht)</German>
 				<Chinesesimp>Strela-2M (空)</Chinesesimp>
 				<Korean>스트렐라-2M (사용됨)</Korean>
+				<Russian>Стрела-2M (Отстрел)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_M72A3_SPENT_OLI">
 				<Original>M72A3 LAW (Spent)</Original>
@@ -13802,6 +14084,7 @@
 				<German>M72A3 LAW (Verbraucht)</German>
 				<Chinesesimp>M72A3 LAW (空)</Chinesesimp>
 				<Korean>M72A3 LAW (사용됨)</Korean>
+				<Russian>M72A3 LAW (Отстрел)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_100MM_D10T_BASE">
 				<Original>D10T 100mm </Original>
@@ -13823,6 +14106,7 @@
 				<German>KPVT 14,5x114mm </German>
 				<Chinesesimp>KPVT 14.5x114mm </Chinesesimp>
 				<Korean>KPVT 14.5x114mm</Korean>
+				<Russian>КПВТ 14.5x114мм </Russian>
 			</Key>
 			<Key ID="STR_DN_GM_23MM_2A7_BASE">
 				<Original>2A7 23x152mm </Original>
@@ -13836,6 +14120,7 @@
 				<English>2A7 23x152mm - AP</English>
 				<German>2A7 23x152mm - AP</German>
 				<Chinesesimp>2A7 23x152mm - 穿甲</Chinesesimp>
+				<Russian>2A7 23x152мм - AP(Бронебойн.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_23MM_2A7_HE_MUZZLE">
 				<Original>2A7 23x152mm - HE</Original>
@@ -13843,6 +14128,7 @@
 				<German>2A7 23x152mm - HE</German>
 				<Chinesesimp>2A7 23x152mm - 高爆</Chinesesimp>
 				<Korean>2A7 23x152mm - HE</Korean>
+				<Russian>2A7 23x152мм - HE(Фугас)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_35MM_L90_BASE">
 				<Original>L/90 35x228mm </Original>
@@ -13856,6 +14142,7 @@
 				<German>L/90 35x228mm - AP </German>
 				<Chinesesimp>L/90 35x228mm - 穿甲 </Chinesesimp>
 				<Korean>L/90 35x228mm - AP</Korean>
+				<Russian>L/90 35x228мм - AP(Бронебойн.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_35MM_L90_HE_MUZZLE">
 				<Original>L/90 35x228mm - HE</Original>
@@ -13863,6 +14150,7 @@
 				<German>L/90 35x228mm - HE</German>
 				<Chinesesimp>L/90 35x228mm - 高爆</Chinesesimp>
 				<Korean>L/90 35x228mm - HE</Korean>
+				<Russian>L/90 35x228мм - HE(Фугас)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_73MM_2A28_BASE">
 				<Original>2A28 73mm </Original>
@@ -13882,18 +14170,21 @@
 				<German>KBA 25x137mm </German>
 				<Chinesesimp>KBA 25x137mm </Chinesesimp>
 				<Korean>KBA 25x137mm</Korean>
+				<Russian>KBA 25x137мм </Russian>
 			</Key>
 			<Key ID="STR_DN_GM_25MM_KBA_AP_MUZZLE">
 				<Original>KBA 25x137mm - AP</Original>
 				<English>KBA 25x137mm - AP</English>
 				<German>KBA 25x137mm - AP</German>
 				<Chinesesimp>KBA 25x137mm - 穿甲</Chinesesimp>
+				<Russian>KBA 25x137мм - AP(Бронебойн.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_25MM_KBA_HE_MUZZLE">
 				<Original>KBA 25x137mm - HE</Original>
 				<English>KBA 25x137mm - HE</English>
 				<German>KBA 25x137mm - HE</German>
 				<Chinesesimp>KBA 25x137mm - 高爆</Chinesesimp>
+				<Russian>KBA 25x137мм - HE(Фугас)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_20MM_RH202_BASE">
 				<Original>RH202 20x139mm</Original>
@@ -13906,12 +14197,14 @@
 				<English>RH202 20x139mm - HE</English>
 				<German>RH202 20x139mm - HE</German>
 				<Chinesesimp>RH202 20x139mm - 高爆</Chinesesimp>
+				<Russian>RH202 20x139мм - HE(Фугас)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_20MM_RH202_AP_MUZZLE">
 				<Original>RH202 20x139mm - AP</Original>
 				<English>RH202 20x139mm - AP</English>
 				<German>RH202 20x139mm - AP</German>
 				<Chinesesimp>RH202 20x139mm - 穿甲</Chinesesimp>
+				<Russian>RH202 20x139мм - AP(Бронебойн.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_23MM_NS23_BASE">
 				<Original>NS-23 23x115mm</Original>
@@ -13919,6 +14212,7 @@
 				<German>NS-23 23x115mm</German>
 				<Chinesesimp>NS-23 23x115mm</Chinesesimp>
 				<Korean>NS-23 23x115mm</Korean>
+				<Russian>НС-23 23x115мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_23MM_NS23_HE_MUZZLE">
 				<Original>NS-23 23x115mm - HE</Original>
@@ -13926,6 +14220,7 @@
 				<German>NS-23 23x115mm - HE</German>
 				<Chinesesimp>NS-23 23x115mm - 高爆</Chinesesimp>
 				<Korean>NS-23 23x115mm - HE</Korean>
+				<Russian>НС-23 23x115мм - HE(Фугас)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_23MM_NS23_AP_MUZZLE">
 				<Original>NS-23 23x115mm - AP</Original>
@@ -13933,6 +14228,7 @@
 				<German>NS-23 23x115mm - AP</German>
 				<Chinesesimp>NS-23 23x115mm - 穿甲</Chinesesimp>
 				<Korean>NS-23 23x115mm - AP</Korean>
+				<Russian>НС-23 23x115мм - AP(Бронебойн.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_122MM_2A18_BASE">
 				<Original>2A18 122mm</Original>
@@ -13963,12 +14259,14 @@
 				<English>MLRS 110mm</English>
 				<German>MLRS 110mm</German>
 				<Chinesesimp>MLRS 110mm</Chinesesimp>
+				<Russian>MLRS 110mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LUNA_LAUNCHER_BASE">
 				<Original>Luna</Original>
 				<English>Luna</English>
 				<German>Luna</German>
 				<Chinesesimp>月神</Chinesesimp>
+				<Russian>Луна</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PZF84_GRN">
 				<Original>PzF84</Original>
@@ -13983,6 +14281,7 @@
 				<German>4 Sch. 44x537mm DM32</German>
 				<Chinesesimp>4Rnd 44x537mm DM32</Chinesesimp>
 				<Korean>4발 44x547mm DM32</Korean>
+				<Russian>4 Выстр. 44x537мм DM32</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_4RND_40MM_HEAT_PG7V_RPG7">
 				<Original>4Rnd 40mm PG7V</Original>
@@ -13990,6 +14289,7 @@
 				<German>4 Sch. 40mm PG7V</German>
 				<Chinesesimp>4Rnd 40mm PG7V</Chinesesimp>
 				<Korean>4발 40mm PG7V</Korean>
+				<Russian>4 выстр. 40мм ПГ7В</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_120RND_762X51MM_MG3_BASE">
 				<Original>120Rnd 7.62x51mm Belt</Original>
@@ -13997,6 +14297,7 @@
 				<German>120Rnd 7.62x51mm Belt</German>
 				<Chinesesimp>120Rnd 7.62x51mm Belt</Chinesesimp>
 				<Korean>120발 7.62x51mm 탄띠</Korean>
+				<Russian>120 патр. 7.62x51мм Лента</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PM63_BLK">
 				<Original>PM-63 9x18 mm</Original>
@@ -14004,6 +14305,7 @@
 				<German>PM-63 9x18 mm</German>
 				<Chinesesimp>PM-63 9x18 mm</Chinesesimp>
 				<Korean>PM-63 9x18mm</Korean>
+				<Russian>PM-63 9x18mm</Russian>
 			</Key>
 			<Key ID="STR_DN_MARS2_BASE">
 				<Original>MARS-2</Original>
@@ -14011,6 +14313,7 @@
 				<German>MARS-2</German>
 				<Chinesesimp>MARS-2</Chinesesimp>
 				<Korean>MARS-2</Korean>
+				<Russian>MARS-2</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_G3_BASE">
 				<Original>Battle Rifle&lt;br /&gt;Caliber: 7.62x51 mm</Original>
@@ -14018,6 +14321,7 @@
 				<German>Sturmgewehr&lt;br /&gt;Kaliber: 7,62x51 mm</German>
 				<Chinesesimp>战斗步枪&lt;br /&gt;口径: 7.62x51 mm</Chinesesimp>
 				<Korean>전투 소총&lt;br /&gt;구경: 7.62x51 mm</Korean>
+				<Russian>Боевая винтовка&lt;br /&gt;Калибр: 7.62x51 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_HK69A1_BASE">
 				<Original>Grenadelauncher&lt;br /&gt;Caliber: 40x46 mm</Original>
@@ -14025,6 +14329,7 @@
 				<German>Granatwerfer&lt;br /&gt;Kaliber: 40x46 mm</German>
 				<Chinesesimp>榴弹发射器&lt;br /&gt;口径: 40x46 mm</Chinesesimp>
 				<Korean>유탄발사기&lt;br /&gt;구경: 40x46 mm</Korean>
+				<Russian>Гранатомет&lt;br /&gt;Калибр: 40x46 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PALLAD_D_BASE">
 				<Original>Grenadelauncher&lt;br /&gt;Caliber: 40x47 mm</Original>
@@ -14032,6 +14337,7 @@
 				<German>Granatwerfer&lt;br /&gt;Kaliber: 40x47 mm</German>
 				<Chinesesimp>榴弹发射器&lt;br /&gt;口径: 40x47 mm</Chinesesimp>
 				<Korean>유탄발사기&lt;br /&gt;구경: 40x47mm</Korean>
+				<Russian>Гранатомет&lt;br /&gt;Калибр: 40x47 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_G36_BASE">
 				<Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
@@ -14039,6 +14345,7 @@
 				<German>Sturmgewehr&lt;br /&gt;Kaliber: 5,56x45 mm</German>
 				<Chinesesimp>突击步枪&lt;br /&gt;口径: 5.56x45 mm</Chinesesimp>
 				<Korean>돌격 소총&lt;br /&gt;구경: 5.56x45mm</Korean>
+				<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 5.56x45 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_M16_BASE">
 				<Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
@@ -14046,6 +14353,7 @@
 				<German>Sturmgewehr&lt;br /&gt;Kaliber: 5,56x45 mm</German>
 				<Chinesesimp>突击步枪&lt;br /&gt;口径: 5.56x45 mm</Chinesesimp>
 				<Korean>돌격 소총&lt;br /&gt;구경: 5.56x45mm</Korean>
+				<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 5.56x45 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MG3_BASE">
 				<Original>General Purpose Machine gun&lt;br /&gt;Caliber: 7.62x51 mm</Original>
@@ -14053,6 +14361,7 @@
 				<German>Maschinengewehr&lt;br /&gt;Kaliber: 7,62x51 mm</German>
 				<Chinesesimp>通用机枪&lt;br /&gt;口径: 7.62x51 mm</Chinesesimp>
 				<Korean>다목적 기관총&lt;br /&gt;구경: 7.62x51mm</Korean>
+				<Russian>Пулемет общего назначения&lt;br /&gt;Калибр: 7.62x51 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PZF44_2_BASE">
 				<Original>Anti Tank Weapon&lt;br /&gt;Caliber: 44x537 mm</Original>
@@ -14060,6 +14369,7 @@
 				<German>Panzerabwehrhandwaffe&lt;br /&gt;Kaliber: 44x537 mm</German>
 				<Chinesesimp>反坦克武器&lt;br /&gt;口径: 44x537 mm</Chinesesimp>
 				<Korean>대전차 무기&lt;br /&gt;구경: 44x537mm</Korean>
+				<Russian>Противотанковое оружие&lt;br /&gt;Калибр: 44x537 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_M72_BASE">
 				<Original>Anti Tank Weapon&lt;br /&gt;Caliber: 66 mm</Original>
@@ -14067,6 +14377,7 @@
 				<German>Panzerabwehrhandwaffe&lt;br /&gt;Kaliber: 66 mm</German>
 				<Chinesesimp>反坦克武器&lt;br /&gt;口径: 66 mm</Chinesesimp>
 				<Korean>대전차 무기&lt;br /&gt;구경: 66mm</Korean>
+				<Russian>Противотанковое оружие&lt;br /&gt;Калибр: 66 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PZF3_BASE">
 				<Original>Anti Tank Weapon&lt;br /&gt;Caliber: 60 mm</Original>
@@ -14074,6 +14385,7 @@
 				<German>Panzerabwehrhandwaffe&lt;br /&gt;Kaliber: 60 mm</German>
 				<Chinesesimp>反坦克武器&lt;br /&gt;口径: 60 mm</Chinesesimp>
 				<Korean>대전차 무기&lt;br /&gt;구경: 60mm</Korean>
+				<Russian>Противотанковое оружие&lt;br /&gt;Калибр: 60 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_RPG7_BASE">
 				<Original>Anti Tank Weapon&lt;br /&gt;Caliber: 40 mm</Original>
@@ -14081,6 +14393,7 @@
 				<German>Panzerabwehrhandwaffe&lt;br /&gt;Kaliber: 40 mm</German>
 				<Chinesesimp>反坦克武器&lt;br /&gt;口径: 40 mm</Chinesesimp>
 				<Korean>대전차 무기&lt;br /&gt;구경: 40mm</Korean>
+				<Russian>Противотанковое оружие&lt;br /&gt;Калибр: 40 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PZF84_BASE">
 				<Original>Recoilless Rifle&lt;br /&gt;Caliber: 84 mm</Original>
@@ -14088,6 +14401,7 @@
 				<German>Rückstoßfreie Panzerabwehrhandwaffe&lt;br /&gt;Kaliber: 84 mm</German>
 				<Chinesesimp>无后坐力炮&lt;br /&gt;口径: 84 mm</Chinesesimp>
 				<Korean>무반동총&lt;br /&gt;구경: 84mm</Korean>
+				<Russian>Безоткатное Оружие&lt;br /&gt;Калибр: 84 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_CARLGUSTAF_M2_BASE">
 				<Original>Recoilless Rifle&lt;br /&gt;Caliber: 84 mm</Original>
@@ -14095,6 +14409,7 @@
 				<German>Rückstoßfreie Panzerabwehrhandwaffe&lt;br /&gt;Kaliber: 84 mm</German>
 				<Chinesesimp>无后坐力炮&lt;br /&gt;口径: 84 mm</Chinesesimp>
 				<Korean>무반동총&lt;br /&gt;구경: 84mm</Korean>
+				<Russian>Безоткатное Оружие&lt;br /&gt;Калибр: 84 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_P1_BASE">
 				<Original>Pistol&lt;br /&gt;Caliber: 9x19 mm</Original>
@@ -14102,6 +14417,7 @@
 				<German>Faustfeuerwaffe&lt;br /&gt;Kaliber: 9x19 mm</German>
 				<Chinesesimp>手枪&lt;br /&gt;口径: 9x19 mm</Chinesesimp>
 				<Korean>권총&lt;br /&gt;구경: 9x19mm</Korean>
+				<Russian>Пистолет&lt;br /&gt;Калибр: 9x19 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PM_BASE">
 				<Original>Pistol&lt;br /&gt;Caliber: 9x18 mm</Original>
@@ -14109,6 +14425,7 @@
 				<German>Faustfeuerwaffe&lt;br /&gt;Kaliber: 9x18 mm</German>
 				<Chinesesimp>手枪&lt;br /&gt;口径: 9x18 mm</Chinesesimp>
 				<Korean>권총&lt;br /&gt;구경: 9x18mm</Korean>
+				<Russian>Пистолет&lt;br /&gt;Калибр: 9x18 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_P2A1_BASE">
 				<Original>Flaregun&lt;br /&gt;Caliber: 26.5 mm</Original>
@@ -14116,6 +14433,7 @@
 				<German>Signalpistole&lt;br /&gt;Kaliber: 26,5 mm</German>
 				<Chinesesimp>信号枪&lt;br /&gt;口径: 26.5 mm</Chinesesimp>
 				<Korean>조명탄 총&lt;br /&gt;구경: 26.5mm</Korean>
+				<Russian>Ракетница&lt;br /&gt;Калибр: 26.5 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_LP1_BASE">
 				<Original>Flaregun&lt;br /&gt;Caliber: 26.5 mm</Original>
@@ -14123,6 +14441,7 @@
 				<German>Leuchtpistole&lt;br /&gt;Kaliber: 26,5 mm</German>
 				<Chinesesimp>信号枪&lt;br /&gt;口径: 26.5 mm</Chinesesimp>
 				<Korean>조명탄 총&lt;br /&gt;구경: 26.5mm</Korean>
+				<Russian>Ракетница&lt;br /&gt;Калибр: 26.5 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MP2_BASE">
 				<Original>Submachinegun&lt;br /&gt;Caliber: 9x19 mm</Original>
@@ -14130,6 +14449,7 @@
 				<German>Maschinenpistole&lt;br /&gt;Kaliber: 9x19 mm</German>
 				<Chinesesimp>冲锋枪&lt;br /&gt;口径: 9x19 mm</Chinesesimp>
 				<Korean>기관단총&lt;br /&gt;구경: 9x19mm</Korean>
+				<Russian>Пистолет-пулемет&lt;br /&gt;Калибр: 9x19 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MP5_BASE">
 				<Original>Submachinegun&lt;br /&gt;Caliber: 9x19 mm</Original>
@@ -14137,6 +14457,7 @@
 				<German>Maschinenpistole&lt;br /&gt;Kaliber: 9x19 mm</German>
 				<Chinesesimp>冲锋枪&lt;br /&gt;口径: 9x19 mm</Chinesesimp>
 				<Korean>기관단총&lt;br /&gt;구경: 9x19mm</Korean>
+				<Russian>Пистолет-пулемет&lt;br /&gt;Калибр: 9x19 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MP5SD_BASE">
 				<Original>Submachinegun&lt;br /&gt;Caliber: 9x19 mm</Original>
@@ -14144,6 +14465,7 @@
 				<German>Maschinenpistole&lt;br /&gt;Kaliber: 9x19 mm</German>
 				<Chinesesimp>冲锋枪&lt;br /&gt;口径: 9x19 mm</Chinesesimp>
 				<Korean>기관단총&lt;br /&gt;구경: 9x19mm</Korean>
+				<Russian>Пистолет-пулемет&lt;br /&gt;Калибр: 9x19 mm</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PK_BASE">
 				<Original>Machinegun&lt;br /&gt;Caliber: 7.62x54 mmR</Original>
@@ -14151,6 +14473,7 @@
 				<German>Maschinengewehr&lt;br /&gt;Kaliber: 7,62x54 mmR</German>
 				<Chinesesimp>机枪&lt;br /&gt;口径: 7.62x54 mmR</Chinesesimp>
 				<Korean>기관총&lt;br /&gt;구경: 7.62x54mmR</Korean>
+				<Russian>Пулемет&lt;br /&gt;Калибр: 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PKT_BASE">
 				<Original>Machinegun&lt;br /&gt;Caliber: 7.62x54 mmR</Original>
@@ -14158,6 +14481,7 @@
 				<German>Maschinengewehr&lt;br /&gt;Kaliber: 7,62x54 mmR</German>
 				<Chinesesimp>机枪&lt;br /&gt;口径: 7.62x54 mmR</Chinesesimp>
 				<Korean>기관총&lt;br /&gt;구경: 7.62x54mmR</Korean>
+				<Russian>Пулемет&lt;br /&gt;Калибр: 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_SGM_BASE">
 				<Original>Machinegun&lt;br /&gt;Caliber: 7.62x54 mmR</Original>
@@ -14165,6 +14489,7 @@
 				<German>Maschinengewehr&lt;br /&gt;Kaliber: 7,62x54 mmR</German>
 				<Chinesesimp>机枪&lt;br /&gt;口径: 7.62x54 mmR</Chinesesimp>
 				<Korean>기관총&lt;br /&gt;구경: 7.62x54mmR</Korean>
+				<Russian>Пулемет&lt;br /&gt;Калибр: 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_SGMT_BASE">
 				<Original>Machinegun&lt;br /&gt;Caliber: 7.62x54 mmR</Original>
@@ -14172,6 +14497,7 @@
 				<German>Maschinengewehr&lt;br /&gt;Kaliber: 7,62x54 mmR</German>
 				<Chinesesimp>机枪&lt;br /&gt;口径: 7.62x54 mmR</Chinesesimp>
 				<Korean>기관총&lt;br /&gt;구경: 7.62x54mmR</Korean>
+				<Russian>Пулемет&lt;br /&gt;Калибр: 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_AK74_BASE">
 				<Original>Assault Rifle&lt;br /&gt;Caliber: 5.45x39 mm</Original>
@@ -14179,6 +14505,7 @@
 				<German>Sturmgewehr&lt;br /&gt;Kaliber: 5,45x39 mm</German>
 				<Chinesesimp>突击步枪&lt;br /&gt;口径: 5.45x39 mm</Chinesesimp>
 				<Korean>돌격소총&lt;br /&gt;구경: 5.45x39mm</Korean>
+				<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_AK47_BASE">
 				<Original>Assault Rifle&lt;br /&gt;Caliber: 7.62x39 mm</Original>
@@ -14186,6 +14513,7 @@
 				<German>Sturmgewehr&lt;br /&gt;Kaliber: 7,62x39 mm</German>
 				<Chinesesimp>突击步枪&lt;br /&gt;口径: 7.62x39 mm</Chinesesimp>
 				<Korean>돌격소총&lt;br /&gt;구경: 7,62x39mm</Korean>
+				<Russian>Штурмовая винтовка&lt;br /&gt;Калибр: 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_RPK74_BASE">
 				<Original>Light Machinegun&lt;br /&gt;Caliber: 5.45x39 mm</Original>
@@ -14193,6 +14521,7 @@
 				<German>Leichtes Maschinengewehr&lt;br /&gt;Kaliber: 5,45x39 mm</German>
 				<Chinesesimp>轻机枪&lt;br /&gt;口径: 5.45x39 mm</Chinesesimp>
 				<Korean>경기관총&lt;br /&gt;구경: 5.45x39mm</Korean>
+				<Russian>Легкий пулемет&lt;br /&gt;Калибр: 5.45x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_RPK_BASE">
 				<Original>Light Machinegun&lt;br /&gt;Caliber: 7.62x39 mm</Original>
@@ -14200,6 +14529,7 @@
 				<German>Leichtes Maschinengewehr&lt;br /&gt;Kaliber: 7,62x39 mm</German>
 				<Chinesesimp>轻机枪&lt;br /&gt;口径: 7.62x39 mm</Chinesesimp>
 				<Korean>경기관총&lt;br /&gt;구경: 7.62x39mm</Korean>
+				<Russian>Легкий пулемет&lt;br /&gt;Калибр: 7.62x39 мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_SVD_BASE">
 				<Original>Sniper Rifle&lt;br /&gt;Caliber: 7.62x54 mmR</Original>
@@ -14207,6 +14537,7 @@
 				<German>Scharfschützengewehr&lt;br /&gt;Kaliber: 7,62x54 mmR</German>
 				<Chinesesimp>狙击步枪&lt;br /&gt;口径: 7.62x54 mmR</Chinesesimp>
 				<Korean>저격총&lt;br /&gt;구경: 7.62x54mmR</Korean>
+				<Russian>Снайперская винтовка&lt;br /&gt;Калибр: 7.62x54 mmR</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MILAN_LAUNCHER_BASE">
 				<Original>Anti-Tank Guided Missile&lt;br /&gt;Guidance: SACLOS</Original>
@@ -14214,6 +14545,7 @@
 				<German>Panzerabwehrlenkrakete&lt;br /&gt;Steuerung: SACLOS</German>
 				<Chinesesimp>反坦克制导导弹&lt;br /&gt;制导: 半自动瞄准</Chinesesimp>
 				<Korean>대전차 유도 미사일&lt;br /&gt;유도방식: SACLOS</Korean>
+				<Russian>Противотанковая Управляемая ракета&lt;br /&gt;Наведение: SACLOS(Полуавтомат.)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_HOT_LAUNCHER_BASE">
 				<Original>Anti-Tank Guided Missile&lt;br /&gt;Guidance: SACLOS</Original>
@@ -14221,6 +14553,7 @@
 				<German>Panzerabwehrlenkrakete&lt;br /&gt;Steuerung: SACLOS</German>
 				<Chinesesimp>反坦克制导导弹&lt;br /&gt;制导: 半自动瞄准</Chinesesimp>
 				<Korean>대전차 유도 미사일&lt;br /&gt;유도방식: SACLOS</Korean>
+				<Russian>Противотанковая Управляемая ракета&lt;br /&gt;Наведение: SACLOS(Полуавтомат.)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MALJUTKA_LAUNCHER_BASE">
 				<Original>Anti-Tank Guided Missile&lt;br /&gt;Guidance: MCLOS</Original>
@@ -14228,6 +14561,7 @@
 				<German>Panzerabwehrlenkrakete&lt;br /&gt;Steuerung: MCLOS</German>
 				<Chinesesimp>反坦克制导导弹&lt;br /&gt;制导: 手动瞄准</Chinesesimp>
 				<Korean>대전차 유도 미사일&lt;br /&gt;유도방식: MCLOS</Korean>
+				<Russian>Противотанковая Управляемая ракета&lt;br /&gt;Наведение: MCLOS(Ручное)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_FAGOT_LAUNCHER_BASE">
 				<Original>Anti-Tank Guided Missile&lt;br /&gt;Guidance: SACLOS</Original>
@@ -14235,24 +14569,28 @@
 				<German>Panzerabwehrlenkrakete&lt;br /&gt;Steuerung: SACLOS</German>
 				<Chinesesimp>反坦克制导导弹&lt;br /&gt;制导: 半自动瞄准</Chinesesimp>
 				<Korean>대전차 유도 미사일&lt;br /&gt;유도방식: SACLOS</Korean>
+				<Russian>Противотанковая Управляемая ракета&lt;br /&gt;Наведение: SACLOS(Полуавтомат.)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MLRS_122MM_LAUNCHER_BASE">
 				<Original>Multiple Launch Rocket System&lt;br /&gt;Caliber: 122mm</Original>
 				<English>Multiple Launch Rocket System&lt;br /&gt;Caliber: 122mm</English>
 				<German>Mehrfachraketenwerfer&lt;br /&gt;Kaliber: 122mm</German>
 				<Chinesesimp>多用途火箭系统&lt;br /&gt;口径: 122mm</Chinesesimp>
+				<Russian>Реактивная Система Залпового Огня&lt;br /&gt;Калибр: 122мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_MLRS_110MM_LAUNCHER_BASE">
 				<Original>Multiple Launch Rocket System&lt;br /&gt;Caliber: 110mm</Original>
 				<English>Multiple Launch Rocket System&lt;br /&gt;Caliber: 110mm</English>
 				<German>Mehrfachraketenwerfer &lt;br /&gt;Kaliber: 110mm</German>
 				<Chinesesimp>多用途火箭系统&lt;br /&gt;口径: 110mm</Chinesesimp>
+				<Russian>Реактивная Система Залпового Огня&lt;br /&gt;Калибр: 110мм</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_LUNA_LAUNCHER_BASE">
 				<Original>Short Range Ballistic Missile&lt;br /&gt;Guidance: Ballistic</Original>
 				<English>Short Range Ballistic Missile&lt;br /&gt;Guidance: Ballistic</English>
 				<German>Kurzstreckenrakete&lt;br /&gt;Steuerung: Ballistisch</German>
 				<Chinesesimp>短程弹道导弹&lt;br /&gt;制导: 弹道</Chinesesimp>
+				<Russian>Баллистическая Ракета Малой Дальности&lt;br /&gt;Наведение: Баллистическое</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_FIM43_BASE">
 				<Original>Single Use Anti-Air Missile&lt;br /&gt;Guidance: IR</Original>
@@ -14260,6 +14598,7 @@
 				<German>Einweg-Luftabwehrlenkrakete&lt;br /&gt;Steuerung: IR</German>
 				<Chinesesimp>一次性防空导弹&lt;br /&gt;制导: 红外线</Chinesesimp>
 				<Korean>일회용 대공 미사일&lt;br /&gt;유도방식: IR</Korean>
+				<Russian>Одноразовая Зенитная Ракета&lt;br /&gt;Наведение: IR(Инфракрасное)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_LAUNCHER_SPENT">
 				<Original>Spent weapon, cannot be reused</Original>
@@ -14267,6 +14606,7 @@
 				<German>Benutzte Einmalwaffe, nicht wiederverwendbar</German>
 				<Chinesesimp>废弃的武器，不能重复使用</Chinesesimp>
 				<Korean>일회용 무기, 재사용 불가</Korean>
+				<Russian>Отработанное оружие, нельзя использовать повторно</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_STRELA_BASE">
 				<Original>Single Use Anti-Air Missile&lt;br /&gt;Guidance: IR</Original>
@@ -14274,6 +14614,7 @@
 				<German>Einweg-Luftabwehrlenkrakete&lt;br /&gt;Steuerung: IR</German>
 				<Chinesesimp>一次性防空导弹&lt;br /&gt;制导: 红外线</Chinesesimp>
 				<Korean>일회용 대공 미사일&lt;br /&gt;유도방식: IR</Korean>
+				<Russian>Одноразовая Зенитная Ракета&lt;br /&gt;Наведение: IR(Инфракрасное)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PM63_BASE">
 				<Original>Submachinegun&lt;br /&gt;Caliber: 9x18 mm</Original>
@@ -14281,18 +14622,21 @@
 				<German>Maschinenpistole&lt;br /&gt;Kaliber: 9x18 mm</German>
 				<Chinesesimp>冲锋枪&lt;br /&gt;口径: 9x18 mm</Chinesesimp>
 				<Korean>기관단총&lt;br /&gt;구경: 9x18mm</Korean>
+				<Russian>Пистолет-пулемет&lt;br /&gt;Калибр: 9x18 мм</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_MG3_BASE">
 				<Original>The MG3 is a 7,62×51 mm NATO General Purpose Machinegun of West German origin derived from the World War II Machinegun MG42. It is well known for its high rate of fire.</Original>
 				<English>The MG3 is a 7,62×51 mm NATO General Purpose Machinegun of West German origin derived from the World War II Machinegun MG42. It is well known for its high rate of fire.</English>
 				<German>Das MG3 ist ein 7,62x51 mm NATO Maschinengewehr aus Westdeutschland. Es ist eine Weiterentwicklung des MG42 aus dem Zweiten Weltkrieg. Das MG3 ist legendär für seine hohe Kadenz.</German>
 				<Chinesesimp>MG3是一款源自第二次世界大战的MG42，西德造7.62×51毫米北约通用机枪。它以高射速著称。</Chinesesimp>
+				<Russian>MG3 представляет собой основной пулемет НАТО калибра 7,62×51 мм западногерманского производства, созданный на основе пулемета MG42 времен Второй мировой войны. Он хорошо известен своей высокой скорострельностью.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_G3_BASE">
 				<Original>The G3 is a 7.62×51 mm NATO battle rifle of West German origin. It is well known for its high precision.</Original>
 				<English>The G3 is a 7.62×51 mm NATO battle rifle of West German origin. It is well known for its high precision.</English>
 				<German>Das G3 ist ein 7,62x51 mm NATO Sturmgewehr aus Westdeutschland. Es ist für seine hohe Zielgenauigkeit bekannt.</German>
 				<Chinesesimp>G3是一款西德的7.62×51毫米北约战斗步枪。它以高精度而闻名。</Chinesesimp>
+				<Russian>G3 - боевая винтовка НАТО калибра 7,62×51 мм западногерманского производства. Известна своей высокой точностью.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_M16_BASE">
 				<Original>The M16 is a 5.56x45 mm NATO assault rifle of American origin.</Original>
@@ -14300,66 +14644,77 @@
 				<German>Das M16 ist ein 5,56x45 mm NATO Sturmgewehr aus den Vereingten Staaten.</German>
 				<Chinesesimp>M16是一款美国的5.56x45毫米北约突击步枪。</Chinesesimp>
 				<Korean>M16은 미국에서만든 5.56mm 돌격소총입니다.</Korean>
+				<Russian>M16 — штурмовая винтовка НАТО калибра 5,56x45 мм американского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PZF44_2_BASE">
 				<Original>The PzF44-2 is a 44x537 mm shoulder-fired anti tank weapon of West German origin.</Original>
 				<English>The PzF44-2 is a 44x537 mm shoulder-fired anti tank weapon of West German origin.</English>
 				<German>Die PzF44-2 ist eine Panzerabwehrhandwaffe im Kaliber 44x537 mm aus Westdeutschland.</German>
 				<Chinesesimp>PzF44-2是一款西德的44x537毫米肩扛式反坦克武器。</Chinesesimp>
+				<Russian>PzF44-2 — это противотанковое ручное оружие калибра 44x537 мм Западногерманского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_RPG7_BASE">
 				<Original>The RPG-7 is a 40 mm shoulder-fired anti tank weapon of Soviet origin.</Original>
 				<English>The RPG-7 is a 40 mm shoulder-fired anti tank weapon of Soviet origin.</English>
 				<German>Die RPG-7 ist eine Panzerabwehrhandwaffe im Kaliber 40 mm aus der Sowjetunion.</German>
 				<Chinesesimp>RPG-7是一款苏联的40毫米肩扛式反坦克武器。</Chinesesimp>
+				<Russian>РПГ-7 - это 40-мм ручное противотанковое оружие Советского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PZF84_BASE">
 				<Original>The PzF84 is a 84 mm shoulder-fired recoilless rifle of Swedish origin.</Original>
 				<English>The PzF84 is a 84 mm shoulder-fired recoilless rifle of Swedish origin.</English>
 				<German>Die PzF84 ist eine Panzerabwehrhandwaffe im Kaliber 84 mm aus Schweden.</German>
 				<Chinesesimp>PzF84是一款瑞典84毫米肩扛式无后坐力炮。</Chinesesimp>
+				<Russian>PzF84 - это противотанковое ручное оружие калибра 84 мм, изготовленное в Швеции.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_M72_BASE">
 				<Original>The M72 LAW is a 66 mm shoulder-fired anti tank weapon of US origin.</Original>
 				<English>The M72 LAW is a 66 mm shoulder-fired anti tank weapon of US origin.</English>
 				<German>Das M72 LAW ist eine Panzerabwehrhandwaffe im Kaliber 66 mm aus den USA.</German>
 				<Chinesesimp>M72 LAW是一款美国66毫米肩扛式反坦克武器。</Chinesesimp>
+				<Russian>M72 LAW — это 66-мм противотанковое ручное оружие американского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PZF3_BASE">
 				<Original>The PzF3 is a 60 mm shoulder-fired anti tank weapon of West German origin.</Original>
 				<English>The PzF3 is a 60 mm shoulder-fired anti tank weapon of West German origin.</English>
 				<German>Die PzF3 ist eine Panzerabwehrhandwaffe im Kaliber 60 mm aus Westdeutschland.</German>
 				<Chinesesimp>PzF3是一款西德60毫米肩扛式反坦克武器。</Chinesesimp>
+				<Russian>PzF3 — противотанковое ручное оружие калибра 60 мм из Западной Германии.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_CARLGUSTAF_M2_BASE">
 				<Original>The Carl Gustaf is a 84 mm is a shoulder-fired recoilless rifle of Swedish origin.</Original>
 				<English>The Carl Gustaf is a 84 mm is a shoulder-fired recoilless rifle of Swedish origin.</English>
 				<German>Die Carl Gustaf ist eine Panzerabwehrhandwaffe im Kaliber 84 mm aus Schweden.</German>
 				<Chinesesimp>卡尔·古斯塔夫是一款瑞典84毫米的肩扛式无后坐力炮。</Chinesesimp>
+				<Russian>Carl Gustaf (Карл Густаф) - это противотанковое ручное оружие калибра 84 мм, изготовленное в Швеции.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_P1_BASE">
 				<Original>The P1 is a 9x19 mm Pistol of West German origin derived from a World War II pistol of similar design.</Original>
 				<English>The P1 is a 9x19 mm Pistol of West German origin derived from a World War II pistol of similar design.</English>
 				<German>Die P1 ist eine 9x19 mm Pistole aus Westdeutschland. Sie ist eine Weiterentwicklung der Standardpistole aus dem Zweiten Weltkrieg.</German>
 				<Chinesesimp>P1是一款西德9x19毫米手枪，源自二战中类似设计的手枪。</Chinesesimp>
+				<Russian>P1 — это западногерманский пистолет калибра 9x19 мм, созданный на основе пистолета аналогичной конструкции периода Второй мировой войны.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PM_BASE">
 				<Original>The PM is a 9x18 mm Pistol of Soviet origin and is the standard military and police side arm.</Original>
 				<English>The PM is a 9x18 mm Pistol of Soviet origin and is the standard military and police side arm.</English>
 				<German>Die Pistole M ist eine 9x18mm Pistole aus der Sowjetunion.</German>
 				<Chinesesimp>PM是一款苏联9x18毫米手枪，是军官、警察标准的副武器。</Chinesesimp>
+				<Russian>ПМ — советский пистолет калибра 9x18 мм, являющийся штатным военным и милицейским оружием.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_P2A1_BASE">
 				<Original>The P2A1 is a 26.5 mm flaregun of West German origin.</Original>
 				<English>The P2A1 is a 26.5 mm flaregun of West German origin.</English>
 				<German>Die P2A1 ist eine 26,5mm Signalpistole aus Westdeutschland.</German>
 				<Chinesesimp>P2A1是一款西德26.5毫米信号枪。</Chinesesimp>
+				<Russian>P2A1 — 26,5-мм сигнальная ракетница западногерманского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_LP1_BASE">
 				<Original>The LP1 is a 26.5 mm flaregun of East German origin.</Original>
 				<English>The LP1 is a 26.5 mm flaregun of East German origin.</English>
 				<German>Die LP1 ist eine 26,5mm Leuchtpistole aus der DDR.</German>
 				<Chinesesimp>LP1是一款东德26.5毫米信号枪。</Chinesesimp>
+				<Russian>LP1 — 26,5-мм сигнальная ракетница Восточногерманского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_MP2_BASE">
 				<Original>The MP2 is a 9x19 mm submachinegun of Israeli origin.</Original>
@@ -14367,6 +14722,7 @@
 				<German>Die MP2 ist eine 9x19mm Maschinenpistole aus Israel.</German>
 				<Chinesesimp>MP2是一款以色列9x19毫米冲锋枪。</Chinesesimp>
 				<Korean>MP2는 이스라엘에서 만든 9x19mm 기관단총 입니다.</Korean>
+				<Russian>MP2 — пистолет-пулемет израильского производства калибра 9x19 мм.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_MP5_BASE">
 				<Original>The MP5 is a 9x19 mm submachinegun of West German origin.</Original>
@@ -14374,90 +14730,105 @@
 				<German>Die MP5 ist eine 9x19mm Maschinenpistole aus Westdeutschland.</German>
 				<Chinesesimp>MP5是一款西德9x19毫米冲锋枪。</Chinesesimp>
 				<Korean>MP5는 서독에서 만든 9x19mm 기관단총 입니다.</Korean>
+				<Russian>MP5 — пистолет-пулемет калибра 9x19 мм Западногерманского производства.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PK_BASE">
 				<Original>The PK is a 7.62x54 mmR machinegun of Soviet origin.</Original>
 				<English>The PK is a 7.62x54 mmR machinegun of Soviet origin.</English>
 				<German>Die PK ist ein 7,62x54 mmR Maschinengewehr aus der Sowjetunion.</German>
 				<Chinesesimp>PK是一款苏联7.62x54mmR机枪。</Chinesesimp>
+				<Russian>ПК — Советский пулемет калибра 7,62х54 мм.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_SGM_BASE">
 				<Original>The SGM is a 7.62x54 mmR machinegun of Soviet origin.</Original>
 				<English>The SGM is a 7.62x54 mmR machinegun of Soviet origin.</English>
 				<German>Die SGM ist ein 7,62x54 mmR Maschinengewehr aus der Sowjetunion.</German>
 				<Chinesesimp>SGM是一款苏联7.62x54mmR机枪。</Chinesesimp>
+				<Russian>СГМ — Советский пулемет калибра 7,62х54 мм.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_AK74_BASE">
 				<Original>The AK-74 is a 5.45x39 mm assault rifle of Soviet origin. It is well known for its robustness.</Original>
 				<English>The AK-74 is a 5.45x39 mm assault rifle of Soviet origin. It is well known for its robustness.</English>
 				<German>Die AK-74 ist ein 5,45x39 mm Sturmgewehr aus der Sowjetuntion. Es ist legendär für seine Zuverlässigkeit.</German>
 				<Chinesesimp>AK-74是一款苏联5.45x39毫米突击步枪。以其坚固耐用而著称。</Chinesesimp>
+				<Russian>АК-74 — советский автомат калибра 5,45х39 мм. Хорошо известен своей надёжностью.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_RPK74_BASE">
 				<Original>The RPK-74 is a 5.45x39 mm light machinegun of Soviet origin. It is based on the AK-74.</Original>
 				<English>The RPK-74 is a 5.45x39 mm light machinegun of Soviet origin. It is based on the AK-74.</English>
 				<German>Die RPK-74 ist ein 5,45x39 mm leichtes Maschinengewehr aus der Sowjetuntion. Es ist eine Variante der AK-74.</German>
 				<Chinesesimp>RPK-74是一款苏联5.45x39毫米轻机枪。基于AK-74而衍生。</Chinesesimp>
+				<Russian>РПК-74 — ручной пулемет калибра 5,45х39 мм Советского производства. Создан на базе АК-74.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_AK47_BASE">
 				<Original>The AK-47 is a 7.62x39 mm assault rifle of Soviet origin. It is well known for its reliability.</Original>
 				<English>The AK-47 is a 7.62x39 mm assault rifle of Soviet origin. It is well known for its reliability.</English>
 				<German>Die AK-47 ist ein 7,62x39 mm Sturmgewehr aus der Sowjetuntion. Es ist legendär für seine Zuverlässigkeit.</German>
 				<Chinesesimp>AK-47是一款苏联7.62x39毫米突击步枪。以其可靠性而著称。</Chinesesimp>
+				<Russian>АК-47 — Советский автомат калибра 7,62х39 мм. Хорошо известен своей надежностью.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_RPK_BASE">
 				<Original>The RPK-74 is a 7.62x39 mm light machinegun of Soviet origin. It is based on the AK-47.</Original>
 				<English>The RPK-74 is a 7.62x39 mm light machinegun of Soviet origin. It is based on the AK-47.</English>
 				<German>Die RPK-74 ist ein 7,62x39 mm leichtes Maschinengewehr aus der Sowjetuntion. Es ist eine Variante der AK-47.</German>
 				<Chinesesimp>RPK-74是一款苏联7.62x39毫米轻机枪。基于AK-47而衍生。</Chinesesimp>
+				<Russian>РПК-74 — ручной пулемет Советского производства калибра 7,62х39 мм. Создан на базе АК-47.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_SVD_BASE">
 				<Original>The SVD is a 7.62x54 mmR sniper rifle of Soviet origin.</Original>
 				<English>The SVD is a 7.62x54 mmR sniper rifle of Soviet origin.</English>
 				<German>Die SVD ist ein 7,62x54 mmR Scharfschützengewehr aus der Sowjetuntion.</German>
 				<Chinesesimp>SVD是一款苏联7.62x54mmR狙击步枪。</Chinesesimp>
+				<Russian>СВД — Советская снайперская винтовка калибра 7,62х54 мм.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_MILAN_LAUNCHER_BASE">
 				<Original>The LATGM is a SACLOS anti-tank guided missile of French-West German origin.</Original>
 				<English>The LATGM is a SACLOS anti-tank guided missile of French-West German origin.</English>
 				<German>LPALR ist eine SACLOS-Panzerabwehrlenkrakete aus Deutsch-Französischer Kooperation.</German>
 				<Chinesesimp>LATGM是一款法国/西德联合研制的半自动瞄准式反坦克制导导弹。</Chinesesimp>
+				<Russian>LATGM — это совместная разработка Франции и ФРГ полуавтоматических противотанковых управляемых ракет.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_HOT_LAUNCHER_BASE">
 				<Original>The HOT is a SACLOS anti-tank guided missile of French-West German origin.</Original>
 				<English>The HOT is a SACLOS anti-tank guided missile of French-West German origin.</English>
 				<German>HOT ist eine SACLOS-Panzerabwehrlenkrakete aus Deutsch-Französischer Kooperation.</German>
 				<Chinesesimp>HOT是一款法国/西德联合研制的半自动瞄准式反坦克制导导弹。</Chinesesimp>
+				<Russian>HOT - это полуавтоматическая противотанковая управляемая ракета, совместно разработанная Францией и ФРГ.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_MALJUTKA_LAUNCHER_BASE">
 				<Original>The Maljutka is a MCLOS anti-tank guided missile of Soviet origin.</Original>
 				<English>The Maljutka is a MCLOS anti-tank guided missile of Soviet origin.</English>
 				<German>Maljutka ist eine MCLOS-Panzerabwehrlenkrakete aus der Sowjetunion</German>
 				<Chinesesimp>AT-3 Maljutka是一款苏联研制的手动瞄准式反坦克制导导弹。</Chinesesimp>
+				<Russian>Малютка — это управляемая противотанковая ракета с ручным наведением, разработанная Советским Союзом.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_FAGOT_LAUNCHER_BASE">
 				<Original>The Fagot is a MCLOS anti-tank guided missile of Soviet origin.</Original>
 				<English>The Fagot is a MCLOS anti-tank guided missile of Soviet origin.</English>
 				<German>Fagot ist eine SACLOS-Panzerabwehrlenkrakete aus der Sowjetunion</German>
 				<Chinesesimp>9K111 Fagot是一款苏联研制的手动瞄准式(有线制导)反坦克制导导弹。</Chinesesimp>
+				<Russian>Фагот - это противотанковая управляемая ракета с ручным наведением (проводным наведением), разработанная Советским Союзом.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_FIM43_BASE">
 				<Original>The FIM-43 is a shoulder-launched IR guided anti-air fire-and-forget missile system.</Original>
 				<English>The FIM-43 is a shoulder-launched IR guided anti-air fire-and-forget missile system.</English>
 				<German>FIM-43 ist eine schultergestützte Infrarot-Luftabwehrlenkwaffe.</German>
 				<Chinesesimp>FIM-43是一款便携式红外制导单兵防空导弹。</Chinesesimp>
+				<Russian>FIM-43 это переносной зенитный ракетный комплекс с инфракрасным наведением.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_STRELA_BASE">
 				<Original>The 9K32M Stela-2M is a shoulder-launched IR guided anti-air fire-and-forget missile system.</Original>
 				<English>The 9K32M Stela-2M is a shoulder-launched IR guided anti-air fire-and-forget missile system.</English>
 				<German>9K32M Strela-2M ist eine schultergestützte Infrarot-Luftabwehrlenkwaffe.</German>
 				<Chinesesimp>9K32M Stela-2M是一款便携式红外制导单兵防空导弹。</Chinesesimp>
+				<Russian>9К32М Стела-2М — переносной зенитный ракетный комплекс с инфракрасным наведением.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PM63_BASE">
 				<Original>The PM-63 is a 9x18 mm submachinegun of Polish origin.</Original>
 				<English>The PM-63 is a 9x18 mm submachinegun of Polish origin.</English>
 				<German>Die PM-63 ist eine 9x18mm Maschinenpistole aus Polen.</German>
 				<Chinesesimp>PM-63是一款波兰9x18毫米冲锋枪。</Chinesesimp>
+				<Russian>PM-63 — польский пистолет-пулемет калибра 9x18 мм.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HK69A1_BASE">
 				<Original>GraPi 40x46 mm</Original>
@@ -14465,6 +14836,7 @@
 				<German>GraPi 40x46 mm</German>
 				<Chinesesimp>GraPi 40x46 mm</Chinesesimp>
 				<Korean>GraPi 40x46 mm</Korean>
+				<Russian>GraPi 40x46 mm</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HK69A1_BLK">
 				<Original>GraPi 40x46 mm</Original>
@@ -14472,6 +14844,7 @@
 				<German>GraPi 40x46 mm</German>
 				<Chinesesimp>GraPi 40x46 mm</Chinesesimp>
 				<Korean>GraPi 40x46 mm</Korean>
+				<Russian>GraPi 40x46 mm</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_HK69A1_BASE">
 				<Original>GraPi</Original>
@@ -14479,12 +14852,14 @@
 				<German>GraPi</German>
 				<Chinesesimp>GraPi</Chinesesimp>
 				<Korean>GraPi</Korean>
+				<Russian>GraPi</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_HK69_BASE">
 				<Original>The GraPi is a 40x46 mm grenade launcher of West German origin.</Original>
 				<English>The GraPi is a 40x46 mm grenade launcher of West German origin.</English>
 				<German>Die GraPi ist eine Granatpistole im Kaliber 40x46 mm aus Westdeutschland.</German>
 				<Chinesesimp>GraPi是一款西德40x46毫米榴弹发射器。</Chinesesimp>
+				<Russian>GraPi — гранатомет калибра 40x46 мм производства ФРГ.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PALLAD_D_BASE">
 				<Original>wz.83 Pallad-D 40x47mm</Original>
@@ -14492,6 +14867,7 @@
 				<German>wz.83 Pallad-D 40x47mm</German>
 				<Chinesesimp>wz.83 Pallad-D 40x47mm</Chinesesimp>
 				<Korean>wz.83 팔라드-D 40x47mm</Korean>
+				<Russian>wz.83 Паллад-Д 40х47мм</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_PALLAD_D_BASE">
 				<Original>Pallad-D 40x47mm</Original>
@@ -14499,6 +14875,7 @@
 				<German>Pallad-D 40x47mm</German>
 				<Chinesesimp>Pallad-D 40x47mm</Chinesesimp>
 				<Korean>팔라드-D 40x47mm</Korean>
+				<Russian>Паллад-Д 40х47мм</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PALLAD_BASE">
 				<Original>The wz.83 Pallad-D is a 40x47 mm grenade launcher of Polish origin.</Original>
@@ -14506,6 +14883,7 @@
 				<German>Das wz. 83 Pallad-D ist eine Granatpistole im Kaliber 40x47 mm aus Polen.</German>
 				<Chinesesimp>wz.83 Pallad-D是一款波兰40x47毫米榴弹发射器。</Chinesesimp>
 				<Korean>wz.83 팔라드-D 40x47mm는 폴란드에서 만들어진 유탄발사기입니다.</Korean>
+				<Russian>Wz.83 Паллад-Д — гранатомет калибра 40x47 мм польского производства.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PALLAD_D_BRN">
 				<Original>wz.83 Pallad-D 40x47mm</Original>
@@ -14513,6 +14891,7 @@
 				<German>wz.83 Pallad-D 40x47mm</German>
 				<Chinesesimp>wz.83 Pallad-D 40x47mm</Chinesesimp>
 				<Korean>wz.83 팔라드-D 40x47mm</Korean>
+				<Russian>wz.83 Паллад-Д 40х47мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WZ1974_BASE">
 				<Original>wz.74 Pallad-D 40x47mm</Original>
@@ -14520,6 +14899,7 @@
 				<German>wz.74 Pallad-D 40x47mm</German>
 				<Chinesesimp>wz.74 Pallad-D 40x47mm</Chinesesimp>
 				<Korean>wz.74 팔라드-D 40x47mm</Korean>
+				<Russian>wz.74 Паллад-Д 40х47мм</Russian>
 			</Key>
 		</Container>
 		<Container name="items">
@@ -14529,6 +14909,7 @@
 				<German>Mullbinde</German>
 				<Chinesesimp>纱布绷带</Chinesesimp>
 				<Korean>거즈 붕대</Korean>
+				<Russian>Марлевая Повязка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BURNBANDAGE">
 				<Original>Burn Bandage</Original>
@@ -14536,6 +14917,7 @@
 				<German>Brandbinde</German>
 				<Chinesesimp>烧伤绷带</Chinesesimp>
 				<Korean>화상 붕대</Korean>
+				<Russian>Повязка от ожога</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_GAUZECOMPRESS">
 				<Original>Gauze Compress</Original>
@@ -14543,6 +14925,7 @@
 				<German>Mullkompresse</German>
 				<Chinesesimp>压缩绷带</Chinesesimp>
 				<Korean>거즈</Korean>
+				<Russian>Марлевый компресс</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ITEMMEDICAL_WOUNDDRESSING_BASE">
 				<Original>Wound Dressing</Original>
@@ -14550,6 +14933,7 @@
 				<German>Wundverband</German>
 				<Chinesesimp>伤口绷带</Chinesesimp>
 				<Korean>환부 드레싱</Korean>
+				<Russian>Перевязочный материал для ран</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_GAUZEBANDAGE">
 				<Original>Gauze Bandage</Original>
@@ -14557,6 +14941,7 @@
 				<German>Mullbinde</German>
 				<Chinesesimp>纱布绷带</Chinesesimp>
 				<Korean>거즈 붕대</Korean>
+				<Russian>Марлевая повязка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_MEDKIT">
 				<Original>Personal Medkit</Original>
@@ -14564,6 +14949,7 @@
 				<German>Selbsthilfesatz</German>
 				<Chinesesimp>个人医疗包</Chinesesimp>
 				<Korean>개인 메딕킷</Korean>
+				<Russian>Аптечка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_REPAIRKIT_01">
 				<Original>Repair Kit</Original>
@@ -14571,42 +14957,49 @@
 				<German>Werkzeugtasche</German>
 				<Chinesesimp>维修箱</Chinesesimp>
 				<Korean>수리도구</Korean>
+				<Russian>Ремонтный Комплект</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_ARMY_GAUZEBANDAGE">
 				<Original>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</Original>
 				<English>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</English>
 				<German>Dient der Behandlung schwerer Wunden.&lt;br /&gt;Benutzbar bei: Selbst, Andere</German>
 				<Chinesesimp>用于治疗重伤。&lt;br /&gt;适用人：自己，其他人</Chinesesimp>
+				<Russian>Использовать для лечения тяжелых ран.&lt;br /&gt;Использовать: на себе, на других</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_ARMY_BURNBANDAGE">
 				<Original>Use to treat burn wounds.&lt;br /&gt;Usable on: Self, Others</Original>
 				<English>Use to treat burn wounds.&lt;br /&gt;Usable on: Self, Others</English>
 				<German>Dient der Behandlung schwerer Brandwunden.&lt;br /&gt;Benutzbar bei: Selbst, Andere</German>
 				<Chinesesimp>用来治疗烧伤创面。&lt;br /&gt;适用人：自己，其他人</Chinesesimp>
+				<Russian>Использовать для лечения ожоговых ран.&lt;br /&gt;Использовать: на себе, на других</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_ARMY_GAUZECOMPRESS">
 				<Original>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</Original>
 				<English>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</English>
 				<German>Dient der Behandlung schwerer Wunden.&lt;br /&gt;Benutzbar bei: Selbst, Andere</German>
 				<Chinesesimp>用于治疗重伤。&lt;br /&gt;适用人：自己，其他人</Chinesesimp>
+				<Russian>Использовать для лечения тяжелых ран.&lt;br /&gt;Использовать: на себе, на других</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_ITEMMEDICAL_WOUNDDRESSING_BASE">
 				<Original>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</Original>
 				<English>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</English>
 				<German>Dient der Behandlung schwerer Wunden.&lt;br /&gt;Benutzbar bei: Selbst, Andere</German>
 				<Chinesesimp>用于治疗重伤。&lt;br /&gt;适用人：自己，其他人</Chinesesimp>
+				<Russian>Использовать для лечения тяжелых ран.&lt;br /&gt;Использовать: на себе, на других</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GC_ARMY_GAUZEBANDAGE">
 				<Original>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</Original>
 				<English>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</English>
 				<German>Dient der Behandlung schwerer Wunden.&lt;br /&gt;Benutzbar bei: Selbst, Andere</German>
 				<Chinesesimp>用于治疗重伤。&lt;br /&gt;适用人：自己，其他人</Chinesesimp>
+				<Russian>Использовать для лечения тяжелых ран.&lt;br /&gt;Использовать: на себе, на других</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GC_ARMY_MEDKIT">
 				<Original>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</Original>
 				<English>Use to treat heavy wounds.&lt;br /&gt;Usable on: Self, Others</English>
 				<German>Dient der Behandlung schwerer Wunden.&lt;br /&gt;Benutzbar bei: Selbst, Andere</German>
 				<Chinesesimp>用于治疗重伤。&lt;br /&gt;适用人：自己，其他人</Chinesesimp>
+				<Russian>Использовать для лечения тяжелых ран.&lt;br /&gt;Использовать: на себе, на других</Russian>
 			</Key>
 		</Container>
 		<Container name="attachments">
@@ -14616,6 +15009,7 @@
 				<German>Fero Z 2x17</German>
 				<Chinesesimp>Fero Z 2x17</Chinesesimp>
 				<Korean>페로 Z 2x17</Korean>
+				<Russian>Fero Z 2x17</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ2X17_PZF44_2_BLK">
 				<Original>Fero Z 2x17</Original>
@@ -14623,6 +15017,7 @@
 				<German>Fero Z 2x17</German>
 				<Chinesesimp>Fero Z 2x17</Chinesesimp>
 				<Korean>페로 Z 2x17</Korean>
+				<Russian>Fero Z 2x17</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ2X17_PZF44_2_DES">
 				<Original>Fero Z 2x17 (Tan)</Original>
@@ -14630,6 +15025,7 @@
 				<German>Fero Z 2x17 (Wüste)</German>
 				<Chinesesimp>Fero Z 2x17 (沙漠)</Chinesesimp>
 				<Korean>페로 Z 2x17 (Tan)</Korean>
+				<Russian>Fero Z 2x17 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ2X17_PZF44_2_WIN">
 				<Original>Fero Z 2x17 (Winter)</Original>
@@ -14637,6 +15033,7 @@
 				<German>Fero Z 2x17 (Winter)</German>
 				<Chinesesimp>Fero Z 2x17 (冬季)</Chinesesimp>
 				<Korean>페로 Z 2x17 (겨울)</Korean>
+				<Russian>Fero Z 2x17 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ2X17_PZF84_BLK">
 				<Original>Fero Z 2x17</Original>
@@ -14644,6 +15041,7 @@
 				<German>Fero Z 2x17</German>
 				<Chinesesimp>Fero Z 2x17</Chinesesimp>
 				<Korean>페로 Z 2x17</Korean>
+				<Russian>Fero Z 2x17</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ2X17_PZF84_DES">
 				<Original>Fero Z 2x17 (Tan)</Original>
@@ -14651,6 +15049,7 @@
 				<German>Fero Z 2x17 (Wüste)</German>
 				<Chinesesimp>Fero Z 2x17 (沙漠)</Chinesesimp>
 				<Korean>페로 Z 2x17 (Tan)</Korean>
+				<Russian>Fero Z 2x17 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ2X17_PZF84_WIN">
 				<Original>Fero Z 2x17 (Winter)</Original>
@@ -14658,6 +15057,7 @@
 				<German>Fero Z 2x17 (Winter)</German>
 				<Chinesesimp>Fero Z 2x17 (冬季)</Chinesesimp>
 				<Korean>페로 Z 2x17 (겨울)</Korean>
+				<Russian>Fero Z 2x17 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ24_BASE">
 				<Original>Fero Z-24</Original>
@@ -14665,6 +15065,7 @@
 				<German>Fero Z-24</German>
 				<Chinesesimp>Fero Z-24</Chinesesimp>
 				<Korean>페로 Z 2x24</Korean>
+				<Russian>Fero Z-24</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ24_BLK">
 				<Original>Fero Z-24</Original>
@@ -14672,6 +15073,7 @@
 				<German>Fero Z-24</German>
 				<Chinesesimp>Fero Z-24</Chinesesimp>
 				<Korean>페로 Z 2x24</Korean>
+				<Russian>Fero Z-24</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROZ24_DES">
 				<Original>Fero Z-24 (Tan)</Original>
@@ -14679,6 +15081,7 @@
 				<German>Fero Z-24 (Wüste)</German>
 				<Chinesesimp>Fero Z-24 (沙漠)</Chinesesimp>
 				<Korean>페로 Z 2x24 (Tan)</Korean>
+				<Russian>Fero Z-24 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C79_BASE">
 				<Original>C79</Original>
@@ -14686,6 +15089,7 @@
 				<German>C79</German>
 				<Chinesesimp>C79</Chinesesimp>
 				<Korean>C79</Korean>
+				<Russian>C79</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C79A1_BASE">
 				<Original>C79A1</Original>
@@ -14693,6 +15097,7 @@
 				<German>C79A1</German>
 				<Chinesesimp>C79A1</Chinesesimp>
 				<Korean>C79A1</Korean>
+				<Russian>C79A1</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C79A1_BLK">
 				<Original>C79A1</Original>
@@ -14700,6 +15105,7 @@
 				<German>C79A1</German>
 				<Chinesesimp>C79A1</Chinesesimp>
 				<Korean>C79A1</Korean>
+				<Russian>C79A1</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_C79A1_OLI">
 				<Original>C79A1 (Olive)</Original>
@@ -14707,6 +15113,7 @@
 				<German>C79A1 (Oliv)</German>
 				<Chinesesimp>C79A1 (橄榄色)</Chinesesimp>
 				<Korean>C79A1 (올리브)</Korean>
+				<Russian>C79A1 (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PGO7V_BASE">
 				<Original>PGO-7V</Original>
@@ -14714,6 +15121,7 @@
 				<German>PGO-7V</German>
 				<Chinesesimp>PGO-7V</Chinesesimp>
 				<Korean>PGO-7V</Korean>
+				<Russian>ПГО-7В</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PGO7V_BLK">
 				<Original>PGO-7V</Original>
@@ -14721,6 +15129,7 @@
 				<German>PGO-7V</German>
 				<Chinesesimp>PGO-7V</Chinesesimp>
 				<Korean>PGO-7V</Korean>
+				<Russian>ПГО-7В</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_FEROZ2X17_BASE">
 				<Original>Anti Tank Weapon Scope&lt;br /&gt;Magnification: 2x</Original>
@@ -14728,6 +15137,7 @@
 				<German>Panzerabwehrzielfernrohr&lt;br /&gt;Vergrößerung: 2x</German>
 				<Chinesesimp>反坦克武器瞄镜&lt;br /&gt;放大倍率: 2x</Chinesesimp>
 				<Korean>대전차무기 조준경&lt;br /&gt;배율: 2x</Korean>
+				<Russian>Противотанковый прицел&lt;br /&gt;Увеличение: 2x</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_FEROZ24_BASE">
 				<Original>Rifle Scope&lt;br /&gt;Magnification: 4x</Original>
@@ -14735,6 +15145,7 @@
 				<German>Zielfernrohr&lt;br /&gt;Vergrößerung: 4x</German>
 				<Chinesesimp>步枪瞄准镜&lt;br /&gt;放大倍率: 4x</Chinesesimp>
 				<Korean>소총 조준경&lt;br /&gt;배율: 4x</Korean>
+				<Russian>Оптический прицел&lt;br /&gt;Увеличение: 4x</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_C79_BASE">
 				<Original>Rifle Scope&lt;br /&gt;Magnification: 3.4x</Original>
@@ -14742,6 +15153,7 @@
 				<German>Zielfernrohr&lt;br /&gt;Vergrößerung: 3.4x</German>
 				<Chinesesimp>步枪瞄准镜&lt;br /&gt;放大倍率: 3.4x</Chinesesimp>
 				<Korean>소총 조준경&lt;br /&gt;배율: 3.4x</Korean>
+				<Russian>Оптический прицел&lt;br /&gt;Увеличение: 3.4x</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PGO7V_BASE">
 				<Original>Anti Tank Weapon Scope&lt;br /&gt;Magnification: 2.8x</Original>
@@ -14749,6 +15161,7 @@
 				<German>Panzerabwehrzielfernrohr&lt;br /&gt;Vergrößerung: 2.8x</German>
 				<Chinesesimp>反坦克武器瞄镜&lt;br /&gt;放大倍率: 2.8x</Chinesesimp>
 				<Korean>대전차무기 조준경&lt;br /&gt;배율: 2.8x</Korean>
+				<Russian>Противотанковый прицел&lt;br /&gt;Увеличение: 2.8x</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SUPPRESSOR_SAFLORYT_BLK">
 				<Original>Safloryt</Original>
@@ -14756,6 +15169,7 @@
 				<German>Safloryt</German>
 				<Chinesesimp>Safloryt</Chinesesimp>
 				<Korean>사플로루트</Korean>
+				<Russian>Safloryt</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_SUPPRESSOR_SAFLORYT_BLK">
 				<Original>Sound Suppressor for PM-63</Original>
@@ -14763,6 +15177,7 @@
 				<German>Schalldämpfer für PM-63</German>
 				<Chinesesimp>PM-63全金属消音器</Chinesesimp>
 				<Korean>PM-63용 소음기</Korean>
+				<Russian>Глушитель для PM-63</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_SUPPRESSOR_SAFLORYT_BLK">
 				<Original>Sound Suppressor of Polish origin for the PM-63.</Original>
@@ -14770,30 +15185,35 @@
 				<German>Polnischer Schalldämpfer für PM-63</German>
 				<Chinesesimp>波兰造PM-63全金属消音器</Chinesesimp>
 				<Korean>폴란드에서 만든 PM-63용 소음기입니다.</Korean>
+				<Russian>Глушитель польского производства для PM-63.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_FEROZ2X17_BASE">
 				<Original>The Fero Z 2x17 is anti-tank weapon scope with 2x magnification of West German origin.</Original>
 				<English>The Fero Z 2x17 is anti-tank weapon scope with 2x magnification of West German origin.</English>
 				<German>Das Fero Z 2x17 ist ein Panzerabwehrzielfernrohr mit zweifacher Vergrößerung aus Deutschland.</German>
 				<Chinesesimp>Fero Z 2x17是西德造反坦克武器瞄镜，放大倍率为2倍。</Chinesesimp>
+				<Russian>Fero Z 2x17 - это прицел противотанкового оружия с 2-кратным увеличением производства ФРГ.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_FEROZ24_BASE">
 				<Original>The Fero Z-24 is Rifle Scope with 4x magnification of West German origin</Original>
 				<English>The Fero Z-24 is Rifle Scope with 4x magnification of West German origin</English>
 				<German>Das Fero Z-24 ist ein Zielfernrohr mit vierfacher Vergrößerung aus Deutschland.</German>
 				<Chinesesimp>Fero Z-24是西德造步枪瞄准镜，放大倍率为4倍。</Chinesesimp>
+				<Russian>Fero Z-24 - это оптический прицел с 4-кратным увеличением производства ФРГ.</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_C79_BASE">
 				<Original>The C79 is Rifle Scope with 3.4x magnification of Canadian origin</Original>
 				<English>The C79 is Rifle Scope with 3.4x magnification of Canadian origin</English>
 				<German>Das C79 ist ein Zielfernrohr mit 3,4 facher Vergrößerung aus Kanada</German>
 				<Chinesesimp>C79是加拿大造步枪瞄准镜，放大倍率为3.4倍。</Chinesesimp>
+				<Russian>C79 - это оптический прицел с 3,4-кратным увеличением Канадского производства</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PGO7V_BASE">
 				<Original>The PGO-7V is anti-tank weapon scope with 2.8x magnification of Soviet origin.</Original>
 				<English>The PGO-7V is anti-tank weapon scope with 2.8x magnification of Soviet origin.</English>
 				<German>Das Fero Z 2x17 ist ein Panzerabwehrzielfernrohr mit zweifacher Vergrößerung aus der Sowjetunion.</German>
 				<Chinesesimp>PGO-7V是苏联造反坦克武器瞄镜，放大倍率为2.8倍。</Chinesesimp>
+				<Russian>ПГО-7В - это прицел для противотанкового оружия с 2,8-кратным увеличением Советского производства.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FAGOT_LAUNCHER_TRIPOD_BASE">
 				<Original>Fagot - Tripod</Original>
@@ -14801,6 +15221,7 @@
 				<German>Fagot - Tripod</German>
 				<Chinesesimp>Fagot - 三脚架</Chinesesimp>
 				<Korean>파곳 - 삼각대</Korean>
+				<Russian>Фагот - Тренога</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_FAGOT_LAUNCHER_TRIPOD_BASE">
 				<Original>Fagot</Original>
@@ -14808,6 +15229,7 @@
 				<German>Fagot</German>
 				<Chinesesimp>Fagot</Chinesesimp>
 				<Korean>파곳</Korean>
+				<Russian>Фагот</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MILAN_LAUNCHER_TRIPOD_BASE">
 				<Original>LATGM - Tripod</Original>
@@ -14815,6 +15237,7 @@
 				<German>LPALR - Tripod</German>
 				<Chinesesimp>LATGM - 三脚架</Chinesesimp>
 				<Korean>LATGM 삼각대</Korean>
+				<Russian>LATGM - Тренога</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_MILAN_LAUNCHER_TRIPOD_BASE">
 				<Original>LATGM</Original>
@@ -14822,6 +15245,7 @@
 				<German>LPALR</German>
 				<Chinesesimp>LATGM</Chinesesimp>
 				<Korean>LATGM</Korean>
+				<Russian>LATGM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_P2A1_LAUNCHER_BLK">
 				<Original>P2A1 Experimental</Original>
@@ -14829,6 +15253,7 @@
 				<German>P2A1 Experiment</German>
 				<Chinesesimp>P2A1(实验)</Chinesesimp>
 				<Korean>P2A1(디버그용)</Korean>
+				<Russian>P2A1 (Экспериментальный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SEARCHLIGHT_BASE">
 				<Original>Searchlight</Original>
@@ -14836,6 +15261,7 @@
 				<German>Suchscheinwerfer</German>
 				<Chinesesimp>探照灯</Chinesesimp>
 				<Korean>탐조등</Korean>
+				<Russian>Прожектор</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_73MM_SPG9_BASE">
 				<Original>SPG-9</Original>
@@ -14843,6 +15269,7 @@
 				<German>SPG-9</German>
 				<Chinesesimp>SPG-9</Chinesesimp>
 				<Korean>SPG-9</Korean>
+				<Russian>СПГ-9</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SPG9_TRIPOD_BASE">
 				<Original>SPG-9 - Tripod</Original>
@@ -14850,6 +15277,7 @@
 				<German>SPG-9 - Tripod</German>
 				<Chinesesimp>SPG-9 - 三脚架</Chinesesimp>
 				<Korean>SPG-9 - 삼각대</Korean>
+				<Russian>СПГ-9 - Тренога</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_SPG9_TRIPOD_BASE">
 				<Original>SPG-9</Original>
@@ -14857,6 +15285,7 @@
 				<German>SPG-9</German>
 				<Chinesesimp>SPG-9</Chinesesimp>
 				<Korean>SPG-9</Korean>
+				<Russian>СПГ-9</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DSHKM_AATRIPOD_BASE">
 				<Original>DShKM - Tripod</Original>
@@ -14864,6 +15293,7 @@
 				<German>DShKM - Tripod</German>
 				<Chinesesimp>DShKM - 三脚架</Chinesesimp>
 				<Korean>DShKM - 삼각대</Korean>
+				<Russian>ДШКМ - Тренога</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_DSHKM_AATRIPOD_BASE">
 				<Original>DShKM</Original>
@@ -14871,6 +15301,7 @@
 				<German>DShKM</German>
 				<Chinesesimp>DShKM</Chinesesimp>
 				<Korean>DShKM</Korean>
+				<Russian>ДШКМ</Russian>
 			</Key>
 		</Container>
 		<Container name="Items">
@@ -14880,6 +15311,7 @@
 				<German>Vergrößerung 8x</German>
 				<Chinesesimp>放大倍率 8x</Chinesesimp>
 				<Korean>8배율</Korean>
+				<Russian>Увеличение 8x</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROD16_WIN">
 				<Original>FeroD-16 (Winter)</Original>
@@ -14887,6 +15319,7 @@
 				<German>FeroD-16 (Winter)</German>
 				<Chinesesimp>FeroD-16 (冬季)</Chinesesimp>
 				<Korean>FeroD-16 (겨울)</Korean>
+				<Russian>FeroD-16 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROD16_OLI">
 				<Original>FeroD-16 (Olive)</Original>
@@ -14894,6 +15327,7 @@
 				<German>FeroD-16 (Oliv)</German>
 				<Chinesesimp>FeroD-16 (橄榄色)</Chinesesimp>
 				<Korean>FeroD-16 (올리브)</Korean>
+				<Russian>FeroD-16 (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROD16_DES">
 				<Original>FeroD-16 (Desert)</Original>
@@ -14901,6 +15335,7 @@
 				<German>FeroD-16 (Wüste)</German>
 				<Chinesesimp>FeroD-16 (沙漠)</Chinesesimp>
 				<Korean>FeroD-16 (사막)</Korean>
+				<Russian>FeroD-16 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FEROD16_GRN">
 				<Original>FeroD-16 (Green)</Original>
@@ -14908,6 +15343,7 @@
 				<German>FeroD-16 (Grün)</German>
 				<Chinesesimp>FeroD-16 (绿色)</Chinesesimp>
 				<Korean>FeroD-16 (초록)</Korean>
+				<Russian>FeroD-16 (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_DF7X40_BASE">
 				<Original>Magnification 7x</Original>
@@ -14915,6 +15351,7 @@
 				<German>Vergrößerung 7x</German>
 				<Chinesesimp>放大倍率 7x</Chinesesimp>
 				<Korean>7배율</Korean>
+				<Russian>Увеличение 7x</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DF7X40_BLK">
 				<Original>DF7X40 (Black)</Original>
@@ -14922,6 +15359,7 @@
 				<German>DF7X40 (Schwarz)</German>
 				<Chinesesimp>DF7X40 (黑色)</Chinesesimp>
 				<Korean>DF7X40 (검정)</Korean>				
+				<Russian>DF7X40 (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DF7X40_GRN">
 				<Original>DF7X40 (Green)</Original>
@@ -14929,6 +15367,7 @@
 				<German>DF7X40 (Grün)</German>
 				<Chinesesimp>DF7X40 (绿色)</Chinesesimp>
 				<Korean>DF7X40 (초록)</Korean>
+				<Russian>DF7X40 (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_EXPLOSIVE_PETN_CHARGE">
 				<Original>PETN Charge</Original>
@@ -14936,6 +15375,7 @@
 				<German>PETN Ladung</German>
 				<Chinesesimp>PETN炸药</Chinesesimp>
 				<Korean>PETN 폭약</korean>
+				<Russian>ТЭН (Заряд ВВ)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_EXPLOSIVE_PETN_CHARGE">
 				<Original>Plastic Explosive</Original>
@@ -14943,6 +15383,7 @@
 				<German>Plastiksprengstoff</German>
 				<Chinesesimp>塑胶炸药</Chinesesimp>
 				<Korean>플라스틱 폭탄</Korean>
+				<Russian>Пластиковая взрывчатка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_EXPLOSIVE_PLNP_CHARGE">
 				<Original>PLNP Charge</Original>
@@ -14950,6 +15391,7 @@
 				<German>PLNP Ladung</German>
 				<Chinesesimp>PLNP炸药</Chinesesimp>
 				<Korean>PLNP 폭약</korean>
+				<Russian>PLNP (Заряд ВВ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WATCH_KOSEI_80">
 				<Original>Kosei C80</Original>
@@ -14957,6 +15399,7 @@
 				<German>Kosei C80</German>
 				<Chinesesimp>Kosei C80</Chinesesimp>
 				<Korean>코세이 C80</Korean>
+				<Russian>Kosei C80</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_WATCH_KOSEI_80">
 				<Original>Digital Wristwatch</Original>
@@ -14964,6 +15407,7 @@
 				<German>Digitale Armbanduhr</German>
 				<Chinesesimp>数字腕表</Chinesesimp>
 				<Korean>디지털 손목시계</Korean>
+				<Russian>Цифровые Часы</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_CONAT2">
 				<Original>Conat</Original>
@@ -14971,6 +15415,7 @@
 				<German>Conat</German>
 				<Chinesesimp>指南针</Chinesesimp>
 				<Korean>코나트</Korean>
+				<Russian>Conat</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_ARMY_CONAT2">
 				<Original>Compass</Original>
@@ -14978,6 +15423,7 @@
 				<German>Marschkompass</German>
 				<Chinesesimp>指南针</Chinesesimp>
 				<Korean>나침반</Korean>
+				<Russian>Компас</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_COMPASS_F73">
 				<Original>F73</Original>
@@ -14985,6 +15431,7 @@
 				<German>F73</German>
 				<Chinesesimp>F73</Chinesesimp>
 				<Korean>F73</Korean>
+				<Russian>F73</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_POTATO">
 				<Original>Po. Tato</Original>
@@ -14992,6 +15439,7 @@
 				<German>K-Toffel</German>
 				<Chinesesimp>Po. Tato</Chinesesimp>
 				<Korean>Po. Tato</Korean>
+				<Russian>Po. Tato</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_1RND_2650MM_POTATO_DM11">
 				<Original>Po. Tato</Original>
@@ -14999,6 +15447,7 @@
 				<German>K-Toffel</German>
 				<Chinesesimp>Po. Tato</Chinesesimp>
 				<Korean>Po. Tato</Korean>
+				<Russian>Po. Tato</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BAYONET_6X3_BASE">
 				<Original>6H3</Original>
@@ -15006,6 +15455,7 @@
 				<German>6H3</German>
 				<Chinesesimp>6H3</Chinesesimp>
 				<Korean>6H3</Korean>
+				<Russian>6H3</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_ITEMATTACHMENT_BAYONET_BASE">
 				<Original>Bayonet</Original>
@@ -15013,12 +15463,14 @@
 				<German>Seitengewehr</German>
 				<Chinesesimp>刺刀</Chinesesimp>
 				<Korean>총검</Korean>
+				<Russian>Штык</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_ITEMATTACHMENT_BAYONET_BASE">
 				<Original>A simple bayonet, useful in daily life.</Original>
 				<English>A simple bayonet, useful in daily life.</English>
 				<German>Ein einfaches Bayonett, praktisch im Soldatenalltag.</German>
 				<Chinesesimp>一把简单的刺刀，在日常生活中很实用。</Chinesesimp>
+				<Russian>Простой штык, полезный в повседневной жизни.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BAYONET_6X3_BLK">
 				<Original>6H3 (Black)</Original>
@@ -15026,6 +15478,7 @@
 				<German>6H3 (Schwarz)</German>
 				<Chinesesimp>6H3 (黑色)</Chinesesimp>
 				<Korean>6H3 (검정)</Korean>
+				<Russian>6H3 (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ZFK4X25_BASE">
 				<Original>ZFK 4x25</Original>
@@ -15033,6 +15486,7 @@
 				<German>ZFK 4x25</German>
 				<Chinesesimp>ZFK 4x25</Chinesesimp>
 				<Korean>ZFK 4x25</Korean>
+				<Russian>ZFK 4x25</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_ZFK4X25_BASE">
 				<Original>Rifle Scope&lt;br /&gt;Magnification: 4x</Original>
@@ -15040,6 +15494,7 @@
 				<German>Zielfernrohr&lt;br /&gt;Vergrößerung: 4x</German>
 				<Chinesesimp>步枪瞄准镜&lt;br /&gt;放大倍率: 4x</Chinesesimp>
 				<Korean>소총 조준경&lt;br /&gt;배율: 4x</Korean>
+				<Russian>Оптический прицел&lt;br /&gt;Увеличение: 4x</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_ZFK4X25_BASE">
 				<Original>The ZFK 4x25 is rifle scope with 4x magnification of East German origin.</Original>
@@ -15047,6 +15502,7 @@
 				<German>Das ZFK 4x25 ist ein Zielfernrohr mit vierfacher Vergrößerung aus Ost Deutschland.</German>
 				<Chinesesimp>ZFK 4x25是东德产步枪瞄准镜，放大倍率为4倍。</Chinesesimp>
 				<Korean>ZFK 4x25는 동독이 만든 4배율 소총 조준경입니다.</Korean>
+				<Russian>ZFK 4x25 - оптический прицел с 4-кратным увеличением производства ГДР.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ZVN64_REAR_AK">
 				<Original>ZVN-64 Rear Sight</Original>
@@ -15054,6 +15510,7 @@
 				<German>ZVN-64 Kimme</German>
 				<Chinesesimp>ZVN-64表尺</Chinesesimp>
 				<Korean>ZVN-64 후방 가늠자</Korean>
+				<Russian>ZVN-64 Целик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ZVN64_REAR_RPK">
 				<Original>ZVN-69 Rear Sight</Original>
@@ -15061,6 +15518,7 @@
 				<German>ZVN-69 Kimme</German>
 				<Chinesesimp>ZVN-69后表尺</Chinesesimp>
 				<Korean>ZVN-69 후방 가늠자</Korean>
+				<Russian>ZVN-69 Целик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ZVN64_FRONT_BASE">
 				<Original>ZVN-64/69 Front Post</Original>
@@ -15068,18 +15526,21 @@
 				<German>ZVN-64/69 Korn</German>
 				<Chinesesimp>ZVN-64/69前表尺</Chinesesimp>
 				<Korean>ZVN-69 전방 가늠쇠</Korean>
+				<Russian>ZVN-64/69 Мушка(прицел)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_ZVN64_REAR_BASE">
 				<Original>Sight Attachment, Illuminated</Original>
 				<English>Sight Attachment, Illuminated</English>
 				<German>Zusatz, Selbstleuchtend</German>
 				<Chinesesimp>瞄准器附件(发光)</Chinesesimp>
+				<Russian>Насадка на прицел, подсветка</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_ZVN64_REAR_BASE">
 				<Original>Self illuminating night sight attachment of East German origin.</Original>
 				<English>Self illuminating night sight attachment of East German origin.</English>
 				<German>Selbstleuchtendes Nachtschussvisier aus der DDR.</German>
 				<Chinesesimp>产自东德的夜间自发光瞄准附件。</Chinesesimp>
+				<Russian>Самосветящийся ночной прицел производства ГДР.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ZFK4X25_BLK">
 				<Original>ZFK 4x25</Original>
@@ -15087,6 +15548,7 @@
 				<German>ZFK 4x25</German>
 				<Chinesesimp>ZFK 4x25</Chinesesimp>
 				<Korean>ZFK 4x25</Korean>
+				<Russian>ZFK 4x25</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ZFK4X25_STR">
 				<Original>ZFK 4x25 (Strichtarn)</Original>
@@ -15094,6 +15556,7 @@
 				<German>ZFK 4x25 (Strichtarn)</German>
 				<Chinesesimp>ZFK 4x25 (条纹迷彩)</Chinesesimp>
 				<Korean>ZFK 4x25 (스트라히탄)</Korean>
+				<Russian>ZFK 4x25 (Штрих)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PSO1_BASE">
 				<Original>PSO-1</Original>
@@ -15101,6 +15564,7 @@
 				<German>PSO-1</German>
 				<Chinesesimp>PSO-1</Chinesesimp>
 				<Korean>PSO-1</Korean>
+				<Russian>ПСО-1</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PSO1_BASE">
 				<Original>Rifle Scope&lt;br /&gt;Magnification: 4x</Original>
@@ -15108,6 +15572,7 @@
 				<German>Zielfernrohr&lt;br /&gt;Vergrößerung: 4x</German>
 				<Chinesesimp>步枪瞄准镜&lt;br /&gt;放大倍率: 4x</Chinesesimp>
 				<Korean>소총 조준경&lt;br /&gt;배율: 4x</Korean>
+				<Russian>Оптический прицел&lt;br /&gt;Увеличение: 4x</Russian>
 			</Key>
 			<Key ID="STR_DS_GM_PSO1_BASE">
 				<Original>The PSO-1 is rifle scope with 4x magnification of Soviet origin.</Original>
@@ -15115,6 +15580,7 @@
 				<German>Das PSO-1 ist ein Zielfernrohr mit vierfacher Vergrößerung aus der Sowjetunion.</German>
 				<Chinesesimp>PSO-1是苏联造步枪瞄准镜，放大倍率为4倍。</Chinesesimp>
 				<Korean>PSO-1는 소련제 4배율 조준경입니다.</Korean>
+				<Russian>ПСО-1 - оптический прицел с 4-кратным увеличением производства СССР.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PSO1_GRY">
 				<Original>PSO-1</Original>
@@ -15122,6 +15588,7 @@
 				<German>PSO-1</German>
 				<Chinesesimp>PSO-1</Chinesesimp>
 				<Korean>PSO-1</Korean>
+				<Russian>ПСО-1</Russian>
 			</Key>
 		</Container>
 		<Container name="parachuting">
@@ -15131,6 +15598,7 @@
 				<German>T-10 Rundkappenfallschirm</German>
 				<Chinesesimp>T-10 静态降落伞</Chinesesimp>
 				<Korean>T-10 낙하산</Korean>
+				<Russian>Парашют Т-10</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BACKPACK_RS9_PARACHUTE">
 				<Original>RS9/2A Static Parachute</Original>
@@ -15138,6 +15606,7 @@
 				<German>RS9/2A Rundkappenfallschirm</German>
 				<Chinesesimp>RS9/2A 静态降落伞</Chinesesimp>
 				<Korean>RS9/2A 낙하산</Korean>
+				<Russian>Парашют RS9/2A</Russian>
 			</Key>
 		</Container>
 		<Container name="Loadouts">
@@ -15147,12 +15616,14 @@
 				<German>AT - SPALR 1</German>
 				<Chinesesimp>AT - HATGM 1</Chinesesimp>
 				<Korean>AT - HATGM 1</Korean>
+				<Russian>AT - HATGM 1</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AT_HOT1_GE_FLAG">
 				<Original>AT - HATGM 1 (Flag)</Original>
 				<English>AT - HATGM 1 (Flag)</English>
 				<German>AT - SPALR 1 (Flagge)</German>
 				<Chinesesimp>AT - HATGM 1 (旗帜)</Chinesesimp>
+				<Russian>AT - HATGM 1 (Флаг)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AT_HOT2">
 				<Original>AT - HATGM 2</Original>
@@ -15160,6 +15631,7 @@
 				<German>AT - SPALR 2</German>
 				<Chinesesimp>AT - HATGM 2</Chinesesimp>
 				<Korean>AT - HATGM 2</Korean>
+				<Russian>AT - HATGM 2</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AT_HOT2_GE_FLAG">
 				<Original>AT - HATGM 2 (Flag)</Original>
@@ -15167,6 +15639,7 @@
 				<German>AT - SPALR 2 (Flagge)</German>
 				<Chinesesimp>AT - HATGM 2 (旗帜)</Chinesesimp>
 				<Korean>AT - HATGM 2 (깃발)</Korean>
+				<Russian>AT - HATGM 2 (Флаг)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AT_HOT2_HORNET">
 				<Original>AT - HATGM 2 (Hornet)</Original>
@@ -15174,6 +15647,7 @@
 				<German>AT - SPALR 2 (Hornisse)</German>
 				<Chinesesimp>AT - HATGM 2 (大黄蜂)</Chinesesimp>
 				<Korean>AT - HATGM 2 (호넷)</Korean>
+				<Russian>AT - HATGM 2 (Шмель)</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_MG3_AATRIPOD_BASE">
 				<Original>MG3 - Anti Air Tripod</Original>
@@ -15181,6 +15655,7 @@
 				<German>MG3 - Flugabwehrlafette</German>
 				<Chinesesimp>MG3 - 防空三脚架</Chinesesimp>
 				<Korean>MG3 - 대공 삼각대</Korean>
+				<Russian>MG3 - ПВО Тренога</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MG3_AATRIPOD_BASE">
 				<Original>MG3 - Anti Air Tripod</Original>
@@ -15188,6 +15663,7 @@
 				<German>MG3 - Flugabwehrlafette</German>
 				<Chinesesimp>MG3 - 防空三脚架</Chinesesimp>
 				<Korean>MG3 - 대공 삼각대</Korean>
+				<Russian>MG3 - ПВО Тренога</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DEPLOY1_MINES">
 				<Original>Single</Original>
@@ -15195,12 +15671,14 @@
 				<German>Einzel</German>
 				<Chinesesimp>单个</Chinesesimp>
 				<Korean>싱글</Korean>
+				<Russian>Одиночный</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DEPLOY12_MINES">
 				<Original>Sequence</Original>
 				<English>Sequence</English>
 				<German>Sequenz</German>
 				<Chinesesimp>序列</Chinesesimp>
+				<Russian>Очередность</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DEPLOY_ALL_MINES">
 				<Original>All</Original>
@@ -15208,18 +15686,21 @@
 				<German>Alle</German>
 				<Chinesesimp>所有</Chinesesimp>
 				<Korean>전체</Korean>
+				<Russian>Все</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PHOTOCAMERA_01_BLK">
 				<Original>Laiktica PLC3A</Original>
 				<English>Laiktica PLC3A</English>
 				<German>Laiktica PLC3A</German>
 				<Chinesesimp>Laiktica PLC3A</Chinesesimp>
+				<Russian>Laiktica PLC3A</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PHOTOCAMERA_01_BASE">
 				<Original>Photocamera</Original>
 				<English>Photocamera</English>
 				<German>Fotoapperat</German>
 				<Chinesesimp>照相机</Chinesesimp>
+				<Russian>Фотокамера</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -15230,7 +15711,7 @@
 				<English>7.62 mm 20Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 20-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 7,62 мм Ball-T DM21</Russian>
+				<Russian>Магазин, 20 патр. 7,62 мм Ball-T DM21</Russian>
 				<Korean>7.62mm 20발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_T_DM21A1">
@@ -15238,7 +15719,7 @@
 				<English>7.62 mm 20Rnd Ball-T DM21A1 Mag</English>
 				<German>7,62 mm 20-Schuss-Magazin Ball-T DM21A1</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball-T DM21A1 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 7,62 мм Ball-T DM21A1</Russian>
+				<Russian>Магазин, 20 патр. 7,62 мм Ball-T DM21A1</Russian>
 				<Korean>7.62mm 20발 Ball-T DM21A1 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_T_DM21A2">
@@ -15246,7 +15727,7 @@
 				<English>7.62 mm 20Rnd Ball-T DM21A2 Mag</English>
 				<German>7,62 mm 20-Schuss-Magazin Ball-T DM21A2</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball-T DM21A2 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 7,62 мм Ball-T DM21A2</Russian>
+				<Russian>Магазин, 20 патр. 7,62 мм Ball-T DM21A2</Russian>
 				<Korean>7.62mm 20발 Ball-T DM21A2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_DM111">
@@ -15254,7 +15735,7 @@
 				<English>7.62 mm 20Rnd Ball DM111 Mag</English>
 				<German>7,62 mm 20-Schuss-Magazin Ball DM111</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball DM111 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 7,62 мм Ball DM111</Russian>
+				<Russian>Магазин, 20 патр. 7,62 мм Ball DM111</Russian>
 				<Korean>7.62mm 20발 Ball DM111 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_B_DM41">
@@ -15262,7 +15743,7 @@
 				<English>7.62 mm 20Rnd Ball DM41 Mag</English>
 				<German>7,62 mm 20-Schuss-Magazin Ball DM41</German>
 				<Chinesesimp>7.62 mm 20Rnd Ball DM41 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 7,62 мм Ball DM41</Russian>
+				<Russian>Магазин, 20 патр. 7,62 мм Ball DM41</Russian>
 				<Korean>7.62mm 20발 Ball DM41 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_762X51MM_AP_DM151">
@@ -15270,7 +15751,7 @@
 				<English>7.62 mm 20Rnd AP DM151 Mag</English>
 				<German>7,62 mm 20-Schuss-Magazin AP DM151</German>
 				<Chinesesimp>7.62 mm 20Rnd AP DM151 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 7,62 мм AP DM151</Russian>
+				<Russian>Магазин, 20 патр. 7,62 мм AP DM151</Russian>
 				<Korean>7.62mm 20발 AP DM151 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_120RND_762X51MM_B_T_DM21">
@@ -15278,7 +15759,7 @@
 				<English>7.62 mm 120Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 120-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 120Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 120 патронов 7,62 мм Ball-T DM21</Russian>
+				<Russian>Коробка, 120 патр. 7,62 мм Ball-T DM21</Russian>
 				<Korean>7.62mm 120발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_120RND_762X51MM_B_T_DM21A1">
@@ -15286,7 +15767,7 @@
 				<English>7.62 mm 120Rnd Ball-T DM21A1 Mag</English>
 				<German>7,62 mm 120-Schuss-Magazin Ball-T DM21A1</German>
 				<Chinesesimp>7.62 mm 120Rnd Ball-T DM21A1 Mag</Chinesesimp>
-				<Russian>Магазин, 120 патронов 7,62 мм Ball-T DM21A1</Russian>
+				<Russian>Коробка, 120 патр. 7,62 мм Ball-T DM21A1</Russian>
 				<Korean>7.62mm 120발 Ball-T DM21A1 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_120RND_762X51MM_B_T_DM21A2">
@@ -15294,7 +15775,7 @@
 				<English>7.62 mm 120Rnd Ball-T DM21A2 Mag</English>
 				<German>7,62 mm 120-Schuss-Magazin Ball-T DM21A2</German>
 				<Chinesesimp>7.62 mm 120Rnd Ball-T DM21A2 Mag</Chinesesimp>
-				<Russian>Магазин, 120 патронов 7,62 мм Ball-T DM21A2</Russian>
+				<Russian>Коробка, 120 патр. 7,62 мм Ball-T DM21A2</Russian>
 				<Korean>7.62mm 120발 Ball-T DM21A2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_240RND_762X51MM_B_T_DM21">
@@ -15302,7 +15783,7 @@
 				<English>7.62 mm 240Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 240-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 240Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 240 патронов 7,62 мм Ball-T DM21</Russian>
+				<Russian>Коробка, 240 патр. 7,62 мм Ball-T DM21</Russian>
 				<Korean>7.62mm 240발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_250RND_762X51MM_B_T_DM21">
@@ -15310,7 +15791,7 @@
 				<English>7.62 mm 250Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 250-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 250Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 250 патронов 7,62 мм Ball-T DM21</Russian>
+				<Russian>Коробка, 250 патр. 7,62 мм Ball-T DM21</Russian>
 				<Korean>7.62mm 250발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_762X51MM_B_T_DM21">
@@ -15318,7 +15799,7 @@
 				<English>7.62 mm 500Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 500-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 500Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 500 патронов 7,62 мм Ball-T DM21</Russian>
+				<Russian>Коробка, 500 патр. 7,62 мм Ball-T DM21</Russian>
 				<Korean>7.62mm 500발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X51MM_B_T_DM21">
@@ -15326,7 +15807,7 @@
 				<English>7.62 mm 1000Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 1000-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 1000Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 1000 патронов 7,62 мм n Ball-T DM21</Russian>
+				<Russian>Коробка, 1000 патр. 7,62 мм n Ball-T DM21</Russian>
 				<Korean>7.62mm 1000발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_545X39MM_B_7N6">
@@ -15334,7 +15815,7 @@
 				<English>5.45 mm 30Rnd Ball 7N6 Mag</English>
 				<German>5,45 mm 30-Schuss-Magazin Ball 7N6</German>
 				<Chinesesimp>5.45 mm 30Rnd Ball 7N6 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5,45 мм Ball 7N6</Russian>
+				<Russian>Магазин, 30 патр. 5,45 мм Ball 7N6</Russian>
 				<Korean>5.45mm 30발 Ball 7N6 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_45RND_545X39MM_B_7N6">
@@ -15342,7 +15823,7 @@
 				<English>5.45 mm 45Rnd Ball 7N6 Mag</English>
 				<German>5,45 mm 45-Schuss-Magazin Ball 7N6</German>
 				<Chinesesimp>5.45 mm 45Rnd Ball 7N6 Mag</Chinesesimp>
-				<Russian>Магазин, 45 патронов 5,45 мм Ball 7N6</Russian>
+				<Russian>Магазин, 45 патр. 5,45 мм Ball 7N6</Russian>
 				<Korean>5.45mm 45발 Ball 7N6 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_545X39MM_B_T_7T3">
@@ -15350,7 +15831,7 @@
 				<English>5.45 mm 30Rnd Ball-T 7T3 Mag</English>
 				<German>5,45 mm 30-Schuss-Magazin Ball-T 7T3</German>
 				<Chinesesimp>5.45 mm 30Rnd Ball-T 7T3 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5,45 мм Ball-T 7T3</Russian>
+				<Russian>Магазин, 30 патр. 5,45 мм Ball-T 7T3</Russian>
 				<Korean>5.45mm 30발 Ball-T 7T3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_45RND_545X39MM_B_T_7T3">
@@ -15358,7 +15839,7 @@
 				<English>5.45 mm 45Rnd Ball-T 7T3 Mag</English>
 				<German>5,45 mm 45-Schuss-Magazin Ball-T 7T3</German>
 				<Chinesesimp>5.45 mm 45Rnd Ball-T 7T3 Mag</Chinesesimp>
-				<Russian>Магазин, 45 патронов 5,45 мм Ball-T 7T3</Russian>
+				<Russian>Магазин, 45 патр. 5,45 мм Ball-T 7T3</Russian>
 				<Korean>5.45mm 45발 Ball-T 7T3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_M43">
@@ -15366,7 +15847,7 @@
 				<English>7.62 mm 30Rnd Ball M43 Mag</English>
 				<German>7,62 mm 30-Schuss-Magazin Ball M43</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball M43 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 7,62 мм Ball M43</Russian>
+				<Russian>Магазин, 30 патр. 7,62 мм Ball M43</Russian>
 				<Korean>7.62mm 30발 Ball M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_T_M43">
@@ -15374,7 +15855,7 @@
 				<English>7.62 mm 30Rnd Ball-T M43 Mag</English>
 				<German>7,62 mm 30-Schuss-Magazin Ball-T M43</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball-T M43 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 7,62 мм Ball-T M43</Russian>
+				<Russian>Магазин, 30 патр. 7,62 мм Ball-T M43</Russian>
 				<Korean>7.62mm 30발 Ball-T M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_M43">
@@ -15382,7 +15863,7 @@
 				<English>7.62 mm 75Rnd Ball M43 Mag</English>
 				<German>7,62 mm 75-Schuss-Magazin Ball M43</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball M43 Mag</Chinesesimp>
-				<Russian>Магазин, 75 патронов 7,62 мм Ball M43</Russian>
+				<Russian>Магазин, 75 патр. 7,62 мм Ball M43</Russian>
 				<Korean>7.62mm 75발 Ball M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_T_M43">
@@ -15390,7 +15871,7 @@
 				<English>7.62 mm 75Rnd Ball-T M43 Mag</English>
 				<German>7,62 mm 75-Schuss-Magazin Ball-T M43</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball-T M43 Mag</Chinesesimp>
-				<Russian>Магазин, 75 патронов 7,62 мм Ball-T M43</Russian>
+				<Russian>Магазин, 75 патр. 7,62 мм Ball-T M43</Russian>
 				<Korean>7.62mm 75발 Ball-T M43 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_57N231">
@@ -15398,7 +15879,7 @@
 				<English>7.62 mm 30Rnd Ball 57N231 Mag</English>
 				<German>7,62 mm 30-Schuss-Magazin Ball 57N231</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball 57N231 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 7,62 мм Ball 57N231</Russian>
+				<Russian>Магазин, 30 патр. 7,62 мм Ball 57N231</Russian>
 				<Korean>7.62mm 30발 Ball 57N231 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_B_T_57N231P">
@@ -15406,7 +15887,7 @@
 				<English>7.62 mm 30Rnd Ball-T 57N231P Mag</English>
 				<German>7,62 mm 30-Schuss-Magazin Ball-T 57N231P</German>
 				<Chinesesimp>7.62 mm 30Rnd Ball-T 57N231P Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 7,62 мм Ball-T 57N231P</Russian>
+				<Russian>Магазин, 30 патр. 7,62 мм Ball-T 57N231P</Russian>
 				<Korean>7.62mm 30발 Ball-T 57N231P 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_57N231">
@@ -15414,7 +15895,7 @@
 				<English>7.62 mm 75Rnd Ball 57N231 Mag</English>
 				<German>7,62 mm 75-Schuss-Magazin Ball 57N231</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball 57N231 Mag</Chinesesimp>
-				<Russian>Магазин, 75 патронов 7,62 мм Ball 57N231</Russian>
+				<Russian>Магазин, 75 патр. 7,62 мм Ball 57N231</Russian>
 				<Korean>7.62mm 75발 Ball 57N231 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_B_T_57N231P">
@@ -15422,7 +15903,7 @@
 				<English>7.62 mm 75Rnd Ball-T 57N231P Mag</English>
 				<German>7,62 mm 75-Schuss-Magazin Ball-T 57N231P</German>
 				<Chinesesimp>7.62 mm 75Rnd Ball-T 57N231P Mag</Chinesesimp>
-				<Russian>Магазин, 75 патронов 7,62 мм Ball-T 57N231P</Russian>
+				<Russian>Магазин, 75 патр. 7,62 мм Ball-T 57N231P</Russian>
 				<Korean>7.62mm 75발 Ball-T 57N231P 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_762X39MM_AP_7N23">
@@ -15430,7 +15911,7 @@
 				<English>7.62 mm 30Rnd AP 7N23 Mag</English>
 				<German>7,62 mm 30-Schuss-Magazin AP 7N23</German>
 				<Chinesesimp>7.62 mm 30Rnd AP 7N23 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 7,62 мм AP 7N23</Russian>
+				<Russian>Магазин, 30 патр. 7,62 мм AP 7N23</Russian>
 				<Korean>7.62mm 30발 AP 7N23 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_762X39MM_AP_7N23">
@@ -15438,7 +15919,7 @@
 				<English>7.62 mm 75Rnd AP 7N23 Mag</English>
 				<German>7,62 mm 75-Schuss-Magazin AP 7N23</German>
 				<Chinesesimp>7.62 mm 75Rnd AP 7N23 Mag</Chinesesimp>
-				<Russian>Магазин, 75 патронов 7,62 мм AP 7N23</Russian>
+				<Russian>Магазин, 75 патр. 7,62 мм AP 7N23</Russian>
 				<Korean>7.62mm 75발 AP 7N23 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_9X19MM_B_DM11">
@@ -15446,7 +15927,7 @@
 				<English>9 mm 8Rnd Ball DM11 Mag</English>
 				<German>9 mm 8-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>9 mm 8Rnd Ball DM11 Mag</Chinesesimp>
-				<Russian>Магазин, 8 патронов 9 мм Ball DM11</Russian>
+				<Russian>Магазин, 8 патр. 9 мм Ball DM11</Russian>
 				<Korean>9mm 8발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_9X19MM_B_DM51">
@@ -15454,7 +15935,7 @@
 				<English>9 mm 8Rnd Ball DM51 Mag</English>
 				<German>9 mm 8-Schuss-Magazin Ball DM51</German>
 				<Chinesesimp>9 mm 8Rnd Ball DM51 Mag</Chinesesimp>
-				<Russian>Магазин, 8 патронов 9 мм Ball DM51</Russian>
+				<Russian>Магазин, 8 патр. 9 мм Ball DM51</Russian>
 				<Korean>9mm 8발 Ball DM51 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_8RND_9X18MM_B_PST">
@@ -15462,7 +15943,7 @@
 				<English>9 mm 8Rnd Ball PST Mag</English>
 				<German>9 mm 8-Schuss-Magazin Ball PST</German>
 				<Chinesesimp>9 mm 8Rnd Ball PST Mag</Chinesesimp>
-				<Russian>Магазин, 8 патронов 9 мм Ball PST</Russian>
+				<Russian>Магазин, 8 патр. 9 мм Ball PST</Russian>
 				<Korean>9mm 8발 Ball PST 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_32RND_9X19MM_B_DM11">
@@ -15470,7 +15951,7 @@
 				<English>9 mm 32Rnd Ball DM11 Mag</English>
 				<German>9 mm 32-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>9 mm 32Rnd Ball DM11 Mag</Chinesesimp>
-				<Russian>Магазин, 32 патронов 9 мм Ball DM11</Russian>
+				<Russian>Магазин, 32 патр. 9 мм Ball DM11</Russian>
 				<Korean>9mm 32발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_32RND_9X19MM_B_DM51">
@@ -15478,7 +15959,7 @@
 				<English>9 mm 32Rnd Ball DM51 Mag</English>
 				<German>9 mm 32-Schuss-Magazin Ball DM51</German>
 				<Chinesesimp>9 mm 32Rnd Ball DM51 Mag</Chinesesimp>
-				<Russian>Магазин, 32 патронов 9 мм Ball DM51</Russian>
+				<Russian>Магазин, 32 патр. 9 мм Ball DM51</Russian>
 				<Korean>9mm 32발 Ball DM51 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_32RND_9X19MM_AP_DM91">
@@ -15486,7 +15967,7 @@
 				<English>9 mm 32Rnd AP DM91 Mag</English>
 				<German>9 mm 32-Schuss-Magazin AP DM91</German>
 				<Chinesesimp>9 mm 32Rnd AP DM91 Mag</Chinesesimp>
-				<Russian>Магазин, 32 патронов 9 мм AP DM91</Russian>
+				<Russian>Магазин, 32 патр. 9 мм AP DM91</Russian>
 				<Korean>9mm 32발 AP DM91 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_15RND_9X18MM_B_PST">
@@ -15494,7 +15975,7 @@
 				<English>9 mm 15Rnd Ball PST Mag</English>
 				<German>9 mm 15-Schuss-Magazin Ball PST</German>
 				<Chinesesimp>9 mm 15Rnd Ball PST Mag</Chinesesimp>
-				<Russian>Магазин, 15 патронов 9 мм Ball PST</Russian>
+				<Russian>Магазин, 15 патр. 9 мм Ball PST</Russian>
 				<Korean>9mm 15발 Ball PST 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_25RND_9X18MM_B_PST">
@@ -15502,7 +15983,7 @@
 				<English>9 mm 25Rnd Ball PST Mag</English>
 				<German>9 mm 25-Schuss-Magazin Ball PST</German>
 				<Chinesesimp>9 mm 25Rnd Ball PST Mag</Chinesesimp>
-				<Russian>Магазин, 25 патронов 9 мм Ball PST</Russian>
+				<Russian>Магазин, 25 патр. 9 мм Ball PST</Russian>
 				<Korean>9mm 25발 Ball PST 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_9X19MM_B_DM51">
@@ -15510,7 +15991,7 @@
 				<English>9 mm 30Rnd Ball DM51 Mag</English>
 				<German>9 mm 30-Schuss-Magazin Ball DM51</German>
 				<Chinesesimp>9 mm 30Rnd Ball DM51 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 9 мм Ball DM51</Russian>
+				<Russian>Магазин, 30 патр. 9 мм Ball DM51</Russian>
 				<Korean>9mm 30발 Ball DM51 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_9X19MM_B_DM11">
@@ -15518,7 +15999,7 @@
 				<English>9 mm 30Rnd Ball DM11 Mag</English>
 				<German>9 mm 30-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>9 mm 30Rnd Ball DM11 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 9 мм Ball DM11</Russian>
+				<Russian>Магазин, 30 патр. 9 мм Ball DM11</Russian>
 				<Korean>9mm 30발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_9X19MM_AP_DM91">
@@ -15526,7 +16007,7 @@
 				<English>9 mm 30Rnd AP DM91 Mag</English>
 				<German>9 mm 30-Schuss-Magazin AP DM91</German>
 				<Chinesesimp>9 mm 30Rnd AP DM91 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 9 мм AP DM91</Russian>
+				<Russian>Магазин, 30 патр. 9 мм AP DM91</Russian>
 				<Korean>9mm 30발 AP DM91 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_DM11">
@@ -15534,7 +16015,7 @@
 				<English>5.56 mm 30Rnd Ball DM11 Mag</English>
 				<German>5,56 mm 30-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball DM11 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5,56 мм Ball DM11</Russian>
+				<Russian>Магазин, 30 патр. 5,56 мм Ball DM11</Russian>
 				<Korean>5.56mm 30발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_T_DM21">
@@ -15542,7 +16023,7 @@
 				<English>5.56 mm 30Rnd Ball-T DM21 Mag</English>
 				<German>5,56 mm 30-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5,56 мм Ball-T DM21</Russian>
+				<Russian>Магазин, 30 патр. 5,56 мм Ball-T DM21</Russian>
 				<Korean>5.56mm 30발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_AP_DM31">
@@ -15550,7 +16031,7 @@
 				<English>5.56 mm 30Rnd AP DM31 Mag</English>
 				<German>5,56 mm 30-Schuss-Magazin Ball-T DM31</German>
 				<Chinesesimp>5.56 mm 30Rnd AP DM31 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5,56 мм Ball-T DM31</Russian>
+				<Russian>Магазин, 30 патр. 5,56 мм Ball-T DM31</Russian>
 				<Korean>5.56mm 30발 AP DM31 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_M855">
@@ -15558,7 +16039,7 @@
 				<English>5.56 mm 20Rnd Ball M855 Mag</English>
 				<German>5.56 mm 20-Schuss-Magazin Ball M855</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball M855 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5.56 мм Ball M855 Mag</Russian>
+				<Russian>Магазин, 20 патр. 5.56 мм Ball M855</Russian>
 				<Korean>5.56mm 20발 Ball M855 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_T_M856">
@@ -15566,7 +16047,7 @@
 				<English>5.56 mm 20Rnd Ball-T M856 Mag</English>
 				<German>5.56 mm 20-Schuss-Magazin Ball-T M856</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball-T M856 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5.56 мм Ball-T M856 Mag</Russian>
+				<Russian>Магазин, 20 патр. 5.56 мм Ball-T M856</Russian>
 				<Korean>5.56mm 20발 Ball-T M856 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_M193">
@@ -15574,7 +16055,7 @@
 				<English>5.56 mm 20Rnd Ball M193 Mag</English>
 				<German>5.56 mm 20-Schuss-Magazin Ball M193</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball M193 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5.56 мм Ball M193 Mag</Russian>
+				<Russian>Магазин, 20 патр. 5.56 мм Ball M193</Russian>
 				<Korean>5.56mm 20발 Ball M193 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_T_M196">
@@ -15582,14 +16063,14 @@
 				<English>5.56 mm 20Rnd Ball-T M196 Mag</English>
 				<German>5.56 mm 20-Schuss-Magazin Ball-T M196</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball-T M196 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5.56 мм Ball-T M196 Mag</Russian>
+				<Russian>Магазин, 20 патр. 5.56 мм Ball-T M196</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_M855">
 				<Original>5.56 mm 30Rnd Ball M855 Mag</Original>
 				<English>5.56 mm 30Rnd Ball M855 Mag</English>
 				<German>5.56 mm 30-Schuss-Magazin Ball M855</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball M855 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5.56 мм Ball M855 Mag</Russian>
+				<Russian>Магазин, 30 патр. 5.56 мм Ball M855</Russian>
 				<Korean>5.56mm 30발 Ball M855 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_T_M856">
@@ -15597,7 +16078,7 @@
 				<English>5.56 mm 30Rnd Ball-T M856 Mag</English>
 				<German>5.56 mm 30-Schuss-Magazin Ball-T M856</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball-T M856 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5.56 мм Ball-T M856 Mag</Russian>
+				<Russian>Магазин, 30 патр. 5.56 мм Ball-T M856</Russian>
 				<Korean>5.56mm 30발 Ball-T M856 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_M193">
@@ -15605,7 +16086,7 @@
 				<English>5.56 mm 30Rnd Ball M193 Mag</English>
 				<German>5.56 mm 30-Schuss-Magazin Ball M193</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball M193 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5.56 мм Ball M193 Mag</Russian>
+				<Russian>Магазин, 30 патр. 5.56 мм Ball M193</Russian>
 				<Korean>5.56mm 30발 Ball M193 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_30RND_556X45MM_B_T_M196">
@@ -15613,14 +16094,14 @@
 				<English>5.56 mm 30Rnd Ball-T M196 Mag</English>
 				<German>5.56 mm 30-Schuss-Magazin Ball-T M196</German>
 				<Chinesesimp>5.56 mm 30Rnd Ball-T M196 Mag</Chinesesimp>
-				<Russian>Магазин, 30 патронов 5.56 мм Ball-T M196 Mag</Russian>
+				<Russian>Магазин, 30 патр. 5.56 мм Ball-T M196</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_DM11">
 				<Original>5.56 mm 20Rnd Ball DM31 Mag</Original>
 				<English>5.56 mm 20Rnd Ball DM31 Mag</English>
 				<German>5,56 mm 20-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball DM31 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5,56 мм Ball DM11</Russian>
+				<Russian>Магазин, 20 патр. 5,56 мм Ball DM11</Russian>
 				<Korean>5.56mm 20발 Ball DM31 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_B_T_DM21">
@@ -15628,7 +16109,7 @@
 				<English>5.56 mm 20Rnd Ball-T DM21 Mag</English>
 				<German>5,56 mm 20-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>5.56 mm 20Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5,56 мм Ball-T DM21</Russian>
+				<Russian>Магазин, 20 патр. 5,56 мм Ball-T DM21</Russian>
 				<Korean>5.56mm 20발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_20RND_556X45MM_AP_DM31">
@@ -15636,7 +16117,7 @@
 				<English>5.56 mm 20Rnd AP DM31 Mag</English>
 				<German>5,56 mm 20-Schuss-Magazin Ball-T DM31</German>
 				<Chinesesimp>5.56 mm 20Rnd AP DM31 Mag</Chinesesimp>
-				<Russian>Магазин, 20 патронов 5,56 мм Ball-T DM31</Russian>
+				<Russian>Магазин, 20 патр. 5,56 мм Ball-T DM31</Russian>
 				<Korean>5.56mm 20발 AP DM31 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_556X45MM_B_DM11">
@@ -15644,7 +16125,7 @@
 				<English>5.56 mm 100Rnd Ball DM11 Mag</English>
 				<German>5,56 mm 100-Schuss-Magazin Ball DM11</German>
 				<Chinesesimp>5.56 mm 100Rnd Ball DM11 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 5,56 мм Ball DM11</Russian>
+				<Russian>Магазин, 100 патр. 5,56 мм Ball DM11</Russian>
 				<Korean>5.56mm 100발 Ball DM11 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_556X45MM_B_T_DM21">
@@ -15652,7 +16133,7 @@
 				<English>5.56 mm 100Rnd Ball-T DM21 Mag</English>
 				<German>5,56 mm 100-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>5.56 mm 100Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 5,56 мм Ball-T DM21</Russian>
+				<Russian>Магазин, 100 патр. 5,56 мм Ball-T DM21</Russian>
 				<Korean>5.56mm 100발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_556X45MM_AP_DM31">
@@ -15660,7 +16141,7 @@
 				<English>5.56 mm 100Rnd AP DM31 Mag</English>
 				<German>5,56 mm 100-Schuss-Magazin Ball-T DM31</German>
 				<Chinesesimp>5.56 mm 100Rnd AP DM31 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 5,56 мм Ball-T DM31</Russian>
+				<Russian>Магазин, 100 патр. 5,56 мм Ball-T DM31</Russian>
 				<Korean>5.56mm 100발 AP DM31 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_640RND_35X228MM_HEI_T_DM21">
@@ -15668,7 +16149,7 @@
 				<English>35 mm 640Rnd HEI-T DM21</English>
 				<German>35 mm 640-Schuss HEI-T DM21</German>
 				<Chinesesimp>35 mm 640Rnd HEI-T DM21</Chinesesimp>
-				<Russian>Магазин, 640 патронов 35 мм HEI-T DM21</Russian>
+				<Russian>Коробка, 640 патр. 35 мм HEI-T DM21</Russian>
 				<Korean>35mm 640발 HEI-T DM21</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_640RND_35X228MM_FAPDS_T_DM33">
@@ -15676,7 +16157,7 @@
 				<English>35 mm 640Rnd FAPDS-T DM33</English>
 				<German>35 mm 640-Schuss FAPDS-T DM33</German>
 				<Chinesesimp>35 mm 640Rnd FAPDS-T DM33</Chinesesimp>
-				<Russian>Магазин, 640 патронов 35 мм FAPDS-T DM33</Russian>
+				<Russian>Коробка, 640 патр. 35 мм FAPDS-T DM33</Russian>
 				<Korean>35mm 640발 FAPDS-T DM33</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_40RND_35X228MM_HVAPDS_T_DM23">
@@ -15684,7 +16165,7 @@
 				<English>35 mm 40Rnd HVAPDS-T DM23</English>
 				<German>35 mm 40-Schuss HVAPDS-T DM23</German>
 				<Chinesesimp>35 mm 40Rnd HVAPDS-T DM23</Chinesesimp>
-				<Russian>Магазин, 40 патронов 35 мм HVAPDS-T DM23</Russian>
+				<Russian>Магазин, 40 патр. 35 мм HVAPDS-T DM23</Russian>
 				<Korean>35mm 40발 HVAPDS-T DM23</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_2000RND_23X152MM_API_T_BZT">
@@ -15692,7 +16173,7 @@
 				<English>23 mm 2000Rnd API-T BZT</English>
 				<German>23 mm 2000-Schuss API-T BZT</German>
 				<Chinesesimp>23 mm 2000Rnd API-T BZT</Chinesesimp>
-				<Russian>Магазин, 2000 патронов 23 мм API-T BZT</Russian>
+				<Russian>Коробка, 2000 патр. 23 мм API-T BZT</Russian>
 				<Korean>23mm 2000발 API-T BZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_2000RND_23X152MM_HEI_OFZ">
@@ -15700,7 +16181,7 @@
 				<English>23 mm 2000Rnd HEI OFZ</English>
 				<German>23 mm 2000-Schuss HEI OFZ</German>
 				<Chinesesimp>23 mm 2000Rnd HEI OFZ</Chinesesimp>
-				<Russian>Магазин, 2000 патронов 23 мм HEI OFZ</Russian>
+				<Russian>Коробка, 2000 патр. 23 мм HEI OFZ</Russian>
 				<Korean>23mm 2000발 HEI OFZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_2000RND_23X152MM_HEI_T_OFZT">
@@ -15708,7 +16189,7 @@
 				<English>23 mm 2000Rnd HEI-T OFZT</English>
 				<German>23 mm 2000-Schuss HEI-T OFZT</German>
 				<Chinesesimp>23 mm 2000Rnd HEI-T OFZT</Chinesesimp>
-				<Russian>Магазин, 2000 патронов 23 мм HEI-T OFZT</Russian>
+				<Russian>Коробка, 2000 патр. 23 мм HEI-T OFZT</Russian>
 				<Korean>23mm 2000발 HEI-T OFZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_23X152MM_API_T_BZT">
@@ -15716,7 +16197,7 @@
 				<English>23 mm 500Rnd API-T BZT</English>
 				<German>23 mm 500-Schuss API-T BZT</German>
 				<Chinesesimp>23 mm 500Rnd API-T BZT</Chinesesimp>
-				<Russian>Магазин, 500 патронов 23 мм API-T BZT</Russian>
+				<Russian>Коробка, 500 патр. 23 мм API-T BZT</Russian>
 				<Korean>23mm 500발 API-T BZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_23X152MM_HEI_OFZ">
@@ -15724,7 +16205,7 @@
 				<English>23 mm 500Rnd HEI OFZ</English>
 				<German>23 mm 500-Schuss HEI OFZ</German>
 				<Chinesesimp>23 mm 500Rnd HEI OFZ</Chinesesimp>
-				<Russian>Магазин, 500 патронов 23 мм HEI OFZ</Russian>
+				<Russian>Коробка, 500 патр. 23 мм HEI OFZ</Russian>
 				<Korean>23mm 500발 HEI OFZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_500RND_23X152MM_HEI_T_OFZT">
@@ -15732,7 +16213,7 @@
 				<English>23 mm 500Rnd HEI-T OFZT</English>
 				<German>23 mm 500-Schuss HEI-T OFZT</German>
 				<Chinesesimp>23 mm 500Rnd HEI-T OFZT</Chinesesimp>
-				<Russian>Магазин, 500 патронов 23 мм HEI-T OFZT</Russian>
+				<Russian>Коробка, 500 патр. 23 мм HEI-T OFZT</Russian>
 				<Korean>23mm 500발 HEI-T OFZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_425RND_20X139MM_HE_T_DM51">
@@ -15740,7 +16221,7 @@
 				<English>20 mm 425Rnd HE-T DM51</English>
 				<German>20 mm 425-Schuss HE-T DM51</German>
 				<Chinesesimp>20 mm 425Rnd HE-T DM51</Chinesesimp>
-				<Russian>Магазин, 425 патронов 20 мм HE-T DM51</Russian>
+				<Russian>Коробка, 425 патр. 20 мм HE-T DM51</Russian>
 				<Korean>20mm 425발 HE-T DM51</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_425RND_20X139MM_HEI_T_DM81">
@@ -15748,7 +16229,7 @@
 				<English>20 mm 425Rnd HEI-T DM81</English>
 				<German>20 mm 425-Schuss HEI-T DM81</German>
 				<Chinesesimp>20 mm 425Rnd HEI-T DM81</Chinesesimp>
-				<Russian>Магазин, 425 патронов 20 мм HEI-T DM81</Russian>
+				<Russian>Коробка, 425 патр. 20 мм HEI-T DM81</Russian>
 				<Korean>20mm 425발 HEI-T DM81</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_425RND_20X139MM_HEI_T_DM111">
@@ -15756,7 +16237,7 @@
 				<English>20 mm 425Rnd HEI-T DM111</English>
 				<German>20 mm 425-Schuss HEI-T DM111</German>
 				<Chinesesimp>20 mm 425Rnd HEI-T DM111</Chinesesimp>
-				<Russian>Магазин, 425 патронов 20 мм HEI-T DM111</Russian>
+				<Russian>Коробка, 425 патр. 20 мм HEI-T DM111</Russian>
 				<Korean>20mm 425발 HEI-T DM111</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_20X139MM_AP_T_DM43">
@@ -15764,7 +16245,7 @@
 				<English>20 mm 75Rnd AP-T FM43</English>
 				<German>20 mm 75-Schuss AP-T FM43</German>
 				<Chinesesimp>20 mm 75Rnd AP-T FM43</Chinesesimp>
-				<Russian>Магазин, 75 патронов 20 мм AP-T FM43</Russian>
+				<Russian>Магазин, 75 патр. 20 мм AP-T FM43</Russian>
 				<Korean>20mm 75발 AP-T FM43</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_75RND_20X139MM_APDS_T_DM63">
@@ -15772,7 +16253,7 @@
 				<English>20 mm 75Rnd APDS-T DM63</English>
 				<German>20 mm 75-Schuss APDS-T DM63</German>
 				<Chinesesimp>20 mm 75Rnd APDS-T DM63</Chinesesimp>
-				<Russian>Магазин, 75 патронов 20 мм APDS-T DM63</Russian>
+				<Russian>Магазин, 75 патр. 20 мм APDS-T DM63</Russian>
 				<Korean>20mm 75발 APDS-T DM63</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_150RND_23X115MM_API_T_BZT">
@@ -15780,7 +16261,7 @@
 				<English>23 mm 150Rnd API-T BZT</English>
 				<German>23 mm 150-Schuss API-T BZT</German>
 				<Chinesesimp>23 mm 150Rnd API-T BZT</Chinesesimp>
-				<Russian>Магазин, 150 патронов 23 мм API-T BZT</Russian>
+				<Russian>Коробка, 150 патр. 23 мм API-T BZT</Russian>
 				<Korean>23mm 150발 API-T BZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_150RND_23X115MM_HEI_OFZ">
@@ -15788,7 +16269,7 @@
 				<English>23 mm 150Rnd HEI OFZ</English>
 				<German>23 mm 150-Schuss HEI OFZ</German>
 				<Chinesesimp>23 mm 150Rnd HEI OFZ</Chinesesimp>
-				<Russian>Магазин, 150 патронов 23 мм HEI OFZ</Russian>
+				<Russian>Коробка, 150 патр. 23 мм HEI OFZ</Russian>
 				<Korean>23mm 150발 HEI OFZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_150RND_23X115MM_HEI_T_OFZT">
@@ -15796,7 +16277,7 @@
 				<English>23 mm 150Rnd HEI-T OFZ</English>
 				<German>23 mm 150-Schuss HEI-T OFZ</German>
 				<Chinesesimp>23 mm 150Rnd HEI-T OFZ</Chinesesimp>
-				<Russian>Магазин, 150 патронов 23 мм HEI-T OFZ</Russian>
+				<Russian>Коробка, 150 патр. 23 мм HEI-T OFZ</Russian>
 				<Korean>23mm 150발 HEI-T OFZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_400RND_25X137MM_APDS_T_M791">
@@ -15804,7 +16285,7 @@
 				<English>25 mm 400Rnd APDS-T M791</English>
 				<German>25 mm 400-Schuss APDS-T M791</German>
 				<Chinesesimp>25 mm 400Rnd APDS-T M791</Chinesesimp>
-				<Russian>Магазин, 400 патронов 25 мм APDS-T M791</Russian>
+				<Russian>Коробка, 400 патр. 25 мм APDS-T M791</Russian>
 				<Korean>25mm 400발 APDS-T M791</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_400RND_25X137MM_APFSDS_T_M919">
@@ -15812,7 +16293,7 @@
 				<English>25 mm 400Rnd APFSDS-T M919</English>
 				<German>25 mm 400-Schuss APFSDS-T M919</German>
 				<Chinesesimp>25 mm 400Rnd APFSDS-T M919</Chinesesimp>
-				<Russian>Магазин, 400 патронов 25 мм APFSDS-T M919</Russian>
+				<Russian>Коробка, 400 патр. 25 мм APFSDS-T M919</Russian>
 				<Korean>25mm 400발 APFSDS-T M919</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_400RND_25X137MM_HEI_T_M792">
@@ -15820,7 +16301,7 @@
 				<English>25 mm 400Rnd HEI-T M792</English>
 				<German>25 mm 400-Schuss HEI-T M792</German>
 				<Chinesesimp>25 mm 400Rnd HEI-T M792</Chinesesimp>
-				<Russian>Магазин, 400 патронов 25 мм HEI-T M792</Russian>
+				<Russian>Коробка, 400 патр. 25 мм HEI-T M792</Russian>
 				<Korean>25mm 400발 HEI-T M792</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_WHT_GC">
@@ -15828,7 +16309,7 @@
 				<English>26.5 mm Flare (White)</English>
 				<German>26,5 mm Licht (Weiß)</German>
 				<Chinesesimp>26.5 mm 照明弹(白色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Weiß)</Russian>
+				<Russian>Ракета(Белая) 26,5 мм</Russian>
 				<Korean>26.5mm 조명탄 (하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_GRN_GC">
@@ -15836,7 +16317,7 @@
 				<English>26.5 mm Flare (Green)</English>
 				<German>26,5 mm Licht (Grün)</German>
 				<Chinesesimp>26.5 mm 照明弹(绿色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Grün)</Russian>
+				<Russian>Ракета(Зелёная)26,5 мм</Russian>
 				<Korean>26.5mm 조명탄 (초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_RED_GC">
@@ -15844,7 +16325,7 @@
 				<English>26.5 mm Flare (Red)</English>
 				<German>26,5 mm Licht (Rot)</German>
 				<Chinesesimp>26.5 mm 照明弹(红色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Rot)</Russian>
+				<Russian>Ракета(Красная)26,5 мм</Russian>
 				<Korean>26.5mm 조명탄 (빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_RED_GC">
@@ -15852,7 +16333,7 @@
 				<English>26.5 mm Flare (Multi Red)</English>
 				<German>26,5 mm Licht (Mehrstern Rot)</German>
 				<Chinesesimp>26.5 mm 照明弹(多重红)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Mehrstern Rot)</Russian>
+				<Russian>Ракета(Несколько Красных)26,5 мм</Russian>
 				<Korean>26.5mm 조명탄 (다탄두, 빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_YEL_GC">
@@ -15860,7 +16341,7 @@
 				<English>26.5 mm Smoke (Yellow)</English>
 				<German>26,5 mm Licht (Gelb)</German>
 				<Chinesesimp>26.5 mm 烟雾弹(黄色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Gelb)</Russian>
+				<Russian>Дым (Желтый)26,5 мм</Russian>
 				<Korean>26.5mm 연막 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_BLU_GC">
@@ -15868,7 +16349,7 @@
 				<English>26.5 mm Smoke (Blue)</English>
 				<German>26,5 mm Licht (Blau)</German>
 				<Chinesesimp>26.5 mm 烟雾弹(蓝色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Blau)</Russian>
+				<Russian>Дым (Синий)26,5 мм</Russian>
 				<Korean>26.5mm 연막 (파랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_BLK_GC">
@@ -15876,7 +16357,7 @@
 				<English>26.5 mm Smoke (Black)</English>
 				<German>26,5 mm Licht (Schwarz)</German>
 				<Chinesesimp>26.5 mm 烟雾弹(黑色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht (Schwarz)</Russian>
+				<Russian>Дым (Чёрный)26,5 мм</Russian>
 				<Korean>26.5mm 연막 (검정)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_PARA_YEL_DM16">
@@ -15884,7 +16365,7 @@
 				<English>26.5 mm Flare DM16 (Yellow)</English>
 				<German>26,5 mm Licht DM16 (Gelb)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM16 (黄色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM16 (Gelb)</Russian>
+				<Russian>Ракета 26,5 мм DM16(Желтая)</Russian>
 				<Korean>26.5mm DM16 조명탄 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_YEL_DM10">
@@ -15892,7 +16373,7 @@
 				<English>26.5 mm Flare DM10 (Yellow)</English>
 				<German>26,5 mm Licht DM10 (Gelb)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM10 (黄色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM10 (Gelb)</Russian>
+				<Russian>Ракета 26,5 мм DM10(Желтая)</Russian>
 				<Korean>26.5mm DM10 조명탄 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_GRN_DM11">
@@ -15900,7 +16381,7 @@
 				<English>26.5 mm Flare DM11 (Green)</English>
 				<German>26,5 mm Licht DM11 (Grün)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM11 (绿色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM11 (Grün)</Russian>
+				<Russian>Ракета 26,5 мм DM11(Зелёная)</Russian>
 				<Korean>26.5mm DM11 조명탄 (초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_RED_DM13">
@@ -15908,7 +16389,7 @@
 				<English>26.5 mm Flare DM13 (Red)</English>
 				<German>26,5 mm Licht DM13 (Rot)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM13 (红色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM13 (Rot)</Russian>
+				<Russian>Ракета 26,5 мм DM13(Красная)</Russian>
 				<Korean>26.5mm DM13 조명탄 (빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_SINGLE_WHT_DM15">
@@ -15916,7 +16397,7 @@
 				<English>26.5 mm Flare DM15 (White)</English>
 				<German>26,5 mm Licht DM15 (Weiss)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM15 (白色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM15 (Weiss)</Russian>
+				<Russian>Ракета 26,5 мм DM15(Белая)</Russian>
 				<Korean>26.5mm DM15 조명탄 (하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_GRN_DM21">
@@ -15924,7 +16405,7 @@
 				<English>26.5 mm Flare DM21 (Multi Green)</English>
 				<German>26,5 mm Licht DM21 (Mehrstern Grün)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM21 (多重绿)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM21 (Mehrstern Grün)</Russian>
+				<Russian>Ракета 26,5 мм DM21(Несколько Зелёных)</Russian>
 				<Korean>26.5mm DM21 조명탄 (다탄두, 초록)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_RED_DM23">
@@ -15932,7 +16413,7 @@
 				<English>26.5 mm Flare DM23 (Multi Red)</English>
 				<German>26,5 mm Licht DM23 (Mehrstern Rot)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM23 (多重红)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM23 (Mehrstern Rot)</Russian>
+				<Russian>Ракета 26,5 мм DM23(Несколько Красных)</Russian>
 				<Korean>26.5mm DM23 조명탄 (다탄두, 빨강)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_WHT_DM25">
@@ -15940,7 +16421,7 @@
 				<English>26.5 mm Flare DM25 (Multi White)</English>
 				<German>26,5 mm Licht DM25 (Mehrstern Weiß)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM25 (多重白)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM25 (Mehrstern Weiß)</Russian>
+				<Russian>Ракета 26,5 мм DM25(Несколько Белых)</Russian>
 				<Korean>26.5mm DM25 조명탄 (다탄두, 하양)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_YEL_DM20">
@@ -15948,7 +16429,7 @@
 				<English>26.5 mm Flare DM20 (Multi Yellow)</English>
 				<German>26,5 mm Licht DM20 (Mehrstern Gelb)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM20 (多重黄)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM20 (Mehrstern Gelb)</Russian>
+				<Russian>Ракета 26,5 мм DM20(Несколько Желтых)</Russian>
 				<Korean>26.5mm DM20 조명탄 (다탄두, 노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_FLARE_MULTI_NBC_DM47">
@@ -15956,7 +16437,7 @@
 				<English>26.5 mm Flare DM47 (NBC)</English>
 				<German>26,5 mm Licht DM47 (ABC-Alarm)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM47 (三防)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Licht DM47 (ABC-Alarm)</Russian>
+				<Russian>Сигнал.ракета 26,5 мм DM47 (3-Тревога)</Russian>
 				<Korean>26.5mm DM47 조명탄 (NBC)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_ORG_DM22">
@@ -15964,7 +16445,7 @@
 				<English>26.5 mm Smoke DM22 (Orange)</English>
 				<German>26,5 mm Signal DM22 (Orange)</German>
 				<Chinesesimp>26.5 mm DM22烟雾弹 (橙色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Signal DM22 (Orange)</Russian>
+				<Russian>Дым.Сигнал 26,5 мм DM22(Оранжевый)</Russian>
 				<Korean>26.5mm DM22 연막 (오렌지)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_VLT_DM24">
@@ -15972,7 +16453,7 @@
 				<English>26.5 mm Smoke DM24 (Purple)</English>
 				<German>26,5 mm Signal DM24 (Violett)</German>
 				<Chinesesimp>26.5 mm DM24烟雾弹 (紫色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Signal DM24 (Violett)</Russian>
+				<Russian>Дым.Сигнал 26,5 мм DM24(Фиолетовый)</Russian>
 				<Korean>26.5mm DM24 연막 (보라)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_YEL_DM19">
@@ -15980,7 +16461,7 @@
 				<English>26.5 mm Smoke DM19 (Yellow)</English>
 				<German>26,5 mm Signal DM19 (Gelb)</German>
 				<Chinesesimp>26.5 mm DM19烟雾弹 (黄色)</Chinesesimp>
-				<Russian>Магазин, 26,5 мм Signal DM19 (Gelb)</Russian>
+				<Russian>Дым.Сигнал 26,5 мм DM19(Желтый)</Russian>
 				<Korean>26.5mm DM19 연막 (노랑)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_762X51MM_B_T_DM21">
@@ -15988,7 +16469,7 @@
 				<English>7.62 mm 50Rnd Ball-T DM21 Mag</English>
 				<German>7,62 mm 50-Schuss-Magazin Ball-T DM21</German>
 				<Chinesesimp>7.62 mm 50Rnd Ball-T DM21 Mag</Chinesesimp>
-				<Russian>Магазин, 50 патронов 7,62 мм Ball-T DM21</Russian>
+				<Russian>Магазин, 50 патр. 7,62 мм Ball-T DM21</Russian>
 				<Korean>7.62mm 50발 Ball-T DM21 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_762X51MM_B_T_DM21A1">
@@ -15996,7 +16477,7 @@
 				<English>7.62 mm 50Rnd Ball-T DM21A1 Mag</English>
 				<German>7,62 mm 50-Schuss-Magazin Ball-T DM21A1</German>
 				<Chinesesimp>7.62 mm 50Rnd Ball-T DM21A1 Mag</Chinesesimp>
-				<Russian>Магазин, 50 патронов 7,62 мм Ball-T DM21A1</Russian>
+				<Russian>Магазин, 50 патр. 7,62 мм Ball-T DM21A1</Russian>
 				<Korean>7.62mm 50발 Ball-T DM21A1 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_762X51MM_B_T_DM21A2">
@@ -16004,7 +16485,7 @@
 				<English>7.62 mm 50Rnd Ball-T DM21A2 Mag</English>
 				<German>7,62 mm 50-Schuss-Magazin Ball-T DM21A2</German>
 				<Chinesesimp>7.62 mm 50Rnd Ball-T DM21A2 Mag</Chinesesimp>
-				<Russian>Магазин, 50 патронов 7,62 мм Ball-T DM21A2</Russian>
+				<Russian>Магазин, 50 патр. 7,62 мм Ball-T DM21A2</Russian>
 				<Korean>7.62mm 50발 Ball-T DM21A2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MM_API_B32">
@@ -16012,7 +16493,7 @@
 				<English>7.62 mmR 100Rnd API B32 Mag</English>
 				<German>7,62 mmR 100-Schuss-Magazin API B32</German>
 				<Chinesesimp>7.62 mmR 100Rnd API B32 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 7,62 ммR API B32</Russian>
+				<Russian>Магазин, 100 патр. 7,62 ммR API B32</Russian>
 				<Korean>7.62mmR 100발 API B32 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X54MM_API_B32">
@@ -16020,7 +16501,7 @@
 				<English>7.62 mmR 1000Rnd API B32 Mag</English>
 				<German>7,62 mmR 1000-Schuss-Magazin API B32</German>
 				<Chinesesimp>7.62 mmR 1000Rnd API B32 Mag</Chinesesimp>
-				<Russian>Магазин, 1000 патронов 7,62 ммR API B32</Russian>
+				<Russian>Коробка, 1000 патр. 7,62 ммR API B32</Russian>
 				<Korean>7.62mmR 1000발 API B32 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MM_B_T_T46">
@@ -16028,7 +16509,7 @@
 				<English>7.62 mmR 100Rnd Ball-T T46 Mag</English>
 				<German>7,62 mmR 100-Schuss-Magazin Ball-T T46</German>
 				<Chinesesimp>7.62 mmR 100Rnd Ball-T T46 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 7,62 ммR Ball-T T46</Russian>
+				<Russian>Коробка, 100 патр. 7,62 ммR Ball-T T46</Russian>
 				<Korean>7.62mmR 100발 Ball-T T46 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X54MM_B_T_T46">
@@ -16036,7 +16517,7 @@
 				<English>7.62 mmR 1000Rnd Ball-T T46 Mag</English>
 				<German>7,62 mmR 1000-Schuss-Magazin Ball-T T46</German>
 				<Chinesesimp>7.62 mmR 1000Rnd Ball-T T46 Mag</Chinesesimp>
-				<Russian>Магазин, 1000 патронов 7,62 ммR Ball-T T46</Russian>
+				<Russian>Коробка, 1000 патр. 7,62 ммR Ball-T T46</Russian>
 				<Korean>7.62mmR 1000발 BAll-T T46 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_762X54MMR_AP_7N1">
@@ -16044,7 +16525,7 @@
 				<English>7.62 mmR 10Rnd AP 7N1 Mag</English>
 				<German>7,62 mmR 10-Schuss-Magazin AP 7N1 Mag</German>
 				<Chinesesimp>7.62 mmR 10Rnd AP 7N1 Mag</Chinesesimp>
-				<Russian>Магазин, 10 патронов 7,62 ммR AP 7N1 Mag</Russian>
+				<Russian>Магазин, 10 патр. 7,62 ммR AP 7N1 Mag</Russian>
 				<Korean>7.62mmR 10발 AP 7N1 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_762X54MMR_API_7BZ3">
@@ -16052,7 +16533,7 @@
 				<English>7.62 mmR 10Rnd API 7BZ3 Mag</English>
 				<German>7,62 mmR 10-Schuss-Magazin API 7BZ3 Mag</German>
 				<Chinesesimp>7.62 mmR 10Rnd API 7BZ3 Mag</Chinesesimp>
-				<Russian>Магазин, 10 патронов 7,62 ммR API 7BZ3 Mag</Russian>
+				<Russian>Магазин, 10 патр. 7,62 ммR API 7BZ3</Russian>
 				<Korean>7.62mmR 10발 API 7BZ3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_10RND_762X54MMR_B_T_7T2">
@@ -16060,7 +16541,7 @@
 				<English>7.62 mmR 10Rnd Ball-T 7T2 Mag</English>
 				<German>7,62 mmR 10-Schuss-Magazin Ball-T 7T2 Mag</German>
 				<Chinesesimp>7.62 mmR 10Rnd Ball-T 7T2 Mag</Chinesesimp>
-				<Russian>Магазин, 10 патронов 7,62 ммR Ball-T 7T2 Mag</Russian>
+				<Russian>Магазин, 10 патр. 7,62 ммR Ball-T 7T2</Russian>
 				<Korean>7.62mmR 10발 Ball-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MMR_API_7BZ3">
@@ -16068,7 +16549,7 @@
 				<English>7.62 mmR 100Rnd API 7BZ3 Mag</English>
 				<German>7,62 mmR 100-Schuss-Magazin API 7BZ3</German>
 				<Chinesesimp>7.62 mmR 100Rnd API 7BZ3 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 7,62 ммR API 7BZ3</Russian>
+				<Russian>Коробка, 100 патр. 7,62 ммR API 7BZ3</Russian>
 				<Korean>7.62mmR 100발 API 7BZ3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_200RND_762X54MMR_API_7BZ3">
@@ -16076,7 +16557,7 @@
 				<English>7.62 mmR 200Rnd API 7BZ3 Mag</English>
 				<German>7,62 mmR 200-Schuss-Magazin API 7BZ3</German>
 				<Chinesesimp>7.62 mmR 200Rnd API 7BZ3 Mag</Chinesesimp>
-				<Russian>Магазин, 200 патронов 7,62 ммR API 7BZ3</Russian>
+				<Russian>Коробка, 200 патр. 7,62 ммR API 7BZ3</Russian>
 				<Korean>7.62mmR 200발 API 7BZ3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X54MMR_API_7BZ3">
@@ -16084,7 +16565,7 @@
 				<English>7.62 mmR 1000Rnd API 7BZ3 Mag</English>
 				<German>7,62 mmR 1000-Schuss-Magazin API 7BZ3</German>
 				<Chinesesimp>7.62 mmR 1000Rnd API 7BZ3 Mag</Chinesesimp>
-				<Russian>Магазин, 1000 патронов 7,62 ммR API 7BZ3</Russian>
+				<Russian>Коробка, 1000 патр. 7,62 ммR API 7BZ3</Russian>
 				<Korean>7.62mmR 1000발 API 7BZ3 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_762X54MMR_B_T_7T2">
@@ -16092,7 +16573,7 @@
 				<English>7.62 mmR 100Rnd Ball-T 7T2 Mag</English>
 				<German>7,62 mmR 100-Schuss-Magazin Ball-T 7T2</German>
 				<Chinesesimp>7.62 mmR 100Rnd Ball-T 7T2 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 7,62 ммR Ball-T 7T2</Russian>
+				<Russian>Коробка, 100 патр. 7,62 ммR Ball-T 7T2</Russian>
 				<Korean>7.62mmR 100발 Ball-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_200RND_762X54MMR_B_T_7T2">
@@ -16100,7 +16581,7 @@
 				<English>7.62 mmR 200Rnd Ball-T 7T2 Mag</English>
 				<German>7,62 mmR 200-Schuss-Magazin Ball-T 7T2</German>
 				<Chinesesimp>7.62 mmR 200Rnd Ball-T 7T2 Mag</Chinesesimp>
-				<Russian>Магазин, 200 патронов 7,62 ммR Ball-T 7T2</Russian>
+				<Russian>Коробка, 200 патр. 7,62 ммR Ball-T 7T2</Russian>
 				<Korean>7.62mmR 200발 Ball-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1000RND_762X54MMR_B_T_7T2">
@@ -16108,7 +16589,7 @@
 				<English>7.62 mmR 1000Rnd Ball-T 7T2 Mag</English>
 				<German>7,62 mmR 1000-Schuss-Magazin Ball-T 7T2</German>
 				<Chinesesimp>7.62 mmR 1000Rnd Ball-T 7T2 Mag</Chinesesimp>
-				<Russian>Магазин, 1000 патронов 7,62 ммR Ball-T 7T2</Russian>
+				<Russian>Коробка, 1000 патр. 7,62 ммR Ball-T 7T2</Russian>
 				<Korean>7.62mmR 1000발 BAll-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_4000RND_762X54MMR_B_T_7T2">
@@ -16116,7 +16597,7 @@
 				<English>7.62 mmR 4000Rnd Ball-T 7T2 Mag</English>
 				<German>7,62 mmR 4000-Schuss-Magazin Ball-T 7T2</German>
 				<Chinesesimp>7.62 mmR 4000Rnd Ball-T 7T2 Mag</Chinesesimp>
-				<Russian>Магазин, 4000 патронов 7,62 ммR Ball-T 7T2</Russian>
+				<Russian>Коробка, 4000 патр. 7,62 ммR Ball-T 7T2</Russian>
 				<Korean>7.62mmR 4000발 Ball-T 7T2 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_127X108MM_API_T_BZT">
@@ -16124,7 +16605,7 @@
 				<English>12.7 mm 50Rnd API-T BZT Mag</English>
 				<German>12,7 mm 50-Schuss-Magazin API-T BZT</German>
 				<Chinesesimp>12.7 mm 50Rnd API-T BZT Mag</Chinesesimp>
-				<Russian>Магазин, 50 патронов 12,7 мм API-T BZT</Russian>
+				<Russian>Коробка, 50 патр. 12,7 мм API-T BZT</Russian>
 				<Korean>12.7mm 50발 API-T BZT 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_127X108MM_AP_B32">
@@ -16132,7 +16613,7 @@
 				<English>12.7 mm 50Rnd AP B32 Mag</English>
 				<German>12,7 mm 50-Schuss-Magazin AP B32</German>
 				<Chinesesimp>12.7 mm 50Rnd AP B32 Mag</Chinesesimp>
-				<Russian>Магазин, 50 патронов 12,7 мм AP B32</Russian>
+				<Russian>Коробка, 50 патр. 12,7 мм AP B32</Russian>
 				<Korean>12.7mm 50발 AP B32 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_127X99MM_B_M33">
@@ -16140,7 +16621,7 @@
 				<English>12.7 mm 100Rnd B M33 Mag</English>
 				<German>12,7 mm 100-Schuss-Magazin B M33</German>
 				<Chinesesimp>12.7 mm 100Rnd B M33 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 12,7 мм B M33</Russian>
+				<Russian>Коробка, 100 патр. 12,7 мм B M33</Russian>
 				<Korean>12.7mm 100발 B M33 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_100RND_127X99MM_B_T_M17">
@@ -16148,7 +16629,7 @@
 				<English>12.7 mm 100Rnd B-T M17 Mag</English>
 				<German>12,7 mm 100-Schuss-Magazin B-T M17</German>
 				<Chinesesimp>12.7 mm 100Rnd B-T M17 Mag</Chinesesimp>
-				<Russian>Магазин, 100 патронов 12,7 мм B-T M17</Russian>
+				<Russian>Коробка, 100 патр. 12,7 мм B-T M17</Russian>
 				<Korean>12.7mm 100발 B-T M17 탄창</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_145X114MM_API_BS41">
@@ -16156,7 +16637,7 @@
 				<English>14.5 mm 50Rnd API BS41</English>
 				<German>14,5 mm 50-Schuss-Magazin API BS41</German>
 				<Chinesesimp>14.5 mm 50Rnd API BS41</Chinesesimp>
-				<Russian>Магазин, 50 патронов 14,5 мм API BS41</Russian>
+				<Russian>Коробка, 50 патр. 14,5 мм API BS41</Russian>
 				<Korean>14.5mm 50발 API BS41</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_145X114MM_API_T_BZT">
@@ -16164,7 +16645,7 @@
 				<English>14.5 mm 50Rnd API-T BZT</English>
 				<German>14,5 mm 50-Schuss-Magazin API-T BZT</German>
 				<Chinesesimp>14.5 mm 50Rnd API-T BZT</Chinesesimp>
-				<Russian>Магазин, 50 патронов 14,5 мм API-T BZT</Russian>
+				<Russian>Коробка, 50 патр. 14,5 мм API-T BZT</Russian>
 				<Korean>14.5mm 50발 API-T BZT</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_145X114MM_AP_B32">
@@ -16172,7 +16653,7 @@
 				<English>14.5 mm 50Rnd AP-T B32</English>
 				<German>14,5 mm 50-Schuss-Magazin AP-T B32</German>
 				<Chinesesimp>14.5 mm 50Rnd AP-T B32</Chinesesimp>
-				<Russian>Магазин, 50 патронов 14,5 мм AP-T B32</Russian>
+				<Russian>Коробка, 50 патр. 14,5 мм AP-T B32</Russian>
 				<Korean>14.5mm 50발 AP-T B32</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_50RND_145X114MM_HEI_T_MDZ">
@@ -16180,7 +16661,7 @@
 				<English>14.5 mm 50Rnd HEI-T MDZ</English>
 				<German>14,5 mm 50-Schuss-Magazin HEI-T MDZ</German>
 				<Chinesesimp>14.5 mm 50Rnd HEI-T MDZ</Chinesesimp>
-				<Russian>Магазин, 50 патронов 14,5 мм HEI-T MDZ</Russian>
+				<Russian>Коробка, 50 патр. 14,5 мм HEI-T MDZ</Russian>
 				<Korean>14.5mm 50발 HEi-T MDZ</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_67MM_HEAT_DM22A1">
