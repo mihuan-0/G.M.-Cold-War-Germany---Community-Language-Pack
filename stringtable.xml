@@ -16437,7 +16437,7 @@
 				<English>26.5 mm Flare DM47 (NBC)</English>
 				<German>26,5 mm Licht DM47 (ABC-Alarm)</German>
 				<Chinesesimp>26.5 mm 照明弹 DM47 (三防)</Chinesesimp>
-				<Russian>Сигнал.ракета 26,5 мм DM47 (3-Тревога)</Russian>
+				<Russian>Сигнал.ракета 26,5 мм DM47(Хим.Тревога)</Russian>
 				<Korean>26.5mm DM47 조명탄 (NBC)</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_1RND_265MM_SMOKE_SINGLE_ORG_DM22">
@@ -20495,7 +20495,7 @@
 				<German>Licht (ABC-Alarm)</German>
 				<Chinesesimp>照明弹(三防)</Chinesesimp>
 				<Korean>조명탄 (NBC)</Korean>
-				<Russian>Ракета(3 Сигн.Тревоги)</Russian>
+				<Russian>Ракета(Сигн.Хим.Тревоги)</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_ILLUM">
 				<Original>ILLUM</Original>
@@ -20646,7 +20646,7 @@
 				<German>Licht (ABC)</German>
 				<Chinesesimp>照明弹 (三防)</Chinesesimp>
 				<Korean>조명탄 (NBC)</Korean>
-				<Russian>Сигн.Ракета(3,Тревога)</Russian>
+				<Russian>Сигн.Ракета(Хим.Тревога)</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_MULTI_RED">
 				<Original>Flare (Multi, Red)</Original>
@@ -21051,7 +21051,7 @@
 				<English>26.5mm Flare DM47 (NBC) (20Rnd)</English>
 				<German>26,5mm Licht DM47 (NBC) (20 Sch.)</German>
 				<Chinesesimp>26.5mm DM47照明弹 (三防) (20发)</Chinesesimp>
-				<Russian>26.5мм Ракета DM47 (3,Тревога)(20 шт.)</Russian>
+				<Russian>26.5мм Ракета DM47 (Хим.Тревога)(20 шт.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_2RND_84X245MM_HEAT_T_DM12A1_CARLGUSTAF">
 				<Original>84x245mm HEAT-T DM12a1 (2Rnd)</Original>
@@ -22558,7 +22558,7 @@
 				<German>Artillerie</German>
 				<Chinesesimp>炮兵</Chinesesimp>
 				<Korean>포병</Korean>
-				<Russian>Artillery</Russian>
+				<Russian>Артиллерия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_ANTIAIR">
 				<Original>Anti-Air</Original>
@@ -22566,7 +22566,7 @@
 				<German>Truppenluftabwehr</German>
 				<Chinesesimp>AA</Chinesesimp>
 				<Korean>대공</Korean>
-				<Russian>Anti-Air</Russian>
+				<Russian>ПВО</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_ENGINEER">
 				<Original>Engineers</Original>
@@ -22574,7 +22574,7 @@
 				<German>Pioniere</German>
 				<Chinesesimp>工程兵</Chinesesimp>
 				<Korean>공병</Korean>
-				<Russian>Engineers</Russian>
+				<Russian>Инженеры</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_NBC">
 				<Original>Chemical Service</Original>
@@ -22582,7 +22582,7 @@
 				<German>Chemische Dienste</German>
 				<Chinesesimp>三防服务</Chinesesimp>
 				<Korean>화생방</Korean>
-				<Russian>Chemical Service</Russian>
+				<Russian>Химическая Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_ARMOR">
 				<Original>Armored</Original>
@@ -22590,7 +22590,7 @@
 				<German>Panzerdienst</German>
 				<Chinesesimp>装甲服务</Chinesesimp>
 				<Korean>기갑</Korean>
-				<Russian>Armored</Russian>
+				<Russian>Бронетанковая служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_MEDICAL">
 				<Original>Medical Service</Original>
@@ -22598,7 +22598,7 @@
 				<German>Militärmedizinischer Dienst</German>
 				<Chinesesimp>医疗服务</Chinesesimp>
 				<Korean>의무대</Korean>
-				<Russian>Medical Service</Russian>
+				<Russian>Медицинская Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_MILITARYPOLICE">
 				<Original>Military Police</Original>
@@ -22606,7 +22606,7 @@
 				<German>Militärjustiz</German>
 				<Chinesesimp>宪兵</Chinesesimp>
 				<Korean>헌병</Korean>
-				<Russian>Military Police</Russian>
+				<Russian>Военная Полиция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_SIGNALS">
 				<Original>Military Intelligence</Original>
@@ -22614,7 +22614,7 @@
 				<German>Militärnachrichtendienst</German>
 				<Chinesesimp>军事情报部</Chinesesimp>
 				<Korean>군사정보부</Korean>
-				<Russian>Military Intelligence</Russian>
+				<Russian>Военная Разведка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_INFANTRY">
 				<Original>Motorized Infantry</Original>
@@ -22622,7 +22622,7 @@
 				<German>Motorisierte Schützen</German>
 				<Chinesesimp>摩托化步兵</Chinesesimp>
 				<Korean>차량화 보병</Korean>
-				<Russian>Motorized Infantry</Russian>
+				<Russian>Мотопехота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_MUSIC">
 				<Original>Military Music</Original>
@@ -22630,7 +22630,7 @@
 				<German>Militärmusikdienst</German>
 				<Chinesesimp>军乐</Chinesesimp>
 				<Korean>군가</Korean>
-				<Russian>Military Music</Russian>
+				<Russian>Военные музыканты</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_PARATROOPER">
 				<Original>Paratroopers</Original>
@@ -22638,7 +22638,7 @@
 				<German>Fallschirmjäger</German>
 				<Chinesesimp>伞兵</Chinesesimp>
 				<Korean>공수부대</Korean>
-				<Russian>Paratroopers</Russian>
+				<Russian>Десантники</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_BORDER">
 				<Original>Borderguard</Original>
@@ -22646,7 +22646,7 @@
 				<German>Grenztruppen</German>
 				<Chinesesimp>边防部队</Chinesesimp>
 				<Korean>국경 경비대</Korean>
-				<Russian>Borderguard</Russian>
+				<Russian>Пограничные Войска</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_NAVY">
 				<Original>Navy</Original>
@@ -22654,7 +22654,7 @@
 				<German>Volksmarine</German>
 				<Chinesesimp>海军</Chinesesimp>
 				<Korean>해군</Korean>
-				<Russian>Navy</Russian>
+				<Russian>Флот</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_AIRFORCE">
 				<Original>Airforce</Original>
@@ -22662,7 +22662,7 @@
 				<German>Luftstreitkräfte</German>
 				<Chinesesimp>空军</Chinesesimp>
 				<Korean>공군</Korean>
-				<Russian>Airforce</Russian>
+				<Russian>Авиация</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GC_CIVILIANPOLICE">
 				<Original>People's Police</Original>
@@ -22670,7 +22670,7 @@
 				<German>Volkspolizei</German>
 				<Chinesesimp>人民警察</Chinesesimp>
 				<Korean>인민경찰</Korean>
-				<Russian>People's Police</Russian>
+				<Russian>Народная Полиция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_RANK_TYPE_ARMY">
 				<Original>Army</Original>
@@ -22678,7 +22678,7 @@
 				<German>Landstreitkräfte</German>
 				<Chinesesimp>陆军</Chinesesimp>
 				<Korean>육군</Korean>
-				<Russian>Army</Russian>
+				<Russian>Армия</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR1_S">
 				<Original>Soldier</Original>
@@ -22686,7 +22686,7 @@
 				<German>Soldat</German>
 				<Chinesesimp>士兵</Chinesesimp>
 				<Korean>병사</Korean>
-				<Russian>Soldier</Russian>
+				<Russian>Солдат</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR2_G">
 				<Original>Private</Original>
@@ -22694,28 +22694,28 @@
 				<German>Gefreiter</German>
 				<Chinesesimp>列兵</Chinesesimp>
 				<Korean>이병</Korean>
-				<Russian>Private</Russian>
+				<Russian>Рядовой</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR3_SG">
 				<Original>Private 2nd Class</Original>
 				<English>Private 2nd Class</English>
 				<German>Stabsgefreiter</German>
 				<Chinesesimp>二等兵</Chinesesimp>
-				<Russian>Private 2nd Class</Russian>
+				<Russian>Рядовой 2-го Класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR4_U">
 				<Original>Lance Corporal</Original>
 				<English>Lance Corporal</English>
 				<German>Unteroffizier</German>
 				<Chinesesimp>准下士</Chinesesimp>
-				<Russian>Lance Corporal</Russian>
+				<Russian>Младший Капрал</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR5_UF">
 				<Original>Corporal</Original>
 				<English>Corporal</English>
 				<German>Unterfeldwebel</German>
 				<Chinesesimp>下士</Chinesesimp>
-				<Russian>Corporal</Russian>
+				<Russian>Капрал</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR6_F">
 				<Original>Sergeant</Original>
@@ -22729,35 +22729,35 @@
 				<English>Staff Sergeant</English>
 				<German>Oberfeldwebel</German>
 				<Chinesesimp>上士</Chinesesimp>
-				<Russian>Staff Sergeant</Russian>
+				<Russian>Штаб Сержант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OR8_SFW">
 				<Original>Corp Sergeant Major</Original>
 				<English>Corp Sergeant Major</English>
 				<German>Stabsfeldwebel</German>
 				<Chinesesimp>军士长</Chinesesimp>
-				<Russian>Corp Sergeant Major</Russian>
+				<Russian>Ротный Сержант Майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF1_UL">
 				<Original>Lieutenant 3rd Class</Original>
 				<English>Lieutenant 3rd Class</English>
 				<German>Unterleutnant</German>
 				<Chinesesimp>准尉</Chinesesimp>
-				<Russian>Lieutenant 3rd Class</Russian>
+				<Russian>Лейтенант 3-го Класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF1_L">
 				<Original>Lieutenant 2nd Class</Original>
 				<English>Lieutenant 2nd Class</English>
 				<German>Leutnant</German>
 				<Chinesesimp>少尉</Chinesesimp>
-				<Russian>Lieutenant 2nd Class</Russian>
+				<Russian>Лейтенант 2-го Класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF1_OL">
 				<Original>Lieutenant 1st Class</Original>
 				<English>Lieutenant 1st Class</English>
 				<German>Oberleutnant</German>
 				<Chinesesimp>中尉</Chinesesimp>
-				<Russian>Lieutenant 1st Class</Russian>
+				<Russian>Лейтенант 1-го Класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF2_H">
 				<Original>Captain</Original>
@@ -22765,7 +22765,7 @@
 				<German>Hauptmann</German>
 				<Chinesesimp>上尉</Chinesesimp>
 				<Korean>대위</Korean>
-				<Russian>Captain</Russian>
+				<Russian>Капитан</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF3_M">
 				<Original>Major</Original>
@@ -22781,7 +22781,7 @@
 				<German>Oberstleutnant</German>
 				<Chinesesimp>中校</Chinesesimp>
 				<Korean>중령</Korean>
-				<Russian>Lieutenant Colonel</Russian>
+				<Russian>Подполковник</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GC_OF5_O">
 				<Original>Colonel</Original>
@@ -22789,37 +22789,42 @@
 				<German>Oberst</German>
 				<Chinesesimp>上校</Chinesesimp>
 				<Korean>대령</Korean>
-				<Russian>Colonel</Russian>
+				<Russian>Полковник</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_AIDE">
 				<Original>GDR - Aide</Original>
 				<English>GDR - Aide</English>
 				<German>NVA - Kommandantendienst</German>
 				<Chinesesimp>东德—总参谋部</Chinesesimp>
+				<Russian>GDR - Командная Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_AIRCRAFTSUPPLY">
 				<Original>GDR - Aircraft Supply</Original>
 				<English>GDR - Aircraft Supply</English>
 				<German>NVA - Fliegertechnische Versorgung</German>
 				<Chinesesimp>东德—飞机补给</Chinesesimp>
+				<Russian>GDR - Авиационное Снабжение</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_AIRDEFENCE">
 				<Original>GDR - Airdefence</Original>
 				<English>GDR - Airdefence</English>
 				<German>NVA - Kanoniere der Luftverteidigung</German>
 				<Chinesesimp>东德—防空</Chinesesimp>
+				<Russian>GDR - ПВО</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_AIRFIELDMAINTENANCE">
 				<Original>GDR - Airfield Maintenance</Original>
 				<English>GDR - Airfield Maintenance</English>
 				<German>NVA - Flugplatzwartungsgienst</German>
 				<Chinesesimp>东德—机场维修</Chinesesimp>
+				<Russian>GDR - Обслуживание Аэродромов</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_AIRPLANEMECHANIC">
 				<Original>GDR - Aircraft Mechanic</Original>
 				<English>GDR - Aircraft Mechanic</English>
 				<German>NVA - Flugzeugmechaniker</German>
 				<Chinesesimp>东德—飞机机械师</Chinesesimp>
+				<Russian>GDR - Авиамеханик</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_ARMORED">
 				<Original>GDR - Armored</Original>
@@ -22827,72 +22832,84 @@
 				<German>NVA - Panzer</German>
 				<Chinesesimp>东德—装甲载具</Chinesesimp>
 				<Korean>GDR - 기갑</Korean>
+				<Russian>GDR - Бронетехника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_ARMOREDMAINTENANCE">
 				<Original>GDR - Armored Technical Service</Original>
 				<English>GDR - Armored Technical Service</English>
 				<German>NVA - Panzertechnischer Dienst</German>
 				<Chinesesimp>东德—装甲技术服务部</Chinesesimp>
+				<Russian>GDR - Бронетанковая Техслужба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_ENGINEERING">
 				<Original>GDR - Engineering</Original>
 				<English>GDR - Engineering</English>
 				<German>NVA - Pioniere</German>
 				<Chinesesimp>东德—先锋</Chinesesimp>
+				<Russian>GDR - Инженерные</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_EXPLOSIVES">
 				<Original>GDR - Explosives</Original>
 				<English>GDR - Explosives</English>
 				<German>NVA - Feuerwerker</German>
 				<Chinesesimp>东德—爆炸物</Chinesesimp>
+				<Russian>GDR - Взрывчатка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_INTELLIGENCE">
 				<Original>GDR - Intelligence</Original>
 				<English>GDR - Intelligence</English>
 				<German>NVA - Nachrichten</German>
 				<Chinesesimp>东德—新闻中心</Chinesesimp>
+				<Russian>GDR - Служба Информации</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_INTELLIGENCESERVICE">
 				<Original>GDR - Intelligence Technical Service</Original>
 				<English>GDR - Intelligence Technical Service</English>
 				<German>NVA - Nachrichtentechnischer Dienst</German>
 				<Chinesesimp>东德—情报技术处</Chinesesimp>
+				<Russian>GDR - Информационно Техническая Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_MAINTENANCESERGEANT">
 				<Original>GDR - Maintenance Sergeant</Original>
 				<English>GDR - Maintenance Sergeant</English>
 				<German>NVA - Schirrmeister</German>
 				<Chinesesimp>东德—保养士官</Chinesesimp>
+				<Russian>GDR - Сержант тех.обслуживания</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_MEDICAL">
 				<Original>GDR - Medical Service</Original>
 				<English>GDR - Medical Service</English>
 				<German>NVA - Medizinischer Dienst</German>
 				<Chinesesimp>东德—医疗服务</Chinesesimp>
+				<Russian>GDR - Медицинская Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_METEOROLOGICAL">
 				<Original>GDR - Meteorological Service</Original>
 				<English>GDR - Meteorological Service</English>
 				<German>NVA - Metorologischer Dienst</German>
 				<Chinesesimp>东德—气象部门</Chinesesimp>
+				<Russian>GDR - Метеорологическая Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_MILITARYJUSTICE">
 				<Original>GDR - Military Justice</Original>
 				<English>GDR - Military Justice</English>
 				<German>NVA - Militärjustiz</German>
 				<Chinesesimp>东德—军事法庭</Chinesesimp>
+				<Russian>GDR - Военная Юстиция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_MILITARYTRANSPORT">
 				<Original>GDR - Military Transport</Original>
 				<English>GDR - Military Transport</English>
 				<German>NVA - Militärtransportwesen</German>
 				<Chinesesimp>东德—军事运输</Chinesesimp>
+				<Russian>GDR - Военно-транспортные</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_MOTORMAINTENANCE">
 				<Original>GDR - Motor Technical Service</Original>
 				<English>GDR - Motor Technical Service</English>
 				<German>NVA - Kfz-technischer Dienst</German>
 				<Chinesesimp>东德—引擎技术服务</Chinesesimp>
+				<Russian>GDR - Тех.обслуживание Двигателей</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_NBC">
 				<Original>GDR - Chemical Service</Original>
@@ -22900,24 +22917,28 @@
 				<German>NVA - Chemischer Dienst</German>
 				<Chinesesimp>东德—化学技术处</Chinesesimp>
 				<Korean>GDR - 화학대</Korean>
+				<Russian>GDR - Химическая Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_PARA">
 				<Original>GDR - Parachute Service</Original>
 				<English>GDR - Parachute Service</English>
 				<German>NVA - Fallschirmdienst</German>
 				<Chinesesimp>东德—降落伞技术处</Chinesesimp>
+				<Russian>GDR - Парашютная Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_PILOTSCHOOL">
 				<Original>GDR - Aviation Student</Original>
 				<English>GDR - Aviation Student</English>
 				<German>NVA - Flugschüler</German>
 				<Chinesesimp>东德—航空学生</Chinesesimp>
+				<Russian>GDR - Студент Авиатор</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_PSYOP">
 				<Original>GDR - Psyops</Original>
 				<English>GDR - Psyops</English>
 				<German>NVA - Wiedergabemechaniker</German>
 				<Chinesesimp>东德—心理战</Chinesesimp>
+				<Russian>GDR - Психологические Операции</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_RECON">
 				<Original>GDR - Recon</Original>
@@ -22925,6 +22946,7 @@
 				<German>NVA - Aufklärung</German>
 				<Chinesesimp>东德—侦察</Chinesesimp>
 				<Korean>GDR - 정찰대</Korean>
+				<Russian>GDR - Разведка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_ROCKETARTILLERY">
 				<Original>GDR - Rocketartillery</Original>
@@ -22932,18 +22954,21 @@
 				<German>NVA - Raketentruppen und Artillerie</German>
 				<Chinesesimp>东德—火箭炮部队</Chinesesimp>
 				<Korean>GDR - 로켓포병</Korean>
+				<Russian>GDR - Ракетная Артиллерия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_ROCKETARTILLERYMAINTENANCE">
 				<Original>GDR - Rocket and weaponry service</Original>
 				<English>GDR - Rocket and weaponry service</English>
 				<German>NVA - Raketen- und Waffentechnischer Dienst</German>
 				<Chinesesimp>东德—火箭和武器技术处</Chinesesimp>
+				<Russian>GDR - Ракетно-оружейная Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMPATCH_SIGINT">
 				<Original>GDR - Signals intelligence</Original>
 				<English>GDR - Signals intelligence</English>
 				<German>NVA - Funkortung</German>
 				<Chinesesimp>东德—电台定位</Chinesesimp>
+				<Russian>GDR - Радиолокационная Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_XX_CIV_MEN_80">
 				<Original>Men, '80</Original>
@@ -22951,6 +22976,7 @@
 				<German>Personen, '80</German>
 				<Chinesesimp>男人(80年代)</Chinesesimp>
 				<Korean>사람'80</Korean>
+				<Russian>Люди, '80</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_01_80_BLU">
 				<Original>Casual Clothing (Blue)</Original>
@@ -22958,6 +22984,7 @@
 				<German>Normale Kleidung (Blau)</German>
 				<Chinesesimp>休闲服(蓝色)</Chinesesimp>
 				<Korean>캐주얼 옷(파랑)</Korean>
+				<Russian>Повседневная одежда (Синяя)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_01_80_BLK">
 				<Original>Casual Clothing (Black)</Original>
@@ -22965,6 +22992,7 @@
 				<German>Normale Kleidung (Schwarz)</German>
 				<Chinesesimp>休闲服(黑色)</Chinesesimp>
 				<Korean>캐주얼 옷(검정)</Korean>
+				<Russian>Повседневная одежда (Черная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_02_80_BRN">
 				<Original>Casual Clothing (Brown)</Original>
@@ -22972,6 +23000,7 @@
 				<German>Normale Kleidung (Braun)</German>
 				<Chinesesimp>休闲服(棕色)</Chinesesimp>
 				<Korean>캐주얼 옷(갈색)</Korean>
+				<Russian>Повседневная одежда (Коричневая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_03_80_GRN">
 				<Original>T-Shirt (Green)</Original>
@@ -22979,6 +23008,7 @@
 				<German>T-Shirt (Grün)</German>
 				<Chinesesimp>T恤衫(绿色)</Chinesesimp>
 				<Korean>티셔츠 (초록)</Korean>
+				<Russian>Футболка (Зеленая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_03_80_GRY">
 				<Original>T-Shirt (Grey)</Original>
@@ -22986,6 +23016,7 @@
 				<German>T-Shirt (Grau)</German>
 				<Chinesesimp>T恤衫(灰色)</Chinesesimp>
 				<Korean>티셔츠 (회색)</Korean>
+				<Russian>Футболка (Серая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_03_80_BLU">
 				<Original>T-Shirt (Blue)</Original>
@@ -22993,6 +23024,7 @@
 				<German>T-Shirt (Blau)</German>
 				<Chinesesimp>T恤衫(蓝色)</Chinesesimp>
 				<Korean>티셔츠(파랑)</Korean>
+				<Russian>Футболка (Синяя)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_04_80_GRY">
 				<Original>Worker Suit (Grey)</Original>
@@ -23000,6 +23032,7 @@
 				<German>Latzhose (Grau)</German>
 				<Chinesesimp>工作服(灰色)</Chinesesimp>
 				<Korean>노동자복 (회색)</Korean>
+				<Russian>Рабочий Костюм (Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_UNIFORM_MAN_04_80_BLU">
 				<Original>Worker Suit (Blue)</Original>
@@ -23007,6 +23040,7 @@
 				<German>Latzhose (Blau)</German>
 				<Chinesesimp>工作服(蓝色)</Chinesesimp>
 				<Korean>노동자복 (파랑)</Korean>
+				<Russian>Рабочий Костюм (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_CIV_UNIFORM_BLOUSE_80_GRY">
 				<Original>Casual Clothing (Grey)</Original>
@@ -23014,6 +23048,7 @@
 				<German>Normale Kleidung (Grau)</German>
 				<Chinesesimp>休闲服(灰色)</Chinesesimp>
 				<Korean>캐주얼 옷 (회색)</Korean>
+				<Russian>Повседневная одежда (Серая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_01_80_BLU">
 				<Original>Man, Blue</Original>
@@ -23021,6 +23056,7 @@
 				<German>Mann, Blau</German>
 				<Chinesesimp>男人,蓝色</Chinesesimp>
 				<Korean>사람 (파랑)</Korean>
+				<Russian>Мужчина, Синий</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_01_80_BLK">
 				<Original>Man, Black</Original>
@@ -23028,6 +23064,7 @@
 				<German>Mann, Schwarz</German>
 				<Chinesesimp>男人,黑色</Chinesesimp>
 				<Korean>사람 (검정)</Korean>
+				<Russian>Мужчина, Чёрный</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_02_80_BRN">
 				<Original>Man, Brown</Original>
@@ -23035,6 +23072,7 @@
 				<German>Mann, Braun</German>
 				<Chinesesimp>男人,棕色</Chinesesimp>
 				<Korean>사람 (갈색)</Korean>
+				<Russian>Мужчина, Коричневый</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_03_80_GRN">
 				<Original>Man, Green T-Shirt</Original>
@@ -23042,6 +23080,7 @@
 				<German>Mann, T-Shirt, Grün</German>
 				<Chinesesimp>男人,绿色T恤衫</Chinesesimp>
 				<Korean>사람 (초록 티셔츠)</Korean>
+				<Russian>Мужчина, Зеленая футболка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_03_80_GRY">
 				<Original>Man, Grey T-Shirt</Original>
@@ -23049,6 +23088,7 @@
 				<German>Mann, T-Shirt, Grau</German>
 				<Chinesesimp>男人,灰色T恤衫</Chinesesimp>
 				<Korean>사람 (회색 티셔츠)</Korean>
+				<Russian>Мужчина, Серая футболка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_03_80_BLU">
 				<Original>Man, Blue T-Shirt</Original>
@@ -23056,6 +23096,7 @@
 				<German>Mann, T-Shirt, Blau</German>
 				<Chinesesimp>男人,蓝色T恤衫</Chinesesimp>
 				<Korean>사람(파랑 티셔츠)</Korean>
+				<Russian>Мужчина, Синяя футболка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_04_80_GRY">
 				<Original>Worker, Grey</Original>
@@ -23063,6 +23104,7 @@
 				<German>Arbeiter, Grau</German>
 				<Chinesesimp>工人, 灰色</Chinesesimp>
 				<Korean>노동자(회색옷)</Korean>
+				<Russian>Рабочий, Серый</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_04_80_BLU">
 				<Original>Worker, Blue</Original>
@@ -23070,6 +23112,7 @@
 				<German>Arbeiter, Blau</German>
 				<Chinesesimp>工人, 蓝色</Chinesesimp>
 				<Korean>노동자(파랑옷)</Korean>
+				<Russian>Рабочий, Синий</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_CIV_MAN_02_80_GRY">
 				<Original>Man, Grey</Original>
@@ -23077,6 +23120,7 @@
 				<German>Mann, Grau</German>
 				<Chinesesimp>男人,灰色</Chinesesimp>
 				<Korean>남자(회색옷)</Korean>
+				<Russian>Мужчина, Серый</Russian>
 			</Key>
 		</Container>
 		<Container name="gm_ge_characters">
@@ -23086,6 +23130,7 @@
 				<German>Schutzmaske M65</German>
 				<Chinesesimp>M65型 防毒面具</Chinesesimp>
 				<Korean>M65 방독면</Korean>
+				<Russian>Противогаз М65</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_FACEWEAR_M65">
 				<Original>NBC Protection</Original>
@@ -23093,6 +23138,7 @@
 				<German>ABC Schutzmaske</German>
 				<Chinesesimp>生化防护服</Chinesesimp>
 				<Korean>NBC 방호</Korean>
+				<Russian>ОЗК (Костюм Химзащиты)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_FACEWEAR_DUSTGLASSES">
 				<Original>Dust Glasses</Original>
@@ -23100,12 +23146,14 @@
 				<German>Staubschutzbrille</German>
 				<Chinesesimp>防尘眼镜</Chinesesimp>
 				<Korean>먼지막이 고글</Korean>
+				<Russian>Пылезащитные очки</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_FACEWEAR_SUNGLASSES">
 				<Original>Sun Glasses</Original>
 				<English>Sun Glasses</English>
 				<German>BW Sonnenbrille</German>
 				<Chinesesimp>太阳镜</Chinesesimp>
+				<Russian>Очки от солнца</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62">
 				<Original>Helmet M62</Original>
@@ -23113,6 +23161,7 @@
 				<German>Stahlhelm M62</German>
 				<Chinesesimp>M62型钢盔</Chinesesimp>
 				<Korean>M62 헬멧</Korean>
+				<Russian>Шлем M62</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_NET">
 				<Original>Helmet M62 (Mesh)</Original>
@@ -23120,6 +23169,7 @@
 				<German>Stahlhelm M62 (Netz)</German>
 				<Chinesesimp>M62型钢盔(网布)</Chinesesimp>
 				<Korean>M62 헬멧 (그물망)</Korean>
+				<Russian>Шлем M62 (Сетка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_WIN_PAP_01">
 				<Original>Helmet M62 (Winter)</Original>
@@ -23127,6 +23177,7 @@
 				<German>Stahlhelm M62 (Winter)</German>
 				<Chinesesimp>M62型钢盔(冬季)</Chinesesimp>
 				<Korean>M62 헬멧(겨울)</Korean>
+				<Russian>Шлем M62 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M35_53_BASE">
 				<Original>Helmet M35/53</Original>
@@ -23134,6 +23185,7 @@
 				<German>Stahlhelm M35/53</German>
 				<Chinesesimp>M35/53型钢盔</Chinesesimp>
 				<Korean>M35/53 헬멧</Korean>
+				<Russian>Шлем M35/53</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_HEADGEAR_M35_53_BLK">
 				<Original>Helmet M35/53</Original>
@@ -23141,6 +23193,7 @@
 				<German>Stahlhelm M35/53</German>
 				<Chinesesimp>M35/53型钢盔</Chinesesimp>
 				<Korean>M35/53 헬멧</Korean>
+				<Russian>Шлем M35/53</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_FF_HEADGEAR_M35_53_TAN">
 				<Original>Helmet M35/53 (Tan)</Original>
@@ -23148,6 +23201,7 @@
 				<German>Stahlhelm M35/53 (Beige)</German>
 				<Chinesesimp>M35/53型钢盔(沙漠)</Chinesesimp>
 				<Korean>M35/53 헬멧 (Tan)</Korean>
+				<Russian>Шлем M35/53 (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_HEADGEAR_M35_53_NET_BLK">
 				<Original>Helmet M35/53 (Mesh)</Original>
@@ -23155,6 +23209,7 @@
 				<German>Stahlhelm M35/53 (Netz)</German>
 				<Chinesesimp>M35/53型钢盔(网布)</Chinesesimp>
 				<Korean>M35/53 헬멧 (그물망)</Korean>
+				<Russian>Шлем M35/53 (Сетка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_FLK">
 				<Original>Helmet M92</Original>
@@ -23162,6 +23217,7 @@
 				<German>Gefechtshelm M92</German>
 				<Chinesesimp>M92型钢盔</Chinesesimp>
 				<Korean>M92 헬멧</Korean>
+				<Russian>Шлем M92</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_TRP">
 				<Original>Helmet M92 (3-Color)</Original>
@@ -23169,6 +23225,7 @@
 				<German>Gefechtshelm M92 (3-Farb)</German>
 				<Chinesesimp>M92型钢盔(三色)</Chinesesimp>
 				<Korean>M92 헬멧(3색)</Korean>
+				<Russian>Шлем M92 (3-Цветный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_COVER_WIN">
 				<Original>Helmet M92 (Winter)</Original>
@@ -23176,6 +23233,7 @@
 				<German>Gefechtshelm M92 (Winter)</German>
 				<Chinesesimp>M92型钢盔(冬季)</Chinesesimp>
 				<Korean>M92 헬멧(겨울)</Korean>
+				<Russian>Шлем M92 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_GLASSES_FLK">
 				<Original>Helmet M92 (Goggles)</Original>
@@ -23183,6 +23241,7 @@
 				<German>Gefechtshelm M92 (Brille)</German>
 				<Chinesesimp>M92型钢盔(眼镜)</Chinesesimp>
 				<Korean>M92 헬멧 (고글)</Korean>
+				<Russian>Шлем M92 (Очки)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_GLASSES_TRP">
 				<Original>Helmet M92 (3-Color, Goggles)</Original>
@@ -23190,6 +23249,7 @@
 				<German>Gefechtshelm M92 (3-Farb, Brille)</German>
 				<Chinesesimp>M92型钢盔(三色,眼镜)</Chinesesimp>
 				<Korean>M92 헬멧 (3색, 고글)</Korean>
+				<Russian>Шлем M92 (3-Цветный, Очки)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M92_COVER_GLASSES_WIN">
 				<Original>Helmet M92 (Winter, Goggles)</Original>
@@ -23197,6 +23257,7 @@
 				<German>Gefechtshelm M92 (Winter, Brille)</German>
 				<Chinesesimp>M92型钢盔(冬季,眼镜)</Chinesesimp>
 				<Korean>M92 헬멧 (겨울, 고글)</Korean>
+				<Russian>Шлем M92 (Зима, Очки)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_SPH4_BASE">
 				<Original>Helmet SPH-4</Original>
@@ -23204,6 +23265,7 @@
 				<German>Helm SPH-4</German>
 				<Chinesesimp>SPH-4型钢盔</Chinesesimp>
 				<Korean>SPH-4 헬멧</Korean>
+				<Russian>Шлем SPH-4</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_SPH4_OLI">
 				<Original>Helmet SPH-4</Original>
@@ -23212,6 +23274,7 @@
 				<Chinesesimp>SPH-4型钢盔</Chinesesimp>
 				<Korean>SPH-4 헬멧</Korean>
 				<Japanese>SPH-4 ヘルメット</Japanese>
+				<Russian>Шлем SPH-4</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_HEADGEAR_SPH4_BASE">
 				<Original>Aircraft Crew Helmet</Original>
@@ -23219,6 +23282,7 @@
 				<German>Pilotenhelm</German>
 				<Chinesesimp>机组人员头盔</Chinesesimp>
 				<Korean>항공기 조종사 헬멧</Korean>
+				<Russian>Шлем Пилота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_COVER_FLK">
 				<Original>Helmet M62 (Flecktarn)</Original>
@@ -23226,6 +23290,7 @@
 				<German>Helm M62 (Flecktarn)</German>
 				<Chinesesimp>M62型钢盔(斑纹迷彩)</Chinesesimp>
 				<Korean>M62 헬멧 (플레크타른)</Korean>
+				<Russian>Шлем M62 (Флектарн)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_COVER_BLU">
 				<Original>Helmet M62 (Blue)</Original>
@@ -23233,6 +23298,7 @@
 				<German>Helm M62 (Blau)</German>
 				<Chinesesimp>M62型钢盔(蓝色)</Chinesesimp>
 				<Korean>M62 헬멧 (파랑)</Korean>
+				<Russian>Шлем M62 (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_COVER_WIN">
 				<Original>Helmet M62 (Winter)</Original>
@@ -23240,6 +23306,7 @@
 				<German>Helm M62 (Winter)</German>
 				<Chinesesimp>M62型钢盔(冬季)</Chinesesimp>
 				<Korean>M62 헬멧 (겨울)</Korean>
+				<Russian>Шлем M62 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_M62_COVER_WDL">
 				<Original>Helmet M62 (Woodland)</Original>
@@ -23247,6 +23314,7 @@
 				<German>Helm M62 (Woodland)</German>
 				<Chinesesimp>M62型钢盔(林地)</Chinesesimp>
 				<Korean>M62 헬멧(우드랜드)</Korean>
+				<Russian>Шлем M62 (Лесной)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_GRN">
 				<Original>Beret (Green)</Original>
@@ -23254,6 +23322,7 @@
 				<German>Barett (Grün)</German>
 				<Chinesesimp>贝雷帽(绿色)</Chinesesimp>
 				<Korean>베레모(초록)</Korean>
+				<Russian>Берет (Зеленый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BDX">
 				<Original>Beret (Bordeaux)</Original>
@@ -23261,6 +23330,7 @@
 				<German>Barett (Bordeauxrot)</German>
 				<Chinesesimp>贝雷帽(波尔多红色)</Chinesesimp>
 				<Korean>베레모(보르도)</Korean>
+				<Russian>Берет (Бордо)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLK">
 				<Original>Beret (Black)</Original>
@@ -23268,6 +23338,7 @@
 				<German>Barett (Schwarz)</German>
 				<Chinesesimp>贝雷帽(黑色)</Chinesesimp>
 				<Korean>베레모(검정)</Korean>
+				<Russian>Берет (Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED">
 				<Original>Beret (Red)</Original>
@@ -23275,6 +23346,7 @@
 				<German>Barett (Korallenrot)</German>
 				<Chinesesimp>贝雷帽(红色)</Chinesesimp>
 				<Korean>베레모 (빨강)</Korean>
+				<Russian>Берет (Красный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLU">
 				<Original>Beret (Blue)</Original>
@@ -23282,6 +23354,7 @@
 				<German>Barett (Kobaltblau)</German>
 				<Chinesesimp>贝雷帽(蓝色)</Chinesesimp>
 				<Korean>베레모 (파랑)</Korean>
+				<Russian>Берет (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_MRB">
 				<Original>Beret (Dark Blue)</Original>
@@ -23289,6 +23362,7 @@
 				<German>Barett (Marineblau)</German>
 				<Chinesesimp>贝雷帽(深灰色)</Chinesesimp>
 				<Korean>베레모 (검파랑)</Korean>
+				<Russian>Берет (Темно-Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_UN">
 				<Original>Beret (Cyan)</Original>
@@ -23296,6 +23370,7 @@
 				<German>Barett (Cyan)</German>
 				<Chinesesimp>贝雷帽(青色)</Chinesesimp>
 				<Korean>베레모 (시안)</Korean>
+				<Russian>Берет (Голубой)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_90_FLK">
 				<Original>Field Cap (5-Color)</Original>
@@ -23303,6 +23378,7 @@
 				<German>Feldmütze (5-Farb)</German>
 				<Chinesesimp>野战帽(五色)</Chinesesimp>
 				<Korean>야전모 (5색)</Korean>
+				<Russian>Полевая кепка (5-цветная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_90_TRP">
 				<Original>Field Cap (3-Color)</Original>
@@ -23310,6 +23386,7 @@
 				<German>Feldmütze (3-Farb)</German>
 				<Chinesesimp>野战帽(三色)</Chinesesimp>
 				<Korean>야전모 (3색)</Korean>
+				<Russian>Полевая кепка (3-цветная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_80_OLI">
 				<Original>Field Cap (Olive)</Original>
@@ -23317,6 +23394,7 @@
 				<German>Feldmütze (Oliv)</German>
 				<Chinesesimp>野战帽(橄榄绿)</Chinesesimp>
 				<Korean>야전모 (올리브)</Korean>
+				<Russian>Полевая кепка (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_80_OLI_M62">
 				<Original>Field Cap (Olive w/ M62)</Original>
@@ -23324,6 +23402,7 @@
 				<German>Feldmütze (Oliv mit M62)</German>
 				<Chinesesimp>野战帽(橄榄绿,M62)</Chinesesimp>
 				<Korean>야전모 (올리브 w/ M62)</Korean>
+				<Russian>Полевая кепка (Олива w/M62)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_90_FLK_M92">
 				<Original>Field Cap (5-Color w/ M92)</Original>
@@ -23331,6 +23410,7 @@
 				<German>Feldmütze (5-Farb mit M92)</German>
 				<Chinesesimp>野战帽(五色,M92)</Chinesesimp>
 				<Korean>야전모 (5색 w/M92)</Korean>
+				<Russian>Полевая кепка (5-цветная w/M92)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_90_TRP_M92">
 				<Original>Field Cap (3-Color w/ M92)</Original>
@@ -23338,6 +23418,7 @@
 				<German>Feldmütze (3-Farb mit M92)</German>
 				<Chinesesimp>野战帽(三色,M92)</Chinesesimp>
 				<Korean>야전모 (3색 w/M92)</Korean>
+				<Russian>Полевая кепка (3-Цветная w/ M92)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_80_GRY">
 				<Original>Field Cap (Gray)</Original>
@@ -23345,6 +23426,7 @@
 				<German>Feldmütze (Grau)</German>
 				<Chinesesimp>野战帽(灰色)</Chinesesimp>
 				<Korean>야전모 (회색)</Korean>
+				<Russian>Полевая кепка (Серая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_OLI">
 				<Original>Boonie Hat (Olive)</Original>
@@ -23352,6 +23434,7 @@
 				<German>Dschungelhut (Oliv)</German>
 				<Chinesesimp>丛林帽(橄榄绿)</Chinesesimp>
 				<Korean>부니햇 (올리브)</Korean>
+				<Russian>Панама (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_WDL">
 				<Original>Boonie Hat (Woodland)</Original>
@@ -23359,6 +23442,7 @@
 				<German>Dschungelhut (Woodland)</German>
 				<Chinesesimp>丛林帽(林地)</Chinesesimp>
 				<Korean>부니햇(우드랜드)</Korean>
+				<Russian>Панама (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_HAT_BOONIE_M84">
 				<Original>Boonie Hat (M/84)</Original>
@@ -23366,6 +23450,7 @@
 				<German>Dschungelhut (M/84)</German>
 				<Chinesesimp>丛林帽(M/84)</Chinesesimp>
 				<Korean>부니햇 (M/84)</Korean>
+				<Russian>Панама (M/84)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_FLK">
 				<Original>Boonie Hat (5-Color)</Original>
@@ -23373,6 +23458,7 @@
 				<German>Dschungelhut (5-Farb)</German>
 				<Chinesesimp>丛林帽(五色)</Chinesesimp>
 				<Korean>부니햇 (5색)</Korean>
+				<Russian>Панама (5-цветная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BOONIE_TRP">
 				<Original>Boonie Hat (3-Color)</Original>
@@ -23380,6 +23466,7 @@
 				<German>Dschungelhut (3-Farb)</German>
 				<Chinesesimp>丛林帽(三色)</Chinesesimp>
 				<Korean>부니햇 (3색)</Korean>
+				<Russian>Панама (3-цветная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HAT_BEANIE_BLK">
 				<Original>Wool Hat (Black)</Original>
@@ -23387,6 +23474,7 @@
 				<German>Wollmütze (Schwarz)</German>
 				<Chinesesimp>毛线帽(黑色)</Chinesesimp>
 				<Korean>울재질 모자 (검정)</Korean>
+				<Russian>Шерстяная шапочка (Черная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_WINTERHAT_80_OLI">
 				<Original>Winter Hat</Original>
@@ -23394,6 +23482,7 @@
 				<German>Wintermütze</German>
 				<Chinesesimp>冬季毛线帽</Chinesesimp>
 				<Korean>겨울용 모자</Korean>
+				<Russian>Зимняя шапка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_HEADSET_CREW_OLI">
 				<Original>Crew Headset</Original>
@@ -23401,6 +23490,7 @@
 				<German>Sprechsatz</German>
 				<Chinesesimp>乘员受话器</Chinesesimp>
 				<Korean>승무원 헤드셋</Korean>
+				<Russian>Гарнитура экипажа</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_CREWHAT_80_BLK">
 				<Original>Crew Hat</Original>
@@ -23408,6 +23498,7 @@
 				<German>Panzerhaube</German>
 				<Chinesesimp>乘员帽</Chinesesimp>
 				<Korean>승무원 모자</Korean>
+				<Russian>Шлем экипажа</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_HEADGEAR_BERET_BASE">
 				<Original>Hat</Original>
@@ -23416,6 +23507,7 @@
 				<Chinesesimp>帽子</Chinesesimp>
 				<Korean>모자</Korean>
 				<Japanese>帽子</Japanese>
+				<Russian>Шляпа</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_HEADGEAR_M62">
 				<Original>Helmet</Original>
@@ -23423,6 +23515,7 @@
 				<German>Mütze, Stahl, Knitterfrei</German>
 				<Chinesesimp>头盔</Chinesesimp>
 				<Korean>헬멧</Korean>
+				<Russian>Шлем</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_PILOT_80_ROLLED_SAR">
 				<Original>Pilot (Rescue)</Original>
@@ -23430,6 +23523,7 @@
 				<German>Pilot (Rettung)</German>
 				<Chinesesimp>飞行员(救援)</Chinesesimp>
 				<Korean>조종사(구조)</Korean>
+				<Russian>Пилот (Спасатель)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BDX_ARMYAVIATION">
 				<Original>Beret (Army Aviation)</Original>
@@ -23437,6 +23531,7 @@
 				<German>Barett (Heeresflieger)</German>
 				<Chinesesimp>贝雷帽(陆军航空兵)</Chinesesimp>
 				<Korean>베레모 (육군항공대)</Korean>
+				<Russian>Берет (Армейская авиация)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BDX_LRRP">
 				<Original>Beret (LRR)</Original>
@@ -23444,6 +23539,7 @@
 				<German>Barett (Fernspäher)</German>
 				<Chinesesimp>贝雷帽(远程侦察兵)</Chinesesimp>
 				<Korean>베레모 (LRR)</Korean>
+				<Russian>Берет (Глубинная Разведка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BDX_PARATROOPER">
 				<Original>Beret (Paratroopers)</Original>
@@ -23451,6 +23547,7 @@
 				<German>Barett (Fallschirmjäger)</German>
 				<Chinesesimp>贝雷帽(伞兵)</Chinesesimp>
 				<Korean>베레모(공수부대)</Korean>
+				<Russian>Берет (ВДВ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BDX_SPECOP">
 				<Original>Beret (Special Forces)</Original>
@@ -23458,6 +23555,7 @@
 				<German>Barett (KSK)</German>
 				<Chinesesimp>贝雷帽(特种部队)</Chinesesimp>
 				<Korean>베레모(특수부대)</Korean>
+				<Russian>Берет (KSK Спецназ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLK_ANTITANK">
 				<Original>Beret (Anti Tank)</Original>
@@ -23465,6 +23563,7 @@
 				<German>Barett (Panzerjäger)</German>
 				<Chinesesimp>贝雷帽(AT)</Chinesesimp>
 				<Korean>베레모(대전차)</Korean>
+				<Russian>Берет (ПТ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLK_ARMOR">
 				<Original>Beret (Armor)</Original>
@@ -23472,6 +23571,7 @@
 				<German>Barett (Panzertruppe)</German>
 				<Chinesesimp>贝雷帽(装甲兵)</Chinesesimp>
 				<Korean>베레모 (기갑)</Korean>
+				<Russian>Берет (Танкист)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLK_ARMORRECON">
 				<Original>Beret (Armored Recon)</Original>
@@ -23479,6 +23579,7 @@
 				<German>Barett (Panzeraufklärer)</German>
 				<Chinesesimp>贝雷帽(装甲侦察兵)</Chinesesimp>
 				<Korean>베레모 (기갑정찰대)</Korean>
+				<Russian>Берет (Танковая разведка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLK_RECON">
 				<Original>Beret (Recon)</Original>
@@ -23486,6 +23587,7 @@
 				<German>Barett (Heeresaufklärer)</German>
 				<Chinesesimp>贝雷帽(侦查兵)</Chinesesimp>
 				<Korean>베레모 (정찰대)</Korean>
+				<Russian>Берет (Разведка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_GRN_GUARDBTL">
 				<Original>Beret (Guard Battalion)</Original>
@@ -23493,6 +23595,7 @@
 				<German>Barett (Wachbatallion)</German>
 				<Chinesesimp>贝雷帽(警卫营)</Chinesesimp>
 				<Korean>베레모 (근위대)</Korean>
+				<Russian>Берет (Батальон охраны)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_GRN_INFANTRY">
 				<Original>Beret (Infantry)</Original>
@@ -23500,6 +23603,7 @@
 				<German>Barett (Jägertruppe)</German>
 				<Chinesesimp>贝雷帽(步兵)</Chinesesimp>
 				<Korean>베레모 (보병)</Korean>
+				<Russian>Берет (Пехота)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_GRN_MECHINF">
 				<Original>Beret (Mechanized Infantry)</Original>
@@ -23507,6 +23611,7 @@
 				<German>Barett (Panzergrenadiere)</German>
 				<Chinesesimp>贝雷帽(机械化步兵)</Chinesesimp>
 				<Korean>베레모 (기계화보병)</Korean>
+				<Russian>Берет (Механизир. пехота)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_GRN_MUSIC">
 				<Original>Beret (Musical Corps)</Original>
@@ -23514,6 +23619,7 @@
 				<German>Barett (Musikkorps)</German>
 				<Chinesesimp>贝雷帽(文工团)</Chinesesimp>
 				<Korean>베레모 (군악대)</Korean>
+				<Russian>Берет (Музыкальный корпус)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_ANTIAIR">
 				<Original>Beret (Anti Air)</Original>
@@ -23521,6 +23627,7 @@
 				<German>Barett (Heeresflugabwehrtruppe)</German>
 				<Chinesesimp>贝雷帽(AA)</Chinesesimp>
 				<Korean>베레모 (대공)</Korean>
+				<Russian>Берет (ПВО)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_ARTILLERY">
 				<Original>Beret (Artillery)</Original>
@@ -23528,6 +23635,7 @@
 				<German>Barett (Artillerietruppe)</German>
 				<Chinesesimp>贝雷帽(炮兵)</Chinesesimp>
 				<Korean>베레모 (포병)</Korean>
+				<Russian>Берет (Артиллерия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_ENGINEER">
 				<Original>Beret (Engineer)</Original>
@@ -23535,6 +23643,7 @@
 				<German>Barett (Pioniertruppe)</German>
 				<Chinesesimp>贝雷帽(工程兵)</Chinesesimp>
 				<Korean>베레모 (공병)</Korean>
+				<Russian>Берет (Инженер)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_GEOINFO">
 				<Original>Beret (Topography)</Original>
@@ -23542,6 +23651,7 @@
 				<German>Barett (Topographietruppe)</German>
 				<Chinesesimp>贝雷帽(山地)</Chinesesimp>
 				<Korean>베레모 (산악)</Korean>
+				<Russian>Берет (Топография)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_MAINTENANCE">
 				<Original>Beret (Maintenance)</Original>
@@ -23549,6 +23659,7 @@
 				<German>Barett (Instandsetzungstruppe)</German>
 				<Chinesesimp>贝雷帽(维修)</Chinesesimp>
 				<Korean>베레모 (보수대)</Korean>
+				<Russian>Берет (Техобслуживание)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_MILITARYPOLICE">
 				<Original>Beret (Military Police)</Original>
@@ -23556,6 +23667,7 @@
 				<German>Barett (Feldjäger)</German>
 				<Chinesesimp>贝雷帽(宪兵)</Chinesesimp>
 				<Korean>베레모 (헌병)</Korean>
+				<Russian>Берет (Военная Полиция)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_NBC">
 				<Original>Beret (NBC)</Original>
@@ -23563,6 +23675,7 @@
 				<German>Barett (ABC-Abwehrtruppe)</German>
 				<Chinesesimp>贝雷帽(生化)</Chinesesimp>
 				<Korean>베레모 (NBC)</Korean>
+				<Russian>Берет (Химвойска)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_OPCOM">
 				<Original>Beret (Operative Communications)</Original>
@@ -23570,6 +23683,7 @@
 				<German>Barett (Operative Kommunikation)</German>
 				<Chinesesimp>贝雷帽(通信)</Chinesesimp>
 				<Korean>베레모 (작전통신)</Korean>
+				<Russian>Берет (Оперативная связь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_SIGNALS">
 				<Original>Beret (Signals)</Original>
@@ -23577,6 +23691,7 @@
 				<German>Barett (Fernmeldetruppe)</German>
 				<Chinesesimp>贝雷帽(信号)</Chinesesimp>
 				<Korean>베레모 (통신)</Korean>
+				<Russian>Берет (Корпус сигнальщиков)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_SUPPLY">
 				<Original>Beret (Supply)</Original>
@@ -23584,6 +23699,7 @@
 				<German>Barett (Nachschubtruppe)</German>
 				<Chinesesimp>贝雷帽(补给)</Chinesesimp>
 				<Korean>베레모 (보급)</Korean>
+				<Russian>Берет (Снабжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_BLU_MEDICAL">
 				<Original>Beret (Medical)</Original>
@@ -23591,6 +23707,7 @@
 				<German>Barett (Sanitätstruppe)</German>
 				<Chinesesimp>贝雷帽(医疗)</Chinesesimp>
 				<Korean>베레모 (의무)</Korean>
+				<Russian>Берет (Медик)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_HEADGEAR_HEADSET_CREW_BASE">
 				<Original>Headset</Original>
@@ -23598,6 +23715,7 @@
 				<German>Sprechsatz</German>
 				<Chinesesimp>耳机</Chinesesimp>
 				<Korean>헤드셋</Korean>
+				<Russian>Наушники</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BDX_ARMYAVIATION">
 				<Original>Crew Headset (ArmyAviation)</Original>
@@ -23605,6 +23723,7 @@
 				<German>Sprechsatz (Heeresflieger)</German>
 				<Chinesesimp>乘员耳机(陆军航空兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (육군항공대)</Korean>
+				<Russian>Гарнитура экипажа (Армейская авиация)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BDXAVIATION">
 				<Original>Crew Headset (ArmyAviation)</Original>
@@ -23612,6 +23731,7 @@
 				<German>Sprechsatz (Heeresflieger)</German>
 				<Chinesesimp>乘员耳机(陆军航空兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (육군항공대)</Korean>
+				<Russian>Гарнитура экипажа (Армейская авиация)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BDX_LRRP">
 				<Original>Crew Headset (LRR)</Original>
@@ -23619,6 +23739,7 @@
 				<German>Sprechsatz (Fernspäher)</German>
 				<Chinesesimp>乘员耳机(远程侦察兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (LRR)</Korean>
+				<Russian>Гарнитура (Глубинная Разведка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BDX_PARATROOPER">
 				<Original>Crew Headset (Paratroopers)</Original>
@@ -23626,6 +23747,7 @@
 				<German>Sprechsatz (Fallschirmjäger)</German>
 				<Chinesesimp>乘员耳机(伞兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (공수부대)</Korean>
+				<Russian>Гарнитура (ВДВ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BDX_SPECOP">
 				<Original>Crew Headset (SpecialForces)</Original>
@@ -23633,6 +23755,7 @@
 				<German>Sprechsatz (KSK)</German>
 				<Chinesesimp>乘员耳机(特种部队)</Chinesesimp>
 				<Korean>승무원 헤드셋 (특수부대)</Korean>
+				<Russian>Гарнитура (KSK Спецназ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BLK_ANTITANK">
 				<Original>Crew Headset (AntiTank)</Original>
@@ -23640,6 +23763,7 @@
 				<German>Sprechsatz (Panzerjäger)</German>
 				<Chinesesimp>乘员耳机(AT)</Chinesesimp>
 				<Korean>승무원 헤드셋 (대전차)</Korean>
+				<Russian>Гарнитура (ПТ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BLK_ARMOR">
 				<Original>Crew Headset (Armor)</Original>
@@ -23647,6 +23771,7 @@
 				<German>Sprechsatz (Panzertruppe)</German>
 				<Chinesesimp>乘员耳机(装甲兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (기갑)</Korean>
+				<Russian>Гарнитура (Танкист)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BLK_ARMORRECON">
 				<Original>Crew Headset (ArmoredRecon)</Original>
@@ -23654,6 +23779,7 @@
 				<German>Sprechsatz (Panzeraufklärer)</German>
 				<Chinesesimp>乘员耳机(装甲侦察兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (기갑정찰대)</Korean>
+				<Russian>Гарнитура (Танковая Разведка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BLK_RECON">
 				<Original>Crew Headset (Recon)</Original>
@@ -23661,6 +23787,7 @@
 				<German>Sprechsatz (Heeresaufklärer)</German>
 				<Chinesesimp>乘员耳机(侦查兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (정찰)</Korean>
+				<Russian>Гарнитура (Разведка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_GRN_GUARDBTL">
 				<Original>Crew Headset (GuardBattalion)</Original>
@@ -23668,6 +23795,7 @@
 				<German>Sprechsatz (Wachbatallion)</German>
 				<Chinesesimp>乘员耳机(警卫营)</Chinesesimp>
 				<Korean>승무원 헤드셋 (근위)</Korean>
+				<Russian>Гарнитура (Батальон охраны)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_GRN_INFANTRY">
 				<Original>Crew Headset (Infantry)</Original>
@@ -23675,6 +23803,7 @@
 				<German>Sprechsatz (Jägertruppe)</German>
 				<Chinesesimp>乘员耳机(步兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (보병)</Korean>
+				<Russian>Гарнитура (Пехота)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_GRN_MECHINF">
 				<Original>Crew Headset (MechanizedInfantry)</Original>
@@ -23682,6 +23811,7 @@
 				<German>Sprechsatz (Panzergrenadiere)</German>
 				<Chinesesimp>乘员耳机(机械化步兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (기계화보병)</Korean>
+				<Russian>Гарнитура (Механизир. пехота)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_GRN_MUSIC">
 				<Original>Crew Headset (MusicalCorps)</Original>
@@ -23689,6 +23819,7 @@
 				<German>Sprechsatz (Musikkorps)</German>
 				<Chinesesimp>乘员耳机(文工团)</Chinesesimp>
 				<Korean>승무원 헤드셋 (군악대)</Korean>
+				<Russian>Гарнитура (Музыкальный Корпус)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_ANTIAIR">
 				<Original>Crew Headset (AntiAir)</Original>
@@ -23696,6 +23827,7 @@
 				<German>Sprechsatz (Heeresflugabwehrtruppe)</German>
 				<Chinesesimp>乘员耳机(AA)</Chinesesimp>
 				<Korean>승무원 헤드셋 (대공)</Korean>
+				<Russian>Гарнитура (ПВО)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_ARTILLERY">
 				<Original>Crew Headset (Artillery)</Original>
@@ -23703,6 +23835,7 @@
 				<German>Sprechsatz (Artillerietruppe)</German>
 				<Chinesesimp>乘员耳机(炮兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (포병)</Korean>
+				<Russian>Гарнитура (Артиллерия)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_ENGINEER">
 				<Original>Crew Headset (Engineer)</Original>
@@ -23710,6 +23843,7 @@
 				<German>Sprechsatz (Pioniertruppe)</German>
 				<Chinesesimp>乘员耳机(工程兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (공병)</Korean>
+				<Russian>Гарнитура (Инженер)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_GEOINFO">
 				<Original>Crew Headset (Topography)</Original>
@@ -23717,6 +23851,7 @@
 				<German>Sprechsatz (Topographietruppe)</German>
 				<Chinesesimp>乘员耳机(山地)</Chinesesimp>
 				<Korean>승무원 헤드셋 (산악병)</Korean>
+				<Russian>Гарнитура (Топография)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_MAINTENANCE">
 				<Original>Crew Headset (Maintenance)</Original>
@@ -23724,6 +23859,7 @@
 				<German>Sprechsatz (Instandsetzungstruppe)</German>
 				<Chinesesimp>乘员耳机(维修)</Chinesesimp>
 				<Korean>승무원 헤드셋 (보수대)</Korean>
+				<Russian>Гарнитура (Ремонт.Служба)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_MILITARYPOLICE">
 				<Original>Crew Headset (MilitaryPolice)</Original>
@@ -23731,6 +23867,7 @@
 				<German>Sprechsatz (Feldjäger)</German>
 				<Chinesesimp>乘员耳机(宪兵)</Chinesesimp>
 				<Korean>승무원 헤드셋 (헌병)</Korean>
+				<Russian>Гарнитура (Военная Полиции)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_NBC">
 				<Original>Crew Headset (NBC)</Original>
@@ -23738,6 +23875,7 @@
 				<German>Sprechsatz (ABC-Abwehrtruppe)</German>
 				<Chinesesimp>乘员耳机(生化)</Chinesesimp>
 				<Korean>승무원 헤드셋 (NBC)</Korean>
+				<Russian>Гарнитура (Химвойска)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_OPCOM">
 				<Original>Crew Headset (OperativeCommunications)</Original>
@@ -23745,6 +23883,7 @@
 				<German>Sprechsatz (OperativeKommunikation)</German>
 				<Chinesesimp>乘员耳机(通信)</Chinesesimp>
 				<Korean>승무원 헤드셋 (작전통신)</Korean>
+				<Russian>Гарнитура (Оперативная связь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_SIGNALS">
 				<Original>Crew Headset (Signals)</Original>
@@ -23752,6 +23891,7 @@
 				<German>Sprechsatz (Fernmeldetruppe)</German>
 				<Chinesesimp>乘员耳机(信号)</Chinesesimp>
 				<Korean>승무원 헤드셋 (통신)</Korean>
+				<Russian>Гарнитура (Корпус сигнальщиков)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_SUPPLY">
 				<Original>Crew Headset (Supply)</Original>
@@ -23759,6 +23899,7 @@
 				<German>Sprechsatz (Nachschubtruppe)</German>
 				<Chinesesimp>乘员耳机(补给)</Chinesesimp>
 				<Korean>승무원 헤드셋 (보급)</Korean>
+				<Russian>Гарнитура (Снабжение)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_BLU_MEDICAL">
 				<Original>Crew Headset (Medical)</Original>
@@ -23766,6 +23907,7 @@
 				<German>Sprechsatz (Sanitätstruppe)</German>
 				<Chinesesimp>乘员耳机(医疗)</Chinesesimp>
 				<Korean>승무원 헤드셋 (의료)</Korean>
+				<Russian>Гарнитура (Медик)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_CREW_80_OLI">
 				<Original>Tank Suit (Olive)</Original>
@@ -23773,6 +23915,7 @@
 				<German>Panzerkombination (Oliv)</German>
 				<Chinesesimp>坦克服(橄榄绿)</Chinesesimp>
 				<Korean>전차복 (올리브)</Korean>
+				<Russian>Танковый комбез (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_CREW_90_FLK">
 				<Original>Tank Suit (5-Color)</Original>
@@ -23781,6 +23924,7 @@
 				<Chinesesimp>坦克服(五色)</Chinesesimp>
 				<Korean>전차복 (5색)</Korean>
 				<Japanese>電車服 (5色)</Japanese>
+				<Russian>Танковый комбез (5-Цветный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_CREW_90_TRP">
 				<Original>Tank Suit (3-Color)</Original>
@@ -23788,6 +23932,7 @@
 				<German>Panzerkombination (3-Farb)</German>
 				<Chinesesimp>坦克服(三色)</Chinesesimp>
 				<Korean>전차복 (3색)</Korean>
+				<Russian>Танковый комбез (3-Цветный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_80">
 				<Original>Field Dress (Olive)</Original>
@@ -23795,6 +23940,7 @@
 				<German>Feldanzug (Oliv)</German>
 				<Chinesesimp>野战服(橄榄绿)</Chinesesimp>
 				<Korean>야전복 (올리브)</Korean>
+				<Russian>Полевая форма (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_PARKA_80">
 				<Original>Field Parka (Olive)</Original>
@@ -23802,6 +23948,7 @@
 				<German>Feldanzug (Parka Oliv)</German>
 				<Chinesesimp>野战大衣(橄榄绿)</Chinesesimp>
 				<Korean>야전 파카 (올리브)</Korean>
+				<Russian>Полевая куртка (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_PARKA_80_WIN">
 				<Original>Field Parka (Winter)</Original>
@@ -23809,12 +23956,14 @@
 				<German>Feldanzug (Parka Winter)</German>
 				<Chinesesimp>野战大衣(冬季)</Chinesesimp>
 				<Korean>야전 파카 (겨울)</Korean>
+				<Russian>Полевая куртка (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_80_OLI">
 				<Original>Field Dress (Olive, Clean)</Original>
 				<English>Field Dress (Olive, Clean)</English>
 				<German>Feldanzug (Oliv, Sauber)</German>
 				<Chinesesimp>野战服(橄榄绿,干净)</Chinesesimp>
+				<Russian>Полевой костюм (Олива, Чистый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_PARKA_80_OLI">
 				<Original>Field Parka (Olive, Clean)</Original>
@@ -23822,18 +23971,21 @@
 				<German>Feldanzug (Parka Oliv, Sauber)</German>
 				<Chinesesimp>野战大衣(橄榄绿,干净)</Chinesesimp>
 				<Korean>야전 파카 (올리브, 깨끗함)</Korean>
+				<Russian>Полевая куртка (Олива, Чистая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_80_OLS">
 				<Original>Field Dress (Olive)</Original>
 				<English>Field Dress (Olive)</English>
 				<German>Feldanzug (Oliv)</German>
 				<Chinesesimp>野战服(橄榄绿)</Chinesesimp>
+				<Russian>Полевой костюм (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_GLOVES_80_OLS">
 				<Original>Field Dress (Olive, Gloves)</Original>
 				<English>Field Dress (Olive, Gloves)</English>
 				<German>Feldanzug (Oliv, Handschuhe)</German>
 				<Chinesesimp>野战服(橄榄绿,手套)</Chinesesimp>
+				<Russian>Полевой костюм (Олива, Грязный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_SOLDIER_PARKA_80_OLS">
 				<Original>Field Parka (Olive)</Original>
@@ -23841,6 +23993,7 @@
 				<German>Feldanzug (Parka Oliv)</German>
 				<Chinesesimp>野战大衣(橄榄绿)</Chinesesimp>
 				<Korean>야전 파카 (올리브)</Korean>
+				<Russian>Полевая куртка (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_TSHIRT_90_FLK">
 				<Original>Combat Suit (T-Shirt)</Original>
@@ -23848,6 +24001,7 @@
 				<German>Kampfanzug (T-Shirt)</German>
 				<Chinesesimp>作战服(T恤)</Chinesesimp>
 				<Korean>전투복 (티셔츠)</Korean>
+				<Russian>Боевая форма (Футболка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_TSHIRT_90_TRP">
 				<Original>Combat Suit (3-Color, T-Shirt)</Original>
@@ -23855,6 +24009,7 @@
 				<German>Kampfanzug (3-Farb, T-Shirt)</German>
 				<Chinesesimp>作战服(三色,T恤)</Chinesesimp>
 				<Korean>전투복 (3색, 티셔츠)</Korean>
+				<Russian>Боевая форма (3-цвет. Футболка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_90_FLK">
 				<Original>Combat Suit</Original>
@@ -23862,6 +24017,7 @@
 				<German>Kampfanzug</German>
 				<Chinesesimp>作战服</Chinesesimp>
 				<Korean>전투복</Korean>
+				<Russian>Боевая форма</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_90_TRP">
 				<Original>Combat Suit (3-Color)</Original>
@@ -23869,6 +24025,7 @@
 				<German>Kampfanzug (3-Farb)</German>
 				<Chinesesimp>作战服(三色)</Chinesesimp>
 				<Korean>전투복 (3색)</Korean>
+				<Russian>Боевая форма (3-цветная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_ROLLED_90_FLK">
 				<Original>Combat Suit (Rolled)</Original>
@@ -23876,6 +24033,7 @@
 				<German>Kampfanzug (Ärmel)</German>
 				<Chinesesimp>作战服(卷袖)</Chinesesimp>
 				<Korean>전투복 (팔걷음)</Korean>
+				<Russian>Боевая форма (Закатаный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_ROLLED_90_TRP">
 				<Original>Combat Suit (Rolled, 3-Color)</Original>
@@ -23883,6 +24041,7 @@
 				<German>Kampfanzug (Ärmel, 3-Farb)</German>
 				<Chinesesimp>作战服(卷袖,三色)</Chinesesimp>
 				<Korean>전투복 (팔걷음, 3색)</Korean>
+				<Russian>Боевая форма (Закатаный, 3-цвет.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_PILOT_OLI">
 				<Original>Flight Suit (Olive)</Original>
@@ -23890,6 +24049,7 @@
 				<German>Fliegerkombi (Oliv)</German>
 				<Chinesesimp>飞行服(橄榄绿)</Chinesesimp>
 				<Korean>비행복 (올리브)</Korean>
+				<Russian>Летный костюм (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_UNIFORM_PILOT_GRN">
 				<Original>Flight Suit (Green)</Original>
@@ -23897,6 +24057,7 @@
 				<German>Fliegerkombi (Grün)</German>
 				<Chinesesimp>飞行服(绿色)</Chinesesimp>
 				<Korean>비행복 (초록)</Korean>
+				<Russian>Летный костюм (Зелёный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_PILOT_SAR">
 				<Original>Flight Suit (Orange)</Original>
@@ -23904,6 +24065,7 @@
 				<German>Fliegerkombi (Rettung)</German>
 				<Chinesesimp>飞行服(橙色)</Chinesesimp>
 				<Korean>비행복 (오렌지)</Korean>
+				<Russian>Летный костюм (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_PILOT_ROLLED_OLI">
 				<Original>Flight Suit (Olive, Rolled)</Original>
@@ -23911,6 +24073,7 @@
 				<German>Fliegerkombi (Oliv, Ärmel)</German>
 				<Chinesesimp>飞行服(橄榄色,卷袖)</Chinesesimp>
 				<Korean>비행복 (올리브，팔걷음)</Korean>
+				<Russian>Летный костюм (Олива, Закатанный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_UNIFORM_PILOT_ROLLED_GRN">
 				<Original>Flight Suit (Green, Rolled)</Original>
@@ -23918,6 +24081,7 @@
 				<German>Fliegerkombi (Grün, Ärmel)</German>
 				<Chinesesimp>飞行服(绿色,卷袖)</Chinesesimp>
 				<Korean>비행복 (초록, 팔걷음)</Korean>
+				<Russian>Летный костюм (Зелёный, Закатанный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_UNIFORM_PILOT_ROLLED_SAR">
 				<Original>Flight Suit (Orange, Rolled)</Original>
@@ -23925,6 +24089,7 @@
 				<German>Fliegerkombi (Orange, Ärmel)</German>
 				<Chinesesimp>飞行服(橙色,卷袖)</Chinesesimp>
 				<Korean>비행복 (오렌지, 팔걷음)</Korean>
+				<Russian>Летный костюм (Оранжевый, Закатанный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_BDU_80_WDL">
 				<Original>Battle Dress Uniform (Woodland, Gloves)</Original>
@@ -23932,6 +24097,7 @@
 				<German>Kampfanzug (Woodland, Handschuhe)</German>
 				<Chinesesimp>战斗服(林地,手套)</Chinesesimp>
 				<Korean>BDU (우드랜드, 장갑)</Korean>
+				<Russian>Боевой костюм (Лес, Перчатки)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SOLDIER_BDU_ROLLED_80_WDL">
 				<Original>Battle Dress Uniform (Woodland, Rolled)</Original>
@@ -23939,6 +24105,7 @@
 				<German>Kampfanzug (Woodland, Ärmel)</German>
 				<Chinesesimp>战斗服(林地,卷袖)</Chinesesimp>
 				<Korean>BDU (우드랜드, 팔걷음)</Korean>
+				<Russian>Боевой костюм (Лес, Закатанный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_XX_UNIFORM_SOLDIER_BDU_80_WDL">
 				<Original>Battle Dress Uniform (Woodland, Gloves)</Original>
@@ -23946,6 +24113,7 @@
 				<German>Kampfanzug (Woodland, Handschuhe)</German>
 				<Chinesesimp>战斗服(林地,手套)</Chinesesimp>
 				<Korean>BDU (우드랜드, 장갑)</Korean>
+				<Russian>Боевой костюм (Лес, Перчатки)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_XX_UNIFORM_SOLDIER_BDU_NOGLOVES_80_WDL">
 				<Original>Battle Dress Uniform (Woodland)</Original>
@@ -23953,6 +24121,7 @@
 				<German>Kampfanzug (Woodland)</German>
 				<Chinesesimp>战斗服(林地)</Chinesesimp>
 				<Korean>BDU (우드랜드)</Korean>
+				<Russian>Боевой костюм (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_XX_UNIFORM_SOLDIER_BDU_ROLLED_80_WDL">
 				<Original>Battle Dress Uniform (Woodland, Rolled)</Original>
@@ -23960,6 +24129,7 @@
 				<German>Kampfanzug (Woodland, Ärmel)</German>
 				<Chinesesimp>战斗服(林地,卷袖)</Chinesesimp>
 				<Korean>BDU (우드랜드, 팔걷음)</Korean>
+				<Russian>Боевой костюм (Лес, Закатанный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_UNIFORM_SUIT_80">
 				<Original>Service Suit</Original>
@@ -23967,6 +24137,7 @@
 				<German>Dienstanzug</German>
 				<Chinesesimp>常服</Chinesesimp>
 				<Korean>생존용 복장</Korean>
+				<Russian>Служебный костюм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_UNIFORM_SUIT_80_GRN">
 				<Original>Police Service Uniform</Original>
@@ -23974,6 +24145,7 @@
 				<German>Polizeidienstuniform</German>
 				<Chinesesimp>警用常服</Chinesesimp>
 				<Korean>생존용 복장 (경찰)</Korean>
+				<Russian>Полицейская униформа</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_UNIFORM_BLOUSE_80_BLK">
 				<Original>Police Patrol Uniform</Original>
@@ -23981,6 +24153,7 @@
 				<German>Polizeiwachdienstuniform</German>
 				<Chinesesimp>警用巡逻服</Chinesesimp>
 				<Korean>경찰 순찰복</Korean>
+				<Russian>Полицейская форма патрульного</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_DBP_UNIFORM_SUIT_80_BLU">
 				<Original>Uniform Mailman</Original>
@@ -23988,6 +24161,7 @@
 				<German>Briefträgeruniform</German>
 				<Chinesesimp>邮差服</Chinesesimp>
 				<Korean>우체부 복장</Korean>
+				<Russian>Униформа почтальона</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_UNIFORM_SOLDIER_80_SMP">
 				<Original>Battle Suit Borderguards</Original>
@@ -23995,6 +24169,7 @@
 				<German>Kampfanzug BGS</German>
 				<Chinesesimp>边防部队作战服</Chinesesimp>
 				<Korean>전투복 (국경 경비대)</Korean>
+				<Russian>Полевая Форма пограничника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_FF_UNIFORM_MAN_80_ORN">
 				<Original>Firefighter Suit</Original>
@@ -24002,6 +24177,7 @@
 				<German>Feuerwehranzug</German>
 				<Chinesesimp>消防员服</Chinesesimp>
 				<Korean>소방대복</Korean>
+				<Russian>Костюм пожарного</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_HEADGEAR_CAP_80_GRN">
 				<Original>Police Cap (Green)</Original>
@@ -24009,6 +24185,7 @@
 				<German>Polizeimütze (Grün)</German>
 				<Chinesesimp>警帽(绿色)</Chinesesimp>
 				<Korean>경찰모 (초록)</Korean>
+				<Russian>Полицейская фуражка (Зеленая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_HEADGEAR_CAP_80_WHT">
 				<Original>Police Cap (White)</Original>
@@ -24016,6 +24193,7 @@
 				<German>Polizeimütze (Weiß)</German>
 				<Chinesesimp>警帽(白色)</Chinesesimp>
 				<Korean>경찰모 (하양)</Korean>
+				<Russian>Полицейская фуражка (Белая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_DBP_HEADGEAR_CAP_80_BLU">
 				<Original>Postman Cap</Original>
@@ -24023,6 +24201,7 @@
 				<German>Briefträgermütze</German>
 				<Chinesesimp>邮差帽</Chinesesimp>
 				<Korean>우체부 모자</Korean>
+				<Russian>Фуражка почтальона</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_OFFICER_80_GRN">
 				<Original>Police Officer</Original>
@@ -24030,6 +24209,7 @@
 				<German>Wachmeister</German>
 				<Chinesesimp>警官</Chinesesimp>
 				<Korean>고위 경찰관</Korean>
+				<Russian>Офицер Полиции</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_PATROL_80_BLK">
 				<Original>Policeman</Original>
@@ -24037,6 +24217,7 @@
 				<German>Polizist</German>
 				<Chinesesimp>警察</Chinesesimp>
 				<Korean>경찰관</Korean>
+				<Russian>Полицейский</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_DBP_MAN_01_80_BLU">
 				<Original>Mailman</Original>
@@ -24044,6 +24225,7 @@
 				<German>Briefträger</German>
 				<Chinesesimp>邮差</Chinesesimp>
 				<Korean>우체부</Korean>
+				<Russian>Почтальон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_BAG">
 				<Original>Gasmask-bag</Original>
@@ -24051,6 +24233,7 @@
 				<German>Gasmaskentasche</German>
 				<Chinesesimp>防毒面具袋</Chinesesimp>
 				<Korean>방독면 가방</Korean>
+				<Russian>Противогазная сумка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_BELT">
 				<Original>Belt (West German)</Original>
@@ -24058,6 +24241,7 @@
 				<German>Koppel (Westdeutschland)</German>
 				<Chinesesimp>腰带(西德)</Chinesesimp>
 				<Korean>벨트(서독)</Korean>
+				<Russian>Пояс (ФРГ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_LEADER">
 				<Original>Gear, Leader</Original>
@@ -24065,12 +24249,14 @@
 				<German>Gerödel, Führer</German>
 				<Chinesesimp>背心(队长)</Chinesesimp>
 				<Korean>서스펜더 (지휘관)</Korean>
+				<Russian>Снаряжение Командира</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_LEADER_SMG">
 				<Original>Gear, Leader, SMG</Original>
 				<English>Gear, Leader, SMG</English>
 				<German>Gerödel, Führer, Maschinenpistole</German>
 				<Chinesesimp>背心，冲锋枪(队长)</Chinesesimp>
+				<Russian>Снаряжение Командира, ПП</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_RIFLEMAN">
 				<Original>Gear, Rifleman</Original>
@@ -24078,12 +24264,14 @@
 				<German>Gerödel, Schütze</German>
 				<Chinesesimp>背心(步枪兵)</Chinesesimp>
 				<Korean>서스펜더 (소총수)</Korean>
+				<Russian>Снаряжение стрелка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_RIFLEMAN_SMG">
 				<Original>Gear, SMG</Original>
 				<English>Gear, SMG</English>
 				<German>Gerödel, Maschinenpistole</German>
 				<Chinesesimp>背心(冲锋枪兵)</Chinesesimp>
+				<Russian>Снаряжение, ПП(пист.пулемёт)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_CREW">
 				<Original>Gear, Crew</Original>
@@ -24091,6 +24279,7 @@
 				<German>Gerödel, Besatzung</German>
 				<Chinesesimp>背心(乘员)</Chinesesimp>
 				<Korean>서스펜더 (승무원)</Korean>
+				<Russian>Снаряжение экипажа</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_DEMOLITION">
 				<Original>Gear, Detonator</Original>
@@ -24098,6 +24287,7 @@
 				<German>Gerödel, Zündmaschine</German>
 				<Chinesesimp>背心(爆破)</Chinesesimp>
 				<Korean>서스펜더 (폭파병)</Korean>
+				<Russian>Снаряжение взрывотехника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_MACHINEGUNNER">
 				<Original>Gear, Machinegunner</Original>
@@ -24105,6 +24295,7 @@
 				<German>Gerödel, MG-Schütze</German>
 				<Chinesesimp>背心(机枪手)</Chinesesimp>
 				<Korean>서스펜더 (기관총사수)</Korean>
+				<Russian>Снаряжение пулемётчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_MEDIC">
 				<Original>Gear, Medic</Original>
@@ -24112,6 +24303,7 @@
 				<German>Gerödel, Sanpersonal</German>
 				<Chinesesimp>背心(医疗)</Chinesesimp>
 				<Korean>서스펜더 (의무병)</Korean>
+				<Russian>Снаряжение медика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_MP_WHT">
 				<Original>Gear, Military Police</Original>
@@ -24119,6 +24311,7 @@
 				<German>Weißzeug, Feldjäger</German>
 				<Chinesesimp>背心(宪兵)</Chinesesimp>
 				<Korean>서스펜더 (헌병)</Korean>
+				<Russian>Снаряжение Военной полиции</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_80_OFFICER">
 				<Original>Gear, Officer</Original>
@@ -24126,6 +24319,7 @@
 				<German>Gerödel, Offizier</German>
 				<Chinesesimp>背心(军官)</Chinesesimp>
 				<Korean>서스펜더 (장교)</Korean>
+				<Russian>Снаряжение офицера</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_VEST_80_WHT">
 				<Original>Gear, Police</Original>
@@ -24133,6 +24327,7 @@
 				<German>Weißzeug, Polizei</German>
 				<Chinesesimp>背心(警察)</Chinesesimp>
 				<Korean>서스펜더 (경찰)</Korean>
+				<Russian>Снаряжение полиции</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BGS_VEST_80_RIFLEMAN">
 				<Original>Gear, Borderguards</Original>
@@ -24140,6 +24335,7 @@
 				<German>Gerödel, BGS</German>
 				<Chinesesimp>背心(边防部队)</Chinesesimp>
 				<Korean>서스펜더 (국경 경비대)</Korean>
+				<Russian>Снаряжение пограничника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_FLK">
 				<Original>Flak Vest</Original>
@@ -24147,6 +24343,7 @@
 				<German>SpliSchu</German>
 				<Chinesesimp>防弹背心</Chinesesimp>
 				<Korean>방탄복</Korean>
+				<Russian>Бронежилет</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_CREW_FLK">
 				<Original>Flak Vest, Crew</Original>
@@ -24154,6 +24351,7 @@
 				<German>SpliSchu, Besatzung</German>
 				<Chinesesimp>防弹背心(乘员)</Chinesesimp>
 				<Korean>방탄복 (승무원)</Korean>
+				<Russian>Бронежилет Экипаж</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_LEADER_FLK">
 				<Original>Flak Vest, Leader</Original>
@@ -24161,6 +24359,7 @@
 				<German>SpliSchu, Führer</German>
 				<Chinesesimp>防弹背心(队长)</Chinesesimp>
 				<Korean>방탄복 (지휘자)</Korean>
+				<Russian>Бронежилет командира</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_MACHINEGUNNER_FLK">
 				<Original>Flak Vest, Machinegunner</Original>
@@ -24168,6 +24367,7 @@
 				<German>SpliSchu, MG-Schütze</German>
 				<Chinesesimp>防弹背心(机枪手)</Chinesesimp>
 				<Korean>방탄복 (기관총사수)</Korean>
+				<Russian>Бронежилет пулеметчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_OFFICER_FLK">
 				<Original>Flak Vest, Officer</Original>
@@ -24175,6 +24375,7 @@
 				<German>SpliSchu, Offizier</German>
 				<Chinesesimp>防弹背心(军官)</Chinesesimp>
 				<Korean>방탄복 (장교)</Korean>
+				<Russian>Бронежилет офицера</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_RIFLEMAN_FLK">
 				<Original>Flak Vest, Rifleman</Original>
@@ -24182,6 +24383,7 @@
 				<German>SpliSchu, Schütze</German>
 				<Chinesesimp>防弹背心(步枪兵)</Chinesesimp>
 				<Korean>방탄복 (소총수)</Korean>
+				<Russian>Бронежилет стрелка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_DEMOLITION_FLK">
 				<Original>Flak Vest, Demolition</Original>
@@ -24189,6 +24391,7 @@
 				<German>SpliSchu, Zündmaschine</German>
 				<Chinesesimp>防弹背心(爆破)</Chinesesimp>
 				<Korean>방탄복 (폭파병)</Korean>
+				<Russian>Бронежилет подрывника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_ARMOR_90_MEDIC_FLK">
 				<Original>Flak Vest, Medic</Original>
@@ -24196,6 +24399,7 @@
 				<German>SpliSchu, Sanpersonal</German>
 				<Chinesesimp>防弹背心(医疗)</Chinesesimp>
 				<Korean>방탄복 (의무병)</Korean>
+				<Russian>Бронежилет медика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_CREW_FLK">
 				<Original>Belt Rig, Crew</Original>
@@ -24203,6 +24407,7 @@
 				<German>Lochkoppel, Besatzung</German>
 				<Chinesesimp>战术背心(乘员)</Chinesesimp>
 				<Korean>벨트 리그 (승무원)</Korean>
+				<Russian>Тактический пояс, Экипаж</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_DEMOLITION_FLK">
 				<Original>Belt Rig, Demolition</Original>
@@ -24210,6 +24415,7 @@
 				<German>Lochkoppel, Zündmaschine</German>
 				<Chinesesimp>战术背心(爆破)</Chinesesimp>
 				<Korean>벨트 리그 (폭파병)</Korean>
+				<Russian>Тактический пояс подрывника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_LEADER_FLK">
 				<Original>Belt Rig, Leader</Original>
@@ -24217,6 +24423,7 @@
 				<German>Lochkoppel, Führer</German>
 				<Chinesesimp>战术背心(队长)</Chinesesimp>
 				<Korean>벨트 리그 (지휘자)</Korean>
+				<Russian>Тактический пояс командира</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_MACHINEGUNNER_FLK">
 				<Original>Belt Rig, Machinegunner</Original>
@@ -24224,6 +24431,7 @@
 				<German>Lochkoppel, MG-Schütze</German>
 				<Chinesesimp>战术背心(机枪手)</Chinesesimp>
 				<Korean>벨트 리그 (기관총사수)</Korean>
+				<Russian>Тактический пояс пулеметчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_MEDIC_FLK">
 				<Original>Belt Rig, Medic</Original>
@@ -24231,6 +24439,7 @@
 				<German>Lochkoppel, Sanpersonal</German>
 				<Chinesesimp>战术背心(医疗)</Chinesesimp>
 				<Korean>벨트 리그 (의무병)</Korean>
+				<Russian>Тактический пояс медика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_OFFICER_FLK">
 				<Original>Belt Rig, Officer</Original>
@@ -24238,6 +24447,7 @@
 				<German>Lochkoppel, Offizier</German>
 				<Chinesesimp>战术背心(军官)</Chinesesimp>
 				<Korean>벨트 리그 (장교)</Korean>
+				<Russian>Тактический пояс офицера</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_90_RIFLEMAN_FLK">
 				<Original>Belt Rig, Rifleman</Original>
@@ -24245,6 +24455,7 @@
 				<German>Lochkoppel, Schütze</German>
 				<Chinesesimp>战术背心(步枪兵)</Chinesesimp>
 				<Korean>벨트 리그 (소총수)</Korean>
+				<Russian>Тактический пояс стрелка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_PILOT_OLI">
 				<Original>Ballistic Vest, Pilot</Original>
@@ -24252,6 +24463,7 @@
 				<German>Schutzweste, Pilot</German>
 				<Chinesesimp>防弹背心(飞行员)</Chinesesimp>
 				<Korean>방탄조끼 (조종사)</Korean>
+				<Russian>Бронежилет пилота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_VEST_PILOT_PADS_OLI">
 				<Original>Ballistic Vest, Pilot (w/ Shoulderpads)</Original>
@@ -24259,18 +24471,21 @@
 				<German>Schutzweste, Pilot (Schulterstk.)</German>
 				<Chinesesimp>防弹背心(飞行员,肩部护板)</Chinesesimp>
 				<Korean>방탄조끼 (조종사, w/ 어깨보호대)</Korean>
+				<Russian>Бронежилет пилота (Наплечники)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_VEST_80_BELT">
 				<Original>Belt With Lock (Olive)</Original>
 				<English>Belt With Lock (Olive)</English>
 				<German>Koppel, mit Schloss (Oliv)</German>
 				<Chinesesimp>带锁腰带(橄榄绿)</Chinesesimp>
+				<Russian>Ремень с замком (Оливковый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_VEST_SAFETY">
 				<Original>High Visibility Vest</Original>
 				<English>High Visibility Vest</English>
 				<German>Warnweste</German>
 				<Chinesesimp>安全背心</Chinesesimp>
+				<Russian>Спасательный жилет</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BACKPACK_80_OLI">
 				<Original>Infantry Backpack (Olive)</Original>
@@ -24278,18 +24493,21 @@
 				<German>Jägerrucksack, (Oliv)</German>
 				<Chinesesimp>步兵背包(橄榄绿)</Chinesesimp>
 				<Korean>보병 백팩 (올리브)</Korean>
+				<Russian>Пехотный рюкзак (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BACKPACK_SATCHEL_80_BLK">
 				<Original>Satchel (Black)</Original>
 				<English>Satchel (Black)</English>
 				<German>Umhängetasche (Schwarz)</German>
 				<Chinesesimp>挎包(黑色)</Chinesesimp>
+				<Russian>Сумка (Черная)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BACKPACK_SATCHEL_80_SAN">
 				<Original>Satchel (Medical)</Original>
 				<English>Satchel (Medical)</English>
 				<German>Umhängetasche (Sanitäter)</German>
 				<Chinesesimp>挎包(医疗)</Chinesesimp>
+				<Russian>Сумка (Медицинская)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BACKPACK_90_FLK">
 				<Original>Combat Backpack</Original>
@@ -24297,6 +24515,7 @@
 				<German>Kampfrucksack</German>
 				<Chinesesimp>战斗背包</Chinesesimp>
 				<Korean>전투 백팩</Korean>
+				<Russian>Боевой рюкзак</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BACKPACK_90_TRP">
 				<Original>Combat Backpack (3-Color)</Original>
@@ -24304,6 +24523,7 @@
 				<German>Kampfrucksack (3-Color)</German>
 				<Chinesesimp>战斗背包(三色)</Chinesesimp>
 				<Korean>전투 백팩 (3색)</Korean>
+				<Russian>Боевой рюкзак (3-цветный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BACKPACK_90_COVER_WIN">
 				<Original>Combat Backpack (Winter)</Original>
@@ -24311,6 +24531,7 @@
 				<German>Kampfrucksack (Winter)</German>
 				<Chinesesimp>战斗背包(冬季)</Chinesesimp>
 				<Korean>전투 백팩 (겨울)</Korean>
+				<Russian>Боевой рюкзак (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_BACKPACK_SEM35_OLI">
 				<Original>Radio SEM 35</Original>
@@ -24318,12 +24539,14 @@
 				<German>Funkgerät SEM 35</German>
 				<Chinesesimp>SEM 35型电台</Chinesesimp>
 				<Korean>SEM 35 라디오</Korean>
+				<Russian>Рация SEM 35</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR5_OM">
 				<Original>Petty Officer, 2nd Class</Original>
 				<English>Petty Officer, 2nd Class</English>
 				<German>Obermaat</German>
 				<Chinesesimp>二级军士长</Chinesesimp>
+				<Russian>Старшина 2-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR6_F">
 				<Original>Sergeant</Original>
@@ -24331,18 +24554,21 @@
 				<German>Feldwebel</German>
 				<Chinesesimp>中士</Chinesesimp>
 				<Korean>중사</Korean>
+				<Russian>Сержант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR6_B">
 				<Original>Petty Offiecer, 1st Class</Original>
 				<English>Petty Offiecer, 1st Class</English>
 				<German>Bootsman</German>
 				<Chinesesimp>一级军士长</Chinesesimp>
+				<Russian>Старшина 1-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR6_OB">
 				<Original>Chief Petty Officer, 2nd Class</Original>
 				<English>Chief Petty Officer, 2nd Class</English>
 				<German>Oberbootsman</German>
 				<Chinesesimp>二级士官长</Chinesesimp>
+				<Russian>Главный старшина 2-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR6_OF">
 				<Original>Staff Sergeant</Original>
@@ -24350,120 +24576,140 @@
 				<German>Oberfeldwebel</German>
 				<Chinesesimp>上士</Chinesesimp>
 				<Korean>상사</Korean>
+				<Russian>Штаб-сержант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR7_HF">
 				<Original>Chief Petty Officer, 1st Class</Original>
 				<English>Chief Petty Officer, 1st Class</English>
 				<German>Hauptfeldwebel</German>
 				<Chinesesimp>一级士官长</Chinesesimp>
+				<Russian>Главный старшина 1-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR7_HB">
 				<Original>Sergeant Major</Original>
 				<English>Sergeant Major</English>
 				<German>Hauptbootsman</German>
 				<Chinesesimp>中士</Chinesesimp>
+				<Russian>Сержант-майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR8_SF">
 				<Original>Corp Sergeant Major</Original>
 				<English>Corp Sergeant Major</English>
 				<German>Stabsfeldwebel</German>
 				<Chinesesimp>上士</Chinesesimp>
+				<Russian>Главный сержант-майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR8_SB">
 				<Original>Master Sergeant</Original>
 				<English>Master Sergeant</English>
 				<German>Stabsbootsman</German>
 				<Chinesesimp>一级中士</Chinesesimp>
+				<Russian>Мастер-сержант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR9_OSF">
 				<Original>Field Sergeant</Original>
 				<English>Field Sergeant</English>
 				<German>Oberstabsfeldwebel</German>
 				<Chinesesimp>野战中士</Chinesesimp>
+				<Russian>Полевой сержант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR9_OSB">
 				<Original>Sergeant Major</Original>
 				<English>Sergeant Major</English>
 				<German>Oberstabsbootsman</German>
 				<Chinesesimp>中士</Chinesesimp>
+				<Russian>Старший Сержант-майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF1_L">
 				<Original>Lieutenant 2nd Class</Original>
 				<English>Lieutenant 2nd Class</English>
 				<German>Leutnant</German>
 				<Chinesesimp>二级中尉</Chinesesimp>
+				<Russian>Лейтенант 2-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF1_OL">
 				<Original>Lieutenant 1st Class</Original>
 				<English>Lieutenant 1st Class</English>
 				<German>Oberleutnant</German>
 				<Chinesesimp>一级中尉</Chinesesimp>
+				<Russian>Лейтенант 1-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF2_H">
 				<Original>Captain</Original>
 				<English>Captain</English>
 				<German>Hauptmann</German>
 				<Chinesesimp>上尉</Chinesesimp>
+				<Russian>Капитан</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF2_KL">
 				<Original>Captain</Original>
 				<English>Captain</English>
 				<German>Kapitänleutnant</German>
 				<Chinesesimp>上尉</Chinesesimp>
+				<Russian>Капитан-лейтенант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF2_SH">
 				<Original>Staff Captain</Original>
 				<English>Staff Captain</English>
 				<German>Stabshauptmann</German>
 				<Chinesesimp>准少校</Chinesesimp>
+				<Russian>Штабс-капитан</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF2_SKL">
 				<Original>Staff Captain</Original>
 				<English>Staff Captain</English>
 				<German>Stabskapitänleutnant</German>
 				<Chinesesimp>准少校</Chinesesimp>
+				<Russian>Штабс капитан-лейтенант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF3_M">
 				<Original>Major</Original>
 				<English>Major</English>
 				<German>Major</German>
 				<Chinesesimp>少校</Chinesesimp>
+				<Russian>Майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF3_KK">
 				<Original>Major</Original>
 				<English>Major</English>
 				<German>Korvettenkapitän</German>
 				<Chinesesimp>少校</Chinesesimp>
+				<Russian>Майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF4_OTL">
 				<Original>Lieutenant Colonel</Original>
 				<English>Lieutenant Colonel</English>
 				<German>Oberstleutnant</German>
 				<Chinesesimp>中校</Chinesesimp>
+				<Russian>Подполковник</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF4_FK">
 				<Original>Lieutenant Colonel</Original>
 				<English>Lieutenant Colonel</English>
 				<German>Fregattenkapitän</German>
 				<Chinesesimp>中校</Chinesesimp>
+				<Russian>Капитан 2 ранга</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF5_O">
 				<Original>Colonel</Original>
 				<English>Colonel</English>
 				<German>Oberst</German>
 				<Chinesesimp>上校</Chinesesimp>
+				<Russian>Полковник</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF6_BG">
 				<Original>Brigadier General</Original>
 				<English>Brigadier General</English>
 				<German>Brigadegeneral</German>
 				<Chinesesimp>准将</Chinesesimp>
+				<Russian>Бригадный Генерал</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF7_GM">
 				<Original>Major General</Original>
 				<English>Major General</English>
 				<German>Generalmajor</German>
 				<Chinesesimp>少将</Chinesesimp>
+				<Russian>Генерал-Майор</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF8_GL">
 				<Original>Lieutenant General</Original>
@@ -24471,6 +24717,7 @@
 				<German>Generalleutnant</German>
 				<Chinesesimp>中将</Chinesesimp>
 				<Korean>중령</Korean>
+				<Russian>Генерал-Лейтенант</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OF5_KZS">
 				<Original>Colonel</Original>
@@ -24478,6 +24725,7 @@
 				<German>Kapitän zur See</German>
 				<Chinesesimp>上将</Chinesesimp>
 				<Korean>대령</Korean>
+				<Russian>Капитан 1 ранга</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_INFANTRY_SQUAD">
 				<Original>Squad</Original>
@@ -24485,6 +24733,7 @@
 				<German>Gruppe</German>
 				<Chinesesimp>班</Chinesesimp>
 				<Korean>분대</Korean>
+				<Russian>Отряд</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_INFANTRY_MGGROUP">
 				<Original>MG-Group</Original>
@@ -24492,6 +24741,7 @@
 				<German>MG Trupp</German>
 				<Chinesesimp>MG小组</Chinesesimp>
 				<Korean>기관총 분대</Korean>
+				<Russian>Пулеметное отделение</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_INFANTRY_ATGROUP">
 				<Original>AT-Group</Original>
@@ -24499,6 +24749,7 @@
 				<German>Panzervernichtungstrupp</German>
 				<Chinesesimp>AT小组</Chinesesimp>
 				<Korean>대전차 분대</Korean>
+				<Russian>ПТ Отделение</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_DEFAULT">
 				<Original>None</Original>
@@ -24506,6 +24757,7 @@
 				<German>Keins</German>
 				<Chinesesimp>无</Chinesesimp>
 				<Korean>없음</Korean>
+				<Russian>Нет</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_AO">
 				<Original>AO</Original>
@@ -24513,6 +24765,7 @@
 				<German>AO</German>
 				<Chinesesimp>任务区</Chinesesimp>
 				<Korean>AO</Korean>
+				<Russian>Район Миссии</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_BVW">
 				<Original>BvW</Original>
@@ -24520,6 +24773,7 @@
 				<German>BvW</German>
 				<Chinesesimp>BvW</Chinesesimp>
 				<Korean>BvW</Korean>
+				<Russian>BvW</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_FVW">
 				<Original>FvW</Original>
@@ -24527,6 +24781,7 @@
 				<German>FvW</German>
 				<Chinesesimp>FvW</Chinesesimp>
 				<Korean>FvW</Korean>
+				<Russian>FvW</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_GREEN">
 				<Original>Green</Original>
@@ -24534,6 +24789,7 @@
 				<German>Grün</German>
 				<Chinesesimp>绿</Chinesesimp>
 				<Korean>초록</Korean>
+				<Russian>Зеленый</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_GVD">
 				<Original>GvD</Original>
@@ -24541,6 +24797,7 @@
 				<German>GvD</German>
 				<Chinesesimp>GvD</Chinesesimp>
 				<Korean>GvD</Korean>
+				<Russian>GvD</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_LD">
 				<Original>LD</Original>
@@ -24548,6 +24805,7 @@
 				<German>LD</German>
 				<Chinesesimp>LD</Chinesesimp>
 				<Korean>LD</Korean>
+				<Russian>LD</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_LEITENDER">
 				<Original>Commanding</Original>
@@ -24555,6 +24813,7 @@
 				<German>Leitender</German>
 				<Chinesesimp>指挥</Chinesesimp>
 				<Korean>명령중</Korean>
+				<Russian>Командование</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_MP">
 				<Original>MP</Original>
@@ -24562,12 +24821,14 @@
 				<German>MP</German>
 				<Chinesesimp>MP</Chinesesimp>
 				<Korean>MP</Korean>
+				<Russian>MP</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_MPDIENST">
 				<Original>MP Detail</Original>
 				<English>MP Detail</English>
 				<German>MP Dienst</German>
 				<Chinesesimp>MP详情</Chinesesimp>
+				<Russian>MP части</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_MVD">
 				<Original>MvD</Original>
@@ -24575,6 +24836,7 @@
 				<German>MvD</German>
 				<Chinesesimp>MvD</Chinesesimp>
 				<Korean>MvD</Korean>
+				<Russian>MvD</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_NATO_MP">
 				<Original>MP (NATO)</Original>
@@ -24582,6 +24844,7 @@
 				<German>MP (NATO)</German>
 				<Chinesesimp>MP (NATO)</Chinesesimp>
 				<Korean>MP (NATO)</Korean>
+				<Russian>MP (NATO)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_RED">
 				<Original>Red</Original>
@@ -24589,6 +24852,7 @@
 				<German>Rot</German>
 				<Chinesesimp>红</Chinesesimp>
 				<Korean>빨강</Korean>
+				<Russian>Красный</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_SAN">
 				<Original>Medic</Original>
@@ -24596,6 +24860,7 @@
 				<German>Sanitäter</German>
 				<Chinesesimp>医疗</Chinesesimp>
 				<Korean>의무병</Korean>
+				<Russian>Медицина</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_SANHELFER">
 				<Original>Medical detail</Original>
@@ -24603,6 +24868,7 @@
 				<German>Sanhelfer</German>
 				<Chinesesimp>医疗详情</Chinesesimp>
 				<Korean>상세한 의료</Korean>
+				<Russian>Медицинские части</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_STREIFE">
 				<Original>Patrol</Original>
@@ -24610,6 +24876,7 @@
 				<German>Streife</German>
 				<Chinesesimp>巡逻</Chinesesimp>
 				<Korean>순찰</Korean>
+				<Russian>Патруль</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_TRANSPORT">
 				<Original>Transport</Original>
@@ -24617,6 +24884,7 @@
 				<German>Transport</German>
 				<Chinesesimp>运输</Chinesesimp>
 				<Korean>운송</Korean>
+				<Russian>Транспорт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_UU">
 				<Original>Accident Investigation</Original>
@@ -24624,6 +24892,7 @@
 				<German>Unfalluntersuchung</German>
 				<Chinesesimp>意外调查</Chinesesimp>
 				<Korean>사고조사</Korean>
+				<Russian>Расследование Несчастных Случаев</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_UVD">
 				<Original>UvD</Original>
@@ -24631,6 +24900,7 @@
 				<German>UvD</German>
 				<Chinesesimp>UvD</Chinesesimp>
 				<Korean>UvD</Korean>
+				<Russian>UvD</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_WACHE">
 				<Original>Guard</Original>
@@ -24638,6 +24908,7 @@
 				<German>Wache</German>
 				<Chinesesimp>警卫</Chinesesimp>
 				<Korean>경비대</Korean>
+				<Russian>Охрана</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMBAND_WHITE">
 				<Original>White</Original>
@@ -24645,6 +24916,7 @@
 				<German>Weiß</German>
 				<Chinesesimp>白</Chinesesimp>
 				<Korean>하양</Korean>
+				<Russian>Белый</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ARTILLERY">
 				<Original>Artillery</Original>
@@ -24652,6 +24924,7 @@
 				<German>Artillerietruppe</German>
 				<Chinesesimp>炮兵</Chinesesimp>
 				<Korean>포병</Korean>
+				<Russian>Артиллерия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_NBC">
 				<Original>NBC</Original>
@@ -24659,6 +24932,7 @@
 				<German>ABC-Abwehr</German>
 				<Chinesesimp>防化兵</Chinesesimp>
 				<Korean>NBC</Korean>
+				<Russian>Химзащита</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ANTITANK">
 				<Original>Anti Armor</Original>
@@ -24666,6 +24940,7 @@
 				<German>Panzerjäger</German>
 				<Chinesesimp>AT</Chinesesimp>
 				<Korean>대기갑</Korean>
+				<Russian>ПТ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ANTIAIR">
 				<Original>Anti Air</Original>
@@ -24673,6 +24948,7 @@
 				<German>Heeresflugabwehr</German>
 				<Chinesesimp>AA</Chinesesimp>
 				<Korean>대공</Korean>
+				<Russian>ПВО</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ARMOR">
 				<Original>Armored</Original>
@@ -24680,6 +24956,7 @@
 				<German>Panzertruppe</German>
 				<Chinesesimp>APC</Chinesesimp>
 				<Korean>기갑</Korean>
+				<Russian>Бронетехника</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ARMORRECON">
 				<Original>Armored Reconnaissance</Original>
@@ -24687,6 +24964,7 @@
 				<German>Panzeraufklärer</German>
 				<Chinesesimp>装甲侦查</Chinesesimp>
 				<Korean>무인 공격기</Korean>
+				<Russian>Бронированная разведка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_MILITARYPOLICE">
 				<Original>Military Police</Original>
@@ -24694,6 +24972,7 @@
 				<German>Militärpolizei</German>
 				<Chinesesimp>宪兵</Chinesesimp>
 				<Korean>헌병</Korean>
+				<Russian>Военная Полиция</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_SIGNALS">
 				<Original>Signal Corps</Original>
@@ -24701,6 +24980,7 @@
 				<German>Fernmelder</German>
 				<Chinesesimp>通信兵</Chinesesimp>
 				<Korean>통신대</Korean>
+				<Russian>Корпус Связи</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_INFANTRY">
 				<Original>Infantry</Original>
@@ -24708,6 +24988,7 @@
 				<German>Jäger</German>
 				<Chinesesimp>步兵</Chinesesimp>
 				<Korean>보병</Korean>
+				<Russian>Пехота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_PARATROOPER">
 				<Original>Paratroopers</Original>
@@ -24715,6 +24996,7 @@
 				<German>Fallschirmjäger</German>
 				<Chinesesimp>伞兵</Chinesesimp>
 				<Korean>공수부대</Korean>
+				<Russian>Десантники</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_MECHINF">
 				<Original>Mechanized Infantry</Original>
@@ -24722,6 +25004,7 @@
 				<German>Panzergrenadiere</German>
 				<Chinesesimp>机械化步兵</Chinesesimp>
 				<Korean>기계화보병</Korean>
+				<Russian>Мотопехота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_MNTNINF">
 				<Original>Mountain Infantry</Original>
@@ -24729,12 +25012,14 @@
 				<German>Gebirgsjäger</German>
 				<Chinesesimp>山地步兵</Chinesesimp>
 				<Korean>산악병</Korean>
+				<Russian>Горная пехота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_SUPPLY">
 				<Original>Supply Corps</Original>
 				<English>Supply Corps</English>
 				<German>Logistiktruppe</German>
 				<Chinesesimp>后勤补给</Chinesesimp>
+				<Russian>Тыловая Служба</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_MEDICAL">
 				<Original>Medical Corps</Original>
