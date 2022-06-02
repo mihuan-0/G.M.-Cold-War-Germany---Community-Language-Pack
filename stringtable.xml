@@ -23691,7 +23691,7 @@
 				<German>Barett (Fernmeldetruppe)</German>
 				<Chinesesimp>贝雷帽(信号)</Chinesesimp>
 				<Korean>베레모 (통신)</Korean>
-				<Russian>Берет (Корпус сигнальщиков)</Russian>
+				<Russian>Берет (Связь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_RED_SUPPLY">
 				<Original>Beret (Supply)</Original>
@@ -23891,7 +23891,7 @@
 				<German>Sprechsatz (Fernmeldetruppe)</German>
 				<Chinesesimp>乘员耳机(信号)</Chinesesimp>
 				<Korean>승무원 헤드셋 (통신)</Korean>
-				<Russian>Гарнитура (Корпус сигнальщиков)</Russian>
+				<Russian>Гарнитура (Связь)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_HEADGEAR_BERET_CREW_RED_SUPPLY">
 				<Original>Crew Headset (Supply)</Original>
@@ -24980,7 +24980,7 @@
 				<German>Fernmelder</German>
 				<Chinesesimp>通信兵</Chinesesimp>
 				<Korean>통신대</Korean>
-				<Russian>Корпус Связи</Russian>
+				<Russian>Войска Связи</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_INFANTRY">
 				<Original>Infantry</Original>
@@ -25027,6 +25027,7 @@
 				<German>Sanitätstruppe</German>
 				<Chinesesimp>医疗队</Chinesesimp>
 				<Korean>의무대</Korean>
+				<Russian>Медицинские войска</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ARMYAVIATION">
 				<Original>Army Aviation</Original>
@@ -25034,6 +25035,7 @@
 				<German>Heeresflieger</German>
 				<Chinesesimp>陆军航空兵</Chinesesimp>
 				<Korean>육군항공대</Korean>
+				<Russian>Армейская авиация</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_MAINTENANCE">
 				<Original>Maintenance</Original>
@@ -25041,6 +25043,7 @@
 				<German>Instandsetzung</German>
 				<Chinesesimp>维修</Chinesesimp>
 				<Korean>보수대</Korean>
+				<Russian>Техобслуживание</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_ENGINEER">
 				<Original>Engineering</Original>
@@ -25048,6 +25051,7 @@
 				<German>Pioniere</German>
 				<Chinesesimp>工程</Chinesesimp>
 				<Korean>공병</Korean>
+				<Russian>Инженерные</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_MUSIC">
 				<Original>Musical Detail</Original>
@@ -25055,6 +25059,7 @@
 				<German>Heeresmusik</German>
 				<Chinesesimp>军乐</Chinesesimp>
 				<Korean>군악대</Korean>
+				<Russian>Музыкальные части</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_AIRFORCE">
 				<Original>Airforce</Original>
@@ -25062,6 +25067,7 @@
 				<German>Luftwaffe</German>
 				<Chinesesimp>空军</Chinesesimp>
 				<Korean>공군</Korean>
+				<Russian>ВВС</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_GENERALS">
 				<Original>Generals</Original>
@@ -25069,6 +25075,7 @@
 				<German>General</German>
 				<Chinesesimp>将军</Chinesesimp>
 				<Korean>장군</Korean>
+				<Russian>Генералы</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_AIDES">
 				<Original>Aides</Original>
@@ -25076,6 +25083,7 @@
 				<German>Generalstab</German>
 				<Chinesesimp>总参谋部</Chinesesimp>
 				<Korean>조력</Korean>
+				<Russian>Генеральный штаб</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BRANCH_GE_NAVY">
 				<Original>Federal Navy</Original>
@@ -25083,6 +25091,7 @@
 				<German>Marine</German>
 				<Chinesesimp>联邦海军</Chinesesimp>
 				<Korean>연방 해군</Korean>
+				<Russian>Федеральный флот</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_RANK_TYPE_ARMY_WHT">
 				<Original>Army (Silver)</Original>
@@ -25090,6 +25099,7 @@
 				<German>Heer (Silber)</German>
 				<Chinesesimp>陆军(银)</Chinesesimp>
 				<Korean>육군 (은색)</Korean>
+				<Russian>Армия (Серебро)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_RANK_TYPE_ARMY_BLK">
 				<Original>Army (Black)</Original>
@@ -25097,18 +25107,21 @@
 				<German>Heer (Schwarz)</German>
 				<Chinesesimp>陆军(黑)</Chinesesimp>
 				<Korean>육군 (검정)</Korean>
+				<Russian>Армия (Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_RANK_TYPE_AIRFORCE_WHT">
 				<Original>Airforce (Silver)</Original>
 				<English>Airforce (Silver)</English>
 				<German>Luftwaffe (Silber)</German>
 				<Chinesesimp>空军(银)</Chinesesimp>
+				<Russian>ВВС (Серебро)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_RANK_TYPE_AIRFORCE_BLK">
 				<Original>Airforce (Black)</Original>
 				<English>Airforce (Black)</English>
 				<German>Luftwaffe (Schwarz)</German>
 				<Chinesesimp>空军(黑)</Chinesesimp>
+				<Russian>ВВС (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_RANK_TYPE_AIRFORCE">
 				<Original>Airforce</Original>
@@ -25116,6 +25129,7 @@
 				<German>Luftwaffe</German>
 				<Chinesesimp>空军</Chinesesimp>
 				<Korean>공군</Korean>
+				<Russian>ВВС</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_RANK_TYPE_NAVY">
 				<Original>Navy</Original>
@@ -25123,6 +25137,7 @@
 				<German>Marine</German>
 				<Chinesesimp>海军</Chinesesimp>
 				<Korean>해군</Korean>
+				<Russian>ВМФ</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR1_S">
 				<Original>Soldier</Original>
@@ -25130,6 +25145,7 @@
 				<German>Soldat</German>
 				<Chinesesimp>士兵</Chinesesimp>
 				<Korean>병사</Korean>
+				<Russian>Солдат</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR1_M">
 				<Original>Sailor</Original>
@@ -25137,54 +25153,63 @@
 				<German>Matrose</German>
 				<Chinesesimp>水手</Chinesesimp>
 				<Korean>수병</Korean>
+				<Russian>Матрос</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR2_G">
 				<Original>Private</Original>
 				<English>Private</English>
 				<German>Gefreiter</German>
 				<Chinesesimp>列兵</Chinesesimp>
+				<Russian>Рядовой</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR3_OG">
 				<Original>Private 1st Class</Original>
 				<English>Private 1st Class</English>
 				<German>Obergefreiter</German>
 				<Chinesesimp>一等兵</Chinesesimp>
+				<Russian>Рядовой 1-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR4_HG">
 				<Original>Private 2nd Class</Original>
 				<English>Private 2nd Class</English>
 				<German>Hauptgefreiter</German>
 				<Chinesesimp>二等兵</Chinesesimp>
+				<Russian>Рядовой 2-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR4_SG">
 				<Original>Private 3rd Class</Original>
 				<English>Private 3rd Class</English>
 				<German>Stabsgefreiter</German>
 				<Chinesesimp>三等兵</Chinesesimp>
+				<Russian>Рядовой 3-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR4_OSG">
 				<Original>Private 4th Class</Original>
 				<English>Private 4th Class</English>
 				<German>Oberstabsgefreiter</German>
 				<Chinesesimp>四等兵</Chinesesimp>
+				<Russian>Рядовой 4-го класса</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR5_U">
 				<Original>Lance Corporal</Original>
 				<English>Lance Corporal</English>
 				<German>Unteroffizier</German>
 				<Chinesesimp>准下士</Chinesesimp>
+				<Russian>Младший Капрал</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR5_SU">
 				<Original>Corporal</Original>
 				<English>Corporal</English>
 				<German>Stabsunteroffizier</German>
 				<Chinesesimp>下士</Chinesesimp>
+				<Russian>Капрал</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_GE_OR5_M">
 				<Original>Petty Officer</Original>
 				<English>Petty Officer</English>
 				<German>Maat</German>
 				<Chinesesimp>士官长</Chinesesimp>
+				<Russian>Старшина</Russian>
 			</Key>
 		</Container>
 		<Container name="gm_dk_characters">
@@ -25194,6 +25219,7 @@
 				<German>Stahlhelm</German>
 				<Chinesesimp>钢盔</Chinesesimp>
 				<Korean>철모</Korean>
+				<Russian>Стальной шлем</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M52_OLI">
 				<Original>Helmet M/52</Original>
@@ -25201,6 +25227,7 @@
 				<German>Stahlhelm M/52</German>
 				<Chinesesimp>M/52型头盔</Chinesesimp>
 				<Korean>M/52 헬멧</Korean>
+				<Russian>Шлем M/52</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M52_NET_OLI">
 				<Original>Helmet M/52 (Mesh)</Original>
@@ -25208,6 +25235,7 @@
 				<German>Stahlhelm M/52 (Netz)</German>
 				<Chinesesimp>M/52型头盔(网布)</Chinesesimp>
 				<Korean>M/52 헬멧 (그물망)</Korean>
+				<Russian>Шлем M/52 (Сетка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M52_NET_WIN">
 				<Original>Helmet M/52 (Winter)</Original>
@@ -25215,6 +25243,7 @@
 				<German>Stahlhelm M/52 (Winter)</German>
 				<Chinesesimp>M/52型头盔(冬季)</Chinesesimp>
 				<Korean>M/52 헬멧 (겨울)</Korean>
+				<Russian>Шлем M/52 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_UNIFORM_SOLDIER_84_M84">
 				<Original>Combat Uniform M/84</Original>
@@ -25222,6 +25251,7 @@
 				<German>Kampfuniform M/84</German>
 				<Chinesesimp>M/84型作战服</Chinesesimp>
 				<Korean>M/84 전투복</Korean>
+				<Russian>Боевая форма M/84</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_UNIFORM_SOLDIER_84_WIN">
 				<Original>Combat Uniform M/84 (Winter)</Original>
@@ -25229,6 +25259,7 @@
 				<German>Kampfuniform M/84 (Winter)</German>
 				<Chinesesimp>M/84型作战服(冬季)</Chinesesimp>
 				<Korean>M/84 전투복 (겨울)</Korean>
+				<Russian>Боевая форма M/84 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_UNIFORM_SOLDIER_84_OLI">
 				<Original>Combat Uniform M/84 (Olive)</Original>
@@ -25236,6 +25267,7 @@
 				<German>Kampfuniform M/84 (Oliv)</German>
 				<Chinesesimp>M/84型作战服(橄榄绿)</Chinesesimp>
 				<Korean>M/84 전투복(올리브)</Korean>
+				<Russian>Боевая форма M/84 (Олива)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_54_RIFLEMAN">
 				<Original>Gear, Rifleman M/54</Original>
@@ -25243,6 +25275,7 @@
 				<German>Gerödel, Soldat M/54</German>
 				<Chinesesimp>M/54型背心(步枪兵)</Chinesesimp>
 				<Korean>M/54 서스펜더 (소총수)</Korean>
+				<Russian>Снаряжение стрелка М/54</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_54_CREW">
 				<Original>Gear, Crew M/54</Original>
@@ -25250,6 +25283,7 @@
 				<German>Gerödel, Besatzung M/54</German>
 				<Chinesesimp>M/54型背心(乘员)</Chinesesimp>
 				<Korean>M/54 서스펜더 (승무원)</Korean>
+				<Russian>Снаряжение экипажа М/54</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_54_MACHINEGUNNER">
 				<Original>Gear, Machinegunner M/54</Original>
@@ -25257,6 +25291,7 @@
 				<German>Gerödel, MG-Schütze M/54</German>
 				<Chinesesimp>M/54型背心(机枪手)</Chinesesimp>
 				<Korean>M/54 서스펜더 (기관총사수)</Korean>
+				<Russian>Снаряжение пулемётчика М/54</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_BACKPACK_73_OLI">
 				<Original>Army Backpack</Original>
@@ -25264,6 +25299,7 @@
 				<German>Armeerucksack</German>
 				<Chinesesimp>军用背包</Chinesesimp>
 				<Korean>군용 백팩</Korean>
+				<Russian>Армейский рюкзак</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_UNIFORM_SOLDIER_80_STR">
 				<Original>Field Service Suit</Original>
@@ -25271,6 +25307,7 @@
 				<German>Felddienstanzug</German>
 				<Chinesesimp>野战常服</Chinesesimp>
 				<Korean>야전복</Korean>
+				<Russian>Полевая форма</Russian>
 			</Key>
 			<Key ID="STR_LIB_GM_PM_BASE">
 				<Original>PM</Original>
@@ -25278,6 +25315,7 @@
 				<German>Pistole M</German>
 				<Chinesesimp>PM</Chinesesimp>
 				<Korean>PM</Korean>
+				<Russian>ПМ</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_DK_HEADGEAR_M96">
 				<Original>M/96</Original>
@@ -25285,6 +25323,7 @@
 				<German>M/96</German>
 				<Chinesesimp>M/96</Chinesesimp>
 				<Korean>M/96</Korean>
+				<Russian>M/96</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_GE_ARMY_VEST_80_BELT">
 				<Original>Belt</Original>
@@ -25292,6 +25331,7 @@
 				<German>Gürtel</German>
 				<Chinesesimp>腰带</Chinesesimp>
 				<Korean>벨트</Korean>
+				<Russian>Пояс</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_M84_MACHINEGUNNER">
 				<Original>Frag Vest, Machinegunner M/00</Original>
@@ -25299,6 +25339,7 @@
 				<German>Schutzweste, MG-Schütze M/00</German>
 				<Chinesesimp>M/00型防护背心(机枪手)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (기관총사수)</Korean>
+				<Russian>Бронежилет, Пулемётчик M/00</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_M84_RIFLEMAN">
 				<Original>Frag Vest, Rifleman M/00</Original>
@@ -25306,6 +25347,7 @@
 				<German>Schutzweste, Soldat M/00</German>
 				<Chinesesimp>M/00型防护背心(步枪兵)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (소총수)</Korean>
+				<Russian>Бронежилет, Стрелок M/00</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_WDL_RIFLEMAN">
 				<Original>Frag Vest, Rifleman M/00 (Woodland)</Original>
@@ -25313,6 +25355,7 @@
 				<German>Schutzweste, Soldat M/00 (Woodland)</German>
 				<Chinesesimp>M/00型防护背心(步枪兵,林地)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (우드랜드)</Korean>
+				<Russian>Бронежилет, Стрелок M/00 (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_M84">
 				<Original>Frag Vest M/00</Original>
@@ -25320,6 +25363,7 @@
 				<German>Schutzweste M/00</German>
 				<Chinesesimp>M/00型防护背心</Chinesesimp>
 				<Korean>M/00 플랙재킷</Korean>
+				<Russian>Бронежилет M/00</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_WIN_MACHINEGUNNER">
 				<Original>Frag Vest, Machinegunner M/00 (Winter)</Original>
@@ -25327,6 +25371,7 @@
 				<German>Schutzweste, MG-Schütze M/00 (Winter)</German>
 				<Chinesesimp>M/00型防护背心(机枪手,冬季)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (겨울)</Korean>
+				<Russian>Бронежилет, Пулемётчик M/00 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_WIN_RIFLEMAN">
 				<Original>Frag Vest, Rifleman M/00 (Winter)</Original>
@@ -25334,6 +25379,7 @@
 				<German>Schutzweste, Soldat M/00 (Winter)</German>
 				<Chinesesimp>M/00型防护背心(步枪兵,冬季)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (소총수, 겨울)</Korean>
+				<Russian>Бронежилет, Стрелок M/00 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_WIN">
 				<Original>Frag Vest M/00 (Winter)</Original>
@@ -25341,6 +25387,7 @@
 				<German>Schutzweste M/00 (Winter)</German>
 				<Chinesesimp>M/00型防护背心(冬季)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (겨울)</Korean>
+				<Russian>Бронежилет M/00 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_BLU">
 				<Original>Frag Vest M/00 (Blue)</Original>
@@ -25348,6 +25395,7 @@
 				<German>Schutzweste M/00 (Blau)</German>
 				<Chinesesimp>M/00型防护背心(蓝)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (파랑)</Korean>
+				<Russian>Бронежилет M/00 (Голубой)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_ARMY_VEST_M00_WDL">
 				<Original>Frag Vest M/00 (Woodland)</Original>
@@ -25355,6 +25403,7 @@
 				<German>Schutzweste M/00 (Woodland)</German>
 				<Chinesesimp>M/00型防护背心(林地)</Chinesesimp>
 				<Korean>M/00 플랙재킷 (우드랜드)</Korean>
+				<Russian>Бронежилет M/00 (Лес)</Russian>
 			</Key>
 		</Container>
 		<Container name="gm_pl_characters">
@@ -25364,6 +25413,7 @@
 				<German>Stahlhelm</German>
 				<Chinesesimp>钢盔</Chinesesimp>
 				<Korean>철모</Korean>
+				<Russian>Стальной Шлем</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_WZ67_OLI">
 				<Original>Helmet wz.67</Original>
@@ -25371,6 +25421,7 @@
 				<German>Stahlhelm wz.67</German>
 				<Chinesesimp>wz.67型头盔</Chinesesimp>
 				<Korean>wz.67 헬멧</Korean>
+				<Russian>Шлем wz.67</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_WZ67_NET_OLI">
 				<Original>Helmet wz.67 (Mesh)</Original>
@@ -25378,6 +25429,7 @@
 				<German>Stahlhelm wz.67 (Netz)</German>
 				<Chinesesimp>wz.67型头盔(网布)</Chinesesimp>
 				<Korean>wz.67 헬멧 (그물망)</Korean>
+				<Russian>Шлем wz.67 (Сетка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_WZ67_COVER_WIN">
 				<Original>Helmet wz.67 (Winter)</Original>
@@ -25385,6 +25437,7 @@
 				<German>Stahlhelm wz.67 (Winter)</German>
 				<Chinesesimp>wz.67型头盔(冬季)</Chinesesimp>
 				<Korean>wz.67 헬멧 (겨울)</Korean>
+				<Russian>Шлем wz.67 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PL_HEADGEAR_WZ63">
 				<Original>Steel Helmet</Original>
@@ -25392,6 +25445,7 @@
 				<German>Stahlhelm</German>
 				<Chinesesimp>钢盔</Chinesesimp>
 				<Korean>철모</Korean>
+				<Russian>Стальной шлем</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_WZ63_OLI">
 				<Original>Helmet wz.63</Original>
@@ -25399,6 +25453,7 @@
 				<German>Stahlhelm wz.63</German>
 				<Chinesesimp>wz.63型头盔</Chinesesimp>
 				<Korean>wz.63 헬멧</Korean>
+				<Russian>Шлем wz.63</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_WZ63_NET_OLI">
 				<Original>Helmet wz.63 (Mesh)</Original>
@@ -25406,6 +25461,7 @@
 				<German>Stahlhelm wz.63 (Netz)</German>
 				<Chinesesimp>wz.63型头盔(网布)</Chinesesimp>
 				<Korean>wz.63 헬멧 (그물망)</Korean>
+				<Russian>Шлем wz.63 (Сетка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_UNIFORM_SOLDIER_80_MORO">
 				<Original>Field Uniform wz.4652</Original>
@@ -25413,6 +25469,7 @@
 				<German>Felduniform wz.4652</German>
 				<Chinesesimp>wz.4652型野战服</Chinesesimp>
 				<Korean>wz.4652 야전복</Korean>
+				<Russian>Полевая форма wz.4652</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_UNIFORM_SOLDIER_ROLLED_80_MORO">
 				<Original>Field Uniform wz.4652 (Rolled)</Original>
@@ -25420,6 +25477,7 @@
 				<German>Felduniform wz.4652 (Ärmel)</German>
 				<Chinesesimp>wz.4652型野战服(卷袖)</Chinesesimp>
 				<Korean>wz.4652 야전복 (팔걷음)</Korean>
+				<Russian>Полевая форма wz.4652 (Закатан.)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_UNIFORM_SOLDIER_AUTUMN_80_MORO">
 				<Original>Field Uniform wz.4652 (Liner)</Original>
@@ -25427,6 +25485,7 @@
 				<German>Felduniform wz.4652 (Liner)</German>
 				<Chinesesimp>wz.4652型野战服(衬里)</Chinesesimp>
 				<Korean>wz.4652 야전복 (라이너)</Korean>
+				<Russian>Полевая форма wz.4652 (Подкладка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_UNIFORM_SOLDIER_80_WIN">
 				<Original>Field Uniform wz.4652 (Winter)</Original>
@@ -25434,6 +25493,7 @@
 				<German>Felduniform wz.4652 (Winter)</German>
 				<Chinesesimp>wz.4652型野战服(冬季</Chinesesimp>
 				<Korean>wz.4652 야전복 (겨울)</Korean>
+				<Russian>Полевая форма wz.4652 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_PL_HEADGEAR_CAP_80_BASE">
 				<Original>Field Cap</Original>
@@ -25441,6 +25501,7 @@
 				<German>Feldmütze</German>
 				<Chinesesimp>野战帽</Chinesesimp>
 				<Korean>야전모</Korean>
+				<Russian>Полевая кепка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_HEADGEAR_CAP_80_MORO">
 				<Original>Field Cap wz.0443</Original>
@@ -25448,6 +25509,7 @@
 				<German>Feldmütze wz.0443</German>
 				<Chinesesimp>wz.0443 野战帽</Chinesesimp>
 				<Korean>wz.0443 야전모</Korean>
+				<Russian>Полевая кепка wz.0443</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_BERET_BLK">
 				<Original>Beret (Polish, Black)</Original>
@@ -25455,6 +25517,7 @@
 				<German>Barett (Polnisch, Schwarz)</German>
 				<Chinesesimp>贝雷帽((波兰,黑)</Chinesesimp>
 				<Korean>베레모 (폴란드, 검정)</Korean>
+				<Russian>Берет (Польский, Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_BERET_BLU">
 				<Original>Beret (Polish, Blue)</Original>
@@ -25462,6 +25525,7 @@
 				<German>Barett (Polnisch, Blau)</German>
 				<Chinesesimp>贝雷帽((波兰,蓝)</Chinesesimp>
 				<Korean>베레모 (폴란드, 파랑)</Korean>
+				<Russian>Берет (Польский, Голубой)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_HEADGEAR_BERET_BDX">
 				<Original>Beret (Polish, Red)</Original>
@@ -25469,6 +25533,7 @@
 				<German>Barett (Polnisch, Rot)</German>
 				<Chinesesimp>贝雷帽(波兰,红)</Chinesesimp>
 				<Korean>베레모 (폴란드, 빨강)</Korean>
+				<Russian>Берет (Польский, Красный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_RIG_GRY">
 				<Original>Tactical Suspenders</Original>
@@ -25476,6 +25541,7 @@
 				<German>Koppelträger</German>
 				<Chinesesimp>战术背心</Chinesesimp>
 				<Korean>전술 서스펜더</Korean>
+				<Russian>Тактическое снаряжение</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_RIFLEMAN_GRY">
 				<Original>Tactical Suspenders, Rifleman</Original>
@@ -25483,6 +25549,7 @@
 				<German>Koppelträger, Schütze</German>
 				<Chinesesimp>战术背心(步枪兵)</Chinesesimp>
 				<Korean>전술 서스펜더 (소총수)</Korean>
+				<Russian>Тактическ. снаряжение стрелка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_LEADER_GRY">
 				<Original>Tactical Suspenders, Leader</Original>
@@ -25490,6 +25557,7 @@
 				<German>Koppelträger, Führer</German>
 				<Chinesesimp>战术背心(队长)</Chinesesimp>
 				<Korean>전술 서스펜더 (지휘자)</Korean>
+				<Russian>Тактическ. снаряжение командира</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_MARKSMAN_GRY">
 				<Original>Tactical Suspenders, Marksman</Original>
@@ -25497,6 +25565,7 @@
 				<German>Koppelträger, Scharfschütze</German>
 				<Chinesesimp>战术背心(精射)</Chinesesimp>
 				<Korean>전술 서스펜더 (지정사수)</Korean>
+				<Russian>Тактическ. снаряжение снайпера</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_MG_GRY">
 				<Original>Tactical Suspenders, Machinegunner</Original>
@@ -25504,6 +25573,7 @@
 				<German>Koppelträger, MG-Schütze</German>
 				<Chinesesimp>战术背心(机枪手)</Chinesesimp>
 				<Korean>전술 서스펜더 (기관총사수)</Korean>
+				<Russian>Тактическ. снаряжение пулемётчика</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_AT_GRY">
 				<Original>Tactical Suspenders, Anti-Tank</Original>
@@ -25511,6 +25581,7 @@
 				<German>Koppelträger, Panzerabwehr</German>
 				<Chinesesimp>战术背心(AT)</Chinesesimp>
 				<Korean>전술 서스펜더 (대전차)</Korean>
+				<Russian>Тактическ. снаряжение ПТ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_RIFLEMAN_SMG_GRY">
 				<Original>Tactical Suspenders, SMG</Original>
@@ -25518,6 +25589,7 @@
 				<German>Koppelträger, SMG</German>
 				<Chinesesimp>战术背心(SMG)</Chinesesimp>
 				<Korean>전술 서스펜더(SMG)</Korean>
+				<Russian>Тактическ. снаряжение, пист.-пулемёт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_VEST_80_CREW_GRY">
 				<Original>Tactical Suspenders, Crew</Original>
@@ -25525,48 +25597,56 @@
 				<German>Koppelträger, Besatzung</German>
 				<Chinesesimp>战术背心(乘员)</Chinesesimp>
 				<Korean>전술 서스펜더 (승무원)</Korean>
+				<Russian>Тактическое снаряжение экипаж</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR4_ZUF">
 				<Original>Platoon Corporal</Original>
 				<English>Platoon Corporal</English>
 				<German>Zugunteroffizier</German>
 				<Chinesesimp>Platoon Corporal</Chinesesimp>
+				<Russian>Platoon Corporal</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR8_SSF">
 				<Original>Sr. Staff Sergeant</Original>
 				<English>Sr. Staff Sergeant</English>
 				<German>Oberstabsfeldwebel</German>
 				<Chinesesimp>Sr. Staff Sergeant</Chinesesimp>
+				<Russian>Sr. Staff Sergeant</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR8_JCH">
 				<Original>Junior Ensign</Original>
 				<English>Junior Ensign</English>
 				<German>Unterfähnrich</German>
 				<Chinesesimp>Junior Ensign</Chinesesimp>
+				<Russian>Junior Ensign</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR8_CH">
 				<Original>Ensign</Original>
 				<English>Ensign</English>
 				<German>Fähnrich</German>
 				<Chinesesimp>Ensign</Chinesesimp>
+				<Russian>Ensign</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR8_SCH">
 				<Original>Senior Ensign</Original>
 				<English>Senior Ensign</English>
 				<German>Oberfähnrich</German>
 				<Chinesesimp>Senior Ensign</Chinesesimp>
+				<Russian>Senior Ensign</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR9_CHS">
 				<Original>Staff Ensign</Original>
 				<English>Staff Ensign</English>
 				<German>Stabsfähnrich</German>
 				<Chinesesimp>Staff Ensign</Chinesesimp>
+				<Russian>Staff Ensign</Russian>
 			</Key>
 			<Key ID="STR_DN_RANK_GM_PL_OR9_SCHS">
 				<Original>Senior Staff Ensign</Original>
 				<English>Senior Staff Ensign</English>
 				<German>Oberstabsfähnrich</German>
 				<Chinesesimp>Senior Staff Ensign</Chinesesimp>
+				<Russian>Senior Staff Ensign</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_BACKPACK_AT_80_GRY">
 				<Original>RPG Ammo Bag, Grey</Original>
@@ -25574,6 +25654,7 @@
 				<German>Granatenträger, Grau</German>
 				<Chinesesimp>RPG弹药包</Chinesesimp>
 				<Korean>RPG 탄약 가방(회색)</Korean>
+				<Russian>Сумка для РПГ, Серая</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_PL_ARMY_BACKPACK_80_OLI">
 				<Original>Kostka</Original>
@@ -25581,6 +25662,7 @@
 				<German>Kostka</German>
 				<Chinesesimp>Kostka</Chinesesimp>
 				<Korean>코스트카</Korean>
+				<Russian>Костка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_OLI">
 				<Original>Combat Helmet M/96</Original>
@@ -25588,6 +25670,7 @@
 				<German>Gefechtshelm M/96</German>
 				<Chinesesimp>M/96型战斗头盔</Chinesesimp>
 				<Korean>M/96 전투 헬멧</Korean>
+				<Russian>Боевой Шлем M/96</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_BLU">
 				<Original>Combat Helmet M/96 (Blue)</Original>
@@ -25595,6 +25678,7 @@
 				<German>Gefechtshelm M/96 (Blau)</German>
 				<Chinesesimp>M/96型战斗头盔(蓝色))</Chinesesimp>
 				<Korean>M/96 전투헬멧 (파랑)</Korean>
+				<Russian>Боевой Шлем M/96 (Голубой)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_DK_HEADGEAR_M96_COVER">
 				<Original>Combat Helmet</Original>
@@ -25602,6 +25686,7 @@
 				<German>Gefechtshelm</German>
 				<Chinesesimp>战斗头盔</Chinesesimp>
 				<Korean>전투 헬멧</Korean>
+				<Russian>Боевой Шлем</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_COVER_M84">
 				<Original>Combat Helmet M/96 (M/84)</Original>
@@ -25609,6 +25694,7 @@
 				<German>Gefechtshelm M/96 (M/84)</German>
 				<Chinesesimp>M/96型战斗头盔(M/84)</Chinesesimp>
 				<Korean>M/96 전투헬멧 (M/84)</Korean>
+				<Russian>Боевой Шлем M/96 (M/84)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_COVER_WDL">
 				<Original>Combat Helmet M/96 (Woodland)</Original>
@@ -25616,6 +25702,7 @@
 				<German>Gefechtshelm M/96 (Woodland)</German>
 				<Chinesesimp>M/96型战斗头盔(林地)</Chinesesimp>
 				<Korean>M/96 전투헬멧 (우드랜드)</Korean>
+				<Russian>Боевой Шлем M/96 (Лес)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DK_HEADGEAR_M96_COVER_WHT">
 				<Original>Combat Helmet M/96 (Winter)</Original>
@@ -25623,6 +25710,7 @@
 				<German>Gefechtshelm M/96 (Winter)</German>
 				<Chinesesimp>M/96型战斗头盔(冬季)</Chinesesimp>
 				<Korean>M/96 전투헬멧 (겨울)</Korean>
+				<Russian>Боевой Шлем M/96 (Зима)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_01_CAMO_01">
 				<Original>(Camo) Bayh</Original>
@@ -25630,6 +25718,7 @@
 				<German>(Tarn) Bayh</German>
 				<Chinesesimp>迷彩服(Bayh)</Chinesesimp>
 				<Korean>베이 (위장)</Korean>
+				<Russian>(Камуфляж) Байх</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_02_CAMO_01">
 				<Original>(Camo) Burr</Original>
@@ -25637,6 +25726,7 @@
 				<German>(Tarn) Burr</German>
 				<Chinesesimp>迷彩服(Burr)</Chinesesimp>
 				<Korean>버 (위장)</Korean>
+				<Russian>(Камуфляж) Барр</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_03_CAMO_01">
 				<Original>(Camo) Coburn</Original>
@@ -25644,6 +25734,7 @@
 				<German>(Tarn) Coburn</German>
 				<Chinesesimp>迷彩服(Coburn)</Chinesesimp>
 				<Korean>코번 (위장)</Korean>
+				<Russian>(Камуфляж) Кобурн</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_04_CAMO_01">
 				<Original>(Camo) Collins</Original>
@@ -25651,6 +25742,7 @@
 				<German>(Tarn) Collins</German>
 				<Chinesesimp>迷彩服(Collins)</Chinesesimp>
 				<Korean>콜린스 (위장)</Korean>
+				<Russian>(Камуфляж) Коллинз</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_05_CAMO_01">
 				<Original>(Camo) Campbell</Original>
@@ -25658,6 +25750,7 @@
 				<German>(Tarn) Campbell</German>
 				<Chinesesimp>迷彩服(Campbell)</Chinesesimp>
 				<Korean>캠밸 (위장)</Korean>
+				<Russian>(Камуфляж) Кэмпбелл</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_06_CAMO_01">
 				<Original>(Camo) Dayton</Original>
@@ -25665,6 +25758,7 @@
 				<German>(Tarn) Dayton</German>
 				<Chinesesimp>迷彩服(Dayton)</Chinesesimp>
 				<Korean>데이턴 (위장)</Korean>
+				<Russian>(Камуфляж) Дайтон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_07_CAMO_01">
 				<Original>(Camo) Dorgan</Original>
@@ -25672,6 +25766,7 @@
 				<German>(Tarn) Dorgan</German>
 				<Chinesesimp>迷彩服(Dorgan)</Chinesesimp>
 				<Korean>도르간 (위장)</Korean>
+				<Russian>(Камуфляж) Дорган</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_08_CAMO_01">
 				<Original>(Camo) Halliwell</Original>
@@ -25679,6 +25774,7 @@
 				<German>(Tarn) Halliwell</German>
 				<Chinesesimp>迷彩服(Halliwell)</Chinesesimp>
 				<Korean>할리웰 (위장)</Korean>
+				<Russian>(Камуфляж) Галлиуэлл</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_09_CAMO_01">
 				<Original>(Camo) Johnson</Original>
@@ -25686,6 +25782,7 @@
 				<German>(Tarn) Johnson</German>
 				<Chinesesimp>迷彩服(Johnson)</Chinesesimp>
 				<Korean>존슨(위장)</Korean>
+				<Russian>(Камуфляж) Джонсон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_10_CAMO_01">
 				<Original>(Camo) Martinez</Original>
@@ -25693,6 +25790,7 @@
 				<German>(Tarn) Martinez</German>
 				<Chinesesimp>迷彩服(Martinez)</Chinesesimp>
 				<Korean>마르티네즈 (위장)</Korean>
+				<Russian>(Камуфляж) Мартинес</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_11_CAMO_01">
 				<Original>(Camo) Kirby</Original>
@@ -25700,6 +25798,7 @@
 				<German>(Tarn) Kirby</German>
 				<Chinesesimp>迷彩服(Kirby)</Chinesesimp>
 				<Korean>커비 (위장)</Korean>
+				<Russian>(Камуфляж) Корби</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_12_CAMO_01">
 				<Original>(Camo) Reed</Original>
@@ -25707,6 +25806,7 @@
 				<German>(Tarn) Reed</German>
 				<Chinesesimp>迷彩服(Reed)</Chinesesimp>
 				<Korean>리드 (위장)</Korean>
+				<Russian>(Камуфляж) Рид</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_13_CAMO_01">
 				<Original>(Camo) Santorum</Original>
@@ -25714,6 +25814,7 @@
 				<German>(Tarn) Santorum</German>
 				<Chinesesimp>迷彩服(Santorum)</Chinesesimp>
 				<Korean>샌토럼 (위장)</Korean>
+				<Russian>(Камуфляж) Санторум</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_14_CAMO_01">
 				<Original>(Camo) Smith</Original>
@@ -25721,6 +25822,7 @@
 				<German>(Tarn) Smith</German>
 				<Chinesesimp>迷彩服(Smith)</Chinesesimp>
 				<Korean>스미스(위장)</Korean>
+				<Russian>(Камуфляж) Смит</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_15_CAMO_01">
 				<Original>(Camo) Snowe</Original>
@@ -25728,6 +25830,7 @@
 				<German>(Tarn) Snowe</German>
 				<Chinesesimp>迷彩服(Snowe)</Chinesesimp>
 				<Korean>스노우 (위장)</Korean>
+				<Russian>(Камуфляж) Сноуи</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_16_CAMO_01">
 				<Original>(Camo) Kelly</Original>
@@ -25735,6 +25838,7 @@
 				<German>(Tarn) Kelly</German>
 				<Chinesesimp>迷彩服(Kelly)</Chinesesimp>
 				<Korean>켈리(위장)</Korean>
+				<Russian>(Камуфляж) Келли</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_17_CAMO_01">
 				<Original>(Camo) O'Connor</Original>
@@ -25742,6 +25846,7 @@
 				<German>(Tarn) O'Connor</German>
 				<Chinesesimp>迷彩服(O'Connor)</Chinesesimp>
 				<Korean>오코너 (위장)</Korean>
+				<Russian>(Камуфляж) О'Коннор</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_18_CAMO_01">
 				<Original>(Camo) Byrne</Original>
@@ -25749,6 +25854,7 @@
 				<German>(Tarn) Byrne</German>
 				<Chinesesimp>迷彩服(Byrne)</Chinesesimp>
 				<Korean>번 (위장)</Korean>
+				<Russian>(Камуфляж) Бирн</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_19_CAMO_01">
 				<Original>(Camo) O'Brien</Original>
@@ -25756,6 +25862,7 @@
 				<German>(Tarn) O'Brien</German>
 				<Chinesesimp>迷彩服(O'Brien)</Chinesesimp>
 				<Korean>오브라이언 (위장)</Korean>
+				<Russian>(Камуфляж) О'Брайан</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_20_CAMO_01">
 				<Original>(Camo) Walsh</Original>
@@ -25763,6 +25870,7 @@
 				<German>(Tarn) Walsh</German>
 				<Chinesesimp>迷彩服(Walsh)</Chinesesimp>
 				<Korean>윌시 (위장)</Korean>
+				<Russian>(Камуфляж) Уолш</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WHITEHEAD_21_CAMO_01">
 				<Original>(Camo) O'Sullivan</Original>
@@ -25770,6 +25878,7 @@
 				<German>(Tarn) O'Sullivan</German>
 				<Chinesesimp>迷彩服(O'Sullivan)</Chinesesimp>
 				<Korean>오설리번 (위장)</Korean>
+				<Russian>(Камуфляж) О'Салливан</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HEADGEAR_FOLIAGE_SUMMER_GRASS_01">
 				<Original>Grass Helmet Camo 1</Original>
@@ -25777,6 +25886,7 @@
 				<German>Gras-Helmtarnung 1</German>
 				<Chinesesimp>头盔迷彩服(草地1)</Chinesesimp>
 				<Korean>그라스 헬멧 (위장1)</Korean>
+				<Russian>Камуфляж шлема (Трава 1)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HEADGEAR_FOLIAGE_SUMMER_GRASS_02">
 				<Original>Grass Helmet Camo 2</Original>
@@ -25784,6 +25894,7 @@
 				<German>Gras-Helmtarnung 2</German>
 				<Chinesesimp>头盔迷彩服(草地2)</Chinesesimp>
 				<Korean>그라스 헬멧 (위장2)</Korean>
+				<Russian>Камуфляж шлема (Трава 2)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HEADGEAR_FOLIAGE_SUMMER_GRASS_03">
 				<Original>Grass Helmet Camo 3</Original>
@@ -25791,6 +25902,7 @@
 				<German>Gras-Helmtarnung 3</German>
 				<Chinesesimp>头盔迷彩服(草地3)</Chinesesimp>
 				<Korean>그라스 헬멧 (위장3)</Korean>
+				<Russian>Камуфляж шлема (Трава 3)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_HEADGEAR_FOLIAGE_SUMMER_GRASS_04">
 				<Original>Grass Helmet Camo 4</Original>
@@ -25798,6 +25910,7 @@
 				<German>Gras-Helmtarnung 4</German>
 				<Chinesesimp>头盔迷彩服(草地4)</Chinesesimp>
 				<Korean>그라스 헬멧 (위장4)</Korean>
+				<Russian>Камуфляж шлема (Трава 4)</Russian>
 			</Key>
 			<Key ID="STR_GM_HEADGEAR_FOLIAGE_SUMMER_FOREST_01">
 				<Original>Forest Helmet Camo 1</Original>
@@ -25805,6 +25918,7 @@
 				<German>Wald-Helmtarnung 1</German>
 				<Chinesesimp>头盔迷彩服(森林1)</Chinesesimp>
 				<Korean>산림 헬멧 (위장1)</Korean>
+				<Russian>Камуфляж шлема (Лес 1)</Russian>
 			</Key>
 			<Key ID="STR_GM_HEADGEAR_FOLIAGE_SUMMER_FOREST_02">
 				<Original>Forest Helmet Camo 2</Original>
@@ -25812,6 +25926,7 @@
 				<German>Wald-Helmtarnung 2</German>
 				<Chinesesimp>头盔迷彩服(森林2)</Chinesesimp>
 				<Korean>산림 헬멧 (위장2)</Korean>
+				<Russian>Камуфляж шлема (Лес 2)</Russian>
 			</Key>
 			<Key ID="STR_GM_HEADGEAR_FOLIAGE_SUMMER_FOREST_03">
 				<Original>Forest Helmet Camo 3</Original>
@@ -25819,6 +25934,7 @@
 				<German>Wald-Helmtarnung 3</German>
 				<Chinesesimp>头盔迷彩服(森林3)</Chinesesimp>
 				<Korean>산림 헬멧 (위장3)</Korean>
+				<Russian>Камуфляж шлема (Лес 3)</Russian>
 			</Key>
 			<Key ID="STR_GM_HEADGEAR_FOLIAGE_SUMMER_FOREST_04">
 				<Original>Forest Helmet Camo 4</Original>
@@ -25826,6 +25942,7 @@
 				<German>Wald-Helmtarnung 4</German>
 				<Chinesesimp>头盔迷彩服(森林4)</Chinesesimp>
 				<korean>산림 헬멧(위장4)</Korean>
+				<Russian>Камуфляж шлема (Лес 4)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_HMD_FOLIAGE_BASE">
 				<Original>Fine selection of grasses and leaves.</Original>
@@ -25833,6 +25950,7 @@
 				<German>Erlesene Auswahl von Gräsern und Blättern.</German>
 				<Chinesesimp>精心挑选的草和叶子。</Chinesesimp>
 				<Korean>위장한번 삐까뻔쩍 하구만.</Korean>
+				<Russian>Прекрасный выбор трав и листьев.</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -25843,15 +25961,15 @@
 				<English>Alexander</English>
 				<German>Alexander</German>
 				<Chinesesimp>Alexander</Chinesesimp>
-				<Russian>Alexander</Russian>
 				<Korean>알렉산더</Korean>
+				<Russian>Александр</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ANDREAS">
 				<Original>Andreas</Original>
 				<English>Andreas</English>
 				<German>Andreas</German>
 				<Chinesesimp>Andreas</Chinesesimp>
-				<Russian>Andreas</Russian>
+				<Russian>Андреас</Russian>
 				<Korean>안드레아스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ARMIN">
@@ -25859,7 +25977,7 @@
 				<English>Armin</English>
 				<German>Armin</German>
 				<Chinesesimp>Armin</Chinesesimp>
-				<Russian>Armin</Russian>
+				<Russian>Армин</Russian>
 				<Korean>아르민</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ARNDT">
@@ -25867,7 +25985,7 @@
 				<English>Arndt</English>
 				<German>Arndt</German>
 				<Chinesesimp>Arndt</Chinesesimp>
-				<Russian>Arndt</Russian>
+				<Russian>Арндт</Russian>
 				<Korean>아른트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_AXEL">
@@ -25875,7 +25993,7 @@
 				<English>Axel</English>
 				<German>Axel</German>
 				<Chinesesimp>Axel</Chinesesimp>
-				<Russian>Axel</Russian>
+				<Russian>Аксель</Russian>
 				<Korean>악셀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ACHIM">
@@ -25883,7 +26001,7 @@
 				<English>Achim</English>
 				<German>Achim</German>
 				<Chinesesimp>Achim</Chinesesimp>
-				<Russian>Achim</Russian>
+				<Russian>Ахим</Russian>
 				<Korean>아힘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BENJAMIN">
@@ -25891,7 +26009,7 @@
 				<English>Benjamin</English>
 				<German>Benjamin</German>
 				<Chinesesimp>Benjamin</Chinesesimp>
-				<Russian>Benjamin</Russian>
+				<Russian>Бенджамин</Russian>
 				<Korean>베냐민</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERND">
@@ -25899,7 +26017,7 @@
 				<English>Bernd</English>
 				<German>Bernd</German>
 				<Chinesesimp>Bernd</Chinesesimp>
-				<Russian>Bernd</Russian>
+				<Russian>Бернд</Russian>
 				<Korean>베른트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERNHARD">
@@ -25907,7 +26025,7 @@
 				<English>Bernhard</English>
 				<German>Bernhard</German>
 				<Chinesesimp>Bernhard</Chinesesimp>
-				<Russian>Bernhard</Russian>
+				<Russian>Бернхард</Russian>
 				<Korean>베른하르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BJOERN">
@@ -25915,7 +26033,7 @@
 				<English>Björn</English>
 				<German>Björn</German>
 				<Chinesesimp>Björn</Chinesesimp>
-				<Russian>Björn</Russian>
+				<Russian>Бьёрн</Russian>
 				<Korean>비에른</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BORIS">
@@ -25923,7 +26041,7 @@
 				<English>Boris</English>
 				<German>Boris</German>
 				<Chinesesimp>Boris</Chinesesimp>
-				<Russian>Boris</Russian>
+				<Russian>Борис</Russian>
 				<Korean>보리스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CARSTEN">
@@ -25931,7 +26049,7 @@
 				<English>Carsten</English>
 				<German>Carsten</German>
 				<Chinesesimp>Carsten</Chinesesimp>
-				<Russian>Carsten</Russian>
+				<Russian>Карстен</Russian>
 				<Korean>카르스텐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTIAN">
@@ -25939,7 +26057,7 @@
 				<English>Christian</English>
 				<German>Christian</German>
 				<Chinesesimp>Christian</Chinesesimp>
-				<Russian>Christian</Russian>
+				<Russian>Кристиан</Russian>
 				<Korean>크리스티안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTOPH">
@@ -25947,7 +26065,7 @@
 				<English>Christoph</English>
 				<German>Christoph</German>
 				<Chinesesimp>Christoph</Chinesesimp>
-				<Russian>Christoph</Russian>
+				<Russian>Кристоф</Russian>
 				<Korean>크리스토프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTOPHER">
@@ -25955,7 +26073,7 @@
 				<English>Christopher</English>
 				<German>Christopher</German>
 				<Chinesesimp>Christopher</Chinesesimp>
-				<Russian>Christopher</Russian>
+				<Russian>Кристофер</Russian>
 				<Korean>크리스토퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DANIEL">
@@ -25963,7 +26081,7 @@
 				<English>Daniel</English>
 				<German>Daniel</German>
 				<Chinesesimp>Daniel</Chinesesimp>
-				<Russian>Daniel</Russian>
+				<Russian>Даниель</Russian>
 				<Korean>다니엘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DAVID">
@@ -25971,7 +26089,7 @@
 				<English>David</English>
 				<German>David</German>
 				<Chinesesimp>David</Chinesesimp>
-				<Russian>David</Russian>
+				<Russian>Дэвид</Russian>
 				<Korean>데이비드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DENNIS">
@@ -25979,7 +26097,7 @@
 				<English>Dennis</English>
 				<German>Dennis</German>
 				<Chinesesimp>Dennis</Chinesesimp>
-				<Russian>Dennis</Russian>
+				<Russian>Дэннис</Russian>
 				<Korean>데니스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DOMINIK">
@@ -25987,7 +26105,7 @@
 				<English>Dominik</English>
 				<German>Dominik</German>
 				<Chinesesimp>Dominik</Chinesesimp>
-				<Russian>Dominik</Russian>
+				<Russian>Доминик</Russian>
 				<Korean>도미닉</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_EDDI">
@@ -25995,7 +26113,7 @@
 				<English>Eddi</English>
 				<German>Eddi</German>
 				<Chinesesimp>Eddi</Chinesesimp>
-				<Russian>Eddi</Russian>
+				<Russian>Эдди</Russian>
 				<Korean>에디</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_EUGEN">
@@ -26003,7 +26121,7 @@
 				<English>Eugen</English>
 				<German>Eugen</German>
 				<Chinesesimp>Eugen</Chinesesimp>
-				<Russian>Eugen</Russian>
+				<Russian>Евгений</Russian>
 				<Korean>오이겐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FRANZ">
@@ -26011,7 +26129,7 @@
 				<English>Franz</English>
 				<German>Franz</German>
 				<Chinesesimp>Franz</Chinesesimp>
-				<Russian>Franz</Russian>
+				<Russian>Франц</Russian>
 				<Korean>프란츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FABIAN">
@@ -26019,7 +26137,7 @@
 				<English>Fabian</English>
 				<German>Fabian</German>
 				<Chinesesimp>Fabian</Chinesesimp>
-				<Russian>Fabian</Russian>
+				<Russian>Фабиан</Russian>
 				<Korean>파비안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FELIX">
@@ -26027,7 +26145,7 @@
 				<English>Felix</English>
 				<German>Felix</German>
 				<Chinesesimp>Felix</Chinesesimp>
-				<Russian>Felix</Russian>
+				<Russian>Феликс</Russian>
 				<Korean>펠릭스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FRANK">
@@ -26035,7 +26153,7 @@
 				<English>Frank</English>
 				<German>Frank</German>
 				<Chinesesimp>Frank</Chinesesimp>
-				<Russian>Frank</Russian>
+				<Russian>Фрэнк</Russian>
 				<Korean>프랭크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GERHARD">
@@ -26043,7 +26161,7 @@
 				<English>Gerhard</English>
 				<German>Gerhard</German>
 				<Chinesesimp>Gerhard</Chinesesimp>
-				<Russian>Gerhard</Russian>
+				<Russian>Герхард</Russian>
 				<Korean>게르하르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GUENTER">
@@ -26051,7 +26169,7 @@
 				<English>Günter</English>
 				<German>Günter</German>
 				<Chinesesimp>Günter</Chinesesimp>
-				<Russian>Günter</Russian>
+				<Russian>Гюнтер</Russian>
 				<Korean>귄터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEIKO">
@@ -26059,7 +26177,7 @@
 				<English>Heiko</English>
 				<German>Heiko</German>
 				<Chinesesimp>Heiko</Chinesesimp>
-				<Russian>Heiko</Russian>
+				<Russian>Хейко</Russian>
 				<Korean>하이코</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINZ">
@@ -26067,7 +26185,7 @@
 				<English>Heinz</English>
 				<German>Heinz</German>
 				<Chinesesimp>Heinz</Chinesesimp>
-				<Russian>Heinz</Russian>
+				<Russian>Хайнц</Russian>
 				<Korean>하인츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HORST">
@@ -26075,7 +26193,7 @@
 				<English>Horst</English>
 				<German>Horst</German>
 				<Chinesesimp>Horst</Chinesesimp>
-				<Russian>Horst</Russian>
+				<Russian>Хорст</Russian>
 				<Korean>호르스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JAN">
@@ -26083,7 +26201,7 @@
 				<English>Jan</English>
 				<German>Jan</German>
 				<Chinesesimp>Jan</Chinesesimp>
-				<Russian>Jan</Russian>
+				<Russian>Ян</Russian>
 				<Korean>얀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JOERG">
@@ -26091,7 +26209,7 @@
 				<English>Jörg</English>
 				<German>Jörg</German>
 				<Chinesesimp>Jörg</Chinesesimp>
-				<Russian>Jörg</Russian>
+				<Russian>Йорг</Russian>
 				<Korean>외르그</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JOHANNES">
@@ -26099,7 +26217,7 @@
 				<English>Johannes</English>
 				<German>Johannes</German>
 				<Chinesesimp>Johannes</Chinesesimp>
-				<Russian>Johannes</Russian>
+				<Russian>Йоханнес</Russian>
 				<Korean>요하네스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JULIAN">
@@ -26107,7 +26225,7 @@
 				<English>Julian</English>
 				<German>Julian</German>
 				<Chinesesimp>Julian</Chinesesimp>
-				<Russian>Julian</Russian>
+				<Russian>Джулиан</Russian>
 				<Korean>율리안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JUERGEN">
@@ -26115,7 +26233,7 @@
 				<English>Jürgen</English>
 				<German>Jürgen</German>
 				<Chinesesimp>Jürgen</Chinesesimp>
-				<Russian>Jürgen</Russian>
+				<Russian>Юрген</Russian>
 				<Korean>위르겐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KARL">
@@ -26123,7 +26241,7 @@
 				<English>Karl</English>
 				<German>Karl</German>
 				<Chinesesimp>Karl</Chinesesimp>
-				<Russian>Karl</Russian>
+				<Russian>Карл</Russian>
 				<Korean>카를</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KARSTEN">
@@ -26131,7 +26249,7 @@
 				<English>Karsten</English>
 				<German>Karsten</German>
 				<Chinesesimp>Karsten</Chinesesimp>
-				<Russian>Karsten</Russian>
+				<Russian>Карстен</Russian>
 				<Korean>칼스텐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KEVIN">
@@ -26139,7 +26257,7 @@
 				<English>Kevin</English>
 				<German>Kevin</German>
 				<Chinesesimp>Kevin</Chinesesimp>
-				<Russian>Kevin</Russian>
+				<Russian>Кевин</Russian>
 				<Korean>케빈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LARS">
@@ -26147,7 +26265,7 @@
 				<English>Lars</English>
 				<German>Lars</German>
 				<Chinesesimp>Lars</Chinesesimp>
-				<Russian>Lars</Russian>
+				<Russian>Ларс</Russian>
 				<Korean>라르스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LUKAS">
@@ -26155,7 +26273,7 @@
 				<English>Lukas</English>
 				<German>Lukas</German>
 				<Chinesesimp>Lukas</Chinesesimp>
-				<Russian>Lukas</Russian>
+				<Russian>Лукас</Russian>
 				<Korean>루카스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARC">
@@ -26163,7 +26281,7 @@
 				<English>Marc</English>
 				<German>Marc</German>
 				<Chinesesimp>Marc</Chinesesimp>
-				<Russian>Marc</Russian>
+				<Russian>Марк</Russian>
 				<Korean>마르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARCEL">
@@ -26171,7 +26289,7 @@
 				<English>Marcel</English>
 				<German>Marcel</German>
 				<Chinesesimp>Marcel</Chinesesimp>
-				<Russian>Marcel</Russian>
+				<Russian>Марсель</Russian>
 				<Korean>마르첼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARCO">
@@ -26179,7 +26297,7 @@
 				<English>Marco</English>
 				<German>Marco</German>
 				<Chinesesimp>Marco</Chinesesimp>
-				<Russian>Marco</Russian>
+				<Russian>Марко</Russian>
 				<Korean>마르코</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARIO">
@@ -26187,7 +26305,7 @@
 				<English>Mario</English>
 				<German>Mario</German>
 				<Chinesesimp>Mario</Chinesesimp>
-				<Russian>Mario</Russian>
+				<Russian>Марио</Russian>
 				<Korean>마리오</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARKUS">
@@ -26195,7 +26313,7 @@
 				<English>Markus</English>
 				<German>Markus</German>
 				<Chinesesimp>Markus</Chinesesimp>
-				<Russian>Markus</Russian>
+				<Russian>Маркус</Russian>
 				<Korean>마르쿠스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MARTIN">
@@ -26203,7 +26321,7 @@
 				<English>Martin</English>
 				<German>Martin</German>
 				<Chinesesimp>Martin</Chinesesimp>
-				<Russian>Martin</Russian>
+				<Russian>Мартин</Russian>
 				<Korean>마틴</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MATTIAS">
@@ -26211,7 +26329,7 @@
 				<English>Mattias</English>
 				<German>Mattias</German>
 				<Chinesesimp>Mattias</Chinesesimp>
-				<Russian>Mattias</Russian>
+				<Russian>Маттиас</Russian>
 				<Korean>마티아스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MICHAEL">
@@ -26219,7 +26337,7 @@
 				<English>Michael</English>
 				<German>Michael</German>
 				<Chinesesimp>Michael</Chinesesimp>
-				<Russian>Michael</Russian>
+				<Russian>Майкл</Russian>
 				<Korean>미첼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MIKE">
@@ -26227,7 +26345,7 @@
 				<English>Mike</English>
 				<German>Mike</German>
 				<Chinesesimp>Mike</Chinesesimp>
-				<Russian>Mike</Russian>
+				<Russian>Майк</Russian>
 				<Korean>마이크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OLAF">
@@ -26235,7 +26353,7 @@
 				<English>Olaf</English>
 				<German>Olaf</German>
 				<Chinesesimp>Olaf</Chinesesimp>
-				<Russian>Olaf</Russian>
+				<Russian>Олаф</Russian>
 				<Korean>올라프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OLIVER">
@@ -26243,7 +26361,7 @@
 				<English>Oliver</English>
 				<German>Oliver</German>
 				<Chinesesimp>Oliver</Chinesesimp>
-				<Russian>Oliver</Russian>
+				<Russian>Оливер</Russian>
 				<Korean>올리버</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PATRICK">
@@ -26251,7 +26369,7 @@
 				<English>Patrick</English>
 				<German>Patrick</German>
 				<Chinesesimp>Patrick</Chinesesimp>
-				<Russian>Patrick</Russian>
+				<Russian>Патрик</Russian>
 				<Korean>페트릭</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PAUL">
@@ -26259,7 +26377,7 @@
 				<English>Paul</English>
 				<German>Paul</German>
 				<Chinesesimp>Paul</Chinesesimp>
-				<Russian>Paul</Russian>
+				<Russian>Пауль</Russian>
 				<Korean>파울</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PETER">
@@ -26267,7 +26385,7 @@
 				<English>Peter</English>
 				<German>Peter</German>
 				<Chinesesimp>Peter</Chinesesimp>
-				<Russian>Peter</Russian>
+				<Russian>Петер</Russian>
 				<Korean>페터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROBERT">
@@ -26275,7 +26393,7 @@
 				<English>Robert</English>
 				<German>Robert</German>
 				<Chinesesimp>Robert</Chinesesimp>
-				<Russian>Robert</Russian>
+				<Russian>Роберт</Russian>
 				<Korean>로버트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROLAND">
@@ -26283,7 +26401,7 @@
 				<English>Roland</English>
 				<German>Roland</German>
 				<Chinesesimp>Roland</Chinesesimp>
-				<Russian>Roland</Russian>
+				<Russian>Роланд</Russian>
 				<Korean>롤랜드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROMAN">
@@ -26291,7 +26409,7 @@
 				<English>Roman</English>
 				<German>Roman</German>
 				<Chinesesimp>Roman</Chinesesimp>
-				<Russian>Roman</Russian>
+				<Russian>Роман</Russian>
 				<Korean>로만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SASCHA">
@@ -26299,7 +26417,7 @@
 				<English>Sascha</English>
 				<German>Sascha</German>
 				<Chinesesimp>Sascha</Chinesesimp>
-				<Russian>Sascha</Russian>
+				<Russian>Саша</Russian>
 				<Korean>자샤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SEBASTIAN">
@@ -26307,7 +26425,7 @@
 				<English>Sebastian</English>
 				<German>Sebastian</German>
 				<Chinesesimp>Sebastian</Chinesesimp>
-				<Russian>Sebastian</Russian>
+				<Russian>Себастьян</Russian>
 				<Korean>제바스티안</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SIMON">
@@ -26315,7 +26433,7 @@
 				<English>Simon</English>
 				<German>Simon</German>
 				<Chinesesimp>Simon</Chinesesimp>
-				<Russian>Simon</Russian>
+				<Russian>Саймон</Russian>
 				<Korean>지몬</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEFAN">
@@ -26323,7 +26441,7 @@
 				<English>Stefan</English>
 				<German>Stefan</German>
 				<Chinesesimp>Stefan</Chinesesimp>
-				<Russian>Stefan</Russian>
+				<Russian>Штефан</Russian>
 				<Korean>슈테판</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEFFEN">
@@ -26331,7 +26449,7 @@
 				<English>Steffen</English>
 				<German>Steffen</German>
 				<Chinesesimp>Steffen</Chinesesimp>
-				<Russian>Steffen</Russian>
+				<Russian>Штеффен</Russian>
 				<Korean>슈테펜</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SVEN">
@@ -26339,7 +26457,7 @@
 				<English>Sven</English>
 				<German>Sven</German>
 				<Chinesesimp>Sven</Chinesesimp>
-				<Russian>Sven</Russian>
+				<Russian>Свен</Russian>
 				<Korean>스벤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THOMAS">
@@ -26347,7 +26465,7 @@
 				<English>Thomas</English>
 				<German>Thomas</German>
 				<Chinesesimp>Thomas</Chinesesimp>
-				<Russian>Thomas</Russian>
+				<Russian>Томас</Russian>
 				<Korean>토마스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TILL">
@@ -26355,7 +26473,7 @@
 				<English>Till</English>
 				<German>Till</German>
 				<Chinesesimp>Till</Chinesesimp>
-				<Russian>Till</Russian>
+				<Russian>Тилль</Russian>
 				<Korean>틸</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TIM">
@@ -26363,7 +26481,7 @@
 				<English>Tim</English>
 				<German>Tim</German>
 				<Chinesesimp>Tim</Chinesesimp>
-				<Russian>Tim</Russian>
+				<Russian>Тим</Russian>
 				<Korean>팀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TIMO">
@@ -26371,7 +26489,7 @@
 				<English>Timo</English>
 				<German>Timo</German>
 				<Chinesesimp>Timo</Chinesesimp>
-				<Russian>Timo</Russian>
+				<Russian>Тимо</Russian>
 				<Korean>티모</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TOBIAS">
@@ -26379,7 +26497,7 @@
 				<English>Tobias</English>
 				<German>Tobias</German>
 				<Chinesesimp>Tobias</Chinesesimp>
-				<Russian>Tobias</Russian>
+				<Russian>Тобиас</Russian>
 				<Korean>토비아스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TORSTEN">
@@ -26387,7 +26505,7 @@
 				<English>Torsten</English>
 				<German>Torsten</German>
 				<Chinesesimp>Torsten</Chinesesimp>
-				<Russian>Torsten</Russian>
+				<Russian>Торстен</Russian>
 				<Korean>토르스텐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ULI">
@@ -26395,7 +26513,7 @@
 				<English>Uli</English>
 				<German>Uli</German>
 				<Chinesesimp>Uli</Chinesesimp>
-				<Russian>Uli</Russian>
+				<Russian>Ули</Russian>
 				<Korean>울리</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ULF">
@@ -26403,7 +26521,7 @@
 				<English>Ulf</English>
 				<German>Ulf</German>
 				<Chinesesimp>Ulf</Chinesesimp>
-				<Russian>Ulf</Russian>
+				<Russian>Ульф</Russian>
 				<Korean>울프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ULRICH">
@@ -26411,7 +26529,7 @@
 				<English>Ulrich</English>
 				<German>Ulrich</German>
 				<Chinesesimp>Ulrich</Chinesesimp>
-				<Russian>Ulrich</Russian>
+				<Russian>Ульрих</Russian>
 				<Korean>울리히</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WOLFGANG">
@@ -26419,7 +26537,7 @@
 				<English>Wolfgang</English>
 				<German>Wolfgang</German>
 				<Chinesesimp>Wolfgang</Chinesesimp>
-				<Russian>Wolfgang</Russian>
+				<Russian>Вольфганг</Russian>
 				<Korean>볼프강</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ADLER">
@@ -26427,7 +26545,7 @@
 				<English>Adler</English>
 				<German>Adler</German>
 				<Chinesesimp>Adler</Chinesesimp>
-				<Russian>Adler</Russian>
+				<Russian>Адлер</Russian>
 				<Korean>아들러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_AHRENDT">
@@ -26435,7 +26553,7 @@
 				<English>Ahrendt</English>
 				<German>Ahrendt</German>
 				<Chinesesimp>Ahrendt</Chinesesimp>
-				<Russian>Ahrendt</Russian>
+				<Russian>Арендт</Russian>
 				<Korean>아렌트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BAASCH">
@@ -26443,7 +26561,7 @@
 				<English>Baasch</English>
 				<German>Baasch</German>
 				<Chinesesimp>Baasch</Chinesesimp>
-				<Russian>Baasch</Russian>
+				<Russian>Бааш</Russian>
 				<Korean>바슈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BAUER">
@@ -26451,7 +26569,7 @@
 				<English>Bauer</English>
 				<German>Bauer</German>
 				<Chinesesimp>Bauer</Chinesesimp>
-				<Russian>Bauer</Russian>
+				<Russian>Бауэр</Russian>
 				<Korean>바우어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BAUTZ">
@@ -26459,7 +26577,7 @@
 				<English>Bautz</English>
 				<German>Bautz</German>
 				<Chinesesimp>Bautz</Chinesesimp>
-				<Russian>Bautz</Russian>
+				<Russian>Баутц</Russian>
 				<Korean>바우츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BARTH">
@@ -26467,7 +26585,7 @@
 				<English>Barth</English>
 				<German>Barth</German>
 				<Chinesesimp>Barth</Chinesesimp>
-				<Russian>Barth</Russian>
+				<Russian>Барт</Russian>
 				<Korean>바르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BECK">
@@ -26475,7 +26593,7 @@
 				<English>Beck</English>
 				<German>Beck</German>
 				<Chinesesimp>Beck</Chinesesimp>
-				<Russian>Beck</Russian>
+				<Russian>Бек</Russian>
 				<Korean>벡</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BECKER">
@@ -26483,7 +26601,7 @@
 				<English>Becker</English>
 				<German>Becker</German>
 				<Chinesesimp>Becker</Chinesesimp>
-				<Russian>Becker</Russian>
+				<Russian>Бекер</Russian>
 				<Korean>베커</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BEHRENS">
@@ -26491,7 +26609,7 @@
 				<English>Behrens</English>
 				<German>Behrens</German>
 				<Chinesesimp>Behrens</Chinesesimp>
-				<Russian>Behrens</Russian>
+				<Russian>Беренс</Russian>
 				<Korean>베렌스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERGS">
@@ -26499,7 +26617,7 @@
 				<English>Bergs</English>
 				<German>Bergs</German>
 				<Chinesesimp>Bergs</Chinesesimp>
-				<Russian>Bergs</Russian>
+				<Russian>Бергс</Russian>
 				<Korean>베르그</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERGER">
@@ -26507,7 +26625,7 @@
 				<English>Berger</English>
 				<German>Berger</German>
 				<Chinesesimp>Berger</Chinesesimp>
-				<Russian>Berger</Russian>
+				<Russian>Бергер</Russian>
 				<Korean>베르거</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BIERHOFF">
@@ -26515,7 +26633,7 @@
 				<English>Bierhoff</English>
 				<German>Bierhoff</German>
 				<Chinesesimp>Bierhoff</Chinesesimp>
-				<Russian>Bierhoff</Russian>
+				<Russian>Берхофф</Russian>
 				<Korean>비어호프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BIRKENHOFF">
@@ -26523,7 +26641,7 @@
 				<English>Birkenhoff</English>
 				<German>Birkenhoff</German>
 				<Chinesesimp>Birkenhoff</Chinesesimp>
-				<Russian>Birkenhoff</Russian>
+				<Russian>Биркенгофф</Russian>
 				<Korean>브리켄호프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BODENHEIMER">
@@ -26531,7 +26649,7 @@
 				<English>Bodenheimer</English>
 				<German>Bodenheimer</German>
 				<Chinesesimp>Bodenheimer</Chinesesimp>
-				<Russian>Bodenheimer</Russian>
+				<Russian>Боденгеймер</Russian>
 				<Korean>보덴하이머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BOHN">
@@ -26539,7 +26657,7 @@
 				<English>Bohn</English>
 				<German>Bohn</German>
 				<Chinesesimp>Bohn</Chinesesimp>
-				<Russian>Bohn</Russian>
+				<Russian>Бон</Russian>
 				<Korean>본</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BOTH">
@@ -26547,7 +26665,7 @@
 				<English>Both</English>
 				<German>Both</German>
 				<Chinesesimp>Both</Chinesesimp>
-				<Russian>Both</Russian>
+				<Russian>Ботх</Russian>
 				<Korean>보스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BRAEHMER">
@@ -26555,7 +26673,7 @@
 				<English>Brähmer</English>
 				<German>Brähmer</German>
 				<Chinesesimp>Brähmer</Chinesesimp>
-				<Russian>Brähmer</Russian>
+				<Russian>Бремер</Russian>
 				<Korean>브뢰머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BRANDT">
@@ -26563,7 +26681,7 @@
 				<English>Brandt</English>
 				<German>Brandt</German>
 				<Chinesesimp>Brandt</Chinesesimp>
-				<Russian>Brandt</Russian>
+				<Russian>Брэндт</Russian>
 				<Korean>브란트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BRAUN">
@@ -26571,7 +26689,7 @@
 				<English>Braun</English>
 				<German>Braun</German>
 				<Chinesesimp>Braun</Chinesesimp>
-				<Russian>Braun</Russian>
+				<Russian>Браун</Russian>
 				<Korean>브라운</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BROCK">
@@ -26579,7 +26697,7 @@
 				<English>Brock</English>
 				<German>Brock</German>
 				<Chinesesimp>Brock</Chinesesimp>
-				<Russian>Brock</Russian>
+				<Russian>Брок</Russian>
 				<Korean>브록</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BROCKMEIER">
@@ -26587,7 +26705,7 @@
 				<English>Brockmeier</English>
 				<German>Brockmeier</German>
 				<Chinesesimp>Brockmeier</Chinesesimp>
-				<Russian>Brockmeier</Russian>
+				<Russian>Брокмайер</Russian>
 				<Korean>브록마이어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BUCK">
@@ -26595,7 +26713,7 @@
 				<English>Buck</English>
 				<German>Buck</German>
 				<Chinesesimp>Buck</Chinesesimp>
-				<Russian>Buck</Russian>
+				<Russian>Бак</Russian>
 				<Korean>벅</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BUESCHER">
@@ -26603,7 +26721,7 @@
 				<English>Büscher</English>
 				<German>Büscher</German>
 				<Chinesesimp>Büscher</Chinesesimp>
-				<Russian>Büscher</Russian>
+				<Russian>Бюшер</Russian>
 				<Korean>뷔셔</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DEINING">
@@ -26611,7 +26729,7 @@
 				<English>Deining</English>
 				<German>Deining</German>
 				<Chinesesimp>Deining</Chinesesimp>
-				<Russian>Deining</Russian>
+				<Russian>Дейнинг</Russian>
 				<Korean>데이니그</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DIEBEL">
@@ -26619,7 +26737,7 @@
 				<English>Diebel</English>
 				<German>Diebel</German>
 				<Chinesesimp>Diebel</Chinesesimp>
-				<Russian>Diebel</Russian>
+				<Russian>Дибель</Russian>
 				<Korean>디벨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DIRKS">
@@ -26627,7 +26745,7 @@
 				<English>Dirks</English>
 				<German>Dirks</German>
 				<Chinesesimp>Dirks</Chinesesimp>
-				<Russian>Dirks</Russian>
+				<Russian>Диркс</Russian>
 				<Korean>덕스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DUNST">
@@ -26635,7 +26753,7 @@
 				<English>Dunst</English>
 				<German>Dunst</German>
 				<Chinesesimp>Dunst</Chinesesimp>
-				<Russian>Dunst</Russian>
+				<Russian>Данст</Russian>
 				<Korean>던스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_EHRLICH">
@@ -26643,7 +26761,7 @@
 				<English>Ehrlich</English>
 				<German>Ehrlich</German>
 				<Chinesesimp>Ehrlich</Chinesesimp>
-				<Russian>Ehrlich</Russian>
+				<Russian>Эрлих</Russian>
 				<Korean>엘리히</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ENKE">
@@ -26651,7 +26769,7 @@
 				<English>Enke</English>
 				<German>Enke</German>
 				<Chinesesimp>Enke</Chinesesimp>
-				<Russian>Enke</Russian>
+				<Russian>Энке</Russian>
 				<Korean>엔케</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FALK">
@@ -26659,7 +26777,7 @@
 				<English>Falk</English>
 				<German>Falk</German>
 				<Chinesesimp>Falk</Chinesesimp>
-				<Russian>Falk</Russian>
+				<Russian>Фальк</Russian>
 				<Korean>팔크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FELDMANN">
@@ -26667,7 +26785,7 @@
 				<English>Feldmann</English>
 				<German>Feldmann</German>
 				<Chinesesimp>Feldmann</Chinesesimp>
-				<Russian>Feldmann</Russian>
+				<Russian>Фельдманн</Russian>
 				<Korean>펠드만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FEUERER">
@@ -26675,7 +26793,7 @@
 				<English>Feuerer</English>
 				<German>Feuerer</German>
 				<Chinesesimp>Feuerer</Chinesesimp>
-				<Russian>Feuerer</Russian>
+				<Russian>Фойрер</Russian>
 				<Korean>페에러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FISCHER">
@@ -26683,7 +26801,7 @@
 				<English>Fischer</English>
 				<German>Fischer</German>
 				<Chinesesimp>Fischer</Chinesesimp>
-				<Russian>Fischer</Russian>
+				<Russian>Фишер</Russian>
 				<Korean>피슈어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FREIS">
@@ -26691,7 +26809,7 @@
 				<English>Freis</English>
 				<German>Freis</German>
 				<Chinesesimp>Freis</Chinesesimp>
-				<Russian>Freis</Russian>
+				<Russian>Фрис</Russian>
 				<Korean>페리스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FREUND">
@@ -26699,7 +26817,7 @@
 				<English>Freund</English>
 				<German>Freund</German>
 				<Chinesesimp>Freund</Chinesesimp>
-				<Russian>Freund</Russian>
+				<Russian>Фройнд</Russian>
 				<Korean>프로인트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FRIEDRICH">
@@ -26707,7 +26825,7 @@
 				<English>Friedrich</English>
 				<German>Friedrich</German>
 				<Chinesesimp>Friedrich</Chinesesimp>
-				<Russian>Friedrich</Russian>
+				<Russian>Фридрих</Russian>
 				<Korean>프리드리히</Korean>
 				<Japanese>フリードリヒ</Japanese>
 			</Key>
@@ -26716,7 +26834,7 @@
 				<English>Gauck</English>
 				<German>Gauck</German>
 				<Chinesesimp>Gauck</Chinesesimp>
-				<Russian>Gauck</Russian>
+				<Russian>Гаак</Russian>
 				<Korean>가우크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GERHARTZ">
@@ -26724,7 +26842,7 @@
 				<English>Gerhartz</English>
 				<German>Gerhartz</German>
 				<Chinesesimp>Gerhartz</Chinesesimp>
-				<Russian>Gerhartz</Russian>
+				<Russian>Герхартц</Russian>
 				<Korean>게르하츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GORES">
@@ -26732,7 +26850,7 @@
 				<English>Gores</English>
 				<German>Gores</German>
 				<Chinesesimp>Gores</Chinesesimp>
-				<Russian>Gores</Russian>
+				<Russian>Горес</Russian>
 				<Korean>고레스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GRABOV">
@@ -26740,7 +26858,7 @@
 				<English>Grabov</English>
 				<German>Grabov</German>
 				<Chinesesimp>Grabov</Chinesesimp>
-				<Russian>Grabov</Russian>
+				<Russian>Грабов</Russian>
 				<Korean>그라보프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HAMPE">
@@ -26748,7 +26866,7 @@
 				<English>Hampe</English>
 				<German>Hampe</German>
 				<Chinesesimp>Hampe</Chinesesimp>
-				<Russian>Hampe</Russian>
+				<Russian>Хамп</Russian>
 				<Korean>함프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HARTMANN">
@@ -26756,7 +26874,7 @@
 				<English>Hartmann</English>
 				<German>Hartmann</German>
 				<Chinesesimp>Hartmann</Chinesesimp>
-				<Russian>Hartmann</Russian>
+				<Russian>Хартманн</Russian>
 				<Korean>하르트만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HECKMANN">
@@ -26764,7 +26882,7 @@
 				<English>Heckmann</English>
 				<German>Heckmann</German>
 				<Chinesesimp>Heckmann</Chinesesimp>
-				<Russian>Heckmann</Russian>
+				<Russian>Хекманн</Russian>
 				<Korean>헤크만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEIDE">
@@ -26772,7 +26890,7 @@
 				<English>Heide</English>
 				<German>Heide</German>
 				<Chinesesimp>Heide</Chinesesimp>
-				<Russian>Heide</Russian>
+				<Russian>Хайде</Russian>
 				<Korean>하이데</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINKE">
@@ -26780,7 +26898,7 @@
 				<English>Heinke</English>
 				<German>Heinke</German>
 				<Chinesesimp>Heinke</Chinesesimp>
-				<Russian>Heinke</Russian>
+				<Russian>Хейнке</Russian>
 				<Korean>하인케</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINE">
@@ -26788,7 +26906,7 @@
 				<English>Heine</English>
 				<German>Heine</German>
 				<Chinesesimp>Heine</Chinesesimp>
-				<Russian>Heine</Russian>
+				<Russian>Хайне</Russian>
 				<Korean>하이네</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEINER">
@@ -26796,7 +26914,7 @@
 				<English>Heiner</English>
 				<German>Heiner</German>
 				<Chinesesimp>Heiner</Chinesesimp>
-				<Russian>Heiner</Russian>
+				<Russian>Хайнер</Russian>
 				<Korean>하이너</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HELL">
@@ -26804,7 +26922,7 @@
 				<English>Hell</English>
 				<German>Hell</German>
 				<Chinesesimp>Hell</Chinesesimp>
-				<Russian>Hell</Russian>
+				<Russian>Хелл</Russian>
 				<Korean>헬</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENGSTENBERG">
@@ -26812,7 +26930,7 @@
 				<English>Hengstenberg</English>
 				<German>Hengstenberg</German>
 				<Chinesesimp>Hengstenberg</Chinesesimp>
-				<Russian>Hengstenberg</Russian>
+				<Russian>Хенгстенберг</Russian>
 				<Korean>헝스텐베르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENKEL">
@@ -26820,7 +26938,7 @@
 				<English>Henkel</English>
 				<German>Henkel</German>
 				<Chinesesimp>Henkel</Chinesesimp>
-				<Russian>Henkel</Russian>
+				<Russian>Хенкель</Russian>
 				<Korean>헨켈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENNING">
@@ -26828,7 +26946,7 @@
 				<English>Henning</English>
 				<German>Henning</German>
 				<Chinesesimp>Henning</Chinesesimp>
-				<Russian>Henning</Russian>
+				<Russian>Хеннинг</Russian>
 				<Korean>헤닝</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENNIG">
@@ -26836,7 +26954,7 @@
 				<English>Hennig</English>
 				<German>Hennig</German>
 				<Chinesesimp>Hennig</Chinesesimp>
-				<Russian>Hennig</Russian>
+				<Russian>Хенниг</Russian>
 				<Korean>헤닉</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEWUSST">
@@ -26844,7 +26962,7 @@
 				<English>Hewußt</English>
 				<German>Hewußt</German>
 				<Chinesesimp>Hewußt</Chinesesimp>
-				<Russian>Hewußt</Russian>
+				<Russian>Хевуст</Russian>
 				<Korean>허우트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HOELLER">
@@ -26852,7 +26970,7 @@
 				<English>Höller</English>
 				<German>Höller</German>
 				<Chinesesimp>Höller</Chinesesimp>
-				<Russian>Höller</Russian>
+				<Russian>Хёллер</Russian>
 				<Korean>횔러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HOFFMANN">
@@ -26860,7 +26978,7 @@
 				<English>Hoffmann</English>
 				<German>Hoffmann</German>
 				<Chinesesimp>Hoffmann</Chinesesimp>
-				<Russian>Hoffmann</Russian>
+				<Russian>Хоффманн</Russian>
 				<Korean>호프만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HUBER">
@@ -26868,7 +26986,7 @@
 				<English>Huber</English>
 				<German>Huber</German>
 				<Chinesesimp>Huber</Chinesesimp>
-				<Russian>Huber</Russian>
+				<Russian>Хабер</Russian>
 				<Korean>후버</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JUNG">
@@ -26876,7 +26994,7 @@
 				<English>Jung</English>
 				<German>Jung</German>
 				<Chinesesimp>Jung</Chinesesimp>
-				<Russian>Jung</Russian>
+				<Russian>Юнг</Russian>
 				<Korean>융</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KABUS">
@@ -26884,7 +27002,7 @@
 				<English>Kabus</English>
 				<German>Kabus</German>
 				<Chinesesimp>Kabus</Chinesesimp>
-				<Russian>Kabus</Russian>
+				<Russian>Кабус</Russian>
 				<Korean>카부스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAHN">
@@ -26892,7 +27010,7 @@
 				<English>Kahn</English>
 				<German>Kahn</German>
 				<Chinesesimp>Kahn</Chinesesimp>
-				<Russian>Kahn</Russian>
+				<Russian>Хан</Russian>
 				<Korean>칸</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAISER">
@@ -26900,7 +27018,7 @@
 				<English>Kaiser</English>
 				<German>Kaiser</German>
 				<Chinesesimp>Kaiser</Chinesesimp>
-				<Russian>Kaiser</Russian>
+				<Russian>Кайзер</Russian>
 				<Korean>카이저</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAMINS">
@@ -26908,7 +27026,7 @@
 				<English>Kamins</English>
 				<German>Kamins</German>
 				<Chinesesimp>Kamins</Chinesesimp>
-				<Russian>Kamins</Russian>
+				<Russian>Каминс</Russian>
 				<Korean>카민스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KAMP">
@@ -26916,7 +27034,7 @@
 				<English>Kamp</English>
 				<German>Kamp</German>
 				<Chinesesimp>Kamp</Chinesesimp>
-				<Russian>Kamp</Russian>
+				<Russian>Камп</Russian>
 				<Korean>캄프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KARPF">
@@ -26924,7 +27042,7 @@
 				<English>Karpf</English>
 				<German>Karpf</German>
 				<Chinesesimp>Karpf</Chinesesimp>
-				<Russian>Karpf</Russian>
+				<Russian>Карпф</Russian>
 				<Korean>카르프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KEMPTER">
@@ -26932,7 +27050,7 @@
 				<English>Kempter</English>
 				<German>Kempter</German>
 				<Chinesesimp>Kempter</Chinesesimp>
-				<Russian>Kempter</Russian>
+				<Russian>Кемптер</Russian>
 				<Korean>켐프터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KERNER">
@@ -26940,7 +27058,7 @@
 				<English>Kerner</English>
 				<German>Kerner</German>
 				<Chinesesimp>Kerner</Chinesesimp>
-				<Russian>Kerner</Russian>
+				<Russian>Кернер</Russian>
 				<Korean>카르너</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KIND">
@@ -26948,7 +27066,7 @@
 				<English>Kind</English>
 				<German>Kind</German>
 				<Chinesesimp>Kind</Chinesesimp>
-				<Russian>Kind</Russian>
+				<Russian>Кинд</Russian>
 				<Korean>킨드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KLEIN">
@@ -26956,7 +27074,7 @@
 				<English>Klein</English>
 				<German>Klein</German>
 				<Chinesesimp>Klein</Chinesesimp>
-				<Russian>Klein</Russian>
+				<Russian>Клейн</Russian>
 				<Korean>클라인</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KLEMMER">
@@ -26964,7 +27082,7 @@
 				<English>Klemmer</English>
 				<German>Klemmer</German>
 				<Chinesesimp>Klemmer</Chinesesimp>
-				<Russian>Klemmer</Russian>
+				<Russian>Клеммер</Russian>
 				<Korean>클레머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KLOEPEL">
@@ -26972,7 +27090,7 @@
 				<English>Klöpel</English>
 				<German>Klöpel</German>
 				<Chinesesimp>Klöpel</Chinesesimp>
-				<Russian>Klöpel</Russian>
+				<Russian>Клёпель</Russian>
 				<Korean>클뢰펠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KNOSKA">
@@ -26980,7 +27098,7 @@
 				<English>Knoska</English>
 				<German>Knoska</German>
 				<Chinesesimp>Knoska</Chinesesimp>
-				<Russian>Knoska</Russian>
+				<Russian>Кноске</Russian>
 				<Korean>크노스카</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOCH">
@@ -26988,7 +27106,7 @@
 				<English>Koch</English>
 				<German>Koch</German>
 				<Chinesesimp>Koch</Chinesesimp>
-				<Russian>Koch</Russian>
+				<Russian>Кох</Russian>
 				<Korean>코흐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOCHERT">
@@ -26996,7 +27114,7 @@
 				<English>Kochert</English>
 				<German>Kochert</German>
 				<Chinesesimp>Kochert</Chinesesimp>
-				<Russian>Kochert</Russian>
+				<Russian>Кохерт</Russian>
 				<Korean>코헤트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOHL">
@@ -27004,7 +27122,7 @@
 				<English>Kohl</English>
 				<German>Kohl</German>
 				<Chinesesimp>Kohl</Chinesesimp>
-				<Russian>Kohl</Russian>
+				<Russian>Коль</Russian>
 				<Korean>코흘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOHLMAN">
@@ -27012,7 +27130,7 @@
 				<English>Kohlman</English>
 				<German>Kohlman</German>
 				<Chinesesimp>Kohlman</Chinesesimp>
-				<Russian>Kohlman</Russian>
+				<Russian>Кольман</Russian>
 				<Korean>코흘만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KONARSKE">
@@ -27020,7 +27138,7 @@
 				<English>Konarske</English>
 				<German>Konarske</German>
 				<Chinesesimp>Konarske</Chinesesimp>
-				<Russian>Konarske</Russian>
+				<Russian>Конарске</Russian>
 				<Korean>코나르스크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KOZIK">
@@ -27028,7 +27146,7 @@
 				<English>Kozik</English>
 				<German>Kozik</German>
 				<Chinesesimp>Kozik</Chinesesimp>
-				<Russian>Kozik</Russian>
+				<Russian>Козик</Russian>
 				<Korean>코직</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KNAUER">
@@ -27036,7 +27154,7 @@
 				<English>Knauer</English>
 				<German>Knauer</German>
 				<Chinesesimp>Knauer</Chinesesimp>
-				<Russian>Knauer</Russian>
+				<Russian>Кнауэр</Russian>
 				<Korean>크나우어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAEMER">
@@ -27044,7 +27162,7 @@
 				<English>Krämer</English>
 				<German>Krämer</German>
 				<Chinesesimp>Krämer</Chinesesimp>
-				<Russian>Krämer</Russian>
+				<Russian>Крэмер</Russian>
 				<Korean>크뢰머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAMER">
@@ -27052,7 +27170,7 @@
 				<English>Kramer</English>
 				<German>Kramer</German>
 				<Chinesesimp>Kramer</Chinesesimp>
-				<Russian>Kramer</Russian>
+				<Russian>Крамер</Russian>
 				<Korean>크람머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAUS">
@@ -27060,7 +27178,7 @@
 				<English>Kraus</English>
 				<German>Kraus</German>
 				<Chinesesimp>Kraus</Chinesesimp>
-				<Russian>Kraus</Russian>
+				<Russian>Краус</Russian>
 				<Korean>크라우스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRAUSE">
@@ -27068,7 +27186,7 @@
 				<English>Krause</English>
 				<German>Krause</German>
 				<Chinesesimp>Krause</Chinesesimp>
-				<Russian>Krause</Russian>
+				<Russian>Краузе</Russian>
 				<Korean>크라우제</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRESS">
@@ -27076,7 +27194,7 @@
 				<English>Kress</English>
 				<German>Kress</German>
 				<Chinesesimp>Kress</Chinesesimp>
-				<Russian>Kress</Russian>
+				<Russian>Кресс</Russian>
 				<Korean>크레스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KREST">
@@ -27084,7 +27202,7 @@
 				<English>Krest</English>
 				<German>Krest</German>
 				<Chinesesimp>Krest</Chinesesimp>
-				<Russian>Krest</Russian>
+				<Russian>Крест</Russian>
 				<Korean>크레스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRUEGER">
@@ -27092,7 +27210,7 @@
 				<English>Krüger</English>
 				<German>Krüger</German>
 				<Chinesesimp>Krüger</Chinesesimp>
-				<Russian>Krüger</Russian>
+				<Russian>Крюгер</Russian>
 				<Korean>크뤼거</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KUEHLMORGEN">
@@ -27100,7 +27218,7 @@
 				<English>Kühlmorgen</English>
 				<German>Kühlmorgen</German>
 				<Chinesesimp>Kühlmorgen</Chinesesimp>
-				<Russian>Kühlmorgen</Russian>
+				<Russian>Кюхльморген</Russian>
 				<Korean>퀼모르겐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KUHN">
@@ -27108,7 +27226,7 @@
 				<English>Kuhn</English>
 				<German>Kuhn</German>
 				<Chinesesimp>Kuhn</Chinesesimp>
-				<Russian>Kuhn</Russian>
+				<Russian>Кун</Russian>
 				<Korean>쿤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KUJAN">
@@ -27116,7 +27234,7 @@
 				<English>Kujan</English>
 				<German>Kujan</German>
 				<Chinesesimp>Kujan</Chinesesimp>
-				<Russian>Kujan</Russian>
+				<Russian>Куян</Russian>
 				<Korean>쿠얀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KURZ">
@@ -27124,7 +27242,7 @@
 				<English>Kurz</English>
 				<German>Kurz</German>
 				<Chinesesimp>Kurz</Chinesesimp>
-				<Russian>Kurz</Russian>
+				<Russian>Курц</Russian>
 				<Korean>쿠르츠</Korean>
 				<Japanese>クルツ</Japanese>
 			</Key>
@@ -27133,7 +27251,7 @@
 				<English>Kross</English>
 				<German>Kross</German>
 				<Chinesesimp>Kross</Chinesesimp>
-				<Russian>Kross</Russian>
+				<Russian>Кросс</Russian>
 				<Korean>크로스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LAHM">
@@ -27141,7 +27259,7 @@
 				<English>Lahm</English>
 				<German>Lahm</German>
 				<Chinesesimp>Lahm</Chinesesimp>
-				<Russian>Lahm</Russian>
+				<Russian>Лам</Russian>
 				<Korean>라흠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LAMPERT">
@@ -27149,7 +27267,7 @@
 				<English>Lampert</English>
 				<German>Lampert</German>
 				<Chinesesimp>Lampert</Chinesesimp>
-				<Russian>Lampert</Russian>
+				<Russian>Ламперт</Russian>
 				<Korean>람페르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LANG">
@@ -27157,7 +27275,7 @@
 				<English>Lang</English>
 				<German>Lang</German>
 				<Chinesesimp>Lang</Chinesesimp>
-				<Russian>Lang</Russian>
+				<Russian>Лэнг</Russian>
 				<Korean>랑</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LEHMANN">
@@ -27165,7 +27283,7 @@
 				<English>Lehmann</English>
 				<German>Lehmann</German>
 				<Chinesesimp>Lehmann</Chinesesimp>
-				<Russian>Lehmann</Russian>
+				<Russian>Леманн</Russian>
 				<Korean>레흐만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LINDEMANN">
@@ -27173,7 +27291,7 @@
 				<English>Lindemann</English>
 				<German>Lindemann</German>
 				<Chinesesimp>Lindemann</Chinesesimp>
-				<Russian>Lindemann</Russian>
+				<Russian>Линдеманн</Russian>
 				<Korean>린데만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MANDEL">
@@ -27181,7 +27299,7 @@
 				<English>Mandel</English>
 				<German>Mandel</German>
 				<Chinesesimp>Mandel</Chinesesimp>
-				<Russian>Mandel</Russian>
+				<Russian>Мэндел</Russian>
 				<Korean>만델</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MAREK">
@@ -27189,7 +27307,7 @@
 				<English>Marek</English>
 				<German>Marek</German>
 				<Chinesesimp>Marek</Chinesesimp>
-				<Russian>Marek</Russian>
+				<Russian>Марек</Russian>
 				<Korean>마렉</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MEIER">
@@ -27197,7 +27315,7 @@
 				<English>Meier</English>
 				<German>Meier</German>
 				<Chinesesimp>Meier</Chinesesimp>
-				<Russian>Meier</Russian>
+				<Russian>Майер</Russian>
 				<Korean>마이어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MELKERS">
@@ -27205,7 +27323,7 @@
 				<English>Melkers</English>
 				<German>Melkers</German>
 				<Chinesesimp>Melkers</Chinesesimp>
-				<Russian>Melkers</Russian>
+				<Russian>Мелкерс</Russian>
 				<Korean>멜커스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MEURER">
@@ -27213,7 +27331,7 @@
 				<English>Meurer</English>
 				<German>Meurer</German>
 				<Chinesesimp>Meurer</Chinesesimp>
-				<Russian>Meurer</Russian>
+				<Russian>Мюрер</Russian>
 				<Korean>마우어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MOELLER">
@@ -27221,7 +27339,7 @@
 				<English>Möller</English>
 				<German>Möller</German>
 				<Chinesesimp>Möller</Chinesesimp>
-				<Russian>Möller</Russian>
+				<Russian>Мёллер</Russian>
 				<Korean>묄러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MOHR">
@@ -27229,7 +27347,7 @@
 				<English>Mohr</English>
 				<German>Mohr</German>
 				<Chinesesimp>Mohr</Chinesesimp>
-				<Russian>Mohr</Russian>
+				<Russian>Мор</Russian>
 				<Korean>모흐</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MUELLER">
@@ -27237,7 +27355,7 @@
 				<English>Müller</English>
 				<German>Müller</German>
 				<Chinesesimp>Müller</Chinesesimp>
-				<Russian>Müller</Russian>
+				<Russian>Мюллер</Russian>
 				<Korean>뮐러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NACK">
@@ -27245,7 +27363,7 @@
 				<English>Nack</English>
 				<German>Nack</German>
 				<Chinesesimp>Nack</Chinesesimp>
-				<Russian>Nack</Russian>
+				<Russian>Нак</Russian>
 				<Korean>낙크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NAUMANN">
@@ -27253,7 +27371,7 @@
 				<English>Naumann</English>
 				<German>Naumann</German>
 				<Chinesesimp>Naumann</Chinesesimp>
-				<Russian>Naumann</Russian>
+				<Russian>Науманн</Russian>
 				<Korean>나우만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NEUKIRCHEN">
@@ -27261,7 +27379,7 @@
 				<English>Neukirchen</English>
 				<German>Neukirchen</German>
 				<Chinesesimp>Neukirchen</Chinesesimp>
-				<Russian>Neukirchen</Russian>
+				<Russian>Нойкирхен</Russian>
 				<Korean>노이키르첸</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NEUMANN">
@@ -27269,7 +27387,7 @@
 				<English>Neumann</English>
 				<German>Neumann</German>
 				<Chinesesimp>Neumann</Chinesesimp>
-				<Russian>Neumann</Russian>
+				<Russian>Нойманн</Russian>
 				<Korean>노이만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NIEDRIG">
@@ -27277,7 +27395,7 @@
 				<English>Niedrig</English>
 				<German>Niedrig</German>
 				<Chinesesimp>Niedrig</Chinesesimp>
-				<Russian>Niedrig</Russian>
+				<Russian>Нидриг</Russian>
 				<Korean>니드릭</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NOHL">
@@ -27285,7 +27403,7 @@
 				<English>Nohl</English>
 				<German>Nohl</German>
 				<Chinesesimp>Nohl</Chinesesimp>
-				<Russian>Nohl</Russian>
+				<Russian>Нол</Russian>
 				<Korean>노흘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NOWITZKI">
@@ -27293,7 +27411,7 @@
 				<English>Nowitzki</English>
 				<German>Nowitzki</German>
 				<Chinesesimp>Nowitzki</Chinesesimp>
-				<Russian>Nowitzki</Russian>
+				<Russian>Новицки</Russian>
 				<Korean>노비츠키</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PETERS">
@@ -27301,7 +27419,7 @@
 				<English>Peters</English>
 				<German>Peters</German>
 				<Chinesesimp>Peters</Chinesesimp>
-				<Russian>Peters</Russian>
+				<Russian>Петерс</Russian>
 				<Korean>페터스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PLOETZ">
@@ -27309,7 +27427,7 @@
 				<English>Plötz</English>
 				<German>Plötz</German>
 				<Chinesesimp>Plötz</Chinesesimp>
-				<Russian>Plötz</Russian>
+				<Russian>Плётц</Russian>
 				<Korean>플뢰츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PODOLSKI">
@@ -27317,7 +27435,7 @@
 				<English>Podolski</English>
 				<German>Podolski</German>
 				<Chinesesimp>Podolski</Chinesesimp>
-				<Russian>Podolski</Russian>
+				<Russian>Подольски</Russian>
 				<Korean>포돌스키</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PRINZ">
@@ -27325,7 +27443,7 @@
 				<English>Prinz</English>
 				<German>Prinz</German>
 				<Chinesesimp>Prinz</Chinesesimp>
-				<Russian>Prinz</Russian>
+				<Russian>Принц</Russian>
 				<Korean>프린츠</Korean>
 				<Japanese>プリンツ</Japanese>
 			</Key>
@@ -27334,7 +27452,7 @@
 				<English>Pruust</English>
 				<German>Pruust</German>
 				<Chinesesimp>Pruust</Chinesesimp>
-				<Russian>Pruust</Russian>
+				<Russian>Прауст</Russian>
 				<Korean>프루스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PUCHTLER">
@@ -27342,7 +27460,7 @@
 				<English>Puchtler</English>
 				<German>Puchtler</German>
 				<Chinesesimp>Puchtler</Chinesesimp>
-				<Russian>Puchtler</Russian>
+				<Russian>Пахтлер</Russian>
 				<Korean>푸츨러</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RAUSCHEN">
@@ -27350,7 +27468,7 @@
 				<English>Rauschen</English>
 				<German>Rauschen</German>
 				<Chinesesimp>Rauschen</Chinesesimp>
-				<Russian>Rauschen</Russian>
+				<Russian>Раушен</Russian>
 				<Korean>라우쉔</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_REINDEL">
@@ -27358,7 +27476,7 @@
 				<English>Reindel</English>
 				<German>Reindel</German>
 				<Chinesesimp>Reindel</Chinesesimp>
-				<Russian>Reindel</Russian>
+				<Russian>Рейндел</Russian>
 				<Korean>라인델</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_REINERS">
@@ -27366,7 +27484,7 @@
 				<English>Reiners</English>
 				<German>Reiners</German>
 				<Chinesesimp>Reiners</Chinesesimp>
-				<Russian>Reiners</Russian>
+				<Russian>Рейнерс</Russian>
 				<Korean>라이너스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RENNER">
@@ -27374,7 +27492,7 @@
 				<English>Renner</English>
 				<German>Renner</German>
 				<Chinesesimp>Renner</Chinesesimp>
-				<Russian>Renner</Russian>
+				<Russian>Реннер</Russian>
 				<Korean>라이너</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RENNSING">
@@ -27382,7 +27500,7 @@
 				<English>Rennsing</English>
 				<German>Rennsing</German>
 				<Chinesesimp>Rennsing</Chinesesimp>
-				<Russian>Rennsing</Russian>
+				<Russian>Реннсинг</Russian>
 				<Korean>라인지크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_REUTER">
@@ -27390,7 +27508,7 @@
 				<English>Reuter</English>
 				<German>Reuter</German>
 				<Chinesesimp>Reuter</Chinesesimp>
-				<Russian>Reuter</Russian>
+				<Russian>Рейтер</Russian>
 				<Korean>라우터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RICHTER">
@@ -27398,7 +27516,7 @@
 				<English>Richter</English>
 				<German>Richter</German>
 				<Chinesesimp>Richter</Chinesesimp>
-				<Russian>Richter</Russian>
+				<Russian>Рихтер</Russian>
 				<Korean>리히터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROCHUS">
@@ -27406,7 +27524,7 @@
 				<English>Rochus</English>
 				<German>Rochus</German>
 				<Chinesesimp>Rochus</Chinesesimp>
-				<Russian>Rochus</Russian>
+				<Russian>Рохус</Russian>
 				<Korean>로쿠스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUBEL">
@@ -27414,7 +27532,7 @@
 				<English>Rubel</English>
 				<German>Rubel</German>
 				<Chinesesimp>Rubel</Chinesesimp>
-				<Russian>Rubel</Russian>
+				<Russian>Рубель</Russian>
 				<Korean>루벨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUEHE">
@@ -27422,7 +27540,7 @@
 				<English>Rühe</English>
 				<German>Rühe</German>
 				<Chinesesimp>Rühe</Chinesesimp>
-				<Russian>Rühe</Russian>
+				<Russian>Рюэ</Russian>
 				<Korean>뤼허</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUF">
@@ -27430,7 +27548,7 @@
 				<English>Ruf</English>
 				<German>Ruf</German>
 				<Chinesesimp>Ruf</Chinesesimp>
-				<Russian>Ruf</Russian>
+				<Russian>Руф</Russian>
 				<Korean>루프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RUNKEL">
@@ -27438,7 +27556,7 @@
 				<English>Runkel</English>
 				<German>Runkel</German>
 				<Chinesesimp>Runkel</Chinesesimp>
-				<Russian>Runkel</Russian>
+				<Russian>Рункель</Russian>
 				<Korean>룬켈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SAENGER">
@@ -27446,7 +27564,7 @@
 				<English>Sänger</English>
 				<German>Sänger</German>
 				<Chinesesimp>Sänger</Chinesesimp>
-				<Russian>Sänger</Russian>
+				<Russian>Зенгер</Russian>
 				<Korean>생어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SEIBERT">
@@ -27454,7 +27572,7 @@
 				<English>Seibert</English>
 				<German>Seibert</German>
 				<Chinesesimp>Seibert</Chinesesimp>
-				<Russian>Seibert</Russian>
+				<Russian>Зайберт</Russian>
 				<Korean>자이베르트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHAEFER">
@@ -27462,7 +27580,7 @@
 				<English>Schäfer</English>
 				<German>Schäfer</German>
 				<Chinesesimp>Schäfer</Chinesesimp>
-				<Russian>Schäfer</Russian>
+				<Russian>Шефер</Russian>
 				<Korean>셰퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHARF">
@@ -27470,7 +27588,7 @@
 				<English>Scharf</English>
 				<German>Scharf</German>
 				<Chinesesimp>Scharf</Chinesesimp>
-				<Russian>Scharf</Russian>
+				<Russian>Шарф</Russian>
 				<Korean>샤프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHIEBEL">
@@ -27478,7 +27596,7 @@
 				<English>Schiebel</English>
 				<German>Schiebel</German>
 				<Chinesesimp>Schiebel</Chinesesimp>
-				<Russian>Schiebel</Russian>
+				<Russian>Шибель</Russian>
 				<Korean>쉬벨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHIEF">
@@ -27486,7 +27604,7 @@
 				<English>Schief</English>
 				<German>Schief</German>
 				<Chinesesimp>Schief</Chinesesimp>
-				<Russian>Schief</Russian>
+				<Russian>Шиф</Russian>
 				<Korean>쉬프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHIER">
@@ -27494,7 +27612,7 @@
 				<English>Schier</English>
 				<German>Schier</German>
 				<Chinesesimp>Schier</Chinesesimp>
-				<Russian>Schier</Russian>
+				<Russian>Шиер</Russian>
 				<Korean>쉬어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHLOTTER">
@@ -27502,7 +27620,7 @@
 				<English>Schlotter</English>
 				<German>Schlotter</German>
 				<Chinesesimp>Schlotter</Chinesesimp>
-				<Russian>Schlotter</Russian>
+				<Russian>Шлоттер</Russian>
 				<Korean>슐로터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHLOTTERHOSE">
@@ -27510,7 +27628,7 @@
 				<English>Schlotterhose</English>
 				<German>Schlotterhose</German>
 				<Chinesesimp>Schlotterhose</Chinesesimp>
-				<Russian>Schlotterhose</Russian>
+				<Russian>Шлоттерхозе</Russian>
 				<Korean>슐로터호스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHMITTNER">
@@ -27518,7 +27636,7 @@
 				<English>Schmittner</English>
 				<German>Schmittner</German>
 				<Chinesesimp>Schmittner</Chinesesimp>
-				<Russian>Schmittner</Russian>
+				<Russian>Шмиттнер</Russian>
 				<Korean>슈미트너</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHMIDT">
@@ -27526,7 +27644,7 @@
 				<English>Schmidt</English>
 				<German>Schmidt</German>
 				<Chinesesimp>Schmidt</Chinesesimp>
-				<Russian>Schmidt</Russian>
+				<Russian>Шмидт</Russian>
 				<Korean>슈미트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHMITZ">
@@ -27534,7 +27652,7 @@
 				<English>Schmitz</English>
 				<German>Schmitz</German>
 				<Chinesesimp>Schmitz</Chinesesimp>
-				<Russian>Schmitz</Russian>
+				<Russian>Шмитц</Russian>
 				<Korean>슈미츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUETTE">
@@ -27542,7 +27660,7 @@
 				<English>Schütte</English>
 				<German>Schütte</German>
 				<Chinesesimp>Schütte</Chinesesimp>
-				<Russian>Schütte</Russian>
+				<Russian>Шютте</Russian>
 				<Korean>쉬테</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHNEIDER">
@@ -27550,7 +27668,7 @@
 				<English>Schneider</English>
 				<German>Schneider</German>
 				<Chinesesimp>Schneider</Chinesesimp>
-				<Russian>Schneider</Russian>
+				<Russian>Шнайдер</Russian>
 				<Korean>슈나이더</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUERMANN">
@@ -27558,7 +27676,7 @@
 				<English>Schürmann</English>
 				<German>Schürmann</German>
 				<Chinesesimp>Schürmann</Chinesesimp>
-				<Russian>Schürmann</Russian>
+				<Russian>Шюрманн</Russian>
 				<Korean>슈어만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUHEN">
@@ -27566,7 +27684,7 @@
 				<English>Schuhen</English>
 				<German>Schuhen</German>
 				<Chinesesimp>Schuhen</Chinesesimp>
-				<Russian>Schuhen</Russian>
+				<Russian>Шуен</Russian>
 				<Korean>슈엔</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUHMACHER">
@@ -27574,7 +27692,7 @@
 				<English>Schuhmacher</English>
 				<German>Schuhmacher</German>
 				<Chinesesimp>Schuhmacher</Chinesesimp>
-				<Russian>Schuhmacher</Russian>
+				<Russian>Шумахер</Russian>
 				<Korean>슈마허</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHULTZ">
@@ -27582,7 +27700,7 @@
 				<English>Schultz</English>
 				<German>Schultz</German>
 				<Chinesesimp>Schultz</Chinesesimp>
-				<Russian>Schultz</Russian>
+				<Russian>Шульц</Russian>
 				<Korean>슐츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHUSTER">
@@ -27590,7 +27708,7 @@
 				<English>Schuster</English>
 				<German>Schuster</German>
 				<Chinesesimp>Schuster</Chinesesimp>
-				<Russian>Schuster</Russian>
+				<Russian>Шустер</Russian>
 				<Korean>슈스터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHROEDER">
@@ -27598,7 +27716,7 @@
 				<English>Schröder</English>
 				<German>Schröder</German>
 				<Chinesesimp>Schröder</Chinesesimp>
-				<Russian>Schröder</Russian>
+				<Russian>Шрёдер</Russian>
 				<Korean>슈뢰더</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHWARZ">
@@ -27606,7 +27724,7 @@
 				<English>Schwarz</English>
 				<German>Schwarz</German>
 				<Chinesesimp>Schwarz</Chinesesimp>
-				<Russian>Schwarz</Russian>
+				<Russian>Шварц</Russian>
 				<Korean>슈바르츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SCHWEINSTEIGER">
@@ -27614,7 +27732,7 @@
 				<English>Schweinsteiger</English>
 				<German>Schweinsteiger</German>
 				<Chinesesimp>Schweinsteiger</Chinesesimp>
-				<Russian>Schweinsteiger</Russian>
+				<Russian>Швайнштайгер</Russian>
 				<Korean>슈바인슈타이거</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SIMMELBAUER">
@@ -27622,7 +27740,7 @@
 				<English>Simmelbauer</English>
 				<German>Simmelbauer</German>
 				<Chinesesimp>Simmelbauer</Chinesesimp>
-				<Russian>Simmelbauer</Russian>
+				<Russian>Зиммельбауэр</Russian>
 				<Korean>심멜바우어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SOMMER">
@@ -27630,7 +27748,7 @@
 				<English>Sommer</English>
 				<German>Sommer</German>
 				<Chinesesimp>Sommer</Chinesesimp>
-				<Russian>Sommer</Russian>
+				<Russian>Зоммер</Russian>
 				<Korean>솜머</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SPEIER">
@@ -27638,7 +27756,7 @@
 				<English>Speier</English>
 				<German>Speier</German>
 				<Chinesesimp>Speier</Chinesesimp>
-				<Russian>Speier</Russian>
+				<Russian>Шпейер</Russian>
 				<Korean>스파이어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SPERR">
@@ -27646,7 +27764,7 @@
 				<English>Sperr</English>
 				<German>Sperr</German>
 				<Chinesesimp>Sperr</Chinesesimp>
-				<Russian>Sperr</Russian>
+				<Russian>Шперр</Russian>
 				<Korean>슈페어</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STANDFUSS">
@@ -27654,7 +27772,7 @@
 				<English>Standfuss</English>
 				<German>Standfuss</German>
 				<Chinesesimp>Standfuss</Chinesesimp>
-				<Russian>Standfuss</Russian>
+				<Russian>Стендфусс</Russian>
 				<Korean>슈탄드푸스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STAUBER">
@@ -27662,7 +27780,7 @@
 				<English>Stauber</English>
 				<German>Stauber</German>
 				<Chinesesimp>Stauber</Chinesesimp>
-				<Russian>Stauber</Russian>
+				<Russian>Штаубер</Russian>
 				<Korean>스타우버</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEIL">
@@ -27670,7 +27788,7 @@
 				<English>Steil</English>
 				<German>Steil</German>
 				<Chinesesimp>Steil</Chinesesimp>
-				<Russian>Steil</Russian>
+				<Russian>Штайль</Russian>
 				<Korean>스탈</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEIN">
@@ -27678,7 +27796,7 @@
 				<English>Stein</English>
 				<German>Stein</German>
 				<Chinesesimp>Stein</Chinesesimp>
-				<Russian>Stein</Russian>
+				<Russian>Штейн</Russian>
 				<Korean>스타인</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STRUCK">
@@ -27686,7 +27804,7 @@
 				<English>Struck</English>
 				<German>Struck</German>
 				<Chinesesimp>Struck</Chinesesimp>
-				<Russian>Struck</Russian>
+				<Russian>Струк</Russian>
 				<Korean>슈트루크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THELEN">
@@ -27694,7 +27812,7 @@
 				<English>Thelen</English>
 				<German>Thelen</German>
 				<Chinesesimp>Thelen</Chinesesimp>
-				<Russian>Thelen</Russian>
+				<Russian>Тэлен</Russian>
 				<Korean>테렌</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THIESEN">
@@ -27702,7 +27820,7 @@
 				<English>Thiesen</English>
 				<German>Thiesen</German>
 				<Chinesesimp>Thiesen</Chinesesimp>
-				<Russian>Thiesen</Russian>
+				<Russian>Тизен</Russian>
 				<Korean>티센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_TRANSFELD">
@@ -27710,7 +27828,7 @@
 				<English>Transfeld</English>
 				<German>Transfeld</German>
 				<Chinesesimp>Transfeld</Chinesesimp>
-				<Russian>Transfeld</Russian>
+				<Russian>Трансфельд</Russian>
 				<Korean>트란스펠드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_VAHLENKAMP">
@@ -27718,7 +27836,7 @@
 				<English>Vahlenkamp</English>
 				<German>Vahlenkamp</German>
 				<Chinesesimp>Vahlenkamp</Chinesesimp>
-				<Russian>Vahlenkamp</Russian>
+				<Russian>Валенкамп</Russian>
 				<Korean>발렌캄프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_VIERLING">
@@ -27726,7 +27844,7 @@
 				<English>Vierling</English>
 				<German>Vierling</German>
 				<Chinesesimp>Vierling</Chinesesimp>
-				<Russian>Vierling</Russian>
+				<Russian>Вирлинг</Russian>
 				<Korean>퓌어링</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_VOMBERG">
@@ -27734,7 +27852,7 @@
 				<English>vomBerg</English>
 				<German>vomBerg</German>
 				<Chinesesimp>vomBerg</Chinesesimp>
-				<Russian>vomBerg</Russian>
+				<Russian>Формберг</Russian>
 				<Korean>폼베르크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WAGNER">
@@ -27742,7 +27860,7 @@
 				<English>Wagner</English>
 				<German>Wagner</German>
 				<Chinesesimp>Wagner</Chinesesimp>
-				<Russian>Wagner</Russian>
+				<Russian>Вагнер</Russian>
 				<Korean>바그너</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WEBER">
@@ -27750,7 +27868,7 @@
 				<English>Weber</English>
 				<German>Weber</German>
 				<Chinesesimp>Weber</Chinesesimp>
-				<Russian>Weber</Russian>
+				<Russian>Вебер</Russian>
 				<Korean>베버</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WEIGEL">
@@ -27758,7 +27876,7 @@
 				<English>Weigel</English>
 				<German>Weigel</German>
 				<Chinesesimp>Weigel</Chinesesimp>
-				<Russian>Weigel</Russian>
+				<Russian>Вайгель</Russian>
 				<Korean>바이겔</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WEIGT">
@@ -27766,7 +27884,7 @@
 				<English>Weigt</English>
 				<German>Weigt</German>
 				<Chinesesimp>Weigt</Chinesesimp>
-				<Russian>Weigt</Russian>
+				<Russian>Вайгт</Russian>
 				<Korean>바이트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WEISS">
@@ -27774,7 +27892,7 @@
 				<English>Weiß</English>
 				<German>Weiß</German>
 				<Chinesesimp>Weiß</Chinesesimp>
-				<Russian>Weiß</Russian>
+				<Russian>Вайс</Russian>
 				<Korean>바이스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WELTER">
@@ -27782,7 +27900,7 @@
 				<English>Welter</English>
 				<German>Welter</German>
 				<Chinesesimp>Welter</Chinesesimp>
-				<Russian>Welter</Russian>
+				<Russian>Вельтер</Russian>
 				<Korean>발터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WENDT">
@@ -27790,7 +27908,7 @@
 				<English>Wendt</English>
 				<German>Wendt</German>
 				<Chinesesimp>Wendt</Chinesesimp>
-				<Russian>Wendt</Russian>
+				<Russian>Вендт</Russian>
 				<Korean>반트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WICKE">
@@ -27798,7 +27916,7 @@
 				<English>Wicke</English>
 				<German>Wicke</German>
 				<Chinesesimp>Wicke</Chinesesimp>
-				<Russian>Wicke</Russian>
+				<Russian>Вике</Russian>
 				<Korean>비케</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WILDT">
@@ -27806,7 +27924,7 @@
 				<English>Wildt</English>
 				<German>Wildt</German>
 				<Chinesesimp>Wildt</Chinesesimp>
-				<Russian>Wildt</Russian>
+				<Russian>Вильдт</Russian>
 				<Korean>빌트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WINTER">
@@ -27814,7 +27932,7 @@
 				<English>Winter</English>
 				<German>Winter</German>
 				<Chinesesimp>Winter</Chinesesimp>
-				<Russian>Winter</Russian>
+				<Russian>Винтер</Russian>
 				<Korean>빈터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WOLFF">
@@ -27822,7 +27940,7 @@
 				<English>Wolff</English>
 				<German>Wolff</German>
 				<Chinesesimp>Wolff</Chinesesimp>
-				<Russian>Wolff</Russian>
+				<Russian>Волфф</Russian>
 				<Korean>볼프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WOLTER">
@@ -27830,7 +27948,7 @@
 				<English>Wolter</English>
 				<German>Wolter</German>
 				<Chinesesimp>Wolter</Chinesesimp>
-				<Russian>Wolter</Russian>
+				<Russian>Вольтер</Russian>
 				<Korean>볼터</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WOLTERS">
@@ -27838,7 +27956,7 @@
 				<English>Wolters</English>
 				<German>Wolters</German>
 				<Chinesesimp>Wolters</Chinesesimp>
-				<Russian>Wolters</Russian>
+				<Russian>Волтерс</Russian>
 				<Korean>볼터스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_WUEST">
@@ -27846,7 +27964,7 @@
 				<English>Wüst</English>
 				<German>Wüst</German>
 				<Chinesesimp>Wüst</Chinesesimp>
-				<Russian>Wüst</Russian>
+				<Russian>Вюст</Russian>
 				<Korean>뷔스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ZIMMERMANN">
@@ -27854,7 +27972,7 @@
 				<English>Zimmermann</English>
 				<German>Zimmermann</German>
 				<Chinesesimp>Zimmermann</Chinesesimp>
-				<Russian>Zimmermann</Russian>
+				<Russian>Циммерман</Russian>
 				<Korean>짐머만</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ZONDLER">
@@ -27862,7 +27980,7 @@
 				<English>Zondler</English>
 				<German>Zondler</German>
 				<Chinesesimp>Zondler</Chinesesimp>
-				<Russian>Zondler</Russian>
+				<Russian>Зондлер</Russian>
 				<Korean>존들러</Korean>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_01">
@@ -27871,6 +27989,7 @@
 				<German>Deutsch 01</German>
 				<Chinesesimp>德国人01</Chinesesimp>
 				<Korean>독일어 01</Korean>
+				<Russian>Немецкий 01</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_02">
 				<Original>German 02</Original>
@@ -27878,6 +27997,7 @@
 				<German>Deutsch 02</German>
 				<Chinesesimp>德国人02</Chinesesimp>
 				<Korean>독일어 02</Korean>
+				<Russian>Немецкий 02</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_03">
 				<Original>German 03</Original>
@@ -27885,6 +28005,7 @@
 				<German>Deutsch 03</German>
 				<Chinesesimp>德国人03</Chinesesimp>
 				<Korean>독일어 03</Korean>
+				<Russian>Немецкий 03</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_04">
 				<Original>German 04</Original>
@@ -27892,6 +28013,7 @@
 				<German>Deutsch 04</German>
 				<Chinesesimp>德国人04</Chinesesimp>
 				<Korean>독일어 04</Korean>
+				<Russian>Немецкий 04</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_05">
 				<Original>German 05</Original>
@@ -27899,6 +28021,7 @@
 				<German>Deutsch 05</German>
 				<Chinesesimp>德国人05</Chinesesimp>
 				<Korean>독일어 05</Korean>
+				<Russian>Немецкий 05</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_06">
 				<Original>German 06</Original>
@@ -27906,6 +28029,7 @@
 				<German>Deutsch 06</German>
 				<Chinesesimp>德国人06</Chinesesimp>
 				<Korean>독일어 06</Korean>
+				<Russian>Немецкий 06</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_07">
 				<Original>German 07</Original>
@@ -27913,6 +28037,7 @@
 				<German>Deutsch 07</German>
 				<Chinesesimp>德国人07</Chinesesimp>
 				<Korean>독일어 7</Korean>
+				<Russian>Немецкий 07</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_08">
 				<Original>German 08</Original>
@@ -27920,6 +28045,7 @@
 				<German>Deutsch 08</German>
 				<Chinesesimp>德国人08</Chinesesimp>
 				<Korean>독일어 8</Korean>
+				<Russian>Немецкий 08</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_09">
 				<Original>German 09</Original>
@@ -27927,6 +28053,7 @@
 				<German>Deutsch 09</German>
 				<Chinesesimp>德国人09</Chinesesimp>
 				<Korean>독일어 9</Korean>
+				<Russian>Немецкий 09</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_10">
 				<Original>German 10</Original>
@@ -27934,6 +28061,7 @@
 				<German>Deutsch 10</German>
 				<Chinesesimp>德国人10</Chinesesimp>
 				<Korean>독일어 10</Korean>
+				<Russian>Немецкий 10</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_11">
 				<Original>German 11</Original>
@@ -27941,6 +28069,7 @@
 				<German>Deutsch 11</German>
 				<Chinesesimp>德国人11</Chinesesimp>
 				<Korean>독일어 11</Korean>
+				<Russian>Немецкий 11</Russian>
 			</Key>
 			<Key ID="STR_DN_LANGUAGE_GERMAN_12">
 				<Original>German 12</Original>
@@ -27948,6 +28077,7 @@
 				<German>Deutsch 12</German>
 				<Chinesesimp>德国人12</Chinesesimp>
 				<Korean>독일어 12</Korean>
+				<Russian>Немецкий 12</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -27958,7 +28088,7 @@
 				<English>Adam</English>
 				<German>Adam</German>
 				<Chinesesimp>Adam</Chinesesimp>
-				<Russian>Adam</Russian>
+				<Russian>Адам</Russian>
 				<Korean>아담</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ANTON">
@@ -27966,7 +28096,7 @@
 				<English>Anton</English>
 				<German>Anton</German>
 				<Chinesesimp>Anton</Chinesesimp>
-				<Russian>Anton</Russian>
+				<Russian>Антон</Russian>
 				<Korean>안톤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BENNY">
@@ -27974,7 +28104,7 @@
 				<English>Benny</English>
 				<German>Benny</German>
 				<Chinesesimp>Benny</Chinesesimp>
-				<Russian>Benny</Russian>
+				<Russian>Бенни</Russian>
 				<Korean>베니</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BO">
@@ -27982,7 +28112,7 @@
 				<English>Bo</English>
 				<German>Bo</German>
 				<Chinesesimp>Bo</Chinesesimp>
-				<Russian>Bo</Russian>
+				<Russian>Бо</Russian>
 				<Korean>보</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BRIAN">
@@ -27990,7 +28120,7 @@
 				<English>Brian</English>
 				<German>Brian</German>
 				<Chinesesimp>Brian</Chinesesimp>
-				<Russian>Brian</Russian>
+				<Russian>Брайн</Russian>
 				<Korean>브라이언</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CASPER">
@@ -27998,7 +28128,7 @@
 				<English>Casper</English>
 				<German>Casper</German>
 				<Chinesesimp>Casper</Chinesesimp>
-				<Russian>Casper</Russian>
+				<Russian>Каспер</Russian>
 				<Korean>카스퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTOFFER">
@@ -28006,7 +28136,7 @@
 				<English>Christoffer</English>
 				<German>Christoffer</German>
 				<Chinesesimp>Christoffer</Chinesesimp>
-				<Russian>Christoffer</Russian>
+				<Russian>Кристоффер</Russian>
 				<Korean>크리스토퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_EGON">
@@ -28014,7 +28144,7 @@
 				<English>Egon</English>
 				<German>Egon</German>
 				<Chinesesimp>Egon</Chinesesimp>
-				<Russian>Egon</Russian>
+				<Russian>Эгон</Russian>
 				<Korean>에곤</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_EMIL">
@@ -28022,7 +28152,7 @@
 				<English>Emil</English>
 				<German>Emil</German>
 				<Chinesesimp>Emil</Chinesesimp>
-				<Russian>Emil</Russian>
+				<Russian>Эмиль</Russian>
 				<Korean>에밀</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FLEMMING">
@@ -28030,7 +28160,7 @@
 				<English>Flemming</English>
 				<German>Flemming</German>
 				<Chinesesimp>Flemming</Chinesesimp>
-				<Russian>Flemming</Russian>
+				<Russian>Флемминг</Russian>
 				<Korean>플레밍</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FREDERIK">
@@ -28038,7 +28168,7 @@
 				<English>Frederik</English>
 				<German>Frederik</German>
 				<Chinesesimp>Frederik</Chinesesimp>
-				<Russian>Frederik</Russian>
+				<Russian>Фредерик</Russian>
 				<Korean>프리데리크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HENRIK">
@@ -28046,7 +28176,7 @@
 				<English>Henrik</English>
 				<German>Henrik</German>
 				<Chinesesimp>Henrik</Chinesesimp>
-				<Russian>Henrik</Russian>
+				<Russian>Генрик</Russian>
 				<Korean>헨릭</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HJALTE">
@@ -28054,7 +28184,7 @@
 				<English>Hjalte</English>
 				<German>Hjalte</German>
 				<Chinesesimp>Hjalte</Chinesesimp>
-				<Russian>Hjalte</Russian>
+				<Russian>Хьялте</Russian>
 				<Korean>할테</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JAKOB">
@@ -28062,7 +28192,7 @@
 				<English>Jakob</English>
 				<German>Jakob</German>
 				<Chinesesimp>Jakob</Chinesesimp>
-				<Russian>Jakob</Russian>
+				<Russian>Якоб</Russian>
 				<Korean>제이콥</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JESPER">
@@ -28070,7 +28200,7 @@
 				<English>Jesper</English>
 				<German>Jesper</German>
 				<Chinesesimp>Jesper</Chinesesimp>
-				<Russian>Jesper</Russian>
+				<Russian>Джеспер</Russian>
 				<Korean>에스페르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JONAS">
@@ -28078,7 +28208,7 @@
 				<English>Jonas</English>
 				<German>Jonas</German>
 				<Chinesesimp>Jonas</Chinesesimp>
-				<Russian>Jonas</Russian>
+				<Russian>Йонас</Russian>
 				<Korean>조나스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JONATHAN">
@@ -28086,7 +28216,7 @@
 				<English>Jonathan</English>
 				<German>Jonathan</German>
 				<Chinesesimp>Jonathan</Chinesesimp>
-				<Russian>Jonathan</Russian>
+				<Russian>Джонатан</Russian>
 				<Korean>조너선</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KJELD">
@@ -28094,7 +28224,7 @@
 				<English>Kjeld</English>
 				<German>Kjeld</German>
 				<Chinesesimp>Kjeld</Chinesesimp>
-				<Russian>Kjeld</Russian>
+				<Russian>Кьелд</Russian>
 				<Korean>키엘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KLAUS">
@@ -28102,7 +28232,7 @@
 				<English>Klaus</English>
 				<German>Klaus</German>
 				<Chinesesimp>Klaus</Chinesesimp>
-				<Russian>Klaus</Russian>
+				<Russian>Клаус</Russian>
 				<Korean>클라우스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRISTOFFER">
@@ -28110,7 +28240,7 @@
 				<English>Kristoffer</English>
 				<German>Kristoffer</German>
 				<Chinesesimp>Kristoffer</Chinesesimp>
-				<Russian>Kristoffer</Russian>
+				<Russian>Кристоффер</Russian>
 				<Korean>크리스토퍼</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LASSE">
@@ -28118,7 +28248,7 @@
 				<English>Lasse</English>
 				<German>Lasse</German>
 				<Chinesesimp>Lasse</Chinesesimp>
-				<Russian>Lasse</Russian>
+				<Russian>Лассе</Russian>
 				<Korean>라세</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LAU">
@@ -28126,7 +28256,7 @@
 				<English>Lau</English>
 				<German>Lau</German>
 				<Chinesesimp>Lau</Chinesesimp>
-				<Russian>Lau</Russian>
+				<Russian>Лау</Russian>
 				<Korean>라우</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MADS">
@@ -28134,7 +28264,7 @@
 				<English>Mads</English>
 				<German>Mads</German>
 				<Chinesesimp>Mads</Chinesesimp>
-				<Russian>Mads</Russian>
+				<Russian>Мадс</Russian>
 				<Korean>마스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MAGNUS">
@@ -28142,7 +28272,7 @@
 				<English>Magnus</English>
 				<German>Magnus</German>
 				<Chinesesimp>Magnus</Chinesesimp>
-				<Russian>Magnus</Russian>
+				<Russian>Магнус</Russian>
 				<Korean>마그누스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MATHIAS">
@@ -28150,7 +28280,7 @@
 				<English>Mathias</English>
 				<German>Mathias</German>
 				<Chinesesimp>Mathias</Chinesesimp>
-				<Russian>Mathias</Russian>
+				<Russian>Матиас</Russian>
 				<Korean>마티어스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MIKAEL">
@@ -28158,7 +28288,7 @@
 				<English>Mikael</English>
 				<German>Mikael</German>
 				<Chinesesimp>Mikael</Chinesesimp>
-				<Russian>Mikael</Russian>
+				<Russian>Микаэль</Russian>
 				<Korean>미카엘</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NICKLAS">
@@ -28166,7 +28296,7 @@
 				<English>Nicklas</English>
 				<German>Nicklas</German>
 				<Chinesesimp>Nicklas</Chinesesimp>
-				<Russian>Nicklas</Russian>
+				<Russian>Никлас</Russian>
 				<Korean>니클라스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NIELS">
@@ -28174,7 +28304,7 @@
 				<English>Niels</English>
 				<German>Niels</German>
 				<Chinesesimp>Niels</Chinesesimp>
-				<Russian>Niels</Russian>
+				<Russian>Нильс</Russian>
 				<Korean>닐스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NIKOLAJ">
@@ -28182,7 +28312,7 @@
 				<English>Nikolaj</English>
 				<German>Nikolaj</German>
 				<Chinesesimp>Nikolaj</Chinesesimp>
-				<Russian>Nikolaj</Russian>
+				<Russian>Николай</Russian>
 				<Korean>니콜라이</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OSCAR">
@@ -28190,7 +28320,7 @@
 				<English>Oscar</English>
 				<German>Oscar</German>
 				<Chinesesimp>Oscar</Chinesesimp>
-				<Russian>Oscar</Russian>
+				<Russian>Оскар</Russian>
 				<Korean>오스카</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OVE">
@@ -28198,7 +28328,7 @@
 				<English>Ove</English>
 				<German>Ove</German>
 				<Chinesesimp>Ove</Chinesesimp>
-				<Russian>Ove</Russian>
+				<Russian>Уве</Russian>
 				<Korean>오베</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PER">
@@ -28206,7 +28336,7 @@
 				<English>Per</English>
 				<German>Per</German>
 				<Chinesesimp>Per</Chinesesimp>
-				<Russian>Per</Russian>
+				<Russian>Пер</Russian>
 				<Korean>펄</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_POUL">
@@ -28214,7 +28344,7 @@
 				<English>Poul</English>
 				<German>Poul</German>
 				<Chinesesimp>Poul</Chinesesimp>
-				<Russian>Poul</Russian>
+				<Russian>Пауль</Russian>
 				<Korean>폴</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RASMUS">
@@ -28222,7 +28352,7 @@
 				<English>Rasmus</English>
 				<German>Rasmus</German>
 				<Chinesesimp>Rasmus</Chinesesimp>
-				<Russian>Rasmus</Russian>
+				<Russian>Расмус</Russian>
 				<Korean>라스무스</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RENE">
@@ -28230,7 +28360,7 @@
 				<English>René</English>
 				<German>René</German>
 				<Chinesesimp>René</Chinesesimp>
-				<Russian>René</Russian>
+				<Russian>Ренé</Russian>
 				<Korean>르네</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROLF">
@@ -28238,7 +28368,7 @@
 				<English>Rolf</English>
 				<German>Rolf</German>
 				<Chinesesimp>Rolf</Chinesesimp>
-				<Russian>Rolf</Russian>
+				<Russian>Рольф</Russian>
 				<Korean>롤프</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SOEREN">
@@ -28246,7 +28376,7 @@
 				<English>Søren</English>
 				<German>Søren</German>
 				<Chinesesimp>Søren</Chinesesimp>
-				<Russian>Søren</Russian>
+				<Russian>Сёрен</Russian>
 				<Korean>쇠렌</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THOR">
@@ -28254,7 +28384,7 @@
 				<English>Thor</English>
 				<German>Thor</German>
 				<Chinesesimp>Thor</Chinesesimp>
-				<Russian>Thor</Russian>
+				<Russian>Тор</Russian>
 				<Korean>토르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_VIKTOR">
@@ -28262,7 +28392,7 @@
 				<English>Viktor</English>
 				<German>Viktor</German>
 				<Chinesesimp>Viktor</Chinesesimp>
-				<Russian>Viktor</Russian>
+				<Russian>Виктор</Russian>
 				<Korean>빅토르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ANDERSEN">
@@ -28270,7 +28400,7 @@
 				<English>Andersen</English>
 				<German>Andersen</German>
 				<Chinesesimp>Andersen</Chinesesimp>
-				<Russian>Andersen</Russian>
+				<Russian>Андерсен</Russian>
 				<Korean>아나슨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ANDREASEN">
@@ -28278,7 +28408,7 @@
 				<English>Andreasen</English>
 				<German>Andreasen</German>
 				<Chinesesimp>Andreasen</Chinesesimp>
-				<Russian>Andreasen</Russian>
+				<Russian>Андреасен</Russian>
 				<Korean>안드레아센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ANTONSEN">
@@ -28286,7 +28416,7 @@
 				<English>Antonsen</English>
 				<German>Antonsen</German>
 				<Chinesesimp>Antonsen</Chinesesimp>
-				<Russian>Antonsen</Russian>
+				<Russian>Антонсен</Russian>
 				<Korean>안톤센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ALBERTSEN">
@@ -28294,7 +28424,7 @@
 				<English>Albertsen</English>
 				<German>Albertsen</German>
 				<Chinesesimp>Albertsen</Chinesesimp>
-				<Russian>Albertsen</Russian>
+				<Russian>Альбертсен</Russian>
 				<Korean>알베르트센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BERTELSEN">
@@ -28302,7 +28432,7 @@
 				<English>Bertelsen</English>
 				<German>Bertelsen</German>
 				<Chinesesimp>Bertelsen</Chinesesimp>
-				<Russian>Bertelsen</Russian>
+				<Russian>Бертельсен</Russian>
 				<Korean>베르텔센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTENSEN">
@@ -28310,7 +28440,7 @@
 				<English>Christensen</English>
 				<German>Christensen</German>
 				<Chinesesimp>Christensen</Chinesesimp>
-				<Russian>Christensen</Russian>
+				<Russian>Кристенсен</Russian>
 				<Korean>크리스텐센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_CHRISTIANSEN">
@@ -28318,7 +28448,7 @@
 				<English>Christiansen</English>
 				<German>Christiansen</German>
 				<Chinesesimp>Christiansen</Chinesesimp>
-				<Russian>Christiansen</Russian>
+				<Russian>Кристиансен</Russian>
 				<Korean>크리스티안센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DALAGER">
@@ -28326,7 +28456,7 @@
 				<English>Dalager</English>
 				<German>Dalager</German>
 				<Chinesesimp>Dalager</Chinesesimp>
-				<Russian>Dalager</Russian>
+				<Russian>Далагер</Russian>
 				<Korean>달라거</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DIENSTRUP">
@@ -28334,7 +28464,7 @@
 				<English>Dienstrup</English>
 				<German>Dienstrup</German>
 				<Chinesesimp>Dienstrup</Chinesesimp>
-				<Russian>Dienstrup</Russian>
+				<Russian>Денструп</Russian>
 				<Korean>딘스트룹</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_DALSGAARD">
@@ -28342,7 +28472,7 @@
 				<English>Dalsgaard</English>
 				<German>Dalsgaard</German>
 				<Chinesesimp>Dalsgaard</Chinesesimp>
-				<Russian>Dalsgaard</Russian>
+				<Russian>Дальсгаард</Russian>
 				<Korean>달스고르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ERIKSEN">
@@ -28350,7 +28480,7 @@
 				<English>Eriksen</English>
 				<German>Eriksen</German>
 				<Chinesesimp>Eriksen</Chinesesimp>
-				<Russian>Eriksen</Russian>
+				<Russian>Эриксен</Russian>
 				<Korean>에릭센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FREDERIKSEN">
@@ -28358,7 +28488,7 @@
 				<English>Frederiksen</English>
 				<German>Frederiksen</German>
 				<Chinesesimp>Frederiksen</Chinesesimp>
-				<Russian>Frederiksen</Russian>
+				<Russian>Фредериксен</Russian>
 				<Korean>프레드릭슨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FRANDSEN">
@@ -28366,7 +28496,7 @@
 				<English>Frandsen</English>
 				<German>Frandsen</German>
 				<Chinesesimp>Frandsen</Chinesesimp>
-				<Russian>Frandsen</Russian>
+				<Russian>Франдсен</Russian>
 				<Korean>프란센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_FISKER">
@@ -28374,7 +28504,7 @@
 				<English>Fisker</English>
 				<German>Fisker</German>
 				<Chinesesimp>Fisker</Chinesesimp>
-				<Russian>Fisker</Russian>
+				<Russian>Фискер</Russian>
 				<Korean>피스커</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GADE">
@@ -28382,7 +28512,7 @@
 				<English>Gade</English>
 				<German>Gade</German>
 				<Chinesesimp>Gade</Chinesesimp>
-				<Russian>Gade</Russian>
+				<Russian>Гаде</Russian>
 				<Korean>가데</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GROENKJAER">
@@ -28390,7 +28520,7 @@
 				<English>Grønkjær</English>
 				<German>Grønkjær</German>
 				<Chinesesimp>Grønkjær</Chinesesimp>
-				<Russian>Grønkjær</Russian>
+				<Russian>Грёнкьер</Russian>
 				<Korean>그뢴키예르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_GUNNERSEN">
@@ -28398,7 +28528,7 @@
 				<English>Gunnersen</English>
 				<German>Gunnersen</German>
 				<Chinesesimp>Gunnersen</Chinesesimp>
-				<Russian>Gunnersen</Russian>
+				<Russian>Гуннерсен</Russian>
 				<Korean>거너슨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HEMMINGSEN">
@@ -28406,7 +28536,7 @@
 				<English>Hemmingsen</English>
 				<German>Hemmingsen</German>
 				<Chinesesimp>Hemmingsen</Chinesesimp>
-				<Russian>Hemmingsen</Russian>
+				<Russian>Хеммингсен</Russian>
 				<Korean>헤밍센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HOLM">
@@ -28414,7 +28544,7 @@
 				<English>Holm</English>
 				<German>Holm</German>
 				<Chinesesimp>Holm</Chinesesimp>
-				<Russian>Holm</Russian>
+				<Russian>Хольм</Russian>
 				<Korean>홀름</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_HOEJBJERG">
@@ -28422,7 +28552,7 @@
 				<English>Højbjerg</English>
 				<German>Højbjerg</German>
 				<Chinesesimp>Højbjerg</Chinesesimp>
-				<Russian>Højbjerg</Russian>
+				<Russian>Хёйбьерг</Russian>
 				<Korean>호이비에르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JENSEN">
@@ -28430,7 +28560,7 @@
 				<English>Jensen</English>
 				<German>Jensen</German>
 				<Chinesesimp>Jensen</Chinesesimp>
-				<Russian>Jensen</Russian>
+				<Russian>Йенсен</Russian>
 				<Korean>옌센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JAKOBSEN">
@@ -28438,7 +28568,7 @@
 				<English>Jakobsen</English>
 				<German>Jakobsen</German>
 				<Chinesesimp>Jakobsen</Chinesesimp>
-				<Russian>Jakobsen</Russian>
+				<Russian>Якобсен</Russian>
 				<Korean>야콥센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JEPPESEN">
@@ -28446,7 +28576,7 @@
 				<English>Jeppesen</English>
 				<German>Jeppesen</German>
 				<Chinesesimp>Jeppesen</Chinesesimp>
-				<Russian>Jeppesen</Russian>
+				<Russian>Джеппесен</Russian>
 				<Korean>제페센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_JOERGENSEN">
@@ -28454,7 +28584,7 @@
 				<English>Jørgensen</English>
 				<German>Jørgensen</German>
 				<Chinesesimp>Jørgensen</Chinesesimp>
-				<Russian>Jørgensen</Russian>
+				<Russian>Йоргенсен</Russian>
 				<Korean>외르겐센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KRISTENSEN">
@@ -28462,7 +28592,7 @@
 				<English>Kristensen</English>
 				<German>Kristensen</German>
 				<Chinesesimp>Kristensen</Chinesesimp>
-				<Russian>Kristensen</Russian>
+				<Russian>Кристенсен</Russian>
 				<Korean>크리스텐슨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_KNUDSEN">
@@ -28470,7 +28600,7 @@
 				<English>Knudsen</English>
 				<German>Knudsen</German>
 				<Chinesesimp>Knudsen</Chinesesimp>
-				<Russian>Knudsen</Russian>
+				<Russian>Кнудсен</Russian>
 				<Korean>크누드센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LUNDING">
@@ -28478,7 +28608,7 @@
 				<English>Lunding</English>
 				<German>Lunding</German>
 				<Chinesesimp>Lunding</Chinesesimp>
-				<Russian>Lunding</Russian>
+				<Russian>Лэндинг</Russian>
 				<Korean>룬딩</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LAURITSEN">
@@ -28486,7 +28616,7 @@
 				<English>Lauritsen</English>
 				<German>Lauritsen</German>
 				<Chinesesimp>Lauritsen</Chinesesimp>
-				<Russian>Lauritsen</Russian>
+				<Russian>Лауритсен</Russian>
 				<Korean>로릿센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_LARSEN">
@@ -28494,7 +28624,7 @@
 				<English>Larsen</English>
 				<German>Larsen</German>
 				<Chinesesimp>Larsen</Chinesesimp>
-				<Russian>Larsen</Russian>
+				<Russian>Ларсен</Russian>
 				<Korean>라르센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MOELNITZ">
@@ -28502,7 +28632,7 @@
 				<English>Mølnitz</English>
 				<German>Mølnitz</German>
 				<Chinesesimp>Mølnitz</Chinesesimp>
-				<Russian>Mølnitz</Russian>
+				<Russian>Мёльнитц</Russian>
 				<Korean>뫼니츠</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MORTENSEN">
@@ -28510,7 +28640,7 @@
 				<English>Mortensen</English>
 				<German>Mortensen</German>
 				<Chinesesimp>Mortensen</Chinesesimp>
-				<Russian>Mortensen</Russian>
+				<Russian>Мортенсен</Russian>
 				<Korean>모텐슨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_MADSEN">
@@ -28518,7 +28648,7 @@
 				<English>Madsen</English>
 				<German>Madsen</German>
 				<Chinesesimp>Madsen</Chinesesimp>
-				<Russian>Madsen</Russian>
+				<Russian>Мадсен</Russian>
 				<Korean>마드센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NIELSEN">
@@ -28526,7 +28656,7 @@
 				<English>Nielsen</English>
 				<German>Nielsen</German>
 				<Chinesesimp>Nielsen</Chinesesimp>
-				<Russian>Nielsen</Russian>
+				<Russian>Нильсен</Russian>
 				<Korean>닐센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_NYHOLM">
@@ -28534,7 +28664,7 @@
 				<English>Nyholm</English>
 				<German>Nyholm</German>
 				<Chinesesimp>Nyholm</Chinesesimp>
-				<Russian>Nyholm</Russian>
+				<Russian>Нюхольм</Russian>
 				<Korean>누홀름</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OTTESEN">
@@ -28542,7 +28672,7 @@
 				<English>Ottesen</English>
 				<German>Ottesen</German>
 				<Chinesesimp>Ottesen</Chinesesimp>
-				<Russian>Ottesen</Russian>
+				<Russian>Оттсен</Russian>
 				<Korean>오테센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_PEDERSEN">
@@ -28550,7 +28680,7 @@
 				<English>Pedersen</English>
 				<German>Pedersen</German>
 				<Chinesesimp>Pedersen</Chinesesimp>
-				<Russian>Pedersen</Russian>
+				<Russian>Педерсен</Russian>
 				<Korean>페데르센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_POULSEN">
@@ -28558,7 +28688,7 @@
 				<English>Poulsen</English>
 				<German>Poulsen</German>
 				<Chinesesimp>Poulsen</Chinesesimp>
-				<Russian>Poulsen</Russian>
+				<Russian>Поулсен</Russian>
 				<Korean>포울센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_RASMUSSEN">
@@ -28566,7 +28696,7 @@
 				<English>Rasmussen</English>
 				<German>Rasmussen</German>
 				<Chinesesimp>Rasmussen</Chinesesimp>
-				<Russian>Rasmussen</Russian>
+				<Russian>Расмуссен</Russian>
 				<Korean>라스무센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_ROERBAEK">
@@ -28574,7 +28704,7 @@
 				<English>Rørbæk</English>
 				<German>Rørbæk</German>
 				<Chinesesimp>Rørbæk</Chinesesimp>
-				<Russian>Rørbæk</Russian>
+				<Russian>Рёрбэк</Russian>
 				<Korean>뢰르베크</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_QVIST">
@@ -28582,7 +28712,7 @@
 				<English>Qvist</English>
 				<German>Qvist</German>
 				<Chinesesimp>Qvist</Chinesesimp>
-				<Russian>Qvist</Russian>
+				<Russian>Квист</Russian>
 				<Korean>퀴스트</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SKOV">
@@ -28590,7 +28720,7 @@
 				<English>Skov</English>
 				<German>Skov</German>
 				<Chinesesimp>Skov</Chinesesimp>
-				<Russian>Skov</Russian>
+				<Russian>Сков</Russian>
 				<Korean>스코우</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_STEPHENSEN">
@@ -28598,7 +28728,7 @@
 				<English>Stephensen</English>
 				<German>Stephensen</German>
 				<Chinesesimp>Stephensen</Chinesesimp>
-				<Russian>Stephensen</Russian>
+				<Russian>Стефенсен</Russian>
 				<Korean>스티븐슨</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SOENDERGAARD">
@@ -28606,7 +28736,7 @@
 				<English>Søndergård</English>
 				<German>Søndergård</German>
 				<Chinesesimp>Søndergård</Chinesesimp>
-				<Russian>Søndergård</Russian>
+				<Russian>Сёндергорд</Russian>
 				<Korean>쇠네르고르</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SOERENSEN">
@@ -28614,7 +28744,7 @@
 				<English>Sørensen</English>
 				<German>Sørensen</German>
 				<Chinesesimp>Sørensen</Chinesesimp>
-				<Russian>Sørensen</Russian>
+				<Russian>Сёренсен</Russian>
 				<Korean>쇠렌센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THYGESEN">
@@ -28622,7 +28752,7 @@
 				<English>Thygesen</English>
 				<German>Thygesen</German>
 				<Chinesesimp>Thygesen</Chinesesimp>
-				<Russian>Thygesen</Russian>
+				<Russian>Тигесен</Russian>
 				<Korean>튀게센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_THOMASSEN">
@@ -28630,7 +28760,7 @@
 				<English>Thomassen</English>
 				<German>Thomassen</German>
 				<Chinesesimp>Thomassen</Chinesesimp>
-				<Russian>Thomassen</Russian>
+				<Russian>Томассен</Russian>
 				<Korean>토마센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_VILLUMSEN">
@@ -28638,7 +28768,7 @@
 				<English>Villumsen</English>
 				<German>Villumsen</German>
 				<Chinesesimp>Villumsen</Chinesesimp>
-				<Russian>Villumsen</Russian>
+				<Russian>Виллумсен</Russian>
 				<Korean>빌룸센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OESTERGAARD">
@@ -28646,7 +28776,7 @@
 				<English>Østergaard</English>
 				<German>Østergaard</German>
 				<Chinesesimp>Østergaard</Chinesesimp>
-				<Russian>Østergaard</Russian>
+				<Russian>Эстергаард</Russian>
 				<Korean>오스터가드</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_SPROGOEE">
@@ -28654,7 +28784,7 @@
 				<English>Sprogøe</English>
 				<German>Sprogøe</German>
 				<Chinesesimp>Sprogøe</Chinesesimp>
-				<Russian>Sprogøe</Russian>
+				<Russian>Спрогёэ</Russian>
 				<Korean>스프로쇠에</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_OLSEN">
@@ -28662,7 +28792,7 @@
 				<English>Olsen</English>
 				<German>Olsen</German>
 				<Chinesesimp>Olsen</Chinesesimp>
-				<Russian>Olsen</Russian>
+				<Russian>Ольсен</Russian>
 				<Korean>올센</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_NAME_BUNDGAARD">
@@ -28670,7 +28800,7 @@
 				<English>Bundgaard</English>
 				<German>Bundgaard</German>
 				<Chinesesimp>Bundgaard</Chinesesimp>
-				<Russian>Bundgaard</Russian>
+				<Russian>Бундгаард</Russian>
 				<Korean>분드가르드</Korean>
 			</Key>
 		</Container>
@@ -28682,18 +28812,21 @@
 				<English>Teleraet 81 M</English>
 				<German>Teleraet 81 M</German>
 				<Chinesesimp>通讯中心 81 M</Chinesesimp>
+				<Russian>Teleraet 81 M</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_COMPUTER_TELERAET_81_R">
 				<Original>Teleraet 81 R</Original>
 				<English>Teleraet 81 R</English>
 				<German>Teleraet 81 R</German>
 				<Chinesesimp>通讯中心 81 R</Chinesesimp>
+				<Russian>Teleraet 81 R</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_COMPUTER_TELERAET_81_FS">
 				<Original>Teleraet 81 FS</Original>
 				<English>Teleraet 81 FS</English>
 				<German>Teleraet 81 FS</German>
 				<Chinesesimp>通讯中心 81 FS</Chinesesimp>
+				<Russian>Teleraet 81 FS</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ENABLE_DEVICE">
 				<Original>Enable Device</Original>
@@ -28701,6 +28834,7 @@
 				<German>Gerät Anschalten</German>
 				<Chinesesimp>启用设备</Chinesesimp>
 				<Korean>장치 켜기</Korean>
+				<Russian>Вкл. Устройство</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DISABLE_DEVICE">
 				<Original>Disable Device</Original>
@@ -28708,24 +28842,28 @@
 				<German>Gerät Abschalten</German>
 				<Chinesesimp>禁用设备</Chinesesimp>
 				<Korean>장치 끄기</Korean>
+				<Russian>Откл. Устройство</Russian>
 			</Key>
 			<Key ID="STR_TT_GM_DEVICE_ENABLED">
 				<Original>Device is active on mission start.</Original>
 				<English>Device is active on mission start.</English>
 				<German>Gerät ist zu Beginn aktiviert.</German>
 				<Chinesesimp>任务开始时，设备处于激活状态。</Chinesesimp>
+				<Russian>Устройство активно при запуске миссии.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SLIDER_BLINKINTENSITY">
 				<Original>Blinking intensity</Original>
 				<English>Blinking intensity</English>
 				<German>Blinkintensität</German>
 				<Chinesesimp>闪烁强度</Chinesesimp>
+				<Russian>Интенсивность мигания</Russian>
 			</Key>
 			<Key ID="STR_TT_GM_SLIDER_BLINKINTENSITY">
 				<Original>Controls the amount of blinking lights on the device.</Original>
 				<English>Controls the amount of blinking lights on the device.</English>
 				<German>Steuert die Anzahl blinkender Lichter des Geräts.</German>
 				<Chinesesimp>控制设备上闪烁的灯光数量。</Chinesesimp>
+				<Russian>Управляет количеством мигающих лампочек на устройстве.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_COMPUTER_MAGNETTAPE">
 				<Original>Magnet Tape</Original>
@@ -28733,12 +28871,14 @@
 				<German>Magnetband</German>
 				<Chinesesimp>磁带</Chinesesimp>
 				<Korean>자력식</Korean>
+				<Russian>Магнитная Лента</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_COMPUTER_MAGNETTAPE">
 				<Original>Data Medium</Original>
 				<English>Data Medium</English>
 				<German>Datenmedium</German>
 				<Chinesesimp>数据媒介</Chinesesimp>
+				<Russian>Носитель Данных</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_TENT_5X5M">
 				<Original>Tent, 5x5m</Original>
@@ -28746,6 +28886,7 @@
 				<German>Zelt, 5x5m</German>
 				<Chinesesimp>帐篷(5*5米)</Chinesesimp>
 				<Korean>텐트, 5x5m</Korean>
+				<Russian>Палатка, 5x5м</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_01">
 				<Original>Standard Tent Type 1</Original>
@@ -28753,12 +28894,14 @@
 				<German>Einheitszelt Typ 1</German>
 				<Chinesesimp>标准帐篷(类型1)</Chinesesimp>
 				<Korean>1형 표준 텐트</Korean>
+				<Russian>Модульная палатка Тип 1</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_02">
 				<Original>Standard Tent Type 1 (Side)</Original>
 				<English>Standard Tent Type 1 (Side)</English>
 				<German>Einheitszelt Typ 1 (Seite)</German>
 				<Chinesesimp>标准帐篷(类型1,边框)</Chinesesimp>
+				<Russian>Модульн. палатка Тип 1(Сторона)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_03">
 				<Original>Standard Tent Type 1 (Window)</Original>
@@ -28766,6 +28909,7 @@
 				<German>Einheitszelt Typ 1 (Fenster)</German>
 				<Chinesesimp>标准帐篷(类型1,窗户)</Chinesesimp>
 				<Korean>1형 표준 텐트 (창문)</Korean>
+				<Russian>Модульная палатка Тип 1(Окна)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_04">
 				<Original>Standard Tent Type 1 (End)</Original>
@@ -28773,18 +28917,21 @@
 				<German>Einheitszelt Typ 1 (Endstück)</German>
 				<Chinesesimp>标准帐篷(类型1,末端)</Chinesesimp>
 				<Korean>1형 표준 텐트 (최종형)</Korean>
+				<Russian>Модульн. палатка Тип 1(Торцевая)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_05">
 				<Original>Standard Tent Type 1 (No Sides)</Original>
 				<English>Standard Tent Type 1 (No Sides)</English>
 				<German>Einheitszelt Typ 1 (Frei Seiten)</German>
 				<Chinesesimp>标准帐篷(类型1,无边框)</Chinesesimp>
+				<Russian>Модуль.палатка Тип 1(Без боков)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_06">
 				<Original>Standard Tent Type 1 (Entrance)</Original>
 				<English>Standard Tent Type 1 (Entrance)</English>
 				<German>Einheitszelt Typ 1 (Eingang)</German>
 				<Chinesesimp>标准帐篷(类型1,入口)</Chinesesimp>
+				<Russian>Модульн. палатка Тип 1(Вход)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_TENT_01_07">
 				<Original>Standard Tent Type 1 (Frame)</Original>
@@ -28792,6 +28939,7 @@
 				<German>Einheitszelt Typ 1 (Gestell)</German>
 				<Chinesesimp>标准帐篷(类型1,框架)</Chinesesimp>
 				<Korean>1형 표준 텐트 (프레임)</Korean>
+				<Russian>Модульн. палатка Тип 1(Каркас)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKBOX_FLOOR_HIDE_SOURCE">
 				<Original>Floor</Original>
@@ -28799,12 +28947,14 @@
 				<German>Zeltboden</German>
 				<Chinesesimp>地板</Chinesesimp>
 				<Korean>층</Korean>
+				<Russian>Пол</Russian>
 			</Key>
 			<Key ID="STR_TT_GM_CHECKBOX_FLOOR_HIDE_SOURCE">
 				<Original>Uncheck to hide the tent floor.</Original>
 				<English>Uncheck to hide the tent floor.</English>
 				<German>Fügt einen Zeltboden hinzu.</German>
 				<Chinesesimp>取消勾选以隐藏帐篷的地板。</Chinesesimp>
+				<Russian>Снимите флажок, чтобы скрыть пол палатки.</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_GE_MONEY_61_BASE">
 				<Original>West German Currency</Original>
@@ -28812,6 +28962,7 @@
 				<German>Westdeutsche Währung</German>
 				<Chinesesimp>西德货币</Chinesesimp>
 				<Korean>서독 화폐</Korean>
+				<Russian>Валюта ФРГ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_1_COIN">
 				<Original>1 DM</Original>
@@ -28819,6 +28970,7 @@
 				<German>1 DM</German>
 				<Chinesesimp>1德国马克</Chinesesimp>
 				<Korean>1 독일 마르크</Korean>
+				<Russian>1 DM(Дойч марка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_5_BILL">
 				<Original>5 DM</Original>
@@ -28826,6 +28978,7 @@
 				<German>5 DM</German>
 				<Chinesesimp>5德国马克</Chinesesimp>
 				<Korean>5 독일 마르크</Korean>
+				<Russian>5 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_5_COIN">
 				<Original>5 DM</Original>
@@ -28833,6 +28986,7 @@
 				<German>5 DM</German>
 				<Chinesesimp>5德国马克</Chinesesimp>
 				<Korean>5 독일 마르크</Korean>
+				<Russian>5 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_5_STACK">
 				<Original>100x 5 DM</Original>
@@ -28840,6 +28994,7 @@
 				<German>100x 5 DM</German>
 				<Chinesesimp>100x 5德国马克</Chinesesimp>
 				<Korean>100x5 독일 마르크</Korean>
+				<Russian>100x 5 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_10_BILL">
 				<Original>10 DM</Original>
@@ -28847,6 +29002,7 @@
 				<German>10 DM</German>
 				<Chinesesimp>10德国马克</Chinesesimp>
 				<Korean>10 독일 마르크</Korean>
+				<Russian>10 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_10_STACK">
 				<Original>100x 10 DM</Original>
@@ -28854,6 +29010,7 @@
 				<German>100x 10 DM</German>
 				<Chinesesimp>100x10德国马克</Chinesesimp>
 				<Korean>100x10 독일 마르크</Korean>
+				<Russian>100x 10 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_20_BILL">
 				<Original>20 DM</Original>
@@ -28861,6 +29018,7 @@
 				<German>20 DM</German>
 				<Chinesesimp>20德国马克</Chinesesimp>
 				<Korean>20 독일 마르크</Korean>
+				<Russian>20 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_20_STACK">
 				<Original>100x 20 DM</Original>
@@ -28868,6 +29026,7 @@
 				<German>100x 20 DM</German>
 				<Chinesesimp>100x20德国马克</Chinesesimp>
 				<Korean>100x20 독일 마르크</Korean>
+				<Russian>100x 20 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_50_BILL">
 				<Original>50 DM</Original>
@@ -28875,6 +29034,7 @@
 				<German>50 DM</German>
 				<Chinesesimp>50德国马克</Chinesesimp>
 				<Korean>50 독일 마르크</Korean>
+				<Russian>50 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_50_STACK">
 				<Original>100x 50 DM</Original>
@@ -28882,6 +29042,7 @@
 				<German>100x 50 DM</German>
 				<Chinesesimp>100x50德国马克</Chinesesimp>
 				<Korean>100x50 독일 마르크</Korean>
+				<Russian>100x 50 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_100_BILL">
 				<Original>100 DM</Original>
@@ -28889,6 +29050,7 @@
 				<German>100 DM</German>
 				<Chinesesimp>100德国马克</Chinesesimp>
 				<Korean>100 독일 마르크</Korean>
+				<Russian>100 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_100_STACK">
 				<Original>100x 100 DM</Original>
@@ -28896,6 +29058,7 @@
 				<German>100x 100 DM</German>
 				<Chinesesimp>100x100德国马克</Chinesesimp>
 				<Korean>100x100 독일 마르크</Korean>
+				<Russian>100x 100 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_500_BILL">
 				<Original>500 DM</Original>
@@ -28903,6 +29066,7 @@
 				<German>500 DM</German>
 				<Chinesesimp>500德国马克</Chinesesimp>
 				<Korean>500 독일 마르크</Korean>
+				<Russian>500 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_500_STACK">
 				<Original>100x 500 DM</Original>
@@ -28910,6 +29074,7 @@
 				<German>100x 500 DM</German>
 				<Chinesesimp>100x 500德国马克</Chinesesimp>
 				<Korean>100x500 독일 마르크</Korean>
+				<Russian>100x 500 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_1000_BILL">
 				<Original>1000 DM</Original>
@@ -28917,6 +29082,7 @@
 				<German>1000 DM</German>
 				<Chinesesimp>1000德国马克</Chinesesimp>
 				<Korean>1000 독일 마르크</Korean>
+				<Russian>1000 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_MONEY_61_1000_STACK">
 				<Original>100x 1000 DM</Original>
@@ -28924,6 +29090,7 @@
 				<German>100x 1000 DM</German>
 				<Chinesesimp>100x1000德国马克</Chinesesimp>
 				<Korean>100x1000 독일 마르크</Korean>
+				<Russian>100x 1000 DM</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ESC_MONEY">
 				<Original>Money</Original>
@@ -28931,6 +29098,7 @@
 				<German>Geld</German>
 				<Chinesesimp>钱</Chinesesimp>
 				<Korean>돈</Korean>
+				<Russian>Деньги</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_GC_MONEY_71_BASE">
 				<Original>East German Currency</Original>
@@ -28938,6 +29106,7 @@
 				<German>Ostdeutsche Währung</German>
 				<Chinesesimp>东德货币</Chinesesimp>
 				<Korean>동독 화폐</Korean>
+				<Russian>Валюта ГДР</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_1_COIN">
 				<Original>1 M</Original>
@@ -28945,6 +29114,7 @@
 				<German>1 M</German>
 				<Chinesesimp>1马克</Chinesesimp>
 				<Korean>1 동독 마르크</Korean>
+				<Russian>1 M (Марка)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_5_BILL">
 				<Original>5 M</Original>
@@ -28952,6 +29122,7 @@
 				<German>5 M</German>
 				<Chinesesimp>5马克</Chinesesimp>
 				<Korean>5 동독 마르크</Korean>
+				<Russian>5 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_5_STACK">
 				<Original>100x 5 M</Original>
@@ -28959,6 +29130,7 @@
 				<German>100x 5 M</German>
 				<Chinesesimp>100x5马克</Chinesesimp>
 				<Korean>100x5 동독 마르크</Korean>
+				<Russian>100x 5 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_10_BILL">
 				<Original>10 M</Original>
@@ -28966,6 +29138,7 @@
 				<German>10 M</German>
 				<Chinesesimp>10马克</Chinesesimp>
 				<Korean>10 동독 마르크</Korean>
+				<Russian>10 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_10_STACK">
 				<Original>100x 10 M</Original>
@@ -28973,6 +29146,7 @@
 				<German>100x 10 M</German>
 				<Chinesesimp>100x10马克</Chinesesimp>
 				<Korean>100x10 동독 마르크</Korean>
+				<Russian>100x 10 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_20_BILL">
 				<Original>20 M</Original>
@@ -28980,6 +29154,7 @@
 				<German>20 M</German>
 				<Chinesesimp>20马克</Chinesesimp>
 				<Korean>20 동독 마르크</Korean>
+				<Russian>20 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_20_STACK">
 				<Original>100x 20 M</Original>
@@ -28987,6 +29162,7 @@
 				<German>100x 20 M</German>
 				<Chinesesimp>100x20马克</Chinesesimp>
 				<Korean>100x20 동독 마르크</Korean>
+				<Russian>100x 20 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_50_BILL">
 				<Original>50 M</Original>
@@ -28994,6 +29170,7 @@
 				<German>50 M</German>
 				<Chinesesimp>50马克</Chinesesimp>
 				<Korean>50동독 마르크</Korean>
+				<Russian>50 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_50_STACK">
 				<Original>100x 50 M</Original>
@@ -29001,6 +29178,7 @@
 				<German>100x 50 M</German>
 				<Chinesesimp>100x50马克</Chinesesimp>
 				<Korean>100x50 동독 마르크</Korean>
+				<Russian>100x 50 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_100_BILL">
 				<Original>100 M</Original>
@@ -29008,6 +29186,7 @@
 				<German>100 M</German>
 				<Chinesesimp>100马克</Chinesesimp>
 				<Korean>100 동독 마르크</Korean>
+				<Russian>100 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_MONEY_71_100_STACK">
 				<Original>100x 100 M</Original>
@@ -29015,6 +29194,7 @@
 				<German>100x 100 M</German>
 				<Chinesesimp>100x100马克</Chinesesimp>
 				<Korean>100x100 동독 마르크</Korean>
+				<Russian>100x 100 M</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MODULESIREN">
 				<Original>Siren</Original>
@@ -29022,6 +29202,7 @@
 				<German>Sirene</German>
 				<Chinesesimp>警报器</Chinesesimp>
 				<Korean>사이렌</Korean>
+				<Russian>Сирена</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENTYPE">
 				<Original>Pattern</Original>
@@ -29029,12 +29210,14 @@
 				<German>Tonfolge</German>
 				<Chinesesimp>模式</Chinesesimp>
 				<Korean>패턴</Korean>
+				<Russian>Мелодия</Russian>
 			</Key>
 			<Key ID="STR_DES_GM_SIRENTYPE">
 				<Original>Select the siren's tonal pattern.</Original>
 				<English>Select the siren's tonal pattern.</English>
 				<German>Wählen Sie die Art des Alarms.</German>
 				<Chinesesimp>选择警报器的音调模式</Chinesesimp>
+				<Russian>Выберите звук сирены.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENTYPE_AIRRAID">
 				<Original>Air Raid</Original>
@@ -29042,6 +29225,7 @@
 				<German>Luftalarm</German>
 				<Chinesesimp>空袭</Chinesesimp>
 				<Korean>공습</Korean>
+				<Russian>Воздушная Тревога</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENTYPE_TEST">
 				<Original>Test</Original>
@@ -29049,6 +29233,7 @@
 				<German>Test</German>
 				<Chinesesimp>测试</Chinesesimp>
 				<Korean>테스트</Korean>
+				<Russian>Тест</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SIRENDURATION">
 				<Original>Duration</Original>
@@ -29056,12 +29241,14 @@
 				<German>Dauer</German>
 				<Chinesesimp>持续时间</Chinesesimp>
 				<Korean>지속시간</Korean>
+				<Russian>Длительность</Russian>
 			</Key>
 			<Key ID="STR_DES_GM_SIRENDURATION">
 				<Original>Duration of the alarm in seconds.</Original>
 				<English>Duration of the alarm in seconds.</English>
 				<German>Dauer des Alarms in Sekunden.</German>
 				<Chinesesimp>警报持续时间(秒)</Chinesesimp>
+				<Russian>Продолжительность сигнала тревоги в секундах.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_FINDREALSIRENS">
 				<Original>Use Sirens</Original>
@@ -29069,12 +29256,14 @@
 				<German>Sirenen Nutzen</German>
 				<Chinesesimp>使用警报器</Chinesesimp>
 				<Korean>사이렌 사용</Korean>
+				<Russian>Использовать Сирену</Russian>
 			</Key>
 			<Key ID="STR_DES_GM_FINDREALSIRENS">
 				<Original>Play the sound from sirens objects in the area?</Original>
 				<English>Play the sound from sirens objects in the area?</English>
 				<German>Alarm vom Ort der Sirene abspielen?</German>
 				<Chinesesimp>播放区域内警报器物体发出的声音？</Chinesesimp>
+				<Russian>Воспроизвести звук объекта сирены в этом районе?</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEI_STANDARD_BASE">
 				<Original>Shelter ACE I - Standard</Original>
@@ -29082,6 +29271,7 @@
 				<German>Shelter ACE I - Standard</German>
 				<Chinesesimp>避难 ACE I - 标准</Chinesesimp>
 				<Korean>쉘터 ACE I - 표준</Korean>
+				<Russian>Укрытие ACE I - Стандарт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEI_COMMAND_BASE">
 				<Original>Shelter ACE I - Command</Original>
@@ -29089,6 +29279,7 @@
 				<German>Shelter ACE I - Führungsstand</German>
 				<Chinesesimp>避难 ACE I - 指挥</Chinesesimp>
 				<Korean>쉘터 ACE I - 지휘</Korean>
+				<Russian>Укрытие ACE I - Командование</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEI_MEDIC_BASE">
 				<Original>Shelter ACE I - Medical</Original>
@@ -29096,6 +29287,7 @@
 				<German>Shelter ACE I - San</German>
 				<Chinesesimp>避难 ACE I - 医疗</Chinesesimp>
 				<Korean>쉘터 ACE I - 의료</Korean>
+				<Russian>Укрытие ACE I - Медицинское</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEII_STANDARD_BASE">
 				<Original>Shelter ACE II - Standard</Original>
@@ -29103,6 +29295,7 @@
 				<German>Shelter ACE II - Standard</German>
 				<Chinesesimp>避难 ACE II - 标准</Chinesesimp>
 				<Korean>쉘터 ACE II - 표준</Korean>
+				<Russian>Укрытие ACE II - Стандарт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEII_MEDIC_BASE">
 				<Original>Shelter ACE II - Medical</Original>
@@ -29110,114 +29303,133 @@
 				<German>Shelter ACE II - San</German>
 				<Chinesesimp>避难 ACE II - 医疗</Chinesesimp>
 				<Korean>쉘터 ACE II - 의료</Korean>
+				<Russian>Укрытие ACE II - Медицинское</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEII_REPAIR_BASE">
 				<Original>Shelter ACE II - Repair</Original>
 				<English>Shelter ACE II - Repair</English>
 				<German>Shelter ACE II - Repair</German>
 				<Chinesesimp>避难 ACE II - 维修</Chinesesimp>
+				<Russian>Укрытие ACE II - Ремонт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERACEII_REAMMO_BASE">
 				<Original>Shelter ACE II - Ammo</Original>
 				<English>Shelter ACE II - Ammo</English>
 				<German>Shelter ACE II - Munition</German>
 				<Chinesesimp>避难 ACE II - 弹药</Chinesesimp>
+				<Russian>Укрытие ACE II - Боеприпасы</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERLAKII_MEDIC_BASE">
 				<Original>Shelter LAK II - Medical</Original>
 				<English>Shelter LAK II - Medical</English>
 				<German>Shelter LAK II - San</German>
 				<Chinesesimp>避难 LAK II - 医疗</Chinesesimp>
+				<Russian>Укрытие LAK II - Медицинское</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERLAKII_STANDARD_BASE">
 				<Original>Shelter LAK II - Standard</Original>
 				<English>Shelter LAK II - Standard</English>
 				<German>Shelter LAK II - Standard</German>
 				<Chinesesimp>避难 LAK II - 标准</Chinesesimp>
+				<Russian>Укрытие LAK II - Стандарт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERLAKII_REPAIR_BASE">
 				<Original>Shelter LAK II - Repair</Original>
 				<English>Shelter LAK II - Repair</English>
 				<German>Shelter LAK II - Repair</German>
 				<Chinesesimp>避难 LAK II - 维修</Chinesesimp>
+				<Russian>Укрытие LAK II - Ремонт</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_SHELTERLAKII_REAMMO_BASE">
 				<Original>Shelter LAK II - Ammo</Original>
 				<English>Shelter LAK II - Ammo</English>
 				<German>Shelter LAK II - Munition</German>
 				<Chinesesimp>避难 LAK II - 弹药</Chinesesimp>
+				<Russian>Укрытие LAK II - Боеприпасы</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_DOOR_01">
 				<Original>Sandbags, Barricaded Door</Original>
 				<English>Sandbags, Barricaded Door</English>
 				<German>Sandsäcke, Türbarrikade</German>
 				<Chinesesimp>沙袋(封闭门)</Chinesesimp>
+				<Russian>Мешки с песком, Баррикада двери</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_DOOR_02">
 				<Original>Sandbags, Half Barricaded Door</Original>
 				<English>Sandbags, Half Barricaded Door</English>
 				<German>Sandsäcke, Halbe Türbarrikade</German>
 				<Chinesesimp>沙袋(半封闭门)</Chinesesimp>
+				<Russian>Мешки с песком, Баррик.пол/двери</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_LOW_01">
 				<Original>Sandbags, Low Half Circle</Original>
 				<English>Sandbags, Low Half Circle</English>
 				<German>Sandsäcke, Kleiner Halbkreis</German>
 				<Chinesesimp>沙袋(低半圆)</Chinesesimp>
+				<Russian>Мешки с песком, Низкий полукруг</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_ROUND_01">
 				<Original>Sandbags, Half Circle</Original>
 				<English>Sandbags, Half Circle</English>
 				<German>Sandsäcke, Halbkreis</German>
 				<Chinesesimp>沙袋(半圆)</Chinesesimp>
+				<Russian>Мешки с песком, Полукруг</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_SHORT_01">
 				<Original>Sandbags, End</Original>
 				<English>Sandbags, End</English>
 				<German>Sandsäcke, Endstück</German>
 				<Chinesesimp>沙袋(末端)</Chinesesimp>
+				<Russian>Мешки с песком, Конец</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_WALL_01">
 				<Original>Sandbags, Wall</Original>
 				<English>Sandbags, Wall</English>
 				<German>Sandsäcke</German>
 				<Chinesesimp>沙袋(墙体)</Chinesesimp>
+				<Russian>Мешки с песком, Стена</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_WINDOW_01">
 				<Original>Sandbags, Barricaded Window</Original>
 				<English>Sandbags, Barricaded Window</English>
 				<German>Sandsäcke, Fensterbarrikade</German>
 				<Chinesesimp>沙袋(封闭窗户)</Chinesesimp>
+				<Russian>Мешки с песком, Баррикада окна</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_WINDOW_02">
 				<Original>Sandbags, Half Barricaded Window</Original>
 				<English>Sandbags, Half Barricaded Window</English>
 				<German>Sandsäcke, Halbe Fensterbarrikade</German>
 				<Chinesesimp>沙袋(半封闭窗户)</Chinesesimp>
+				<Russian>Мешки с песком, Баррикада пол/окна</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_01_SINGLE_01">
 				<Original>Sandbag</Original>
 				<English>Sandbag</English>
 				<German>Sandsack</German>
 				<Chinesesimp>沙袋</Chinesesimp>
+				<Russian>Мешок с песком</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_STRETCHER">
 				<Original>Stretcher</Original>
 				<English>Stretcher</English>
 				<German>Trage</German>
 				<Chinesesimp>担架</Chinesesimp>
+				<Russian>Носилки</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_BARBEDWIRE_01">
 				<Original>Barbed Wire</Original>
 				<English>Barbed Wire</English>
 				<German>Stacheldraht</German>
 				<Chinesesimp>带刺铁丝网</Chinesesimp>
+				<Russian>Колючая проволока</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_FLANDERS_FENCE_01">
 				<Original>Double Apron Fence</Original>
 				<English>Double Apron Fence</English>
 				<German>Flandernzaun</German>
 				<Chinesesimp>双层围栏</Chinesesimp>
+				<Russian>Двойной фартук ограждения</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_TANKTRAP_01">
 				<Original>Tank Trap</Original>
@@ -29225,6 +29437,7 @@
 				<German>Panzersperre</German>
 				<Chinesesimp>坦克陷阱</Chinesesimp>
 				<Korean>전차용 함정</Korean>
+				<Russian>Противотанковый ёж</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_01_BASE">
 				<Original>Ammobox Wood Type 01</Original>
@@ -29232,6 +29445,7 @@
 				<German>Munitionskiste Holz Typ 01</German>
 				<Chinesesimp>木质弹药箱(01型)</Chinesesimp>
 				<Korean>나무 탄약박스 (1형)</Korean>
+				<Russian>Деревян.ящик боеприпасов Тип 01</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_02_BASE">
 				<Original>Ammobox Wood Type 02</Original>
@@ -29239,6 +29453,7 @@
 				<German>Munitionskiste Holz Typ 02</German>
 				<Chinesesimp>木质弹药箱(02型)</Chinesesimp>
 				<Korean>나무 탄약박스 (2형)</Korean>
+				<Russian>Деревян.ящик боеприпасов Тип 02</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_03_BASE">
 				<Original>Ammobox Wood Type 03</Original>
@@ -29246,6 +29461,7 @@
 				<German>Munitionskiste Holz Typ 03</German>
 				<Chinesesimp>木质弹药箱(03型)</Chinesesimp>
 				<Korean>나무 탄약박스 (3형)</Korean>
+				<Russian>Деревян.ящик боеприпасов Тип 03</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_04_BASE">
 				<Original>Ammobox Wood Type 04</Original>
@@ -29253,6 +29469,7 @@
 				<German>Munitionskiste Holz Typ 04</German>
 				<Chinesesimp>木质弹药箱(04型)</Chinesesimp>
 				<Korean>나무 탄약박스 (4형)</Korean>
+				<Russian>Деревян.ящик боеприпасов Тип 04</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AMMOBOX_WOOD_05_BASE">
 				<Original>Ammobox Wood Type 05</Original>
@@ -29260,6 +29477,7 @@
 				<German>Munitionskiste Holz Typ 05</German>
 				<Chinesesimp>木质弹药箱(05型)</Chinesesimp>
 				<Korean>나무 탄약박스 (5형)</Korean>
+				<Russian>Деревян.ящик боеприпасов Тип 05</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_02_BUNKER_HIGH">
 				<Original>Sandbags, Bunker</Original>
@@ -29267,30 +29485,35 @@
 				<German>Sandsackbunker</German>
 				<Chinesesimp>沙袋(碉堡)</Chinesesimp>
 				<Korean>모래주머니, 벙커</Korean>
+				<Russian>Мешки с песком, Бункер</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_SANDBAGS_02_WALL">
 				<Original>Sandbags, High Wall</Original>
 				<English>Sandbags, High Wall</English>
 				<German>Sandsäcke, Hoch</German>
 				<Chinesesimp>沙袋(高墙)</Chinesesimp>
+				<Russian>Мешки с песком, Высокая стена</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WOODBUNKER_01_BAGS">
 				<Original>Sandbags, Shed</Original>
 				<English>Sandbags, Shed</English>
 				<German>Sandsackunterstand</German>
 				<Chinesesimp>沙袋(棚屋)</Chinesesimp>
+				<Russian>Мешки с песком, Навес</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WOODBUNKER_01">
 				<Original>Shed</Original>
 				<English>Shed</English>
 				<German>Unterstand</German>
 				<Chinesesimp>棚屋</Chinesesimp>
+				<Russian>Навес</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_WOODROOF_01">
 				<Original>Wooden Platform</Original>
 				<English>Wooden Platform</English>
 				<German>Holzboden</German>
 				<Chinesesimp>木质平台</Chinesesimp>
+				<Russian>Деревянная платформа</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_01_NATO">
 				<Original>Camo Net, Side (West)</Original>
@@ -29298,6 +29521,7 @@
 				<German>Tarnnetz, Seite (West)</German>
 				<Chinesesimp>迷彩网(侧面,West)</Chinesesimp>
 				<Korean>위장막, 측면 (서독)</Korean>
+				<Russian>Камуфляжная сеть, Сторона (Запад)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_02_NATO">
 				<Original>Camo Net, Roof (West)</Original>
@@ -29305,18 +29529,21 @@
 				<German>Tarnnetz, Dach (West)</German>
 				<Chinesesimp>迷彩网(屋顶,West)</Chinesesimp>
 				<Korean>위장막, 상면 (서독)</Korean>
+				<Russian>Камуфляжная сеть, Крыша (Запад)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_03_NATO">
 				<Original>Camo Net, Half Garage (West)</Original>
 				<English>Camo Net, Half Garage (West)</English>
 				<German>Tarnnetz, Halbgarage (West)</German>
 				<Chinesesimp>迷彩网(半车库,West)</Chinesesimp>
+				<Russian>Камуфляжная сеть, Полугараж (Запад)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_04_NATO">
 				<Original>Camo Net, Garage (West)</Original>
 				<English>Camo Net, Garage (West)</English>
 				<German>Tarnnetz, Garage (West)</German>
 				<Chinesesimp>迷彩网(车库,West)</Chinesesimp>
+				<Russian>Камуфляжная сеть, Гараж (Запад)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_01_EAST">
 				<Original>Camo Net, Side (East)</Original>
@@ -29324,6 +29551,7 @@
 				<German>Tarnnetz, Seite (East)</German>
 				<Chinesesimp>迷彩网(侧面,East)</Chinesesimp>
 				<Korean>위장막, 측면(동독)</Korean>
+				<Russian>Камуфляжная сеть, Сторона (Восток)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_02_EAST">
 				<Original>Camo Net, Roof (East)</Original>
@@ -29331,30 +29559,35 @@
 				<German>Tarnnetz, Dach (East)</German>
 				<Chinesesimp>迷彩网(屋顶,East)</Chinesesimp>
 				<Korean>위장막, 상면 (동독)</Korean>
+				<Russian>Камуфляжная сеть, Крыша (Восток)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_03_EAST">
 				<Original>Camo Net, Half Garage (East)</Original>
 				<English>Camo Net, Half Garage (East)</English>
 				<German>Tarnnetz, Halbgarage (East)</German>
 				<Chinesesimp>迷彩网(半车库,East)</Chinesesimp>
+				<Russian>Камуфляжная сеть, Полугараж (Восток)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_CAMONET_04_EAST">
 				<Original>Camo Net, Garage (East)</Original>
 				<English>Camo Net, Garage (East)</English>
 				<German>Tarnnetz, Garage (East)</German>
 				<Chinesesimp>迷彩网(车库,East)</Chinesesimp>
+				<Russian>Камуфляжная сеть, Гараж (Восток)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_AIRPORT_OBJECT">
 				<Original>AI Airport Helper</Original>
 				<English>AI Airport Helper</English>
 				<German>KI Flugplatz</German>
 				<Chinesesimp>AI机场助手</Chinesesimp>
+				<Russian>Аэродром ИИ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_ENTRENCHMENTS">
 				<Original>Entrenchments</Original>
 				<English>Entrenchments</English>
 				<German>Verschanzung</German>
 				<Chinesesimp>战壕</Chinesesimp>
+				<Russian>Окопы</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_POST_SMALL">
 				<Original>Post (Small)</Original>
@@ -29362,6 +29595,7 @@
 				<German>Posten (Klein)</German>
 				<Chinesesimp>桩(小)</Chinesesimp>
 				<Korean>우편 (소형)</Korean>
+				<Russian>Пост (Малый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_POST_MEDIUM">
 				<Original>Post (Medium)</Original>
@@ -29369,6 +29603,7 @@
 				<German>Posten (Mittel)</German>
 				<Chinesesimp>桩(中)</Chinesesimp>
 				<Korean>우편 (중형)</Korean>
+				<Russian>Пост (Средний)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_POST_LARGE">
 				<Original>Post (Large)</Original>
@@ -29376,6 +29611,7 @@
 				<German>Posten (Groß)</German>
 				<Chinesesimp>桩(大)</Chinesesimp>
 				<Korean>우편 (대형)</Korean>
+				<Russian>Пост (Большой)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CAMP_EAST_SMALL">
 				<Original>Vehicle Camp (East)</Original>
@@ -29383,6 +29619,7 @@
 				<German>Fahrzeuglager (Ost)</German>
 				<Chinesesimp>载具营地(East)</Chinesesimp>
 				<Korean>차량 캠프 (동독)</Korean>
+				<Russian>Лагерь Техники (Восток)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CAMP_EAST_LARGE">
 				<Original>Camp (East)</Original>
@@ -29390,6 +29627,7 @@
 				<German>Lager (Ost)</German>
 				<Chinesesimp>营地(East)</Chinesesimp>
 				<Korean>캠프 (동독)</Korean>
+				<Russian>Лагерь (Восток)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CAMP_NATO_SMALL">
 				<Original>Vehicle Camp (NATO)</Original>
@@ -29397,6 +29635,7 @@
 				<German>Fahrzeuglager (NATO)</German>
 				<Chinesesimp>载具营地(NATO)</Chinesesimp>
 				<Korean>차량 캠프 (NATO)</Korean>
+				<Russian>Лагерь Техники (NATO)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CAMP_NATO_LARGE">
 				<Original>Camp (NATO)</Original>
@@ -29404,6 +29643,7 @@
 				<German>Lager (NATO)</German>
 				<Chinesesimp>营地(NATO)</Chinesesimp>
 				<Korean>캠프 (NATO)</Korean>
+				<Russian>Лагерь (NATO)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKPOINT1">
 				<Original>Checkpoint 1</Original>
@@ -29411,6 +29651,7 @@
 				<German>Kontrollpunkt 1</German>
 				<Chinesesimp>检查站1</Chinesesimp>
 				<Korean>체크포인트 1</Korean>
+				<Russian>КПП 1</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKPOINT2">
 				<Original>Checkpoint 2</Original>
@@ -29418,18 +29659,21 @@
 				<German>Kontrollpunkt 2</German>
 				<Chinesesimp>检查站2</Chinesesimp>
 				<Korean>체크포인트 2</Korean>
+				<Russian>КПП 2</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BARRIER_LIGHT">
 				<Original>Barrier</Original>
 				<English>Barrier</English>
 				<German>Sperre</German>
 				<Chinesesimp>障碍物</Chinesesimp>
+				<Russian>Барьер</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BARRIER_HEAVY">
 				<Original>Barrier (Reinforced)</Original>
 				<English>Barrier (Reinforced)</English>
 				<German>Sperre (Verstärkt)</German>
 				<Chinesesimp>障碍物(加固)</Chinesesimp>
+				<Russian>Барьер (Усиленный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKER_LARGE">
 				<Original>Bunker (Large)</Original>
@@ -29437,6 +29681,7 @@
 				<German>Bunker (Groß)</German>
 				<Chinesesimp>碉堡(大型)</Chinesesimp>
 				<Korean>벙커 (대형)</Korean>
+				<Russian>Бункер (Большой)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKER_MEDIUM">
 				<Original>Bunker (Medium)</Original>
@@ -29444,6 +29689,7 @@
 				<German>Bunker (Mittel)</German>
 				<Chinesesimp>碉堡(中型)</Chinesesimp>
 				<Korean>벙커 (중형)</Korean>
+				<Russian>Бункер (Средний)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKER_SMALL">
 				<Original>Bunker (Small)</Original>
@@ -29451,6 +29697,7 @@
 				<German>Bunker (Klein)</German>
 				<Chinesesimp>碉堡(小型)</Chinesesimp>
 				<Korean>벙커 (소형)</Korean>
+				<Russian>Бункер (Малый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_BUNKERS">
 				<Original>Bunkers</Original>
@@ -29458,6 +29705,7 @@
 				<German>Bunker</German>
 				<Chinesesimp>碉堡</Chinesesimp>
 				<Korean>벙커</Korean>
+				<Russian>Бункеры</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TENTS">
 				<Original>Tents</Original>
@@ -29466,6 +29714,7 @@
 				<Chinesesimp>帐篷</Chinesesimp>
 				<Korean>텐트</Korean>
 				<Japanese>テント</Japanese>
+				<Russian>Палатки</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TENT_COMMAND">
 				<Original>Command Tent</Original>
@@ -29473,6 +29722,7 @@
 				<German>Führungszelt</German>
 				<Chinesesimp>指挥帐篷</Chinesesimp>
 				<Korean>지휘 텐트</Korean>
+				<Russian>Палатка командования</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TENT_MEDICAL">
 				<Original>Medical Tent</Original>
@@ -29480,6 +29730,7 @@
 				<German>Sanitätszelt</German>
 				<Chinesesimp>医疗帐篷</Chinesesimp>
 				<Korean>의료 텐트</Korean>
+				<Russian>Медицинская палатка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TENT_SLEEPING">
 				<Original>Sleeping Tent</Original>
@@ -29487,6 +29738,7 @@
 				<German>Schlafzelt</German>
 				<Chinesesimp>睡眠帐篷</Chinesesimp>
 				<Korean>수면용 텐트</Korean>
+				<Russian>Спальная палатка</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TENT_SUPPLY">
 				<Original>Supply Tent</Original>
@@ -29494,24 +29746,28 @@
 				<German>Versorgungszelt</German>
 				<Chinesesimp>补给帐篷</Chinesesimp>
 				<Korean>보급 텐트</Korean>
+				<Russian>Палатка снабжения</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TEST_MESS">
 				<Original>Mess Tent</Original>
 				<English>Mess Tent</English>
 				<German>Verpflegungszelt</German>
 				<Chinesesimp>餐饮帐篷</Chinesesimp>
+				<Russian>Палатка столовая</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CHECKBOX_SET_REDCROSS">
 				<Original>Medical Insignia</Original>
 				<English>Medical Insignia</English>
 				<German>Schutzzeichen</German>
 				<Chinesesimp>医疗标志</Chinesesimp>
+				<Russian>Медицинская эмблема</Russian>
 			</Key>
 			<Key ID="STR_TT_GM_CHECKBOX_SET_REDCROSS">
 				<Original>Click to enable a medical protection sign on the tent</Original>
 				<English>Click to enable a medical protection sign on the tent</English>
 				<German>Fügt ein internationales Schutzzeichen hinzu</German>
 				<Chinesesimp>点击启用帐篷上的医疗保护标志</Chinesesimp>
+				<Russian>Нажмите, чтобы включить знак медицинской защиты на палатке</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -29524,6 +29780,7 @@
 				<Chinesesimp>介绍</Chinesesimp>
 				<Chinese>介紹</Chinese>
 				<Korean>인트로</Korean>
+				<Russian>Вступление</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_OVERVIEW">
 				<Original>1st August, 1983.</Original>
@@ -29532,6 +29789,7 @@
 				<Chinesesimp>1983年8月1日</Chinesesimp>
 				<Chinese>1983年8月1日</Chinese>
 				<Korean>1983년 8월 1일</Korean>
+				<Russian>1 августа 1983 года.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_01">
 				<Original>Germany is divided into West</Original>
@@ -29540,6 +29798,7 @@
 				<Chinesesimp>德国被划分为西德</Chinesesimp>
 				<Chinese>德國被劃分為西德</Chinese>
 				<Korean>독일은 분할되었습니다. 서쪽과</Korean>
+				<Russian>Германия разделена на Западную (ФРГ)</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_02">
 				<Original>and East.</Original>
@@ -29548,6 +29807,7 @@
 				<Chinesesimp>和东德两部分。</Chinesesimp>
 				<Chinese>和東德兩部分。</Chinese>
 				<Korean>동쪽으로</Korean>
+				<Russian>и Восточную (ГДР).</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_03">
 				<Original>East Germany</Original>
@@ -29556,6 +29816,7 @@
 				<Chinesesimp>东德</Chinesesimp>
 				<Chinese>東德</Chinese>
 				<Korean>동독</Korean>
+				<Russian>Восточная Германия</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_SETTING_04">
 				<Original>August 1983</Original>
@@ -29564,6 +29825,7 @@
 				<Chinesesimp>1983年8月</Chinesesimp>
 				<Chinese>1983年8月</Chinese>
 				<Korean>1983년 8월</Korean>
+				<Russian>Август 1983 года</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_01">
 				<Original>12 Hours Earlier...</Original>
@@ -29572,6 +29834,7 @@
 				<Chinesesimp>12小时前...</Chinesesimp>
 				<Chinese>12小時前...</Chinese>
 				<Korean>12시간 전...</Korean>
+				<Russian>12 часами ранее...</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_02">
 				<Original>Julian Sänger</Original>
@@ -29580,6 +29843,7 @@
 				<Chinesesimp>Julian Sänger</Chinesesimp>
 				<Chinese>Julian Sänger</Chinese>
 				<Korean>율리안 생어</Korean>
+				<Russian>Джулиан Зенгер</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_INTRO_TEXT_03">
 				<Original>Lars Transfeld</Original>
@@ -29588,6 +29852,7 @@
 				<Chinesesimp>Lars Transfeld</Chinesesimp>
 				<Chinese>Lars Transfeld</Chinese>
 				<Korean>라르스 트란스펠드</Korean>
+				<Russian>Ларс Трансфельд</Russian>
 			</Key>
 			Are you interested in campain - STATE SCARLET?
 			<Key ID="STR_GM_C_01_TELEGRAM_01">
@@ -29597,6 +29862,7 @@
 				<Chinesesimp>----------------@Z01240108@@血色国旗@血色国旗@血色国旗@@作战@完毕@</Chinesesimp>
 				<Chinese>----------------@Z01240108@@血色國旗@血色國旗@血色國旗@@作戰@完畢@</Chinese>
 				<Korean>----------------@Z01240108@@스터디 스칼렛@스터디 스칼렛@스터디 스칼렛@@실행@멈춤@</Korean>
+				<Russian>----------------@Z01240108@@СОСТОЯНИЕ АЛЫЙ@СОСТОЯНИЕ АЛЫЙ@СОСТОЯНИЕ АЛЫЙ@@ИСПОЛНИТЬ@STOP@</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_02">
 				<Original>----------------@Z01250108@@Enemy crossed border@@BAB2 occupied@@BGS reports:@Helmstedt -@Wolfsburg -@Wittingen -@Uelzen@no contact.@@Enemy is GDR.@React immediately.@At will.@STOP.</Original>
@@ -29605,6 +29871,7 @@
 				<Chinesesimp>----------------@Z01250108@@敌人越过了边境@@BAB2被占领@@BGS报告:@赫尔姆施泰特 -@沃尔夫斯堡 -@维廷根 -@埃尔岑@无联络.@@敌人是东德.@立即反击.@自行采取行动.@完毕.</Chinesesimp>
 				<Chinese>----------------@Z01250108@@敵人越過了邊境@@BAB2被佔領@@BGS報告:@赫爾姆施泰特 -@沃爾夫斯堡 -@維廷根 -@埃爾岑@無聯絡.@@敵人是東德.@立即反擊.@自行採取行動.@完畢.</Chinese>
 				<Korean>----------------@Z01250108@@적들이 국경을 넘었음@@BAB2 점령됨@@BGS 보고:@헬름슈테트 -@볼프스베르크 -@비팅겐 -@우엘젠@접촉되지 않음.@@적은 국가 인민군@즉시@교전할 것@멈춤.</Korean>
+				<Russian>----------------@Z01250108@@Враг пересек границу@@BAB2 оккупирован@@BGS сообщает:@Helmstedt -@Wolfsburg -@Wittingen -@Uelzen@нет контакта.@@Враг в ГДР.@Реагируйте немедленно.@Действуйте самостоятельно.@STOP.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_03">
 				<Original>----------------@Z01260108@@Division order to @Panzerbrigade 2:@Assume defensive posture.@@STOP.</Original>
@@ -29613,6 +29880,7 @@
 				<Chinesesimp>----------------@Z01260108@@师部命令@第2装甲旅:@采取防御姿态.@@完毕.</Chinesesimp>
 				<Chinese>----------------@Z01260108@@師部命令@第2裝甲旅:@採取防禦姿態.@@完畢.</Chinese>
 				<Korean>----------------@Z01260108@@2전차여단에게@사단발 명령:@방어태세를 갖추어라.@@멈춤.</Korean>
+				<Russian>----------------@Z01260108@@Приказ дивизии @2-й Бронетанковой бригаде:@Занять оборонительные позиции.@@STOP.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_TELEGRAM_04">
 				<Original>----------------@Z01270108@@Brigade orders to @PzGrenBtl 23:@Defend along designated line.@@STOP.</Original>
@@ -29621,6 +29889,7 @@
 				<Chinesesimp>----------------@Z01270108@@旅部命令@第23装甲掷弹兵营:@沿着指定路线进行防守.@@完毕.</Chinesesimp>
 				<Chinese>----------------@Z01270108@@旅部命令@第23裝甲擲彈兵營:@沿著指定路線進行防守.@@完畢.</Chinese>
 				<Korean>----------------@Z01270108@@23 기갑척탄대대에@여단발 명령:@지정된 방어선을 지켜라.@@멈춤.</Korean>
+				<Russian>----------------@Z01270108@@Приказ бригады @23-й Панцер-гренадерский батальон:@Обороняться вдоль обозначенной линии.@@STOP.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TITLE">
 				<Original>First Impressions Matter</Original>
@@ -29629,6 +29898,7 @@
 				<Chinesesimp>第一印象很重要</Chinesesimp>
 				<Chinese>第一印像很重要</Chinese>
 				<Korean>첫인상의 중요함</Korean>
+				<Russian>Первое впечатление имеет значение</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_OVERVIEW">
 				<Original>3. PzGrenBtl 23 is tasked with seizing the bridges at Querenhorst.</Original>
@@ -29637,6 +29907,7 @@
 				<Chinesesimp>第23装甲掷弹兵营3连的任务是夺取Querenhorst的桥梁。</Chinesesimp>
 				<Chinese>第23裝甲擲彈兵營3連的任務是奪取Querenhorst的橋樑。</Chinese>
 				<Korean>23 기갑척탄대대의 3중대는 퀴렌호스트의 교두보를 점령하라는 임무를 하달받았다.</Korean>
+				<Russian>3. 23-й Панцер-гренадерский батальон имеет задачу захватить мосты в Кверенхорсте(Querenhorst).</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_01_TITLE">
 				<Original>Take Klein Sisbeck</Original>
@@ -29645,6 +29916,7 @@
 				<Chinesesimp>夺取Klein Sisbeck</Chinesesimp>
 				<Chinese>奪取Klein Sisbeck</Chinese>
 				<Korean>클라인 지스벡 확보</Korean>
+				<Russian>Взять Кляйн Сисбек(Klein Sisbeck)</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_01_TEXT">
 				<Original>Enter Klein Sisbeck and engage the enemy.</Original>
@@ -29653,6 +29925,7 @@
 				<Chinesesimp>进入Klein Sisbeck并与敌人交战。</Chinesesimp>
 				<Chinese>進入Klein Sisbeck並與敵人交戰。</Chinese>
 				<Korean>클라인 지스벡에 들어가 적과 교전할것.</Korean>
+				<Russian>Войдите в Кляйн Сисбек и вступите в бой с врагом.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02_TITLE">
 				<Original>Take Gross Sisbeck</Original>
@@ -29661,6 +29934,7 @@
 				<Chinesesimp>夺取Gross Sisbeck</Chinesesimp>
 				<Chinese>奪取Gross Sisbeck</Chinese>
 				<Korean>그로스 지스벡 확보</Korean>
+				<Russian>Взять Гросс Сисбек(Gross Sisbeck)</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02_TEXT">
 				<Original>Enter Gross Sisbeck and engage the enemy.</Original>
@@ -29669,6 +29943,7 @@
 				<Chinesesimp>进入Gross Sisbeck并与敌人交战。</Chinesesimp>
 				<Chinese>進入Gross Sisbeck並與敵人交戰。</Chinese>
 				<Korean>그로스 지스벡에 들어가 적과 교전할것.</Korean>
+				<Russian>Войдите в Гросс Сисбек и вступите в бой с врагом.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02A_TITLE">
 				<Original>Enter M113</Original>
@@ -29677,6 +29952,7 @@
 				<Chinesesimp>登上M113</Chinesesimp>
 				<Chinese>登上M113</Chinese>
 				<Korean>M113 탑승</Korean>
+				<Russian>Сесть в M113</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_02A_TEXT">
 				<Original>Board the M113 waiting for us at the junction south of Gross Sisbeck.</Original>
@@ -29685,6 +29961,7 @@
 				<Chinesesimp>登上在Gross Sisbeck以南的路口等待我们的M113。</Chinesesimp>
 				<Chinese>登上在Gross Sisbeck以南的路口等待我們的M113。</Chinese>
 				<Korean>그로스 지스벡 남쪽 교차로에서 우리를 기다리는 M113에 탑승하라.</Korean>
+				<Russian>Садитесь на М113, который ждет нас на перекрестке к югу от Гросс Сисбека.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_04_TITLE">
 				<Original>Take Weapon</Original>
@@ -29693,6 +29970,7 @@
 				<Chinesesimp>拿起武器</Chinesesimp>
 				<Chinese>拿起AT</Chinese>
 				<Korean>무기 입수</Korean>
+				<Russian>Возьмите оружие</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_04_TEXT">
 				<Original>Find Peters and take his Anti-Tank Weapon.</Original>
@@ -29701,6 +29979,7 @@
 				<Chinesesimp>找到Peters，拿起他的反坦克武器。</Chinesesimp>
 				<Chinese>找到Peters，拿起他的反坦克武器。</Chinese>
 				<Korean>페터스를 찾고 그의 대전차 무기를 입수하라.</Korean>
+				<Russian>Найдите Питерса и заберите его Противотанковое оружие.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_03_TITLE">
 				<Original>Take Querenhorst</Original>
@@ -29709,6 +29988,7 @@
 				<Chinesesimp>夺取Querenhorst</Chinesesimp>
 				<Chinese>奪取Querenhorst</Chinese>
 				<Korean>퀴렌호스트 확보</Korean>
+				<Russian>Взять Кверенхорст(Querenhorst)</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TASK_03_TEXT">
 				<Original>Enter Querenhorst and engage the enemy.</Original>
@@ -29717,6 +29997,7 @@
 				<Chinesesimp>进入Querenhorst并与敌人交战。</Chinesesimp>
 				<Chinese>進入Querenhorst並與敵人交戰。</Chinese>
 				<Korean>퀴렌호스트에 들어가 적과 교전할것.</Korean>
+				<Russian>Войдите в Кверенхорст и вступите в бой с врагом.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_01">
 				<Original>Situation</Original>
@@ -29725,6 +30006,7 @@
 				<Chinesesimp>形势</Chinesesimp>
 				<Chinese>形勢</Chinese>
 				<Korean>현재 상황</Korean>
+				<Russian>Ситуация</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_02">
 				<Original>Today at 0200 enemy forces of unknown strength have crossed the border into West Germany near Helmstedt.</Original>
@@ -29733,6 +30015,7 @@
 				<Chinesesimp>今天凌晨两点，兵力不详的敌军越过了赫尔姆施泰特附近的西德边境。</Chinesesimp>
 				<Chinese>今天凌晨兩點，兵力不詳的敵軍越過了赫爾姆施泰特附近的西德邊境。</Chinese>
 				<Korean>오늘 0200시경 규모를 알 수 없는 적대세력이 헬름슈테트 근처의 서독 국경을 넘었다.</Korean>
+				<Russian>Силы противника неизвестной численности перешли границу Западной Германии сегодня в 02.00 в районе между Вольфсбургом и Хельмштедтом.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_03">
 				<Original>Advanced forces have been spotted near Gross Sissbeck and Gross Twülpstedt.</Original>
@@ -29741,6 +30024,7 @@
 				<Chinesesimp>在Gross Sissbeck和Gross Twülpstedt附近发现了敌军先头部队。</Chinesesimp>
 				<Chinese>在Gross Sissbeck和Gross Twülpstedt附近發現了敵軍先頭部隊。</Chinese>
 				<Korean>그로스 지스벡과 트발프슈테트 근방에서 전진하는 적 세력이 포착되었다.</Korean>
+				<Russian>Передовые силы были замечены возле Гросс Сиссбека и Гросс Твюльпштедта.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_04">
 				<Original>Their assumed intention is to set bridgeheads over the river Aller and to secure the advancement of following forces.</Original>
@@ -29749,6 +30033,7 @@
 				<Chinesesimp>他们的意图可能是在Aller河边建立桥头堡，确保后续部队顺利推进。</Chinesesimp>
 				<Chinese>他們的意圖可能是在Aller河邊建立橋頭堡，確保後續部隊順利推進。</Chinese>
 				<Korean>그들의 의도는 후속부대를 위한 교두보를 확보하는 것으로 보인다.</Korean>
+				<Russian>Их предполагаемое намерение - создать плацдармы через реку Аллер и обеспечить продвижение следующих сил.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_05">
 				<Original>Our situation</Original>
@@ -29757,6 +30042,7 @@
 				<Chinesesimp>我军处境</Chinesesimp>
 				<Chinese>我軍處境</Chinese>
 				<Korean>우리의 상황</Korean>
+				<Russian>Наша ситуация</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_06">
 				<Original>2nd Company of 22nd Armored Battalion has been attached.</Original>
@@ -29765,6 +30051,7 @@
 				<Chinesesimp>第22装甲营2连已经部署完毕。</Chinesesimp>
 				<Chinese>第22裝甲營2連已經部署完畢。</Chinese>
 				<Korean>22 기갑여단의 2중대가 지원해줄 것이다.</Korean>
+				<Russian>Поддержку будет оказывать 2-я рота 22-й бронетанковго батальона.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_07">
 				<Original>23rd reinforced mechanized infantry battalion has assumed positions north and south of Volkmarsdorf.</Original>
@@ -29773,6 +30060,7 @@
 				<Chinesesimp>第23装甲掷弹兵营已在Volkmarsdorf的北部和南部建立了阵地。</Chinesesimp>
 				<Chinese>第23裝甲擲彈兵營已在Volkmarsdorf的北部和南部建立了陣地。</Chinese>
 				<Korean>볼크마르스도르프 북쪽과 남쪽에 지원차 와있는 23 기계화보병 여단이 자리잡았다.</Korean>
+				<Russian>23-й усиленный батальон механизированной пехоты занял позиции к северу и югу от Фолькмарсдорфа.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_08">
 				<Original>Task</Original>
@@ -29781,6 +30069,7 @@
 				<Chinesesimp>任务</Chinesesimp>
 				<Chinese>任務</Chinese>
 				<Korean>임무</Korean>
+				<Russian>Задача</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_09">
 				<Original>Destroy enemy forces west of the river Aller and take positions west of Querenhorst.</Original>
@@ -29789,6 +30078,7 @@
 				<Chinesesimp>摧毁Aller河以西的敌军，并占领Querenhorst以西的阵地。</Chinesesimp>
 				<Chinese>摧毀Aller河以西的敵軍，並佔領Querenhorst以西的陣地。</Chinese>
 				<Korean>엘러강 서쪽의 적군들을 궤멸시키고 퀴렌호스트 서쪽에 자리를 잡아라.</Korean>
+				<Russian>Уничтожить силы противника к западу от реки Аллер и занять позиции к западу от Кверенхорста.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_10">
 				<Original>Execution</Original>
@@ -29797,6 +30087,7 @@
 				<Chinesesimp>作战</Chinesesimp>
 				<Chinese>作戰</Chinese>
 				<Korean>수행할 임무</Korean>
+				<Russian>Исполнение</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_11">
 				<Original>2nd Company to take positions north of Querenhorst and secure northern flank, more info on that later.</Original>
@@ -29805,6 +30096,7 @@
 				<Chinesesimp>2连占领Querenhorst北面的阵地并确保北侧的安全，稍后会有更多的任务信息。</Chinesesimp>
 				<Chinese>2連佔領Querenhorst北面的陣地並確保北側的安全，稍後會有更多的任務信息。</Chinese>
 				<Korean>2중대는 퀴렌호스트 북쪽에 자리잡고 북쪽방면을 확보해라. 추후에 지시를 더 내리겠다.</Korean>
+				<Russian>2-я рота должна занять позиции к северу от Кверенхорста и обеспечить безопасность северного фланга, подробнее об этом позже.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_12">
 				<Original>3rd Company, in the center, to attack from Klein Sisbeck, towards Gross Sisbeck and Querenhorst, taking bridgeheads at Querenhorst.</Original>
@@ -29813,6 +30105,7 @@
 				<Chinesesimp>位于中间的3连，从Klein Sisbeck向Gross Sisbeck和Querenhorst发起进攻，占领Querenhorst的桥头堡。</Chinesesimp>
 				<Chinese>位於中間的3連，從Klein Sisbeck向Gross Sisbeck和Querenhorst發起進攻，佔領Querenhorst的橋頭堡。</Chinese>
 				<Korean>3 중대, 중앙에서 클라인 지스벡에 공세를 시작하기 위해, 그로스 지스벡과 퀴렌호스트로 전진하고, 퀴렌호스트의 교두보를 확보해라.</Korean>
+				<Russian>3-й роте, в центре, атаковать из Кляйн Сисбека в направлении Гросс Сисбека и Кверенхорста, захватив плацдармы у Кверенхорста.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_13">
 				<Original>4th Company in reserve will secure southern flank.</Original>
@@ -29821,6 +30114,7 @@
 				<Chinesesimp>预备队4连将确保南侧的安全。</Chinesesimp>
 				<Chinese>預備隊4連將確保南側的安全。</Chinese>
 				<Korean>4중대의 예비전력이 남쪽측면을 확보할 것이다.</Korean>
+				<Russian>4-я рота в резерве будет охранять южный фланг.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BRIEFING_14">
 				<Original>Lets go!</Original>
@@ -29829,6 +30123,7 @@
 				<Chinesesimp>行动！</Chinesesimp>
 				<Chinese>行動！</Chinese>
 				<korean>가자!</korean>
+				<Russian>Вперед!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_001">
 				<Original>Guys, ahead lies Klein Sisbeck. It looks quiet. So lets go and see what we find.</Original>
@@ -29837,6 +30132,7 @@
 				<Chinesesimp>伙计们，前面就是Klein Sisbeck。看起来很安静。让我们去看看能发现些什么。</Chinesesimp>
 				<Chinese>伙計們，前面就是Klein Sisbeck。看起來很安靜。讓我們去看看能發現些什麼。</Chinese>
 				<Korean>분대, 우린 클라인 지스벡으로 간다. 겉보기엔 조용하니 무엇이 있는지 찾아본다.</Korean>
+				<Russian>Ребята, впереди Кляйн Сисбек. Выглядит спокойно. Так что давайте пойдем и посмотрим, кого мы сможем там найти.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_002A">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -29845,6 +30141,7 @@
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
+				<Russian>ВЕСПЕ, это ХАММЕР, прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_002B">
 				<Original>This is WESPE. Over.</Original>
@@ -29853,6 +30150,7 @@
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，完畢。</Chinese>
 				<Korean>여기는 WESPE. 오버</Korean>
+				<Russian>Это ВЕСПЕ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_003A">
 				<Original>This is HAMMER. No enemy contact in Klein Sisbeck, Over.</Original>
@@ -29861,6 +30159,7 @@
 				<Chinesesimp>这里是HAMMER。在Klein Sisbeck没有与敌军接触，完毕。</Chinesesimp>
 				<Chinese>這裡是HAMMER。在Klein Sisbeck沒有與敵軍接觸，完畢。</Chinese>
 				<Korean>여기는 HAMMER. 클라인 지스벡에서는 적과 조우하지않았다.</Korean>
+				<Russian>Это ХАММЕР. Никаких контактов с врагом в Кляйн Сисбеке, Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_003B">
 				<Original>This is WESPE. Understood. Continue to Gross Sisbeck. Out.</Original>
@@ -29869,6 +30168,7 @@
 				<Chinesesimp>这里是WESPE。收到。继续向Gross Sisbeck前进，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE。收到。繼續向Gross Sisbeck前進，完畢。</Chinese>
 				<Korean>여기는 WESPE. 알겠다. 계속해서 그로스 지스벡으로 가라. 이상.</Korean>
+				<Russian>Это ВЕСПЕ. Понял. Продолжайте движение к Гросс Сисбек. Конец связи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_004">
 				<Original>Where is everyone?</Original>
@@ -29877,6 +30177,7 @@
 				<Chinesesimp>大家都在哪里？</Chinesesimp>
 				<Chinese>大家都在哪裡？</Chinese>
 				<korean>다들 어디로 간거야?</korean>
+				<Russian>Где все?</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_005">
 				<Original>They must have fled when the enemy pushed through here.</Original>
@@ -29885,6 +30186,7 @@
 				<Chinesesimp>敌人推进到这里的时候，他们一定是逃走了。</Chinesesimp>
 				<Chinese>敵人推進到這裡的時候，他們一定是逃走了。</Chinese>
 				<korean>적들이 치고들어왔을때 다 피난갔겟지</korean>
+				<Russian>Они, должно быть, все бежали, когда враг прорвался сюда.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_006">
 				<Original>Imagine being woken up by tanks going through your garden.</Original>
@@ -29893,6 +30195,7 @@
 				<Chinesesimp>能想象到，你被坦克开过你的花园的声音吵醒的场景。</Chinesesimp>
 				<Chinese>能想像到，你被坦克開過你的花園的聲音吵醒的場景。</Chinese>
 				<korean>정원을 짓밟고 지나가는 탱크소리에 잠이 깨는게 상상되네</korean>
+				<Russian>Представьте, что вас разбудили танки, проезжающие через ваш сад.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_007">
 				<Original>Guys, Keep your eyes open, enemy alarm patrols will be ahead.</Original>
@@ -29901,6 +30204,7 @@
 				<Chinesesimp>伙计们，保持警惕，敌人的警戒巡逻队可能会出现在前面。</Chinesesimp>
 				<Chinese>伙計們，保持警惕，敵人的警戒巡邏隊可能會出現在前面。</Chinese>
 				<korean>다들 경계를 늦추지마라. 적 순찰대가 근처에 있을거야.</korean>
+				<Russian>Ребята, будьте бдительны, впереди вражеские посты оповещения.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_008">
 				<Original>Continue to Gross Sisbeck.</Original>
@@ -29909,6 +30213,7 @@
 				<Chinesesimp>继续前往Gross Sisbeck。</Chinesesimp>
 				<Chinese>繼續前往Gross Sisbeck。</Chinese>
 				<Korean>계속해서 그로스 지스벡으로 향하라.</Korean>
+				<Russian>Продолжайте движение до Гросс Сисбека.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_009">
 				<Original>Gross Sisbeck... Klein Sisbeck. Gross Twülpstedt... Klein Twülpstedt...</Original>
@@ -29917,6 +30222,7 @@
 				<Chinesesimp>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinesesimp>
 				<Chinese>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinese>
 				<korean>그로스 지스벡... 클라인 지스벡. 그로스 트발프슈테트... 클라인 트발프슈테트...</korean>
+				<Russian>Гросс Сисбек... Кляйн Сисбек. Гросс Твюльпштедт... Кляйн Твюльпштедт...</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_010">
 				<Original>And its so damn flat here. Flatter than Heiner's girlfriend.</Original>
@@ -29925,6 +30231,7 @@
 				<Chinesesimp>并且这里太他妈的平坦了。比Heiner的女朋友还平。</Chinesesimp>
 				<Chinese>並且這裡太他媽的平坦了。比Heiner的女朋友還平。</Chinese>
 				<korean>그리고 온 사방이 망할 평지잖아. 하이너의 여친보다 더 평평하네.</korean>
+				<Russian>И здесь так чертовски плоско. Более плоско, чем девушка Хайнера.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_011">
 				<Original>At least I have one!</Original>
@@ -29933,6 +30240,7 @@
 				<Chinesesimp>至少我还是有一个的！</Chinesesimp>
 				<Chinese>至少我還是有一個的！</Chinese>
 				<korean>난 있기라도 하지!</korean>
+				<Russian>По крайней мере, у меня она есть!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_012">
 				<Original>This is HAMMER, Enemy contact in Gross Sisbeck. Unknown numbers. Engaging. Over.</Original>
@@ -29941,6 +30249,7 @@
 				<Chinesesimp>我是HAMMER，在Gross Sisbeck与敌人接触。数量不明，正在交火。完毕。</Chinesesimp>
 				<Chinese>我是HAMMER，在Gross Sisbeck與敵人接觸。數量不明。正在交火。完畢。</Chinese>
 				<korean>여기는 HAMMER, 그로스 지스벡에서 인원수 불명의 적을 발견했다. 교전하겠음. 오버.</korean>
+				<Russian>Это ХАММЕР, Контакт с противником в Гросс Сисбеке. Количество неизвестно. Вступаю в бой. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_013">
 				<Original>This is WESPE, understood. DRAHT. Secure HAMMER's approach. Over.</Original>
@@ -29949,6 +30258,7 @@
 				<Chinesesimp>这里是 WESPE，收到。DRAHT。确保HAMMER的安全接近。完毕。</Chinesesimp>
 				<Chinese>這裡是 WESPE，收到。 DRAHT。確保HAMMER的安全接近。完畢。</Chinese>
 				<korean>여기는 WESPE, 알겠다. DRAHT. HAMMER의 진입을 지원하도록 하라. 오버.</korean>
+				<Russian>Это ВЕСПЕ, понял. ДРАХТ. Обеспечте продвижение ХАММЕРА. Приём.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_014">
 				<Original>This is DRAHT, understood. Out.</Original>
@@ -29957,6 +30267,7 @@
 				<Chinesesimp>这里是DRAHT，收到，完毕。</Chinesesimp>
 				<Chinese>這裡是DRAHT，收到，完畢。</Chinese>
 				<Korean>여기는 DRAHT, 알겠다. 이상.</Korean>
+				<Russian>Это ДРАХТ, Понял. Приём.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_015">
 				<Original>This is HAMMER, Gross Sisbeck cleared. Continuing to Querenhorst. Over.</Original>
@@ -29965,6 +30276,7 @@
 				<Chinesesimp>这里是HAMMER，Gross Sisbeck已经安全。继续前往Querenhorst。完毕。</Chinesesimp>
 				<Chinese>這裡是HAMMER，Gross Sisbeck已經安全。繼續前往Querenhorst。完畢。</Chinese>
 				<Korean>여기는 HAMMER, 그로스 지스벡은 확보되었다. 계속해서 퀴렌호스트로 가겠다. 오버.</Korean>
+				<Russian>Это ХАММЕР, Гросс Сисбек очищен. Продолжаем движение к Кверенхорсту. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_015A">
 				<Original>This is WESPE, understood. Out.</Original>
@@ -29972,6 +30284,7 @@
 				<German>Hier WESPE, verstanden. Ende.</German>
 				<Chinesesimp>这里是WESPE，收到，完毕。</Chinesesimp>
 				<Korean>여기는 WESPE, 알겠다. 이상.</Korean>
+				<Russian>Это ВЕСПЕ, Понял. Приём.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_015B">
 				<Original>Regroup at the M113 at the junction. We'll take a ride.</Original>
@@ -29980,6 +30293,7 @@
 				<Chinesesimp>在十字路口处的M113旁重新集结。我们去兜兜风。</Chinesesimp>
 				<Chinese>在十字路口處的M113旁重新集結。我們去兜兜風。</Chinese>
 				<Korean>교차로에서 M113과 합류한뒤 차량에 탑승할 것이다.</Korean>
+				<Russian>Перегруппируйтесь с М113 на перекрестке. Давай прокатимся.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_016">
 				<Original>Encountering heavy resistance from the forest just ahead.</Original>
@@ -29988,6 +30302,7 @@
 				<Chinesesimp>前方树林遭遇激烈抵抗。</Chinesesimp>
 				<Chinese>前方樹林遭遇激烈抵抗。</Chinese>
 				<Korean>전방의 숲에서 적의 거센 저항이 있다.</Korean>
+				<Russian>Сильное сопротивление со стороны леса впереди.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017A">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -29996,6 +30311,7 @@
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
+				<Russian>ВЕСПЕ, это ХАММЕР, Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017B">
 				<Original>This is WESPE. Over.</Original>
@@ -30004,6 +30320,7 @@
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，完畢。</Chinese>
 				<Korean>여기는 WESPE. 오버.</Korean>
+				<Russian>Это ВЕСПЕ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_017C">
 				<Original>This is HAMMER. We are ready to move in. Over.</Original>
@@ -30012,6 +30329,7 @@
 				<Chinesesimp>WESPE，我们准备向前移动，完毕。</Chinesesimp>
 				<Chinese>WESPE，我們準備向前移動，完畢。</Chinese>
 				<Korean>여기는 HAMMER. 우리는 이동할 준비가 되었다. 오버.</Korean>
+				<Russian>Это ХАММЕР. Готовы к движению. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_018">
 				<Original>This is WESPE. Understood. Continue into Querenhorst. Out.</Original>
@@ -30020,6 +30338,7 @@
 				<Chinesesimp>这里是WESPE，收到。继续进入Querenhorst，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，收到。繼續進入Querenhorst，完畢。</Chinese>
 				<Korean>여기는 WESPE. 알겠다. 계속해서 퀴렌호스트로 가라. 이상.</Korean>
+				<Russian>Это ВЕСПЕ. Понял. Продолжайте движение в Кверенхорст. Конец связи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_019">
 				<Original>We have entered the forest. So watch your fire!</Original>
@@ -30028,6 +30347,7 @@
 				<Chinesesimp>我们已经进入了树林，所以注意接敌！</Chinesesimp>
 				<Chinese>我們已經進入了樹林，所以注意接敵！</Chinese>
 				<Korean>우린 지금 숲으로 들어왔다. 사격시 주의해주도록!</Korean>
+				<Russian>Мы вошли в лес. Так что следите за своим огнем!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020A">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -30036,6 +30356,7 @@
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
+				<Russian>ВЕСПЕ, Это ХАММЕР, прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020B">
 				<Original>This is WESPE. Over.</Original>
@@ -30044,6 +30365,7 @@
 				<Chinesesimp>这里是WESPE，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，完畢。</Chinese>
 				<Korean>여기는 WESPE. 오버.</Korean>
+				<Russian>Это ВЕСПЕ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_020C">
 				<Original>This is HAMMER. The forest is clear. Continuing to next objective. Over.</Original>
@@ -30052,6 +30374,7 @@
 				<Chinesesimp>这里是HAMMER。树林安全，继续前往下一个目标，完毕。</Chinesesimp>
 				<Chinese>這裡是HAMMER。樹林安全，繼續前往下一個目標，完畢。</Chinese>
 				<Korean>여기는 HAMMER. 숲은 이상없다. 계속해서 다음 목표로 가겠다. 오버.</Korean>
+				<Russian>Это ХАММЕР. Лес чист. Продолжаем движение к следующей цели. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_021">
 				<Original>This is WESPE. Understood. Out.</Original>
@@ -30060,6 +30383,7 @@
 				<Chinesesimp>这里是WESPE。收到，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE。收到，完畢。</Chinese>
 				<Korean>여기는 WESPE. 알겠다. 이상.</Korean>
+				<Russian>Это ВЕСПЕ. Понял. Конец связи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_022">
 				<Original>A big open field lies ahead, so stick along the APCs for protection.</Original>
@@ -30068,6 +30392,7 @@
 				<Chinesesimp>前面是一大片开阔地，所以贴着装甲运兵车走，它会提供些保护。</Chinesesimp>
 				<Chinese>前面是一大片開闊地，所以貼著裝甲運兵車走，它會提供些保護。</Chinese>
 				<Korean>전방이 휜히 뚫린 평지이니 장갑차옆에 꼭 붙어 있도록.</Korean>
+				<Russian>Впереди большое открытое поле, поэтому держитесь под защитой БТРов.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023A">
 				<Original>WESPE, This is HAMMER, over.</Original>
@@ -30076,6 +30401,7 @@
 				<Chinesesimp>WESPE，这里是HAMMER，完毕。</Chinesesimp>
 				<Chinese>WESPE，這裡是HAMMER，完畢。</Chinese>
 				<Korean>WESPE, 여기는 HAMMER, 오버.</Korean>
+				<Russian>ВЕСПЕ, это ХАММЕР, прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023B">
 				<Original>This is WESPE. Over.</Original>
@@ -30084,6 +30410,7 @@
 				<Chinesesimp>我是WESPE，请说。</Chinesesimp>
 				<Chinese>我是WESPE，請說。</Chinese>
 				<Korean>여기는 WESPE. 오버.</Korean>
+				<Russian>Это ВЕСПЕ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_023C">
 				<Original>This is HAMMER. Task Complete. We have taken Querenhorst. Securing area. Over.</Original>
@@ -30092,6 +30419,7 @@
 				<Chinesesimp>任务已完成。我们已经拿下了Querenhorst。正在确保区域安全。完毕。</Chinesesimp>
 				<Chinese>任務已完成。我們已經拿下了Querenhorst。正在確保區域安全。完畢。</Chinese>
 				<Korean>여기는 HAMMER. 임무 완료했다. 우리는 퀴렌호스트를 확보하겠으니 지역을 확보해달라. 오버</Korean>
+				<Russian>Это ХАММЕР. Задача Выполнена. Мы взяли Кверенхорст. Зона безопасна. Приём.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_024">
 				<Original>This is WESPE. Understood. Out.</Original>
@@ -30100,6 +30428,7 @@
 				<Chinesesimp>这里是WESPE，收到，完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，收到，完畢。</Chinese>
 				<Korean>여기는 WESPE. 알겠다. 이상.</Korean>
+				<Russian>Это ВЕСПЕ. Понял. Конец связи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_025">
 				<Original>Shit, Peters is down. Klemmer, take over his AT Weapon.</Original>
@@ -30108,6 +30437,7 @@
 				<Chinesesimp>该死，Peters倒地，Klemmer，接手他的AT武器。</Chinesesimp>
 				<Chinese>該死，Peters倒地，Klemmer，接手他的AT武器。</Chinese>
 				<Korean>젠장, 페터스가 죽었다. 클레머, 페터스의 대전차 무기를 사용해.</Korean>
+				<Russian>Черт, Питерс ранен. Клеммер, возьми на себя его гранатомёт.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TITLE">
 				<Original>All Cats Are Grey by Night</Original>
@@ -30116,6 +30446,7 @@
 				<Chinesesimp>无法识别</Chinesesimp>
 				<Chinese>無法識別</Chinese>
 				<Korean>외모는 중요하지 않다</Korean>
+				<Russian>Ночью Все Кошки Серые</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_OVERVIEW">
 				<Original>2. PzBtl 22 is spearheading the first counter attack.</Original>
@@ -30124,6 +30455,7 @@
 				<Chinesesimp>第22装甲营3连正在带头进行第一次反击。</Chinesesimp>
 				<Chinese>第22裝甲營3連正在帶頭進行第一次反擊。</Chinese>
 				<Korean>22 기갑척탄대대의 2중대가 첫 반격의 선봉에 선다</Korean>
+				<Russian>2-я рота 22-го бронетанкового батальона возглавляет первую контратаку.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_01_TITLE">
 				<Original>Overwatch Area</Original>
@@ -30132,6 +30464,7 @@
 				<Chinesesimp>观察地区</Chinesesimp>
 				<Chinese>觀察地區</Chinese>
 				<Korean>감시 구역</Korean>
+				<Russian>Зона Наблюдения</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_01_TEXT">
 				<Original>Relocate to the north of Rümmer and secure the area from there. Once you deem the area safe, signal to the Infantry via radio that they may proceed.&lt;br/&gt;&lt;br/&gt;(Use the communication menu)</Original>
@@ -30140,6 +30473,7 @@
 				<Chinesesimp>转移到Rümmer的北部，从那里确保该地区的安全。一旦你认为该地区安全，就通过无线电向步兵发出信号，让他们继续前进。&lt;br/&gt;&lt;br/&gt;(使用通信菜单)</Chinesesimp>
 				<Chinese>轉移到Rümmer的北部，從那裡確保該地區的安全。一旦你認為該地區安全，就通過無線電向步兵發出信號，讓他們繼續前進。 &lt;br/&gt;&lt;br/&gt;(使用通信菜單)</Chinese>
 				<Korean>룀머 북쪽지역으로 이동하고 해당 지역을 확보해라. 안전하게 확보되면, 보병들이 진격할 수 있게 통신 신호를 주어라.&lt;br/&gt;&lt;br/&gt;(명령 메뉴를 사용하세요)</Korean>
+				<Russian>Переместитесь к северу от Рюммера и обеспечивайте безопасность района оттуда. Как только вы сочтете территорию безопасной, передайте по радио пехоте сигнал о том, что они могут продолжать движение.&lt;br/&gt;&lt;br/&gt;(Используйте меню связи)</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_02_TITLE">
 				<Original>Secure Bridge</Original>
@@ -30148,6 +30482,7 @@
 				<Chinesesimp>夺取大桥</Chinesesimp>
 				<Chinese>奪取大橋</Chinese>
 				<Korean>다리 확보</Korean>
+				<Russian>Взять Мост</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_02_TEXT">
 				<Original>Advance to the bridge in the east and secure it. Allow for friendly elements to approach and cross the bridge under your cover.</Original>
@@ -30156,6 +30491,7 @@
 				<Chinesesimp>往东面的大桥推进，并夺取它。允许友军接近并在你的掩护下过桥。</Chinesesimp>
 				<Chinese>往東面的大橋推進，並奪取它。允許友軍接近並在你的掩護下過橋。</Chinese>
 				<Korean>동쪽의 다리로 진격하여 확보하라. 아군들이 안전하게 다리를 건널 수 있도록 보조할것.</Korean>
+				<Russian>Продвигайтесь к мосту на востоке и захватите его. Позвольте дружественным подразделениям приблизиться и пересечь мост под вашим прикрытием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_03_TITLE">
 				<Original>Hold Bridge</Original>
@@ -30164,6 +30500,7 @@
 				<Chinesesimp>守住大桥</Chinesesimp>
 				<Chinese>守住大橋</Chinese>
 				<Korean>다리 사수하기</Korean>
+				<Russian>Удержать Мост</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_TASK_03_TEXT">
 				<Original>Hold the bridge to allow friendly units to cross it.</Original>
@@ -30172,6 +30509,7 @@
 				<Chinesesimp>守住桥梁，让友军部队通过。</Chinesesimp>
 				<Chinese>守住橋樑，讓友軍部隊通過。</Chinese>
 				<Korean>아군들이 안전하게 건널 수 있도록 다리를 지켜라</Korean>
+				<Russian>Удерживайте мост, чтобы позволить дружественным подразделениям пересечь его.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_01">
 				<Original>Situation unchanged.</Original>
@@ -30180,6 +30518,7 @@
 				<Chinesesimp>形势未变。</Chinesesimp>
 				<Chinese>形勢未變。</Chinese>
 				<Korean>상황은 그대로하다.</Korean>
+				<Russian>Ситуация без изменений.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_02">
 				<Original>Task</Original>
@@ -30188,6 +30527,7 @@
 				<Chinesesimp>任务</Chinesesimp>
 				<Chinese>任務</Chinese>
 				<Korean>임무</Korean>
+				<Russian>Задача</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_03">
 				<Original>Secure the advance of a mechanized infantry platoon from Rümmer to Gross Twülpstedt, then take Gross Twülpstedt.</Original>
@@ -30196,6 +30536,7 @@
 				<Chinesesimp>确保一支机械化步兵排从 Rümmer 前进到 Gross twülpsedt，然后攻下Gross twülpsedt。</Chinesesimp>
 				<Chinese>確保一支機械化步兵排從 Rümmer 前進到 Gross twülpsedt，然後攻下 Gross twülpsedt。</Chinese>
 				<Korean>룀머에서 그로스 트발프슈테트로 진격하는 기계화보병 소대를 지원하고 그로스 트발프슈테트를 점령하라</Korean>
+				<Russian>Обеспечьте продвижение взвода механизированной пехоты от Рюммера до Гросс Твюльпштедта, затем возьмите Гросс Твюльпштедт.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_04">
 				<Original>This is rally point 1.</Original>
@@ -30204,6 +30545,7 @@
 				<Chinesesimp>这是1号集合点。</Chinesesimp>
 				<Chinese>這是1號集合點。</Chinese>
 				<Korean>여기가 집결지점1이다.</Korean>
+				<Russian>Это точка сбора 1.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_05">
 				<Original>Secure bridgeheads south of Bahrdorf.</Original>
@@ -30212,6 +30554,7 @@
 				<Chinesesimp>确保夺取Bahrdorf以南的桥头堡。</Chinesesimp>
 				<Chinese>這是1號集合點。確保奪取Bahrdorf以南的橋頭堡。</Chinese>
 				<Korean>바르도르프 남쪽의 교두보를 확보해라</Korean>
+				<Russian>Захватите плацдармы южнее Бардорфа, здесь цель атаки.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_06">
 				<Original>Secure area for additional forces to follow.</Original>
@@ -30220,6 +30563,7 @@
 				<Chinesesimp>夺取区域，以便让更多部队跟进。</Chinesesimp>
 				<Chinese>奪取區域，以便讓更多部隊跟進。</Chinese>
 				<Korean>증원부대가 뒤따를 수 있게 지역을 확보해라</Korean>
+				<Russian>Удерживайте территорию для следования дополнительных сил.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_07">
 				<Original>Secure northern flank of the battalion, but do not under any circumstances advance or fire into into the territory of the GDR. Understood?</Original>
@@ -30228,6 +30572,7 @@
 				<Chinesesimp>夺取并保护战场的北翼，但在任何情况下都不要朝民主德国领土推进或开火。明白吗？</Chinesesimp>
 				<Chinese>奪取並保護戰場的北翼，但在任何情況下都不要朝民主德國領土推進或開火。明白嗎？</Chinese>
 				<Korean>여단의 북쪽방면은 확보하되  너무 무리하게 전진하거나 GDR구역에 공격을 가하지는 마라. 이해했나?</Korean>
+				<Russian>Обеспечьте безопасность северного фланга батальона, но ни при каких обстоятельствах не продвигайтесь вперед и не открывайте огонь на территорию ГДР. Понятно?</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_BRIEFING_08">
 				<Original>Make it so!</Original>
@@ -30236,6 +30581,7 @@
 				<Chinesesimp>行动!</Chinesesimp>
 				<Chinese>行動!</Chinese>
 				<Korean>반드시 해내라!</Korean>
+				<Russian>Сделайте это!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_RADIO_ALPHA_01">
 				<Original>Signal to Infantry</Original>
@@ -30244,6 +30590,7 @@
 				<Chinesesimp>向步兵发送信号</Chinesesimp>
 				<Chinese>向步兵發送信號</Chinese>
 				<Korean>보병대에 통신하기</Korean>
+				<Russian>Сигнал для пехоты</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_001">
 				<Original>The task is clear and the enemy lies ahead. Move out!</Original>
@@ -30252,6 +30599,7 @@
 				<Chinesesimp>任务很明确，敌人就在前面。行动起来!</Chinesesimp>
 				<Chinese>任務很明確，敵人就在前面。行動起來!</Chinese>
 				<KOrean>우리 임무는 주어졌고 적들은 앞에있다. 움직여!</Korean>
+				<Russian>Задача ясна, и враг впереди. Выдвигайтесь!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_002">
 				<Original>Ok, from here we can secure the area and signal the Infantry when ready.</Original>
@@ -30260,6 +30608,7 @@
 				<Chinesesimp>好的，从这里我们可以保护这个地区，准备好了就通知步兵。</Chinesesimp>
 				<Chinese>好的，從這裡我們可以保護這個地區，準備好了就通知步兵。</Chinese>
 				<Korean>좋아, 여기서부턴 구역을 확보하고 준비가되면 보병들에게 신호를 보낼 수 있겠군.</Korean>
+				<Russian>Хорошо, отсюда мы можем охранять территорию и подать сигнал пехоте, когда она будет готова.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003A">
 				<Original>WURST, this is SEMMEL. Over.</Original>
@@ -30268,6 +30617,7 @@
 				<Chinesesimp>WURST，这里是SEMMEL，完毕。</Chinesesimp>
 				<Chinese>WURST，這裡是SEMMEL，完畢。</Chinese>
 				<Korean>WURST, 여기는 SEMMEL. 오버.</Korean>
+				<Russian>ВУРСТ, это СЕММЕЛ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003B">
 				<Original>This is WURST. Over.</Original>
@@ -30277,6 +30627,7 @@
 				<Chinese>這裡是WURST，收到。</Chinese>
 				<Korean>여기는 WURST. 오버.</Korean>
 				<Japanese>ここは WURST. オーバー。</Japanese>
+				<Russian>Это ВУРСТ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003C">
 				<Original>This is SEMMEL, move out. Over.</Original>
@@ -30285,6 +30636,7 @@
 				<Chinesesimp>WURST，行动。完毕。</Chinesesimp>
 				<Chinese>WURST，行動。完畢。</Chinese>
 				<Korean>여기는 SEMMEL, 이동하라. 오버.</Korean>
+				<Russian>Это СЕММЕЛЬ, выдвигайтесь. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_003D">
 				<Original>This is WURST, understood. Out.</Original>
@@ -30293,6 +30645,7 @@
 				<Chinesesimp>这里是WURST，收到。完毕。</Chinesesimp>
 				<Chinese>這裡是WURST，收到。完畢。</Chinese>
 				<Korean>여기는 WURST, 알겠다. 이상.</Korean>
+				<Russian>Это ВУРСТ, понял. Конец связи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004A">
 				<Original>WESPE, this is SEMMEL. Over.</Original>
@@ -30302,6 +30655,7 @@
 				<Chinese>WURST，這裡是SEMMEL，完畢。</Chinese>
 				<Korean>WESPE, 여기는 SEMMEL. 오버.</Korean>
 				<Japanese>WESPE,ここは SEMMEL. オーバー。</Japanese>
+				<Russian>ВЕСПЕ, это СЕММЕЛ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004B">
 				<Original>This is WESPE. Over.</Original>
@@ -30311,6 +30665,7 @@
 				<Chinese>這裡是WURST，完畢。</Chinese>
 				<Korean>여기는 WESPE. 오버.</Korean>
 				<Japanese>ここは WESPE. オーバー。</Japanese>
+				<Russian>Это ВЕСПЕ. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004C">
 				<Original>This is SEMMEL, We have passed the two villages Twülpstedt, now continuing east towards the bridge. Over.</Original>
@@ -30319,6 +30674,7 @@
 				<Chinesesimp>这里是SEMMEL。我们已经通过了两个Twülpstedt村庄，现在继续向东往大桥前进。完毕。</Chinesesimp>
 				<Chinese>這裡是SEMMEL。我們已經通過了兩個Twülpstedt村莊，現在繼續向東往大橋前進。完畢。</Chinese>
 				<Korean>여기는 SEMMEL, 트발프슈테트의 2개 마을들을 통과했고 지금은 동쪽의 다리로 계속 전진하고있다. 오버.</Korean>
+				<Russian>Это СЕММЕЛ. Мы проехали две деревни Твюльпштедт, продолжаем движение на восток к мосту. Приём.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_004D">
 				<Original>This is WESPE, Understood. Out.</Original>
@@ -30327,6 +30683,7 @@
 				<Chinesesimp>这里是WESPE，收到。完毕。</Chinesesimp>
 				<Chinese>這裡是WESPE，收到。完畢。</Chinese>
 				<Korean>여기는 WESPE, 알겠다. 이상.</Korean>
+				<Russian>Это ВЕСПЕ, Понял. Конец связи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_005A">
 				<Original>DRAHT, this is SEMMEL. Over.</Original>
