@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - TAK">
+  <Package name="gmx_tak_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_TAK_NAME">
+        <Original>Global Mobilization Extra - Takistan Armed Forces</Original>
+        <English>Global Mobilization Extra - Takistan Armed Forces</English>
+        <German>Global Mobilization Extra - Takistan Armed Forces</German>
+        <Chinesesimp>全球动员扩展 - 塔基斯坦政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_VERSION">
+        <Original>Global Mobilization Extra - Takistan Armed Forces v1.1.28</Original>
+        <English>Global Mobilization Extra - Takistan Armed Forces v1.1.28</English>
+        <German>Global Mobilization Extra - Takistan Armed Forces v1.1.28</German>
+        <Chinesesimp>全球动员扩展 - 塔基斯坦政府军 1.1.28版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+        <Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_NAMESHORT">
+        <Original>GMX - Tak</Original>
+        <English>GMX - Tak</English>
+        <German>GMX - Tak</German>
+        <Chinesesimp>GMX - Tak</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK">
+        <Original>Takistan</Original>
+        <English>Takistan</English>
+        <German>Takistan</German>
+        <Chinesesimp>塔基斯坦</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_ARMY">
+        <Original>Takistan Army</Original>
+        <English>Takistan Army</English>
+        <German>Takistanische Armee</German>
+        <Chinesesimp>塔基斯坦陆军</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="TextureSources">
+      <Key ID="STR_DN_GMX_TAK_DES">
+        <Original>Takistan (Desert)</Original>
+        <English>Takistan (Desert)</English>
+        <German>Takistan (Wüste)</German>
+        <Chinesesimp>塔基斯坦(沙漠)</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TAK_TAN">
+        <Original>Takistan (Tan)</Original>
+        <English>Takistan (Tan)</English>
+        <German>Takistan (Sand)</German>
+        <Chinesesimp>塔基斯坦(棕褐色)</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Ranks">
+      <Key ID="STR_DN_gmx_tak_rank_01">
+        <Original>Private</Original>
+        <English>Private</English>
+        <German>Gefreiter</German>
+        <Chinesesimp>列兵</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_02">
+        <Original>Corporal</Original>
+        <English>Corporal</English>
+        <German>Unteroffizier</German>
+        <Chinesesimp>下士</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_03">
+        <Original>Sergeant</Original>
+        <English>Sergeant</English>
+        <German>Feldwebel</German>
+        <Chinesesimp>中士</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_04">
+        <Original>Lieutenant</Original>
+        <English>Lieutenant</English>
+        <German>Leutnant</German>
+        <Chinesesimp>中尉</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_05">
+        <Original>Captain</Original>
+        <English>Captain</English>
+        <German>Hauptmann</German>
+        <Chinesesimp>上尉</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_06">
+        <Original>Major</Original>
+        <English>Major</English>
+        <German>Major</German>
+        <Chinesesimp>少校</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_tak_rank_07">
+        <Original>Colonel</Original>
+        <English>Colonel</English>
+        <German>Oberst</German>
+        <Chinesesimp>上校</Chinesesimp>
+      </Key>
+    </Container>
+  <Container name="Displaynames">
+      <Key ID="STR_DN_gmx_insignia_tak_01">
+        <Original>Takistan Armed Forces</Original>
+        <English>Takistan Armed Forces</English>
+        <German>Takistan Armed Forces</German>
+        <Chinesesimp>塔基斯坦政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_licenseplate_tak_wht">
+        <Original>Takistan Armed Forces</Original>
+        <English>Takistan Armed Forces</English>
+        <German>Takistan Armed Forces</German>
+        <Chinesesimp>塔基斯坦政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_font_tak_blk">
+        <Original>Takistan Arabic - Black</Original>
+        <English>Takistan Arabic - Black</English>
+        <German>Takistan Arabisch - Schwarz</German>
+        <Chinesesimp>塔基斯坦阿拉伯人 - 黑人</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_gmx_font_tak_wht">
+        <Original>Takistan Arabic - White</Original>
+        <English>Takistan Arabic - White</English>
+        <German>Takistan Arabisch - Weiß</German>
+        <Chinesesimp>塔基斯坦阿拉伯人 - 白人</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - AAF">
+  <Package name="GMX_AAF_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_AAF_NAME">
+        <Original>Global Mobilization Extra - Altis Armed Forces</Original>
+        <English>Global Mobilization Extra - Altis Armed Forces</English>
+        <German>Global Mobilization Extra - Altis Armed Forces</German>
+        <Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_VERSION">
+        <Original>Global Mobilization Extra - Altis Armed Forces v1.1.28</Original>
+        <English>Global Mobilization Extra - Altis Armed Forces v1.1.28</English>
+        <German>Global Mobilization Extra - Altis Armed Forces v1.1.28</German>
+        <Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军 1.1.28版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+        <Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_NAMESHORT">
+        <Original>GMX - AAF</Original>
+        <English>GMX - AAF</English>
+        <German>GMX - AAF</German>
+        <Chinesesimp>GMX - AAF</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF_ARMY">
+        <Original>Altis Armed Forces</Original>
+        <English>Altis Armed Forces</English>
+        <German>Altis Armed Forces</German>
+        <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_AAF">
+        <Original>Altis</Original>
+        <English>Altis</English>
+        <German>Altis</German>
+        <Chinesesimp>阿尔蒂斯</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="TextureSources">
+      <Key ID="STR_DN_GMX_AAF_WDL">
+        <Original>AAF (Digital Green)</Original>
+        <English>AAF (Digital Green)</English>
+        <German>AAF (Digital Grün)</German>
+        <Chinesesimp>AAF (数码绿)</Chinesesimp>
+      </Key>
+    </Container>
+  <Container name="Displaynames">
+      <Key ID="STR_DN_GMX_INSIGNIA_AAF_01">
+        <Original>Altis Armed Forces</Original>
+        <English>Altis Armed Forces</English>
+        <German>Altis Armed Forces</German>
+        <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_LICENSEPLATE_AAF_YEL">
+        <Original>Altis Armed Forces</Original>
+        <English>Altis Armed Forces</English>
+        <German>Altis Armed Forces</German>
+        <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_FONT_AAF_BLK_YEL">
+        <Original>Altis Armed Forces - Black/Yellow</Original>
+        <English>Altis Armed Forces - Black/Yellow</English>
+        <German>Altis Armed Forces - Schwarz/Gelb</German>
+        <Chinesesimp>阿尔蒂斯政府军 - 黑色/黄色</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>

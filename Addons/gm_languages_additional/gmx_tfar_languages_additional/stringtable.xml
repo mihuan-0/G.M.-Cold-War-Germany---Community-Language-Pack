@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - TFAR">
+  <Package name="gmx_TFAR_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_TFAR_NAME">
+        <Original>Global Mobilization Extra - TFAR Compatibility</Original>
+        <English>Global Mobilization Extra - TFAR Compatibility</English>
+        <German>Global Mobilization Extra - TFAR Compatibility</German>
+        <Chinesesimp>全球动员扩展 - TFAR兼容模组</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TFAR_VERSION">
+        <Original>Global Mobilization Extra - TFAR Compatibility v1.3</Original>
+        <English>Global Mobilization Extra - TFAR Compatibility v1.3</English>
+        <German>Global Mobilization Extra - TFAR Compatibility v1.3</German>
+        <Chinesesimp>全球动员扩展 - TFAR兼容模组1.3版本</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TFAR_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+        <Chinesesimp>全球动员扩展</Chinesesimp>
+      </Key>
+      <Key ID="STR_DN_GMX_TFAR_NAMESHORT">
+        <Original>GMX - TFAR</Original>
+        <English>GMX - TFAR</English>
+        <German>GMX - TFAR</German>
+        <Chinesesimp>GMX - TFAR</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Global Mobilization Extra - CDF">
+  <Package name="GMX_CDF_core">
+    <Container name="general">
+      <Key ID="STR_DN_GMX_CDF_NAME">
+        <Original>Global Mobilization Extra - Chernarussian Defence Force</Original>
+        <English>Global Mobilization Extra - Chernarussian Defence Force</English>
+        <German>Global Mobilization Extra - Chernarussian Defence Force</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_AUTHOR">
+        <Original>Global Mobilization Extra</Original>
+        <English>Global Mobilization Extra</English>
+        <German>Global Mobilization Extra</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_NAMESHORT">
+        <Original>GMX - CDF</Original>
+        <English>GMX - CDF</English>
+        <German>GMX - CDF</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF">
+        <Original>CDF</Original>
+        <English>CDF</English>
+        <German>CDF</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_ARMY">
+        <Original>CDF</Original>
+        <English>CDF</English>
+        <German>CDF</German>
+      </Key>
+    </Container>
+    <Container name="TextureSources">
+      <Key ID="STR_DN_GMX_CDF_WDL">
+        <Original>CDF (Woodland)</Original>
+        <English>CDF (Woodland)</English>
+        <German>CDF (Flecktarn)</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_WDR">
+        <Original>CDF (Woodland-Red Stripes)</Original>
+        <English>CDF (Woodland-Red Stripes)</English>
+        <German>CDF (Flecktarn - Roter Strich)</German>
+      </Key>
+    </Container>
+    <Container name="Ranks">
+      <Key ID="STR_DN_GMX_CDF_rank_01">
+        <Original>Private</Original>
+        <English>Private</English>
+        <German>Gefreiter</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_rank_02">
+        <Original>Corporal</Original>
+        <English>Corporal</English>
+        <German>Unteroffizier</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_rank_03">
+        <Original>Sergeant</Original>
+        <English>Sergeant</English>
+        <German>Feldwebel</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_rank_04">
+        <Original>Lieutenant</Original>
+        <English>Lieutenant</English>
+        <German>Leutnant</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_rank_05">
+        <Original>Captain</Original>
+        <English>Captain</English>
+        <German>Hauptmann</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_rank_06">
+        <Original>Major</Original>
+        <English>Major</English>
+        <German>Major</German>
+      </Key>
+      <Key ID="STR_DN_GMX_CDF_rank_07">
+        <Original>Colonel</Original>
+        <English>Colonel</English>
+        <German>Oberst</German>
+      </Key>
+    </Container>
+  <Container name="Displaynames">
+      <Key ID="STR_DN_gmx_insignia_CDF_01">
+        <Original>CDFistan</Original>
+        <English>CDFistan</English>
+        <German>CDFistan</German>
+      </Key>
+    </Container>
+  </Package>
+</Project>
