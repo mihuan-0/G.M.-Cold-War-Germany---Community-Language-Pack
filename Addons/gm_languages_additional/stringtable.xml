@@ -8,7 +8,7 @@
 				<German>Global Mobilization</German>
 				<Chinesesimp>全球动员-冷战危机</Chinesesimp>
 				<Chinese>全球動員-冷戰危機</Chinese>
-				<korean>글로벌 모빌리제이션</korean>
+				<Korean>글로벌 모빌리제이션</Korean>
 				<Japanese>グローバル·モビリゼーション</Japanese>
 				<Russian>Глобальная Мобилизация</Russian>
 			</Key>
@@ -18,7 +18,7 @@
 				<German>GM</German>
 				<Chinesesimp>GM</Chinesesimp>
 				<Chinese>GM</Chinese>
-				<korean>GM</korean>
+				<Korean>GM</Korean>
 				<Japanese>GM</Japanese>
 				<Russian>GM</Russian>
 			</Key>
@@ -28,7 +28,7 @@
 				<German>Vertexmacht</German>
 				<Chinesesimp>Vertexmacht工作室</Chinesesimp>
 				<Chinese>Vertexmacht</Chinese>
-				<korean>Vertexmacht</korean>
+				<Korean>Vertexmacht</Korean>
 				<Japanese>Vertexmacht</Japanese>
 				<Russian>Vertexmacht</Russian>
 			</Key>
@@ -38,7 +38,7 @@
 				<German>1</German>
 				<Chinesesimp>2</Chinesesimp>
 				<Chinese>3</Chinese>
-				<korean>4</korean>
+				<Korean>4</Korean>
 				<Japanese>5</Japanese>
 				<Russian>6</Russian>
 			</Key>
@@ -48,7 +48,7 @@
 				<German>Sie nutzen Premium-Inhalte. Kaufen Sie Global Mobilization - Cold War Germany, um diese Nachricht auszublenden.</German>
 				<Chinesesimp>您正在使用高级内容。 购买“全球动员-德国冷战”Dlc以删除该消息。</Chinesesimp>
 				<Chinese>您正在使用高級內容。購買“全球動員-德國冷戰”Dlc以刪除該消息。</Chinese>
-				<korean>프리미엄 컨텐츠를 사용중입니다. 글로벌 모빌리제이션-냉전 독일팩을 사서 메세지를 삭제하세요</korean>
+				<Korean>프리미엄 컨텐츠를 사용중입니다. 글로벌 모빌리제이션-냉전 독일팩을 사서 메세지를 삭제하세요</Korean>
 				<Russian>Вы используете расширенный контент. Купите DLC "Global Mobilization-German Cold War", чтобы скрыть это сообщение.</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_TOOLTIP">
@@ -2590,14 +2590,6 @@
 				<Chinesesimp>东德(白色,医疗)</Chinesesimp>
 				<Korean>동독 (하양, 의료)</Korean>
 				<Russian>ГДР (Белый, Медицина)</Russian>
-			</Key>
-			<Key ID="STR_DN_GM_GC_BGS_OLI">
-				<Original>East Germany (Borderguards)</Original>
-				<English>East Germany (Borderguards)</English>
-				<German>DDR (Grenzschutz)</German>
-				<Chinesesimp>东德(边防部队)</Chinesesimp>
-				<Korean>동독(국경 경비대)</Korean>
-				<Russian>ГДР (Пограничники)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_IFLG">
 				<Original>Interflieg</Original>
@@ -8266,7 +8258,7 @@
 				<German>Dänemark: Schwarz-Schwarz-Weiß</German>
 				<Chinesesimp>丹麦：黑-黑-白</Chinesesimp>
 				<Korean>덴마크: 검정-검정-하양</Korean>
-				<Japanese>デンマーク: 黒-黒-白</japanese>
+				<Japanese>デンマーク: 黒-黒-白</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_DK_BLK_BLK_YEL">
 				<Original>Danish: Black-Black-Yellow</Original>
@@ -15374,7 +15366,7 @@
 				<English>PETN Charge</English>
 				<German>PETN Ladung</German>
 				<Chinesesimp>PETN炸药</Chinesesimp>
-				<Korean>PETN 폭약</korean>
+				<Korean>PETN 폭약</Korean>
 				<Russian>ТЭН (Заряд ВВ)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_EXPLOSIVE_PETN_CHARGE">
@@ -15390,7 +15382,7 @@
 				<English>PLNP Charge</English>
 				<German>PLNP Ladung</German>
 				<Chinesesimp>PLNP炸药</Chinesesimp>
-				<Korean>PLNP 폭약</korean>
+				<Korean>PLNP 폭약</Korean>
 				<Russian>PLNP (Заряд ВВ)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WATCH_KOSEI_80">
@@ -20682,7 +20674,7 @@
 				<English>Flare (Green)</English>
 				<German>Licht (Grün)</German>
 				<Chinesesimp>照明弹 (绿色)</Chinesesimp>
-				<Original>조명탄 (초록)</Original>
+				<Korean>조명탄 (초록)</Korean>
 				<Russian>Сигн.Ракета(Зелёная)</Russian>
 			</Key>
 			<Key ID="STR_DNS_GM_FLARE_SINGLE_RED">
@@ -25941,7 +25933,7 @@
 				<English>Forest Helmet Camo 4</English>
 				<German>Wald-Helmtarnung 4</German>
 				<Chinesesimp>头盔迷彩服(森林4)</Chinesesimp>
-				<korean>산림 헬멧(위장4)</Korean>
+				<Korean>산림 헬멧(위장4)</Korean>
 				<Russian>Камуфляж шлема (Лес 4)</Russian>
 			</Key>
 			<Key ID="STR_DSS_GM_HMD_FOLIAGE_BASE">
@@ -30122,7 +30114,7 @@
 				<German>Ausführung!</German>
 				<Chinesesimp>行动！</Chinesesimp>
 				<Chinese>行動！</Chinese>
-				<korean>가자!</korean>
+				<Korean>가자!</Korean>
 				<Russian>Вперед!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_001">
@@ -30176,7 +30168,7 @@
 				<German>Wo sind die alle?</German>
 				<Chinesesimp>大家都在哪里？</Chinesesimp>
 				<Chinese>大家都在哪裡？</Chinese>
-				<korean>다들 어디로 간거야?</korean>
+				<Korean>다들 어디로 간거야?</Korean>
 				<Russian>Где все?</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_005">
@@ -30185,7 +30177,7 @@
 				<German>Die müssen alle geflohen sein nachdem der Feind hier durch ist.</German>
 				<Chinesesimp>敌人推进到这里的时候，他们一定是逃走了。</Chinesesimp>
 				<Chinese>敵人推進到這裡的時候，他們一定是逃走了。</Chinese>
-				<korean>적들이 치고들어왔을때 다 피난갔겟지</korean>
+				<Korean>적들이 치고들어왔을때 다 피난갔겟지</Korean>
 				<Russian>Они, должно быть, все бежали, когда враг прорвался сюда.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_006">
@@ -30194,7 +30186,7 @@
 				<German>Stell dir vor du würdest von Panzern in deinem Vorgarten aufgeweckt.</German>
 				<Chinesesimp>能想象到，你被坦克开过你的花园的声音吵醒的场景。</Chinesesimp>
 				<Chinese>能想像到，你被坦克開過你的花園的聲音吵醒的場景。</Chinese>
-				<korean>정원을 짓밟고 지나가는 탱크소리에 잠이 깨는게 상상되네</korean>
+				<Korean>정원을 짓밟고 지나가는 탱크소리에 잠이 깨는게 상상되네</Korean>
 				<Russian>Представьте, что вас разбудили танки, проезжающие через ваш сад.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_007">
@@ -30203,7 +30195,7 @@
 				<German>Jungs, haltet die Augen auf, feindliche Alarmposten liegen voraus.</German>
 				<Chinesesimp>伙计们，保持警惕，敌人的警戒巡逻队可能会出现在前面。</Chinesesimp>
 				<Chinese>伙計們，保持警惕，敵人的警戒巡邏隊可能會出現在前面。</Chinese>
-				<korean>다들 경계를 늦추지마라. 적 순찰대가 근처에 있을거야.</korean>
+				<Korean>다들 경계를 늦추지마라. 적 순찰대가 근처에 있을거야.</Korean>
 				<Russian>Ребята, будьте бдительны, впереди вражеские посты оповещения.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_008">
@@ -30221,7 +30213,7 @@
 				<German>Gross Sisbeck... Klein Sisbeck. Gross Twülpstedt... Klein Twülpstedt...</German>
 				<Chinesesimp>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinesesimp>
 				<Chinese>Gross Sisbeck...Klein Sisbeck.Gross Twülpstedt... Klein Twülpstedt...</Chinese>
-				<korean>그로스 지스벡... 클라인 지스벡. 그로스 트발프슈테트... 클라인 트발프슈테트...</korean>
+				<Korean>그로스 지스벡... 클라인 지스벡. 그로스 트발프슈테트... 클라인 트발프슈테트...</Korean>
 				<Russian>Гросс-Сисбек... Кляйн-Сисбек. Гросс-Твюльпштедт... Кляйн-Твюльпштедт...</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_010">
@@ -30230,7 +30222,7 @@
 				<German>Und dann ist das hier auch noch so elendich Flach. Flacher als Heiner's Freundin!</German>
 				<Chinesesimp>并且这里太他妈的平坦了。比Heiner的女朋友还平。</Chinesesimp>
 				<Chinese>並且這裡太他媽的平坦了。比Heiner的女朋友還平。</Chinese>
-				<korean>그리고 온 사방이 망할 평지잖아. 하이너의 여친보다 더 평평하네.</korean>
+				<Korean>그리고 온 사방이 망할 평지잖아. 하이너의 여친보다 더 평평하네.</Korean>
 				<Russian>И здесь так чертовски плоско. Более плоско, чем девушка Хайнера.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_011">
@@ -30239,7 +30231,7 @@
 				<German>Immerhin hab ich eine!</German>
 				<Chinesesimp>至少我还是有一个的！</Chinesesimp>
 				<Chinese>至少我還是有一個的！</Chinese>
-				<korean>난 있기라도 하지!</korean>
+				<Korean>난 있기라도 하지!</Korean>
 				<Russian>По крайней мере, у меня она есть!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_012">
@@ -30248,7 +30240,7 @@
 				<German>Hier HAMMER, Feindkontakt in Gross Sisbeck. Unbekannte Anzahl. Greifen an. Kommen.</German>
 				<Chinesesimp>我是HAMMER，在Gross Sisbeck与敌人接触。数量不明，正在交火。完毕。</Chinesesimp>
 				<Chinese>我是HAMMER，在Gross Sisbeck與敵人接觸。數量不明。正在交火。完畢。</Chinese>
-				<korean>여기는 HAMMER, 그로스 지스벡에서 인원수 불명의 적을 발견했다. 교전하겠음. 오버.</korean>
+				<Korean>여기는 HAMMER, 그로스 지스벡에서 인원수 불명의 적을 발견했다. 교전하겠음. 오버.</Korean>
 				<Russian>Это ХАММЕР, Контакт с противником в Гросс-Сисбеке. Количество неизвестно. Вступаю в бой. Прием.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_013">
@@ -30257,7 +30249,7 @@
 				<German>Hier WESPE, verstanden. DRAHT. Sicheren Sie HAMMER's vorstoß. Kommen.</German>
 				<Chinesesimp>这里是 WESPE，收到。DRAHT。确保HAMMER的安全接近。完毕。</Chinesesimp>
 				<Chinese>這裡是 WESPE，收到。 DRAHT。確保HAMMER的安全接近。完畢。</Chinese>
-				<korean>여기는 WESPE, 알겠다. DRAHT. HAMMER의 진입을 지원하도록 하라. 오버.</korean>
+				<Korean>여기는 WESPE, 알겠다. DRAHT. HAMMER의 진입을 지원하도록 하라. 오버.</Korean>
 				<Russian>Это ВЕСПЕ, понял. ДРАХТ. Обеспечте продвижение ХАММЕРА. Приём.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_R_014">
@@ -30598,7 +30590,7 @@
 				<German>Der Auftrag ist Klar und der Feind liegt voraus. Panzer Marsch!</German>
 				<Chinesesimp>任务很明确，敌人就在前面。行动起来!</Chinesesimp>
 				<Chinese>任務很明確，敵人就在前面。行動起來!</Chinese>
-				<KOrean>우리 임무는 주어졌고 적들은 앞에있다. 움직여!</Korean>
+				<Korean>우리 임무는 주어졌고 적들은 앞에있다. 움직여!</Korean>
 				<Russian>Задача ясна, и враг впереди. Выдвигайтесь!</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_02_R_002">
@@ -34155,7 +34147,7 @@
 				<English>1. Target Identification&lt;br /&gt;&lt;br /&gt;Firing the first shot is crucial. Destroy the enemy with accuracy before they even gain awareness of your presence.&lt;br /&gt;To do this, you must be sure to spot and identify an enemy vehicle and engage it swiftly with the highest accuracy possible.&lt;br /&gt;Always be on the lookout by scanning the horizon for movement, environment damage done by heavy vehicles and unusual clouds of dust forming in the distance. These indicate the presence of armored forces.&lt;br /&gt;&lt;br /&gt;Your Leo 1 tank is equipped with Night Vision sights. Available only to the gunner, these devices can be used to spot and identify objects.&lt;br /&gt;Only two tanks in your platoon are equipped with Night Vision optics. Make sure to use them to reconnoiter the area and relay the information gained to your subordinates.&lt;br /&gt;&lt;br /&gt;Additionally, it helps to go above hatch and getting your trusty pair of binoculars out.&lt;br /&gt;&lt;br /&gt;Once you have identified a target, you have to know their weak spots to effectively engage it. Otherwise your shot may ricochet or simply not hit anything of importance.&lt;br /&gt;What good is a 105mm sub-calibre high velocity kinetic energy round, if it enters a tank and exits it again without destroying anything of importance?&lt;br /&gt;&lt;br /&gt;Ideally you will hit one of these components in a tank&lt;br /&gt;- The ammo storage&lt;br /&gt;- The engine&lt;br /&gt;&lt;br /&gt;Know their placement within an enemy vehicle to target it for greatest possible effect.&lt;br /&gt;See Appendix B for illustrations of enemy vehicles that you may encounter.&lt;br /&gt;&lt;br /&gt;Prioritize your targets. Engage the targets that pose the most immediate threat to you first.</English>
 				<German>1. Zielerfassung&lt;br /&gt;&lt;br /&gt;Der erste Schuss muss sitzen. Vernichten Sie den Feind zielgenau bevor Sie überhaupt entdeckt werden.&lt;br /&gt;Dies erfordert schnelles und sicheres Erkennen des Feindes als solchen, und darauf folgend wirkungsvolles Bekämpfen des Ziels..&lt;br /&gt;Erkennen Sie den Feind direkt oder indirekt durch Schäden an der Umwelt, die von gepanzerten Fahrzeugen verursacht wurden. Zerstörte Vorgärten oder umgeworfene Bäume sind leichte Erkennungsmerkmale von Feindfahrzeugen.&lt;br /&gt;&lt;br /&gt;Ihr Leo 1 Panzer ist zudem mit einem Bildverstärker ausgerüstet. Der Richtschütze kann damit besser Ziele aufklären, die bei bloßem Taglicht nicht zu erkennen sind.&lt;br /&gt;Zwei der Vier Kampfpanzer in Ihrem Zug sind damit ausgestattet. Machen Sie ausgiebig gebrauch davon.&lt;br /&gt;&lt;br /&gt;Außerdem ist es immer zuträglich über Luke mit dem Doppelfernrohr Ausschau zu halten.&lt;br /&gt;&lt;br /&gt;Wenn Sie einen Feind erkannt haben, müssen Sie sofort wissen, wo das Feindfahrzeug am verwundbarsten ist. Ansonsten kann der Schuss entweder abprallen, oder wirkungslos das Fahrzeug durchschlagen.&lt;br /&gt;&lt;br /&gt;Idealerweise treffen Sie eine der folgenden Komponenten im Fahrzeug:&lt;br /&gt;- Der Munitionsbunker&lt;br /&gt;- Der Motor&lt;br /&gt;&lt;br /&gt;Machen Sie sich mit der Lage dieser Komponenten in diversen Feindfahrzeugen vertraut. Nehmen Sie dafür Anhang B mit seinen Illustrationen zur Hilfe.&lt;br /&gt;&lt;br /&gt;Prioritisieren Sie die Ziele und greifen Sie die Gefährlichsten zuerst an.</German>
 				<Chinesesimp>1.目标识别&lt;br /&gt;&lt;br /&gt;打响第一枪是至关重要的。在敌人还没有意识到你的存在时就准确地消灭他们。&lt;br /&gt;要做到这一点，你必须确保发现和识别敌方载具，并以尽可能高的精确度迅速与之交战。&lt;br /&gt;始终保持警惕，扫描地平线上的运动物体、重型车辆造成的环境破坏以及远处形成的异常尘埃云。这些都表明有装甲部队的存在。&lt;br /&gt;&lt;br /&gt;你的豹1坦克装备有夜视仪瞄准器，只有炮手才能使用，它们这些设备可以用来发现和识别物体。&lt;br /&gt;你们排只有两辆坦克装备了这种夜视仪。确保使用它们来侦察该地区，并将获得的信息转达给你的下属。&lt;br /&gt;&lt;br /&gt;此外，去上面舱口有助于将你信赖的双筒望远镜拿出来。&lt;br /&gt;&lt;br /&gt;一旦你确定了一个目标，你必须知道他们的薄弱点才能有效地与之交战。否则，你射击的炮弹可能会被弹开，或者干脆没有击中任何重要的东西。&lt;br /&gt;如果一发105毫米口径高速动能穿甲弹射入坦克并再次穿出，却没有摧毁任何重要的东西，那么它有什么用？&lt;br /&gt;&lt;br /&gt;理想情况下，你将击中在坦克的这些部件中的一个&lt;br /&gt;-弹药架&lt;br /&gt;-引擎&lt;br /&gt;&lt;br /&gt;了解它们在敌方车辆中的位置，以便瞄准它从而获得最大的打击效果。&lt;br /&gt;你可能遇到的敌方车辆的图示，见附录B。&lt;br /&gt;&lt;br /&gt;确定你的目标的优先次序。首先攻击对你构成最直接威胁的目标。</Chinesesimp>
-				<Chinese>1.目標識別&lt;br /&gt;&lt;br /&gt;打響第一槍是至關重要的。在敵人還沒有意識到你的存在時就準確地消滅他們。 &lt;br /&gt;要做到這一點，你必須確保發現和識別敵方載具，並以盡可能高的精確度迅速與之交戰。 &lt;br /&gt;始終保持警惕，掃描地平線上的運動物體、重型車輛造成的環境破壞以及遠處形成的異常塵埃雲。這些都表明有裝甲部隊的存在。 &lt;br /&gt;&lt;br /&gt;你的豹1坦克裝備有夜視儀瞄準器，只有砲手才能使用，它們这些设备可以用来发现和识别物体。 &lt;br /&gt;你們排只有兩輛坦克裝備了這種夜視儀。确保使用它们来侦察该地区，并将获得的信息转达给你的下屬。 &lt;br /&gt;&lt;br /&gt;此外，去上面艙口有助於将你信賴的雙筒望遠鏡拿出來。 &lt;br /&gt;&lt;br /&gt;一旦你确定了一个目标，你必须知道他们的薄弱点才能有效地与之交战。否則，你射擊的砲彈可能會被彈開，或者乾脆沒有擊中任何重要的東西。 &lt;br /&gt;如果一發105毫米口徑高速動能穿甲彈射入坦克並再次穿出，卻沒有摧毀任何重要的東西，那麼它有什麼用？ &lt;br /&gt;&lt;br /&gt;理想情況下，你將擊中在坦克的這些部件中的一個&lt;br /&gt;-彈藥架&lt;br /&gt;-引擎&lt;br /&gt ;&lt;br /&gt;了解它們在敵方車輛中的位置，以便瞄準它從而獲得最大的打擊效果。 &lt;br /&gt;你可能遇到的敵方車輛的圖示，見附錄B。 &lt;br /&gt;&lt;br /&gt;確定你的目標的優先次序。首先攻擊對你構成最直接威脅的目標。</Chinese>
+				<Chinese>1.目標識別&lt;br /&gt;&lt;br /&gt;打響第一槍是至關重要的。在敵人還沒有意識到你的存在時就準確地消滅他們。 &lt;br /&gt;要做到這一點，你必須確保發現和識別敵方載具，並以盡可能高的精確度迅速與之交戰。 &lt;br /&gt;始終保持警惕，掃描地平線上的運動物體、重型車輛造成的環境破壞以及遠處形成的異常塵埃雲。這些都表明有裝甲部隊的存在。 &lt;br /&gt;&lt;br /&gt;你的豹1坦克裝備有夜視儀瞄準器，只有砲手才能使用，它們这些设备可以用来发现和识别物体。 &lt;br /&gt;你們排只有兩輛坦克裝備了這種夜視儀。确保使用它们来侦察该地区，并将获得的信息转达给你的下屬。 &lt;br /&gt;&lt;br /&gt;此外，去上面艙口有助於将你信賴的雙筒望遠鏡拿出來。 &lt;br /&gt;&lt;br /&gt;一旦你确定了一个目标，你必须知道他们的薄弱点才能有效地与之交战。否則，你射擊的砲彈可能會被彈開，或者乾脆沒有擊中任何重要的東西。 &lt;br /&gt;如果一發105毫米口徑高速動能穿甲彈射入坦克並再次穿出，卻沒有摧毀任何重要的東西，那麼它有什麼用？ &lt;br /&gt;&lt;br /&gt;理想情況下，你將擊中在坦克的這些部件中的一個&lt;br /&gt;-彈藥架&lt;br /&gt;-引擎&lt;br /&gt;&lt;br /&gt;了解它們在敵方車輛中的位置，以便瞄準它從而獲得最大的打擊效果。 &lt;br /&gt;你可能遇到的敵方車輛的圖示，見附錄B。 &lt;br /&gt;&lt;br /&gt;確定你的目標的優先次序。首先攻擊對你構成最直接威脅的目標。</Chinese>
 				<Russian>1. Идентификация цели&lt;br /&gt;&lt;br /&gt;Первый выстрел имеет решающее значение. Уничтожьте врага с точностью до того, как он узнает о вашем присутствии.&lt;br /&gt;Чтобы сделать это, вы должны быть уверены, что заметили и идентифицировали вражескую технику и быстро поразить ее с максимально возможной точностью.&lt;br /&gt;Всегда будьте начеку, сканируя горизонт на предмет движения, повреждений окружающей среды тяжелыми машинами и необычных облаков пыли, образующихся вдали. Это указывает на присутствие бронетанковых войск.&lt;br /&gt;&lt;br /&gt;Ваш танк Леопард 1 оснащен прицелами ночного видения. Эти приборы, доступные только наводчику, могут использоваться для обнаружения и идентификации объектов.&lt;br /&gt;Только два танка в вашем взводе оснащены оптикой ночного видения. Обязательно используйте их для разведки местности и передачи полученной информации своим подчиненным.&lt;br /&gt;&lt;br /&gt;Кроме того, можно поднять  крышку люка и достать свой надежный бинокль.&lt;br /&gt;&lt;br /&gt;Определив цель, вы должны знать ее слабые места, чтобы эффективно поразить ее. В противном случае ваш выстрел может срикошетить или просто не попасть ни во что важное.&lt;br /&gt;Что толку от 105-мм подкалиберного высокоскоростного снаряда с кинетической энергией, если он входит в танк и выходит из него, не разрушив ничего важного?&lt;br /&gt;&lt;br /&gt;В идеале вы должны поразить один из этих компонентов в танке&lt;br /&gt;- Хранилище боеприпасов&lt;br /&gt;- Двигатель&lt;br /&gt;&lt;br /&gt;Знайте их расположение внутри вражеской техники, чтобы нацелиться на нее с максимально возможным эффектом.&lt;br /&gt;Иллюстрации вражеских машин, которые вы можете встретить, см. в Приложении B.&lt;br /&gt;&lt;br /&gt;Определите приоритет целей. В первую очередь поражайте те цели, которые представляют для вас наибольшую непосредственную угрозу.</Russian>
 			</Key>
 			<Key ID="STR_GM_TANKGUIDE_01_TEXT_03">
@@ -34896,7 +34888,7 @@
 				<English>Repair Phoneline</English>
 				<German>Anschluss Reparieren</German>
 				<Chinesesimp>维修电话线</Chinesesimp>
-				<korean>전화선 수리</korean>
+				<Korean>전화선 수리</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_SMALL_MAIL_DELIVERY">
 				<Original>Small Mail Delivery</Original>
@@ -35009,7 +35001,7 @@
 				<English>Take Dinosaur</English>
 				<German>Dinosaurier Nehmen</German>
 				<Chinesesimp>夺取恐龙</Chinesesimp>
-				<korean>공룡 입수</korean>
+				<Korean>공룡 입수</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAILBOX_FAILED">
 				<Original>Mailbox Failed</Original>
@@ -35029,7 +35021,7 @@
 				<English>Mailbag</English>
 				<German>Ledertasche</German>
 				<Chinesesimp>邮件包</Chinesesimp>
-				<korean>우편 가방</korean>
+				<Korean>우편 가방</Korean>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BICYCLE">
 				<Original>Bicycle</Original>
@@ -42567,7 +42559,6 @@
 				<English>URAL 44202</English>
 				<German>URAL 44202</German>
 				<Chinesesimp>URAL 44202</Chinesesimp>
-				<Korean>URAL 44202</Korean>
 				<Korean>우랄 44202</Korean>
 			</Key>
 			<Key ID="STR_DN_GM_URAL4320_REAMMO">
@@ -45319,350 +45310,4 @@
 			</Key>
 		</Container>
 	</Package>
-</Project>
-
-//Global Mobilization Extra - Altis Armed Forces
-<?xml version="1.0" encoding="utf-8"?>
-<Project name="Global Mobilization Extra - AAF">
-  <Package name="GMX_AAF_core">
-    <Container name="general">
-      <Key ID="STR_DN_GMX_AAF_NAME">
-        <Original>Global Mobilization Extra - Altis Armed Forces</Original>
-        <English>Global Mobilization Extra - Altis Armed Forces</English>
-        <German>Global Mobilization Extra - Altis Armed Forces</German>
-        <Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_AAF_VERSION">
-        <Original>Global Mobilization Extra - Altis Armed Forces v1.1.28</Original>
-        <English>Global Mobilization Extra - Altis Armed Forces v1.1.28</English>
-        <German>Global Mobilization Extra - Altis Armed Forces v1.1.28</German>
-        <Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军 1.1.28版本</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_AAF_AUTHOR">
-        <Original>Global Mobilization Extra</Original>
-        <English>Global Mobilization Extra</English>
-        <German>Global Mobilization Extra</German>
-        <Chinesesimp>全球动员扩展</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_AAF_NAMESHORT">
-        <Original>GMX - AAF</Original>
-        <English>GMX - AAF</English>
-        <German>GMX - AAF</German>
-        <Chinesesimp>GMX - AAF</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_AAF_ARMY">
-        <Original>Altis Armed Forces</Original>
-        <English>Altis Armed Forces</English>
-        <German>Altis Armed Forces</German>
-        <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_AAF">
-        <Original>Altis</Original>
-        <English>Altis</English>
-        <German>Altis</German>
-        <Chinesesimp>阿尔蒂斯</Chinesesimp>
-      </Key>
-    </Container>
-    <Container name="TextureSources">
-      <Key ID="STR_DN_GMX_AAF_WDL">
-        <Original>AAF (Digital Green)</Original>
-        <English>AAF (Digital Green)</English>
-        <German>AAF (Digital Grün)</German>
-        <Chinesesimp>AAF (数码绿)</Chinesesimp>
-      </Key>
-    </Container>
-  <Container name="Displaynames">
-      <Key ID="STR_DN_GMX_INSIGNIA_AAF_01">
-        <Original>Altis Armed Forces</Original>
-        <English>Altis Armed Forces</English>
-        <German>Altis Armed Forces</German>
-        <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_LICENSEPLATE_AAF_YEL">
-        <Original>Altis Armed Forces</Original>
-        <English>Altis Armed Forces</English>
-        <German>Altis Armed Forces</German>
-        <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_FONT_AAF_BLK_YEL">
-        <Original>Altis Armed Forces - Black/Yellow</Original>
-        <English>Altis Armed Forces - Black/Yellow</English>
-        <German>Altis Armed Forces - Schwarz/Gelb</German>
-        <Chinesesimp>阿尔蒂斯政府军 - 黑色/黄色</Chinesesimp>
-      </Key>
-    </Container>
-  </Package>
-</Project>
-
-//Global Mobilization Extra - Chernarussian Movement of the Red Star
-<?xml version="1.0" encoding="utf-8"?>
-<Project name="Global Mobilization Extra - ChDKZ">
-  <Package name="GMX_CHDKZ_core">
-    <Container name="general">
-      <Key ID="STR_DN_GMX_CHDKZ_NAME">
-        <Original>Global Mobilization Extra - Chernarussian Movement of the Red Star</Original>
-        <English>Global Mobilization Extra - Chernarussian Movement of the Red Star</English>
-        <German>Global Mobilization Extra - Chernarussian Movement of the Red Star</German>
-        <Chinesesimp>全球动员扩展 - 黑俄罗斯红星运动</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_VERSION">
-        <Original>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</Original>
-        <English>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</English>
-        <German>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</German>
-        <Chinesesimp>全球动员扩展 - 黑俄罗斯红星运动 1.3.28版本</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_AUTHOR">
-        <Original>Global Mobilization Extra</Original>
-        <English>Global Mobilization Extra</English>
-        <German>Global Mobilization Extra</German>
-        <Chinesesimp>全球动员扩展</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_NAMESHORT">
-        <Original>GMX - ChDKZ</Original>
-        <English>GMX - ChDKZ</English>
-        <German>GMX - ChDKZ</German>
-        <Chinesesimp>GMX - ChDKZ</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ">
-        <Original>ChDKZ</Original>
-        <English>ChDKZ</English>
-        <German>ChDKZ</German>
-        <Chinesesimp>ChDKZ</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_ARMY">
-        <Original>ChDKZ</Original>
-        <English>ChDKZ</English>
-        <German>ChDKZ</German>
-        <Chinesesimp>ChDKZ</Chinesesimp>
-      </Key>
-    </Container>
-    <Container name="TextureSources">
-      <Key ID="STR_DN_GMX_CHDKZ_WDL">
-        <Original>ChDKZ (Woodland)</Original>
-        <English>ChDKZ (Woodland)</English>
-        <German>ChDKZ (Flecktarn)</German>
-        <Chinesesimp>ChDKZ (林地)</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_WDR">
-        <Original>ChDKZ (Woodland-Red Stripes)</Original>
-        <English>ChDKZ (Woodland-Red Stripes)</English>
-        <German>ChDKZ (Flecktarn - Roter Strich)</German>
-        <Chinesesimp>ChDKZ (林地-红色条纹)</Chinesesimp>
-      </Key>
-    </Container>
-    <Container name="Ranks">
-      <Key ID="STR_DN_GMX_CHDKZ_rank_01">
-        <Original>Private</Original>
-        <English>Private</English>
-        <German>Gefreiter</German>
-        <Chinesesimp>列兵</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_rank_02">
-        <Original>Corporal</Original>
-        <English>Corporal</English>
-        <German>Unteroffizier</German>
-        <Chinesesimp>下士</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_rank_03">
-        <Original>Sergeant</Original>
-        <English>Sergeant</English>
-        <German>Feldwebel</German>
-        <Chinesesimp>中士</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_rank_04">
-        <Original>Lieutenant</Original>
-        <English>Lieutenant</English>
-        <German>Leutnant</German>
-        <Chinesesimp>中尉</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_rank_05">
-        <Original>Captain</Original>
-        <English>Captain</English>
-        <German>Hauptmann</German>
-        <Chinesesimp>上尉</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_rank_06">
-        <Original>Major</Original>
-        <English>Major</English>
-        <German>Major</German>
-        <Chinesesimp>少校</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_CHDKZ_rank_07">
-        <Original>Colonel</Original>
-        <English>Colonel</English>
-        <German>Oberst</German>
-        <Chinesesimp>上校</Chinesesimp>
-      </Key>
-    </Container>
-  <Container name="Displaynames">
-      <Key ID="STR_DN_gmx_insignia_ChDKZ_01">
-        <Original>ChDKZistan</Original>
-        <English>ChDKZistan</English>
-        <German>ChDKZistan</German>
-        <Chinesesimp>ChDKZistan</Chinesesimp>
-      </Key>
-    </Container>
-  </Package>
-</Project>
-
-//Global Mobilization Extra - Takistan Armed Forces
-<?xml version="1.0" encoding="utf-8"?>
-<Project name="Global Mobilization Extra - TAK">
-  <Package name="gmx_tak_core">
-    <Container name="general">
-      <Key ID="STR_DN_GMX_TAK_NAME">
-        <Original>Global Mobilization Extra - Takistan Armed Forces</Original>
-        <English>Global Mobilization Extra - Takistan Armed Forces</English>
-        <German>Global Mobilization Extra - Takistan Armed Forces</German>
-        <Chinesesimp>全球动员扩展 - 塔基斯坦政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TAK_VERSION">
-        <Original>Global Mobilization Extra - Takistan Armed Forces v1.1.28</Original>
-        <English>Global Mobilization Extra - Takistan Armed Forces v1.1.28</English>
-        <German>Global Mobilization Extra - Takistan Armed Forces v1.1.28</German>
-        <Chinesesimp>全球动员扩展 - 塔基斯坦政府军 1.1.28版本</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TAK_AUTHOR">
-        <Original>Global Mobilization Extra</Original>
-        <English>Global Mobilization Extra</English>
-        <German>Global Mobilization Extra</German>
-        <Chinesesimp>全球动员扩展</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TAK_NAMESHORT">
-        <Original>GMX - Tak</Original>
-        <English>GMX - Tak</English>
-        <German>GMX - Tak</German>
-        <Chinesesimp>GMX - Tak</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TAK">
-        <Original>Takistan</Original>
-        <English>Takistan</English>
-        <German>Takistan</German>
-        <Chinesesimp>塔基斯坦</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TAK_ARMY">
-        <Original>Takistan Army</Original>
-        <English>Takistan Army</English>
-        <German>Takistanische Armee</German>
-        <Chinesesimp>塔基斯坦陆军</Chinesesimp>
-      </Key>
-    </Container>
-    <Container name="TextureSources">
-      <Key ID="STR_DN_GMX_TAK_DES">
-        <Original>Takistan (Desert)</Original>
-        <English>Takistan (Desert)</English>
-        <German>Takistan (Wüste)</German>
-        <Chinesesimp>塔基斯坦(沙漠)</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TAK_TAN">
-        <Original>Takistan (Tan)</Original>
-        <English>Takistan (Tan)</English>
-        <German>Takistan (Sand)</German>
-        <Chinesesimp>塔基斯坦(棕褐色)</Chinesesimp>
-      </Key>
-    </Container>
-    <Container name="Ranks">
-      <Key ID="STR_DN_gmx_tak_rank_01">
-        <Original>Private</Original>
-        <English>Private</English>
-        <German>Gefreiter</German>
-        <Chinesesimp>列兵</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_tak_rank_02">
-        <Original>Corporal</Original>
-        <English>Corporal</English>
-        <German>Unteroffizier</German>
-        <Chinesesimp>下士</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_tak_rank_03">
-        <Original>Sergeant</Original>
-        <English>Sergeant</English>
-        <German>Feldwebel</German>
-        <Chinesesimp>中士</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_tak_rank_04">
-        <Original>Lieutenant</Original>
-        <English>Lieutenant</English>
-        <German>Leutnant</German>
-        <Chinesesimp>中尉</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_tak_rank_05">
-        <Original>Captain</Original>
-        <English>Captain</English>
-        <German>Hauptmann</German>
-        <Chinesesimp>上尉</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_tak_rank_06">
-        <Original>Major</Original>
-        <English>Major</English>
-        <German>Major</German>
-        <Chinesesimp>少校</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_tak_rank_07">
-        <Original>Colonel</Original>
-        <English>Colonel</English>
-        <German>Oberst</German>
-        <Chinesesimp>上校</Chinesesimp>
-      </Key>
-    </Container>
-  <Container name="Displaynames">
-      <Key ID="STR_DN_gmx_insignia_tak_01">
-        <Original>Takistan Armed Forces</Original>
-        <English>Takistan Armed Forces</English>
-        <German>Takistan Armed Forces</German>
-        <Chinesesimp>塔基斯坦政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_licenseplate_tak_wht">
-        <Original>Takistan Armed Forces</Original>
-        <English>Takistan Armed Forces</English>
-        <German>Takistan Armed Forces</German>
-        <Chinesesimp>塔基斯坦政府军</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_font_tak_blk">
-        <Original>Takistan Arabic - Black</Original>
-        <English>Takistan Arabic - Black</English>
-        <German>Takistan Arabisch - Schwarz</German>
-        <Chinesesimp>塔基斯坦阿拉伯人 - 黑人</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_gmx_font_tak_wht">
-        <Original>Takistan Arabic - White</Original>
-        <English>Takistan Arabic - White</English>
-        <German>Takistan Arabisch - Weiß</German>
-        <Chinesesimp>塔基斯坦阿拉伯人 - 白人</Chinesesimp>
-      </Key>
-    </Container>
-  </Package>
-</Project>
-
-//Global Mobilization Extra - TFAR Compatibility
-<?xml version="1.0" encoding="utf-8"?>
-<Project name="Global Mobilization Extra - TFAR">
-  <Package name="gmx_TFAR_core">
-    <Container name="general">
-      <Key ID="STR_DN_GMX_TFAR_NAME">
-        <Original>Global Mobilization Extra - TFAR Compatibility</Original>
-        <English>Global Mobilization Extra - TFAR Compatibility</English>
-        <German>Global Mobilization Extra - TFAR Compatibility</German>
-        <Chinesesimp>全球动员扩展 - TFAR兼容模组</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TFAR_VERSION">
-        <Original>Global Mobilization Extra - TFAR Compatibility v1.3</Original>
-        <English>Global Mobilization Extra - TFAR Compatibility v1.3</English>
-        <German>Global Mobilization Extra - TFAR Compatibility v1.3</German>
-        <Chinesesimp>全球动员扩展 - TFAR兼容模组1.3版本</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TFAR_AUTHOR">
-        <Original>Global Mobilization Extra</Original>
-        <English>Global Mobilization Extra</English>
-        <German>Global Mobilization Extra</German>
-        <Chinesesimp>全球动员扩展</Chinesesimp>
-      </Key>
-      <Key ID="STR_DN_GMX_TFAR_NAMESHORT">
-        <Original>GMX - TFAR</Original>
-        <English>GMX - TFAR</English>
-        <German>GMX - TFAR</German>
-        <Chinesesimp>GMX - TFAR</Chinesesimp>
-      </Key>
-    </Container>
-  </Package>
 </Project>
