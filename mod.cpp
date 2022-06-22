@@ -1,0 +1,14 @@
+name			= "Global Mobilization - Cold War Germany - Community Language Pack";
+author			= "strayer-迷幻";
+logo			= "data\gm_logo_ca.paa";
+logoOver		= "data\gm_logoover_ca.paa";
+tooltip			= "GM - Community Language Pack";
+tooltipOwned	= "GM - Community Language Pack";
+picture			= "data\gm_logo_ca.paa";
+actionName		= "GitHub";
+action			= "https://github.com/mihuan-0/G.M.-Cold-War-Germany---Community-Language-Pack";
+overview		= "This mod adds multiple additional languages to CDLC GM.<br/> <br/>Authors/Translators:<br/> - Chinese: Strayer-迷幻<br/> - Korean: VekDu<br/> - Russian: Igrik ☆<br/> - Japanese: Apricot_ale<br/>";
+hideName		= 0;
+hidePicture		= 0;
+dlcColor[]		= {0.30,0.30,0.30,1};
+logoSmall		= "data\gm_logosmall_ca.paa";
