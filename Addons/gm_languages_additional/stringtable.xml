@@ -2681,14 +2681,6 @@
 				<Korean>동독 (하양, 의료)</Korean>
 				<Russian>ГДР (Белый, Медицина)</Russian>
 			</Key>
-			<Key ID="STR_DN_GM_GC_BGS_OLI">
-				<Original>East Germany (Borderguards)</Original>
-				<English>East Germany (Borderguards)</English>
-				<German>DDR (Grenzschutz)</German>
-				<Chinesesimp>东德(边防部队)</Chinesesimp>
-				<Korean>동독(국경 경비대)</Korean>
-				<Russian>ГДР (Пограничники)</Russian>
-			</Key>
 			<Key ID="STR_DN_GM_GC_IFLG">
 				<Original>Interflieg</Original>
 				<English>Interflieg</English>
