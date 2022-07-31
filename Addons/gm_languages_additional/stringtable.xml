@@ -79,7 +79,7 @@
 				<Chinesesimp>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;本内容为“全球动员-冷战德国"独家拥有。&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;左Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; 打开商店页面获取更多信息。&lt;t /&gt;</Chinesesimp>
 				<Chinese>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;本內容為“全球動員-冷戰德國"獨家擁有。&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;左Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; 打開商店頁面獲取更多信息。&lt;t /&gt;</Chinese>
 				<Korean>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;이 컨텐츠는 글로벌 모빌리제이션 - 냉전 독일 전용입니다.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;왼쪽 Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; 자세한 내용을 보려면 상점 페이지를 여세요.&lt;t /&gt;</Korean>
-				<Russian>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;Этот контент является эксклюзивным для Global Mobilization - Германия времен холодной войны.&lt;br /&gt;Нажмите &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; чтобы открыть страницу магазина для получения дополнительной информации.&lt;t /&gt;</Russian>
+				<Russian>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;Этот контент является эксклюзивным для Global Mobilization - Германия времен холодной войны.&lt;br /&gt;Нажмите &lt;t /&gt;&lt;t color='#19d3ff'&gt;Левый Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; чтобы открыть страницу магазина для получения дополнительной информации.&lt;t /&gt;</Russian>
 				<Japanese>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;このコンテンツはGlobal Mobilization - Cold War Germany専用です。&lt;br /&gt;&lt;t /&gt;&lt;t color='#19d3ff'&gt;左 Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; を 押してストアページを開き詳細を確認してください。&lt;t/&gt;&lt;t /&gt;</Japanese>
 			</Key>
 			<Key ID="STR_DN_GM_MONTH_1">
@@ -209,7 +209,7 @@
 				<Chinesesimp>现在是1983年,Arma 3被带回冷战时期,这次是在德国北部!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2"血色国旗" - 一场10个任务的单人战役,将带你回到1983年的东德和西德 %1%2 精选13个Coop多人任务,让你马上和朋友一起上手,另外还有少量的各种对抗性场景。%1%2"时尚警察" 多人死亡竞赛游戏模式,别有一番乐趣。%1%2 韦弗林根——一个占地面积超过400平方公里的可用区域。 它位于德国北部,包含了两德部分地区,准确重现了两德边界。 使用全新制作的资产。 此外,还提供了一个完整的冬季版地形。%1%2 阵营 - 西德陆军,西德边防部队,东德陆军,东德边防部队,丹麦陆军,德国平民 %1%2 西德轮式载具 - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 西德运输载具 - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 西德步兵装备 - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 东德轮式载具 - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 东德运输资产 - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 东德步兵装备 - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 东德武器 - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 丹麦资产 - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 平民资产 - P601 East German Car,Typ 1200 West German Car,自行车,平民服装,警察,消防员,邮差%1%2 音轨 - 全新音乐.</Chinesesimp>
 				<Chinese>現在是1983年,Arma 3被帶回冷戰時期,這次是在德國北部!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2"血色國旗" - 一場10個任務的單人戰役,將帶你回到1983年的東德和西德 %1%2 精選13個Coop多人任務,讓你馬上和朋友一起上手,另外還有少量的各種對抗性場景。%1%2"時尚警察" 多人死亡競賽遊戲模式,別有一番樂趣。%1%2 韋弗林根——一個佔地面積超過400平方公里的可用區域。 它位於德國北部,包含了兩德部分地區,準確重現了兩德邊界。 使用全新製作的資產。 此外,還提供了一個完整的冬季版地形。%1%2 陣營 - 西德陸軍,西德邊防軍,東德陸軍,東德邊防軍,丹麥陸軍,德國平民 %1%2 西德輪式載具 - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 西德運輸載具 - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 西德步兵裝備 - Army Units Summer, Army Units Autumn, Army Units Winter, Borderguards Units Summer%1%2 Weapons West Germany - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 東德輪式資產 - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 東德運輸資產 - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 東德步兵裝備 - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 東德武器 - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 丹麥資產 - KPz 1A3, BPz 2A0, Danish Army Summer Uniform, Danish Army Winter Uniform%1%2 平民資產 - P601 East German Car,Typ 1200 West German Car,自行車,平民服裝,警察,消防員,郵差%1%2 音軌 - 全新音樂.</Chinese>
 				<Korean>1983년이 왔습니다! 아르마3이 냉전시절 북독일을 찾아갑니다!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2"스터디 스칼렛" - 1983년의 동독과 서독을 배경으로한 10개의 싱글켐페인을 즐기세요%1%2 13개의 멀티미션을 친구들과 같이 즐기세요. 시나리오별 다양성도 있습니다.%1%2"패션 경찰" 멀티플레이어 데스매치모드 지원.%1%2 벨페르링겐 - 신규 지형은 400km² 넓이의 맵입니다. 북독일 지역을 기반으로 분단된 독일국경이 사실적으로 구현되었습니다. 완전히 새로 제작된 오브젝트들로 구현되었습니다. 겨울판 지형도 있습니다.%1%2 팩션들 - 서독군, 서독 국경 경비대, 동독군, 동독 국경 경비대, 덴마크군, 독일 시민들%1%2 서독의 차량들 - K125 gl 오토바이, 0.5t 트럭, 0.5t 트럭 ATGM, 2t 수송트럭, 2t 의료트럭, 2t 수리트럭, 5t 수송, 5t 탄약차, 5t 연료트럭, 10t 수송트럭, TPz 1A0 (공병), TPz 1A0 HQ, TPz 1A0 정찰차%1%2 서독의 궤도차량 - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G 지휘차, M113A1G 의무차%1%2 서독의 보병들 - 하계용 육군 유닛, 가을용 육군 유닛, 겨울용 육군 유닛, 여름용 국경 경비대 유닛%1%2 서독의 무기들 - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM 삼각대, 수류탄, 총류탄, 쌍안경, 가변 조준경%1%2 동독의 차량들 - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 동독의 궤도차량들 - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 동독의 보병들 - Army Units Summer, Army Winter Units, Borderguards Units Summer%1%2 동독의 무기들 - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 대전차무기, 파곳 ATGM 삼각대, 쌍안경%1%2 덴마크의 장비 - KPz 1A3, BPz 2A0, 덴마크군 하계 군복, 덴마크군 동계 군복%1%2 시민의 장비 - P601, Typ 1200, 자전거, 시민용 옷, 경찰관, 소방관, 우체부%1%2 사운드트랙 - 새로운 음악들.</Korean>
-				<Russian>Это 1983 год, Arma 3 возвращается в эпоху холодной войны, на этот раз в северной Германии!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2"Состояние Алый" - однопользовательская кампания из 10 миссий, которая перенесет вас в Восточную (ГДР) и Западную Германию (ФРГ) в 1983 году%1%2 выбор из 13 совместных многопользовательских миссий, которые вы сможете пройти с друзьями, а также небольшое разнообразие противоборствующих сценариев.%1%2"Полицейский Стиль" Многопользовательский режим игры Deathmatch (Смертельный поединок).%1%2 Weferlingen (Веферлинген) - местность, охватывающая более 400 км² полезной площади. Он расположен на севере Германии и включает части обеих Германий, разделенных точным воссозданием Внутренней немецкой границы. Использование полностью новых активов. Также доступна полная зимняя версия этой местности.%1%2 Фракции - Западногерманская армия, Западногерманские Пограничники, Восточно-германская армия, Восточно-германские Пограничники, Датская армия, Немецкое гражданское население%1%2 Западногерманская колесная техника - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 Западногерманская гусеничная техника - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 Пехотные подразделения Западной Германии - Армейские подразделения Лето, Армейские Подразделения Осень, Армейские подразделения Зима, Подразделения пограничной охраны Лето%1%2 Оружие Западной Германии - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 Восточногерманская колёсная техника - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 Гусеничная техника Восточной Германии - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 Пехотные подразделения Восточной Германии - Армейские части Лето, Армейские Зимние части, Пограничные части Лето%1%2 Оружие Восточная Германия - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 Assets Denmark - KPz 1A3, BPz 2A0, Летняя форма Датской армии, Зимняя форма Датской армии%1%2 Assets Civilians - P601 East German Car, Typ 1200 West German Car, Велосипед, Гражданская одежда, Полицейские, Пожарные, Почтальоны%1%2 Звуковая дорожка - новая музыка.</Russian>
+				<Russian>Это 1983 год, Arma 3 возвращается в эпоху холодной войны, на этот раз в северной Германии!%1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2"Режим готовности - Алый" - однопользовательская кампания из 10 миссий, которая перенесет вас в Восточную (ГДР) и Западную Германию (ФРГ) в 1983 году%1%2 выбор из 13 совместных многопользовательских миссий, которые вы сможете пройти с друзьями, а также небольшое разнообразие противоборствующих сценариев.%1%2"Полицейский Стиль" Многопользовательский режим игры Deathmatch (Смертельный поединок).%1%2 Weferlingen (Веферлинген) - местность, охватывающая более 400 км² полезной площади. Он расположен на севере Германии и включает части обеих Германий, разделенных точным воссозданием Внутренней немецкой границы. Использование полностью новых активов. Также доступна полная зимняя версия этой местности.%1%2 Фракции - Западногерманская армия, Западногерманские Пограничники, Восточно-германская армия, Восточно-германские Пограничники, Датская армия, Немецкое гражданское население%1%2 Западногерманская колесная техника - K125 gl Motorcycle, Truck 0.5t, Truck 0.5t ATGM, Truck 2t Transport, Truck 2t Medical, Truck 2t Repair, Truck 5t Transport, Truck 5t Ammo, Truck 5t Fuel, Truck 10t Transport, TPz 1A0 Engineer, TPz 1A0 HQ, TPz 1A0 Recon%1%2 Западногерманская гусеничная техника - BPz 2A0, KPz1A1, KPz 1A3, SPAA FlakPz 1A1, M113A1G APC, M113A1G APC ATGM, M113A1G Command Vehicle, M113A1G Medical%1%2 Пехотные подразделения Западной Германии - Армейские подразделения Лето, Армейские Подразделения Осень, Армейские подразделения Зима, Подразделения пограничной охраны Лето%1%2 Оружие Западной Германии - G3A3 Rifle, G3A4 Rifle, MG3 Machinegun, MP2A1 SMG, P1 Handgun, P2A1 Flare Gun, Pzf44 Anti-Tank Launcher, Pzf84 Heavy Anti-Tank Launcher, LATGM Tripod, Handgrenades, Rifle Grenades, Binoculars, Various Scopes%1%2 Восточногерманская колёсная техника - SPW-40P, SPW-40PU, SPW-60PA, SPW-60PB, SPW-60PU12, Truck 5 Mp Fuel, Truck 5 Mp Medical, Truck 5 Repair, Truck 5 Reammo, Truck 5 Tractor, Truck 5 Transport%1%2 Гусеничная техника Восточной Германии - BMP-1 SP2, T-55A, ZSU-23-4V1%1%2 Пехотные подразделения Восточной Германии - Армейские части Лето, Армейские Зимние части, Пограничные части Лето%1%2 Оружие Восточная Германия - MPi-KM72, MPi-KMS72, RPK, MPi AK74N, MPi AKS74N, MPi AKS74NK, RPK-74, PKM Machinegun, Pistol M, LP-1 Flaregun, RPG-7 Anti-Tank Launcher, Fagot ATGM Tripod, Binoculars%1%2 Assets Denmark - KPz 1A3, BPz 2A0, Летняя форма Датской армии, Зимняя форма Датской армии%1%2 Assets Civilians - P601 East German Car, Typ 1200 West German Car, Велосипед, Гражданская одежда, Полицейские, Пожарные, Почтальоны%1%2 Звуковая дорожка - новая музыка.</Russian>
 				<Japanese>1983年、Arma 3は今度はドイツ北部で冷戦に戻されました! %1&lt;img size='9' shadow='0' image='gm\gm_core\data\images\gm_image_welcome_co.paa' /&gt;%1%2"State Scarlet" - あなたを1983年の東ドイツと西ドイツに連れて行く10ミッションのシングルプレイヤーキャンペーン%1%2 友達とすぐに始められる13のCoopマルチプレイヤーミッションのセレクションと、さまざまな敵対的なシナリオ。%1%2 ひねりを加えた"ファッション ポリス"マルチプレイヤーデスマッチゲームモード。%1%2 ヴェフェルリンゲン - 400km²以上の使用可能エリアを含む地形。それはドイツ北部に位置し、ドイツ国内国境の正確な再現によって分割された両方のドイツの一部が含まれています。まったく新しく作られたアセットを使用します。この地形の完全な冬バージョンも利用できます。%1%2 派閥 - 西ドイツ軍、西ドイツ国境警備隊、東ドイツ軍、東ドイツ国境警備隊、デンマーク軍、ドイツ民間人%1%2 西ドイツの装輪アセット - K125 gl自動二輪車、0.5tトラック、0.5tトラック ATGM、2tトラック 輸送、2tトラック 衛生、2tトラック 修理、5tトラック 輸送、5tトラック 弾薬、5tトラック 燃料、10tトラック輸送、TPz 1A0 工兵、TPz 1A0 HQ、TPz1A0偵察%1%2 西ドイツの装軌アセット - BPz2A0、KPz1A1、KPz 1A3、SPAA FlakPz 1A1、M113A1G APC、M113A1G APC ATGM、M113A1Gコマンドビークル、M113A1G医療%1%2 西ドイツの歩兵アセット - 陸軍ユニット夏、陸軍ユニット秋、陸軍ユニット冬、国境警備隊ユニット夏%1%2 西ドイツの武器 - G3A3ライフル、G3A4ライフル、MG3マシンガン、MP2A1 SMG、P1ハンドガン、P2A1フレアガン、Pzf44アンチ戦車ランチャー、Pzf84ヘビーアンチ戦車ランチャー、LATGM三脚、ハンドグレネード、ライフルグレネード、双眼鏡、さまざまなスコープ%1%2 東ドイツの装輪アセット - SPW-40P、SPW-40PU、SPW-60PA、SPW-60PB、SPW-60PU12、トラック5 Mp燃料、トラック5 Mp医療、トラック5修理、トラック5リーモ、トラック5トラクター、トラック5輸送%1%2 東ドイツの装軌アセット - BMP-1SP2、T-55A、ZSU-23-4V1%1%2 東ドイツの歩兵アセット - 陸軍ユニット夏、陸軍冬ユニット、国境警備隊ユニット夏%1%2 東ドイツの武器 - MPi-KM72、MPi-KMS72、RPK、MPi AK74N、MPi AKS74N、MPi AKS74NK、RPK-74、PKM Machinegun、Pistol M、LP-1 Flaregun、RPG-7対戦車ランチャー、Fagot ATGM Tripod、双眼鏡%1%2 デンマークアセット - KPz1A3、BPz 2A0、デンマーク陸軍夏用ユニフォーム、デンマーク陸軍冬用ユニフォーム%1%2 民間人アセット - P601東ドイツ車、Typ 1200西ドイツ車、自転車、民間服、警官、消防士、郵便配達員%1%2 サウンドトラック - 新しい音楽。</Japanese>
 			</Key>
 		</Container>
@@ -6190,7 +6190,7 @@
 				<German>%1 zur Seite</German>
 				<Chinesesimp>储存%1</Chinesesimp>
 				<Korean>놓기 %1</Korean>
-				<Russian>Store %1</Russian>
+				<Russian>Отпустить %1</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_MG3">
 				<Original>Take MG3 7.62x51 mm</Original>
@@ -6206,7 +6206,7 @@
 				<German>MG3 7,62x51 mm zur Seite</German>
 				<Chinesesimp>储存MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 놓기</Korean>
-				<Russian>Store MG3 7.62x51 mm</Russian>
+				<Russian>Отпустить MG3 7.62x51 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_M2">
 				<Original>Take M2 12.7x99 mm</Original>
@@ -6220,7 +6220,7 @@
 				<English>Store M2 12.7x99 mm</English>
 				<German>M2 12,7x99 mm zur Seite</German>
 				<Chinesesimp>储存M2 12.7x99 mm</Chinesesimp>
-				<Russian>Store M2 12.7x99 mm</Russian>
+				<Russian>Отпустить M2 12.7x99 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_DSHKM">
 				<Original>Take DShKM 12.7x108 mm</Original>
@@ -6236,7 +6236,7 @@
 				<German>DShKM 12,7x108 mm zur Seite</German>
 				<Chinesesimp>储存DShKM 12.7x108 mm</Chinesesimp>
 				<Korean>DShKM 놓기</Korean>
-				<Russian>Store ДШКМ 12.7x108 mm</Russian>
+				<Russian>Отпустить ДШКМ 12.7x108 mm</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TAKE_TURRET_WEAPON_MILAN">
 				<Original>Take ATGM Launcher</Original>
@@ -6250,7 +6250,7 @@
 				<English>Store ATGM Launcher</English>
 				<German>PALR Werfer zur Seite</German>
 				<Chinesesimp>储存ATGM发射器</Chinesesimp>
-				<Russian>Store ПТУРС Установку</Russian>
+				<Russian>Отпустить ПТУРС Установку</Russian>
 			</Key>
 			<Key ID="STR_UA_GM_TURNON_BEACON">
 				<Original>Beacon On</Original>
@@ -8169,7 +8169,7 @@
 				<English>Vehicle Styler</English>
 				<German>Fahrzeug-Styler</German>
 				<Chinesesimp>车辆样式</Chinesesimp>
-				<Russian>Vehicle Styler</Russian>
+				<Russian>Стиль Транспорта</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VIC_ATTRIBUTES">
 				<Original>Attributes</Original>
@@ -8355,7 +8355,7 @@
 				<German>MG3 7,62x51 mm</German>
 				<Chinesesimp>MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 7.62x51mm</Korean>
-				<Russian>MG3 7.62x51 mm</Russian>
+				<Russian>MG3 7.62x51 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MG3_BLK">
 				<Original>MG3 7.62x51 mm</Original>
@@ -8363,7 +8363,7 @@
 				<German>MG3 7,62x51 mm</German>
 				<Chinesesimp>MG3 7.62x51 mm</Chinesesimp>
 				<Korean>MG3 7.62x51mm</Korean>
-				<Russian>MG3 7.62x51 mm</Russian>
+				<Russian>MG3 7.62x51 мм</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_MG3_DES">
 				<Original>MG3 7.62x51 mm (Tan)</Original>
@@ -8371,7 +8371,7 @@
 				<German>MG3 7,62x51 mm (Wüste)</German>
 				<Chinesesimp>MG3 7.62x51 mm (沙漠)</Chinesesimp>
 				<Korean>MG3 7.62x51mm (Tan)</Korean>
-				<Russian>MG3 7.62x51 mm (Пустыня)</Russian>
+				<Russian>MG3 7.62x51 мм (Пустыня)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_LMGM62_BASE">
 				<Original>LMG M/62 7.62x51 mm</Original>
@@ -29426,7 +29426,7 @@
 				<Chinesesimp>快点！再快点！你这个混蛋！</Chinesesimp>
 				<Chinese>快點！再快點！你這個混蛋！</Chinese>
 				<Korean>빨리! 빨리 나와 이 똥자루야!</Korean>
-				<Russian>Поторапливайся! Быстрее, сволоч!</Russian>
+				<Russian>Поторапливайся! Быстрее, сволочь!</Russian>
 				<Japanese>早く! 早くしろ、このクソ野郎が!</Japanese>
 			</Key>
 			<Key ID="STR_GM_C_01_M_11_R_006">
@@ -29817,7 +29817,7 @@
 				<Chinesesimp>血色国旗</Chinesesimp>
 				<Chinese>血色國旗</Chinese>
 				<Korean>스터디 스칼렛</Korean>
-				<Russian>Состояние - Алый</Russian>
+				<Russian>Режим готовности - Алый</Russian>
 				<Japanese>State Scarlet</Japanese>
 			</Key>
 			<Key ID="STR_GM_C_01_OVERVIEWTEXT">
@@ -30602,6 +30602,7 @@
 				<Chinesesimp>COOP 12 坑道</Chinesesimp>
 				<Korean>COOP 12 구덩이</Korean>
 				<Japanese>COOP 12 ザ・ピット</Japanese>
+				<Russian>COOP 12 Яма</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_07_OVERVIEW">
 				<Original>Lost behind enemy lines you must hold out in a forest.</Original>
@@ -30609,6 +30610,7 @@
 				<German>Hinter feindlichen Linien im Wald gilt es auszuhalten.</German>
 				<Chinesesimp>迷失在敌后，你必须在森林中坚守。</Chinesesimp>
 				<Japanese>敵陣の後方に迷い込んだあなたは、森の中で耐えなければなりません。</Japanese>
+				<Russian>Вам предстоит выжить в тылу врага в лесу.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_07_TASK_01_TITLE">
 				<Original>Hold Out</Original>
@@ -30617,6 +30619,7 @@
 				<Chinesesimp>坚守</Chinesesimp>
 				<Korean>위치사수</Korean>
 				<Japanese>生き残れ</Japanese>
+				<Russian>Удержаться</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_07_TASK_01_TEXT">
 				<Original>Survive the incoming enemy attack.</Original>
@@ -30624,6 +30627,7 @@
 				<German>Überleben Sie die feindlichen Angriffe.</German>
 				<Chinesesimp>在敌人的进攻中幸免于难。</Chinesesimp>
 				<Japanese>敵の攻撃を耐え凌ぎ、生き残れ。</Japanese>
+				<Russian>Переживите атаку противника.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_07_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;We are left behind enemy lines and surrounded by the enemy. We managed to fortify a small position in the forest and gather the few remaining ammoboxes there.&lt;br /&gt;&lt;br /&gt;Hold out in this fortified position and fight back the incoming enemy attacks.</Original>
@@ -30631,6 +30635,7 @@
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Wir sind hinter feindlichen Linien und komplett umzingelt. Uns ist es gelungen, eine kleine Stellung im Wald auszuheben und die verbleibende Munition dort zu sammeln.&lt;br /&gt;&lt;br /&gt;Halten Sie dort aus und bewähren Sie sich gegen den Feind.</German>
 				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;我们被留在敌后，并被包围。设法在森林中加固了一个小阵地，并在那里收集了剩余的几个弹药箱。&lt;br /&gt;&lt;br /&gt;坚守在防御阵地，击退敌人的进攻。</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;東ドイツ&lt;br /&gt;&lt;br /&gt;敵陣の後方に取り残され、完全に包囲された。なんとか森の中に小さな陣地を構築し、そこに残り少ない弾薬を集めている。&lt;br /&gt;&lt;br /&gt;この陣地で敵に立ち向かい、己の力を証明しろ。</Japanese>
+				<Russian>%1&lt;br /&gt;ГДР&lt;br /&gt;&lt;br /&gt;Мы остались за линией фронта и окружены врагом. Нам удалось укрепить небольшую позицию в лесу и собрать там несколько оставшихся ящиков с боеприпасами.&lt;br /&gt;&lt;br /&gt;Удерживайтесь на этой укрепленной позиции и отбивайте атаки противника.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_08_TITLE">
 				<Original>COOP 08 Scrap Drive</Original>
@@ -30639,6 +30644,7 @@
 				<Chinesesimp>COOP 08 废墟处理</Chinesesimp>
 				<Korean>COOP 08 스크랩 드라이브</Korean>
 				<Japanese>COOP 08 粗大ごみ</Japanese>
+				<Russian>COOP 08 Расчистка руин</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_08_OVERVIEW">
 				<Original>Clear out the ruins of a village held by dug-in enemy forces.</Original>
@@ -30646,6 +30652,7 @@
 				<German>Säubern Sie ein zerstörtes Dorf von eingegrabenen feindlichen Kräften.</German>
 				<Chinesesimp>清理一处被敌军挖掘的废墟村庄。</Chinesesimp>
 				<Japanese>破壊された村に潜伏している敵軍を掃討せよ。</Japanese>
+				<Russian>Зачистите руины деревни, удерживаемой окопавшимися вражескими войсками.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_08_TASK_01_TITLE">
 				<Original>Clear</Original>
@@ -30653,6 +30660,7 @@
 				<German>Säubern</German>
 				<Chinesesimp>清理</Chinesesimp>
 				<Japanese>掃討</Japanese>
+				<Russian>Зачистка</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_08_TASK_01_TEXT">
 				<Original>Reach the western end of the village and neutralize any enemy units you encounter.</Original>
@@ -30660,6 +30668,7 @@
 				<German>Erreichen Sie den westlichen Ortsausgang und neutralisieren Sie jeden Feind den sie finden.</German>
 				<Chinesesimp>到达村庄的西端，消灭你遇到的任何敌方单位。</Chinesesimp>
 				<Japanese>遭遇した敵部隊を全て無力化しながら村の西端まで向かえ。</Japanese>
+				<Russian>Дойдите до западного конца деревни и нейтрализуйте всех встреченных врагов.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_08_BRIEFING_01">
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;We have pushed the enemy ahead of us. They have taken up the ruined village of Emmerstedt and fortified in it.&lt;br /&gt;The enemy will be in positions inside homes and behind barricades along the main road.&lt;br /&gt;&lt;br /&gt;Clear the houses and this village from enemy units to complete the mission.</Original>
@@ -30667,6 +30676,7 @@
 				<German>%1&lt;br /&gt;Westdeutschland&lt;br /&gt;&lt;br /&gt;Wir haben den Feind so weit vor uns hergetrieben, dass er sich nun in Emmerstedt eingegraben hat.&lt;br /&gt;Der Feind hat Stellungen in den Häusern bezogen und weitere Hindernisse entlang der Hauptstraße aufgestellt.&lt;br /&gt;&lt;br /&gt;Säubern Sie die Häuser und das Dorf von Feinden um diese Mission abzuschließen.</German>
 				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;我们已经把敌人打到了我们前面。他们占领了埃默斯泰特的废墟村庄，并在其中设防。&lt;br /&gt;敌人分布在房屋内和主要道路的路障后面的阵地里。&lt;br /&gt;&lt;br /&gt;清除村庄与房屋里的敌方单位，以完成任务。</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;西ドイツ&lt;br /&gt;&lt;br /&gt;我々が押し返した敵は、廃墟と化したエンマーシュテットを占領し、潜伏した。&lt;br /&gt;敵は家屋の中に陣取り、幹線道路にバリケードを構築している。&lt;br /&gt;&lt;br /&gt;全ての敵を排除し、任務を達成しろ。</Japanese>
+				<Russian>%1&lt;br /&gt;Западная Германия&lt;br /&gt;&lt;br /&gt;Мы оттеснили врага вперед. Они заняли разрушенную деревню Эммерштедт и укрепились в ней.&lt;br /&gt;Враг будет находиться на позициях внутри домов и за баррикадами вдоль главной дороги.&lt;br /&gt;&lt;br /&gt;Очистите дома и деревню от вражеских войск, чтобы выполнить задание.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_TITLE">
 				<Original>COOP 12 Downhill</Original>
@@ -30675,6 +30685,7 @@
 				<Chinesesimp>&gt;COOP 12 下坡路</Chinesesimp>
 				<Korean>COOP 12 내리막길</Korean>
 				<Japanese>COOP 12 ダウンヒル</Japanese>
+				<Russian>COOP 12 С горы</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_OVERVIEW">
 				<Original>Defend a village in East Germany against the enemy trying to retake it.</Original>
@@ -30682,6 +30693,7 @@
 				<German>Verteidigen Sie ein Dorf in der DDR gegen die Rückeroberungsversuche des Feindes.</German>
 				<Chinesesimp>保卫东德的一个村庄，抵抗试图夺回它的敌人。</Chinesesimp>
 				<Japanese>東ドイツにある村を、敵の反攻作戦から守れ。</Japanese>
+				<Russian>Защитите деревню в Восточной Германии от врага, пытающегося ее захватить.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_TASK_01_TITLE">
 				<Original>Hold Out</Original>
@@ -30690,6 +30702,7 @@
 				<Chinesesimp>坚守</Chinesesimp>
 				<Korean>위치사수</Korean>
 				<Japanese>守りぬけ</Japanese>
+				<Russian>Удержаться</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_TASK_01_TEXT">
 				<Original>Hold out against the approaching enemy forces.</Original>
@@ -30697,6 +30710,7 @@
 				<German>Halten Sie gegen den anstürmenden Feind aus.</German>
 				<Chinesesimp>坚守阵地，抵抗逼近的敌军。</Chinesesimp>
 				<Japanese>敵の攻撃から村を守りぬけ。</Japanese>
+				<Russian>Выдержите натиск приближающихся сил противника.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_10_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The battle this morning was fierce, but we managed to take the village. However, the enemy is already preparing a counter offensive from the &lt;marker name='northmarker'&gt;north&lt;/marker&gt;. We expect them to arrive within the next few minutes. So we have not much time left to prepare.&lt;br /&gt;&lt;br /&gt;In &lt;marker name='bluforstart'&gt;our camp&lt;/marker&gt; we have stacked up fresh ammo for our rifles and anti-tank weapons. The engineers also dropped off a few boxes of landmines, both anti-tank and anti-personnel.&lt;br /&gt;Use them only if you know what you are doing.&lt;br /&gt;&lt;br /&gt;Do not go any further north than about 200m out. There is a &lt;marker name='wreckedt55'&gt;wrecked T-55&lt;/marker&gt; from this morning's battle that neatly indicates the extent.&lt;br /&gt;Beyond that you'll likely encounter certain death.</Original>
@@ -30704,6 +30718,7 @@
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Das Gefecht heute morgen war auslaugend, aber wir haben das Dorf einnehmen können. Der Feind lässt jedoch nicht auf sich warten, und bereitet den Gegenangriff vor. Er wird mit sicherheit aus dem &lt;marker name='northmarker'&gt;Norden&lt;/marker&gt; innerhalb der nächsten Minuten angreifen. Wir haben also nicht mehr viel Vorbereitungszeit übrig.&lt;br /&gt;&lt;br /&gt;In &lt;marker name='bluforstart'&gt;unserem Lager&lt;/marker&gt; befindet sich neue Munition für unsere Gewehre und Panzerfäuste. Die Pioniere haben uns zudem noch einige Kisten mit Panzerabwehrminen und Schützenminen gegeben.&lt;br /&gt;Nutzen Sie diese jedoch nur, wenn Sie genau wissen, was Sie tun.&lt;br /&gt;&lt;br /&gt;Gehen Sie nicht weiter als circa 200m nördlich. Dort liegt ein &lt;marker name='wreckedt55'&gt;zerstörter T-55&lt;/marker&gt; von heute Morgen. Er markiert die vordere Grenze für uns.&lt;br /&gt;Dahinter wartet nur der sichere Tod.</German>
 				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;今天上午的战斗很激烈，但我们成功地占领了村庄。然而，敌人已经在准备从&lt;marker name='northmarker'&gt;北面&lt;/marker&gt;发动反攻了。我们预计敌军将在接下来的几分钟内到达。所以我们没有多少时间准备了。&lt;br /&gt;&lt;br /&gt;在&lt;marker name='bluforstart'&gt;我们的战场&lt;/marker&gt; 里，我们已经为我们的步枪和反坦克武器收集了新的弹药。工兵们还留下了几箱地雷，包括反坦克和杀伤人员地雷。&lt;br /&gt;只有在你知道自己在做什么的情况下才能使用它们。&lt;br /&gt;&lt;br /&gt;不要向北走超过200米距离。那里有一辆 &lt;marker name='wreckedt55'&gt;T-55的残骸&lt;/marker&gt; 清楚的表明了今天早上战斗的激烈程度。&lt;br /&gt;除此之外，你很可能会遇到必死的局面。</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;東ドイツ&lt;br /&gt;&lt;br /&gt;今朝の戦闘は激しかったが、何とか村を奪取することができた。だが、敵は待ってはくれない。 &lt;marker name='northmarker'&gt;北&lt;/marker&gt; からの反攻を準備しており、数分以内に到達すると思われる。そのため、準備のための時間はあまり残されていない。&lt;br /&gt;&lt;br /&gt;この &lt;marker name='bluforstart'&gt;キャンプ&lt;/marker&gt; には小銃と対戦車兵器の弾薬が準備されている。工兵は対戦車地雷と、対人地雷を数箱用意してくれた。&lt;br /&gt;ただし、地雷の設置は用心深く行い、どこに設置したか忘れないようにしろ。&lt;br /&gt;&lt;br /&gt;200mより北への前進許可は出ていない。今朝の戦闘で &lt;marker name='wreckedt55'&gt;大破したT-55&lt;/marker&gt; を目印にし、それよりも北へ行かないようにしろ。&lt;br /&gt;その先は安全が確保できていない。確実な死が待っているだけだ。</Japanese>
+				<Russian>%1&lt;br /&gt;ГДР&lt;br /&gt;&lt;br /&gt;Сегодня утром бой был ожесточенным, но нам удалось взять деревню. Однако враг уже готовит контрнаступление с &lt;marker name='northmarker'&gt;севера.&lt;/marker&gt;. Мы ожидаем, что они прибудут в течение ближайших нескольких минут. Так что у нас осталось не так много времени на подготовку.&lt;br /&gt;&lt;br /&gt;В &lt;marker name='bluforstart'&gt;нашем лагере&lt;/marker&gt; мы собрали свежие боеприпасы для наших винтовок и противотанкового оружия. Саперы также сбросили несколько ящиков с минами, как противотанковыми, так и противопехотными.&lt;br /&gt;Используйте их только в том случае, если вы знаете, что делать.&lt;br /&gt;&lt;br /&gt;Не заходите на север дальше, чем на 200 м. Есть &lt;marker name='wreckedt55'&gt;разбитый Т-55&lt;/marker&gt; из утреннего боя, который наглядно показывает масштабы.&lt;br /&gt;Помимо этого, вы, скорее всего, столкнетесь с верной смертью.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TITLE">
 				<Original>COOP 22 Pressing Matters</Original>
@@ -30711,6 +30726,7 @@
 				<German>COOP 22 Dringende Angelegenheit</German>
 				<Chinesesimp>COOP 22 紧迫事项</Chinesesimp>
 				<Japanese>COOP 22 緊急案件</Japanese>
+				<Russian>COOP 22 Неотложное Дело</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_OVERVIEW">
 				<Original>Motorized infantry attacks a village held by West German forces to destroy the HQ and disrupt enemy operations.</Original>
@@ -30718,6 +30734,7 @@
 				<German>Mot-Schützen greifen ein um einen Gefechtsstand der Bundeswehr auszuschalten.</German>
 				<Chinesesimp>摩托化步兵攻击西德部队控制的一个村庄，以摧毁总部并扰乱敌人的行动。</Chinesesimp>
 				<Japanese>自動車化歩兵は西ドイツ軍の占領した村を攻撃し、指揮所を破壊して敵の作戦を混乱させようとしている。</Japanese>
+				<Russian>Мотопехота атакует деревню, удерживаемую западногерманскими войсками, чтобы уничтожить штаб и сорвать вражеские операции.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_01_TITLE">
 				<Original>Destroy Enemy HQ</Original>
@@ -30726,6 +30743,7 @@
 				<Chinesesimp>摧毁敌军HQ</Chinesesimp>
 				<Korean>적 HQ 파괴</Korean>
 				<Japanese>敵指揮所を破壊</Japanese>
+				<Russian>Уничтожить вражеский штаб</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_01_TEXT">
 				<Original>The enemy has established an HQ in &lt;marker name='kathendorf'&gt;this&lt;/marker&gt; village. Destroy it as soon as you can.</Original>
@@ -30733,6 +30751,7 @@
 				<German>Der Feind hat einen Gefechtsstand in diesem &lt;marker name='kathendorf'&gt;Dorf&lt;/marker&gt; aufgebaut. Zerstören Sie ihn bei erster Gelegenheit.</German>
 				<Chinesesimp>敌人在这个&lt;marker name='kathendorf'&gt;村庄&lt;/marker&gt;建立了一个总部。尽快摧毁它。</Chinesesimp>
 				<Japanese>敵は指揮所を &lt;marker name='kathendorf'&gt;この村&lt;/marker&gt; に設置した。可能な限り早急に破壊せよ。</Japanese>
+				<Russian>Враг разместил Штаб в &lt;marker name='kathendorf'&gt;этой&lt;/marker&gt; деревне. Уничтожьте его как можно скорее.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_02_TITLE">
 				<Original>Secure Village</Original>
@@ -30741,6 +30760,7 @@
 				<Chinesesimp>夺取村庄</Chinesesimp>
 				<Korean>마을 확보</Korean>
 				<Japanese>村を確保</Japanese>
+				<Russian>Захватить деревню</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_TASK_02_TEXT">
 				<Original>Clear out enemy forces in the &lt;marker name='kathendorf'&gt;village&lt;/marker&gt;.</Original>
@@ -30748,6 +30768,7 @@
 				<German>Säubern Sie das &lt;marker name='kathendorf'&gt;Dorf&lt;/marker&gt; von allen Feindkräften.</German>
 				<Chinesesimp>扫清&lt;marker name='kathendorf'&gt;村子&lt;/marker&gt;里的敌军。</Chinesesimp>
 				<Japanese>&lt;marker name='kathendorf'&gt;村内&lt;/marker&gt; に存在する敵を掃討せよ。</Japanese>
+				<Russian>Уничтожьте вражеские силы в &lt;marker name='kathendorf'&gt;деревне&lt;/marker&gt;.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_11_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;The enemy has established their HQ in &lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt; along with forces to secure it.&lt;br /&gt;&lt;br /&gt;Your task is to take both squads and their BMP1 tanks from &lt;marker name='start'&gt;here&lt;/marker&gt; and destroy the enemy HQ.&lt;br /&gt;&lt;br /&gt;Beware, the enemy is well equipped with Anti-Tank weapons.&lt;br /&gt;Additionally, nearby forces to the &lt;marker name='outpost'&gt;south&lt;/marker&gt; as well as groups in &lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt; are able to quickly reinforce the enemy presence.&lt;br /&gt;&lt;br /&gt;Plan accordingly to take them out.</Original>
@@ -30755,6 +30776,7 @@
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Der Feind hat einen Gefechtsstand in &lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt; eingerichtet. Dort befinden sich auch Elemente zur Sicherung.&lt;br /&gt;&lt;br /&gt;Ihr Auftrag ist es, die Beiden Gruppen und deren BMP1 Panzer von &lt;marker name='start'&gt;hier&lt;/marker&gt; aus einzusetzen, um diesen Gefechtsstand auszuschalten.&lt;br /&gt;&lt;br /&gt;Achtung, der Feind ist Gut ausgerüstet und verfügt über moderne Panzerabwehrlenkraketen.&lt;br /&gt;Zudem befinden sich weitere feindliche Kräfte im &lt;marker name='outpost'&gt;Süden&lt;/marker&gt; sowie in &lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt;. Diese können den Feind weiter verstärken.&lt;br /&gt;&lt;br /&gt;Planen Sie also dementsprechend Ihren Angriff.</German>
 				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;敌人在&lt;marker name='kathendorf'&gt;Kathendorf&lt;/marker&gt;设立了他们的总部，并有军队保护它。&lt;br /&gt;&lt;br /&gt;你的任务是带着两个小队和他们的BMP1坦克从&lt;marker name='start'&gt;这里&lt;/marker&gt;出发，摧毁敌人的总部。&lt;br /&gt;&lt;br /&gt;小心，敌人的反坦克武器装备齐全。&lt;br /&gt;此外，&lt;marker name='outpost'&gt;南部&lt;/marker&gt;附近的敌军部队以及驻扎在&lt;marker name='reinforcements'&gt;Rätzlingen&lt;/marker&gt;的敌军能够迅速增援。&lt;br /&gt;&lt;br /&gt;做出相应的计划，行动！</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;東ドイツ&lt;br /&gt;&lt;br /&gt;敵は &lt;marker name='kathendorf'&gt;カテンドルフ&lt;/marker&gt; に指揮所を設置し、その警備部隊を配備している。&lt;br /&gt;&lt;br /&gt;君たちの任務は &lt;marker name='start'&gt;この地点&lt;/marker&gt; からBMP1を装備した2つの分隊で前進し、敵の本部を破壊することだ。&lt;br /&gt;&lt;br /&gt;敵は装備が充実しており、最新の対戦車誘導弾を装備しているため警戒せよ。&lt;br /&gt;また、周辺の &lt;marker name='outpost'&gt;南&lt;/marker&gt; や &lt;marker name='reinforcements'&gt;レーツリンゲン&lt;/marker&gt; の部隊は増援として合流する可能性がある。&lt;br /&gt;&lt;br /&gt;攻撃は計画的に行え。</Japanese>
+				<Russian>%1&lt;br /&gt;ГДР&lt;br /&gt;&lt;br /&gt;Враг разместил свой Штаб в &lt;marker name='kathendorf'&gt;Катендорф&lt;/marker&gt; вместе с силами для его охраны.&lt;br /&gt;&lt;br /&gt;Ваша миссия состоит в том, чтобы отправиться отсюда с двумя отрядами и их БМП-1 чтобы &lt;marker name='start'&gt;here&lt;/marker&gt; уничтожить штаб противника.&lt;br /&gt;&lt;br /&gt;Будьте осторожны, враг хорошо оснащен противотанковым оружием.&lt;br /&gt;Кроме того, близлежащие силы &lt;marker name='outpost'&gt;на юге&lt;/marker&gt;  а также группы в &lt;marker name='reinforcements'&gt;Рэтцлинген&lt;/marker&gt; способны быстро усилить присутствие противника.&lt;br /&gt;&lt;br /&gt;Так что планируйте свою атаку соответственно.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_TITLE">
 				<Original>COOP 10 Danish Lies</Original>
@@ -30763,6 +30785,7 @@
 				<Chinesesimp>COOP 10 丹麦的谎言</Chinesesimp>
 				<Korean>COOP 10 덴마크의 거짓말</Korean>
 				<Japanese>COOP 10 デンマーク人の嘘</Japanese>
+				<Russian>COOP 10 Датская ложь</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_OVERVIEW">
 				<Original>A Danish group of soldiers must return from behind enemy lines.</Original>
@@ -30771,6 +30794,7 @@
 				<Chinesesimp>一队丹麦士兵必须从敌后撤回。</Chinesesimp>
 				<Korean>덴마크군 분대는 적진을 넘어 반드시 돌아가야 합니다.</Korean>
 				<Japanese>デンマーク軍部隊は敵の後方から脱出しなければならない。</Japanese>
+				<Russian>Группа датских солдат должна вернуться из-за линии фронта.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_TASK_01_TITLE">
 				<Original>Reach Everingen</Original>
@@ -30778,6 +30802,7 @@
 				<German>Everingen Erreichen</German>
 				<Chinesesimp>抵达Everingen</Chinesesimp>
 				<Japanese>エヴェリンゲンに向かう</Japanese>
+				<Russian>Добраться до Эверингена</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_TASK_01_TEXT">
 				<Original>Reach friendly forces in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.</Original>
@@ -30785,6 +30810,7 @@
 				<German>Befreundete Truppen befinden sich in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;. Schließen Sie dorthin auf.</German>
 				<Chinesesimp>与&lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;的友军部队会合。</Chinesesimp>
 				<Japanese>&lt;marker name='everingen'&gt;エヴェリンゲン&lt;/marker&gt; の友軍位置まで向かえ。</Japanese>
+				<Russian>Достичь дружественных сил в &lt;marker name='everingen'&gt;Эверингене&lt;/marker&gt;.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_12_BRIEFING_01">
 				<Original>%1&lt;br /&gt;East Germany&lt;br /&gt;&lt;br /&gt;We have been lost behind &lt;marker name='start'&gt;enemy lines&lt;/marker&gt;. We have only goal for today: Go west and link up with friendly troops in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;The way to there is littered with East German patrols. We must proceed carefully and conserve ammo.</Original>
@@ -30792,6 +30818,7 @@
 				<German>%1&lt;br /&gt;DDR&lt;br /&gt;&lt;br /&gt;Wir sind abgeschlagen im &lt;marker name='start'&gt;Feindesland&lt;/marker&gt;. Tagesziel: Aufschließen im Westen mit befreundeten Truppen in &lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;Der Weg dorthin ist voll mit feindlich Streifen und Wachposten. Wir müssen vorsichtig vorgehen und auf unseren Munitionsverbrauch achten.</German>
 				<Chinesesimp>%1&lt;br /&gt;东德&lt;br /&gt;&lt;br /&gt;我们在&lt;marker name='start'&gt;敌后&lt;/marker&gt;迷路了。我们今天只有一个目标: 向西前进，与友军在&lt;marker name='everingen'&gt;Everingen&lt;/marker&gt;会合。&lt;br /&gt;&lt;br /&gt;通往那里的路上，到处都是东德的巡逻队。我们必须小心行事，节约弹药。</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;東ドイツ&lt;br /&gt;&lt;br /&gt;我々は &lt;marker name='start'&gt;敵陣の後方&lt;/marker&gt;に迷い込んでしまった。 今日の目標はただ一つだ: 西に向かい、 &lt;marker name='everingen'&gt;エヴェリンゲン&lt;/marker&gt; で友軍と合流することだ。&lt;br /&gt;&lt;br /&gt;道中、敵の警備部隊や見張り台が多く存在する。弾薬を節約し、慎重に進まなければならない。</Japanese>
+				<Russian>%1&lt;br /&gt;ГДР&lt;br /&gt;&lt;br /&gt;Мы заблудились &lt;marker name='start'&gt;в тылу врага&lt;/marker&gt;. У нас есть только одна цель на сегодня: Идти на запад и соединиться с дружественными войсками в &lt;marker name='everingen'&gt;Эверингене&lt;/marker&gt;.&lt;br /&gt;&lt;br /&gt;Дорога туда усеяна восточногерманскими патрулями. Мы должны действовать осторожно и экономить боеприпасы.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TITLE">
 				<Original>COOP 08 Resistance</Original>
@@ -30800,6 +30827,7 @@
 				<Chinesesimp>COOP 08 游击队</Chinesesimp>
 				<Korean>COOP 08 레지스탕스</Korean>
 				<Japanese>COOP 08 レジスタンス</Japanese>
+				<Russian>COOP 08 Сопротивление</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_OVERVIEW">
 				<Original>A group of local resistance fighters take on an enemy radio jammer.</Original>
@@ -30807,6 +30835,7 @@
 				<German>Widerstandskämpfer legen sich mit einem feindlichen Störsender an.</German>
 				<Chinesesimp>一群当地的游击队对付敌人的无线电干扰器。</Chinesesimp>
 				<Japanese>地元のレジスタンスたちは敵の通信妨害を無力化しようとしている。</Japanese>
+				<Russian>Группа бойцов местного сопротивления захватывает вражеский генератор радиопомех.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TASK_01_TITLE">
 				<Original>Destroy Jammer</Original>
@@ -30815,6 +30844,7 @@
 				<Chinesesimp>摧毁干扰器</Chinesesimp>
 				<Korean>재머 파괴</Korean>
 				<Japanese>通信妨害機を破壊</Japanese>
+				<Russian>Уничтожить Глушилку</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TASK_01_TEXT">
 				<Original>The enemy radio jammer is located in this little &lt;marker name='enemy'&gt;court&lt;/marker&gt;.</Original>
@@ -30822,6 +30852,7 @@
 				<German>Der feindliche Störsender befindet sich in diesem &lt;marker name='enemy'&gt;Gehöft&lt;/marker&gt;.</German>
 				<Chinesesimp>敌人的无线电干扰器就在这个&lt;marker name='enemy'&gt;小院里&lt;/marker&gt;。</Chinesesimp>
 				<Japanese>&lt;marker name='enemy'&gt;この地点&lt;/marker&gt; にある敵の通信妨害機を破壊せよ。</Japanese>
+				<Russian>Вражеский генератор радиопомех находится в этом маленьком &lt;marker name='enemy'&gt;дворике&lt;/marker&gt;.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TASK_02_TITLE">
 				<Original>Clear Location</Original>
@@ -30830,6 +30861,7 @@
 				<Chinesesimp>家园清洁</Chinesesimp>
 				<Korean>위치 확보</Korean>
 				<Japanese>地点を制圧</Japanese>
+				<Russian>Зачистить локацию</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_TASK_02_TEXT">
 				<Original>Kill any enemies present on the &lt;marker name='enemy'&gt;jammer site&lt;/marker&gt;.</Original>
@@ -30837,6 +30869,7 @@
 				<German>Beseitigen Sie alle Feinde auf dem &lt;marker name='enemy'&gt;Gelände&lt;/marker&gt;.</German>
 				<Chinesesimp>消灭&lt;marker name='enemy'&gt;干扰站&lt;/marker&gt;内的所有敌人。</Chinesesimp>
 				<Japanese>&lt;marker name='enemy'&gt;通信妨害機&lt;/marker&gt; 周辺の敵を掃討しろ。</Japanese>
+				<Russian>Убейте всех врагов, присутствующих на месте &lt;marker name='enemy'&gt;установки глушителя&lt;/marker&gt;.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_13_BRIEFING_01">
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy has occupied most of West Germany three weeks ago. Local groups of resistance have formed across the country and are coordinating attacks against the occupying forces.&lt;br /&gt;&lt;br /&gt;The East German military is operating a radio jammer on &lt;marker name='enemy'&gt;this site&lt;/marker&gt;. This jammer is hindering any of our communication with the allied forces and other resistance groups.&lt;br /&gt;&lt;br /&gt;Before we can continue to organize the next big attack, we will have to destroy this radio jammer so we can contact the resistance in Braunschweig.&lt;br /&gt;&lt;br /&gt;Destroy the jammer and anyone guarding it.&lt;br /&gt;&lt;br /&gt;We are starting &lt;marker name='start'&gt;here&lt;/marker&gt;. The secret "Stay Behind" organization has left an ammo cache for us there.</Original>
@@ -30844,6 +30877,7 @@
 				<German>%1&lt;br /&gt;Bundesrepublik&lt;br /&gt;&lt;br /&gt;Der Russe hat die Bundesrepublik vor drei Wochen besetzt. Gruppen von Widerstandskämpfern gegen die Besatzung haben sich überall im Land gebildet. Sie führen den Kampf weiter, bis eine Befreiungsarmee eintrifft.&lt;br /&gt;&lt;br /&gt;Die NVA hat einen Störsender auf diesem &lt;marker name='enemy'&gt;Gehöft&lt;/marker&gt; eingerichtet. Dieser Sender hindert uns daran, weitere Angriffe zu koordinieren und die Allierten zu kontaktieren.&lt;br /&gt;&lt;br /&gt;Damit wir die Gruppe in Braunschweig wieder über Funk erreichen können, müssen wie diesen Sender zerstören.&lt;br /&gt;&lt;br /&gt;Vernichten Sie den Störsender und alle Bewacher.&lt;br /&gt;&lt;br /&gt;Wir befinden uns &lt;marker name='start'&gt;hier&lt;/marker&gt;. Die geheime "Stay Behind" Organisation hat hier Waffen und Munition für uns vorrätig gehalten.</German>
 				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;敌人在三周前占领了西德的大部分地区。全国各地的游击队已经形成，正在协调对占领军的攻击。&lt;br /&gt;&lt;br /&gt;东德军方在&lt;marker name='enemy'&gt;这个地方&lt;/marker&gt;设置了一座无线电干扰器。这个干扰器阻碍了我们与盟军和其他抵抗组织的任何通信联络。&lt;br /&gt;&lt;br /&gt;在我们继续组织下一次大规模攻击之前，我们必须摧毁这个无线电干扰器，这样我们才能与布伦瑞克的抵抗组织联系。&lt;br /&gt;&lt;br /&gt;摧毁干扰器，并且消灭所有守卫。&lt;br /&gt;&lt;br /&gt;我们从&lt;marker name='start'&gt;这里&lt;/marker&gt;出发。留在后方"秘密组织"为我们留下了一个弹药库。</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;西ドイツ&lt;br /&gt;&lt;br /&gt;3週間前、ロシア人が連邦共和国を占領した。占領に反対するレジスタンスグループは全国に結成された。解放軍が到着するまで、彼らは戦いを続ける。&lt;br /&gt;&lt;br /&gt;国家人民軍はこの &lt;marker name='enemy'&gt;地点&lt;/marker&gt; に通信妨害機を設置している。この妨害機により、さらなる攻撃の調整や友軍との連絡が不可能になっている。&lt;br /&gt;&lt;br /&gt;ブラウンシュヴァイクのグループと再び無線連絡をするには、この妨害機を破壊しなければならない。&lt;br /&gt;&lt;br /&gt;通信妨害機とすべての歩哨を撃破せよ。&lt;br /&gt;&lt;br /&gt;我々は &lt;marker name='start'&gt;ここ&lt;/marker&gt;に位置している。秘密組織「ステイ・ビハインド」は、ここに武器と弾薬を備蓄している。</Japanese>
+				<Russian>%1&lt;br /&gt;Западная Германия&lt;br /&gt;&lt;br /&gt;Три недели назад враг оккупировал большую часть Западной Германии. По всей стране сформировались местные группы сопротивления, которые координируют атаки против оккупационных сил.&lt;br /&gt;&lt;br /&gt;Военные Восточной Германии используют глушилку радиосигналов на &lt;marker name='enemy'&gt;этом месте&lt;/marker&gt;. Эта глушилка препятствует любой нашей связи с союзными силами и другими группами сопротивления.&lt;br /&gt;&lt;br /&gt;Прежде чем мы сможем продолжить организацию следующей большой атаки, нам придется уничтожить эту радиопомеху, чтобы мы могли связаться с сопротивлением в Брауншвейге.&lt;br /&gt;&lt;br /&gt;Уничтожьте глушитель и всех, кто его охраняет.&lt;br /&gt;&lt;br /&gt;Мы начинаем &lt;marker name='start'&gt;здесь&lt;/marker&gt;. Тайная организация &quot;Stay Behind&quot; оставила там для нас тайник с боеприпасами.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_14_TITLE">
 				<Original>COOP 12 Autobahnmeisters</Original>
@@ -30852,6 +30886,7 @@
 				<Chinesesimp>COOP 12 汽车之家</Chinesesimp>
 				<Korean>COOP 12 아우토반마이스터스</Korean>
 				<Japanese>COOP 12 アウトバーン・マイスター</Japanese>
+				<Russian>COOP 12 Автобаны</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_14_OVERVIEW">
 				<Original>Ambush a large enemy convoy travelling on the Autobahn.</Original>
@@ -30859,6 +30894,7 @@
 				<German>Führen Sie einen Handstreich auf eine Kolonne des Feindes durch.</German>
 				<Chinesesimp>伏击行驶在高速公路上的大型敌方车队。</Chinesesimp>
 				<Japanese>アウトバーンを走る敵の大規模輸送部隊を待ち伏せ攻撃する。</Japanese>
+				<Russian>Устройте засаду на большой вражеский конвой, движущийся по автобану.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_14_TASK_01_TITLE">
 				<Original>Destroy Convoy</Original>
@@ -30867,6 +30903,7 @@
 				<Chinesesimp>摧毁车队</Chinesesimp>
 				<Korean>수송대 파괴</Korean>
 				<Japanese>輸送部隊を撃破</Japanese>
+				<Russian>Уничтожить конвой</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_14_TASK_01_TEXT">
 				<Original>The enemy convoy will be &lt;marker name='ambush'&gt;here&lt;/marker&gt; in about 10 minutes.</Original>
@@ -30874,6 +30911,7 @@
 				<German>Die feindliche Kolonne wird &lt;marker name='ambush'&gt;hier&lt;/marker&gt; in ungefähr 10 Minuten passieren.</German>
 				<Chinesesimp>敌人的车队将在大约10分钟后到达&lt;marker name='ambush'&gt;这里&lt;/marker&gt;。</Chinesesimp>
 				<Japanese>敵の隊列は10分ほどで &lt;marker name='ambush'&gt;ここ&lt;/marker&gt; を通過する。</Japanese>
+				<Russian>Вражеский конвой будет &lt;marker name='ambush'&gt;здесь&lt;/marker&gt; примерно через 10 минут.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_14_BRIEFING_01">
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;The enemy is moving some of their equipment back to the German Democratic Republic. We will take this opportunity to destroy that convoy. They are travling along the Autobahn 2 towards the east.&lt;br /&gt;&lt;br /&gt;We expect today's convoy to arrive at this &lt;marker name='ambush'&gt;location&lt;/marker&gt; within 10 minutes.&lt;br /&gt;At the &lt;marker name='start'&gt;starting location&lt;/marker&gt; you will find some extra crates of landmines. Also we have requisitioned a Police Car in case we need to split up fast.&lt;br /&gt;&lt;br /&gt;The mission will fail if any enemy units escape the area.</Original>
@@ -30881,6 +30919,7 @@
 				<German>%1&lt;br /&gt;Bundesrepublik&lt;br /&gt;&lt;br /&gt;Der Feind verlegt einige Einheiten zurück in die DDR. Wir werden diese Gelegenheit nutzen, um diese Kolonnen zu vernichten. Die Bundesautobahn 2 wird hauptsächlich dafür genutzt.&lt;br /&gt;&lt;br /&gt;Die heutige Kolonne wird &lt;marker name='ambush'&gt;hier&lt;/marker&gt; in 10 Minuten erwartet.&lt;br /&gt;Am &lt;marker name='start'&gt;Ausgangsort&lt;/marker&gt; befinden sich zusätzliche Kisten mit Panzerabwehrminen. Zusätzlich haben wir einen Streifenwagen bereit. Dieser Wagen könnte nützlich sein, sollten wir uns schnell aufteilen müssen.&lt;br /&gt;&lt;br /&gt;Die mission gilt als gescheitert wenn feindliche Einheiten das Gebiet verlassen.</German>
 				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;敌人正在将他们的一些装备运回东德。我们将利用这个机会摧毁这支车队。他们正沿着2号高速公路向东行驶。&lt;br /&gt;&lt;br /&gt;我们预计今天的车队将在10分钟内到达&lt;marker name='ambush'&gt;这个地点&lt;/marker&gt;。&lt;br /&gt;在&lt;marker name='start'&gt;起始地点&lt;/marker&gt;，你会发现一些额外的地雷箱。此外，我们还征用了一辆警车，以备我们需要快速分头行动。&lt;br /&gt;&lt;br /&gt;如果有任何敌方单位逃离该地区，任务则失败。</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;西ドイツ&lt;br /&gt;&lt;br /&gt;敵は東ドイツに後退している。この絶好の機会にその輸送部隊を破壊し、基幹を崩す。彼らはアウトバーン2号線を東に向かい移動している。&lt;br /&gt;&lt;br /&gt;輸送部隊は10分以内に &lt;marker name='ambush'&gt;この場所&lt;/marker&gt; に到着すると思われる。&lt;br /&gt;Am &lt;marker name='start'&gt;開始地点&lt;/marker&gt; には、地雷の入った木箱がいくつか用意されている。また、手分けして行動するために、移動手段としてパトカーが用意されている。&lt;br /&gt;&lt;br /&gt;敵部隊がこの地域から離脱した場合、ミッションは失敗となる。</Japanese>
+				<Russian>%1&lt;br /&gt;Западная Германия&lt;br /&gt;&lt;br /&gt;Враг перевозит часть своего оборудования обратно в Германскую Демократическую Республику. Мы воспользуемся этой возможностью, чтобы уничтожить этот конвой. Они движутся по Автобану 2 в восточном направлении.&lt;br /&gt;&lt;br /&gt;Мы ожидаем, что сегодня колонна прибудет в &lt;marker name='ambush'&gt;это место&lt;/marker&gt; в течение 10 минут.&lt;br /&gt;В &lt;marker name='start'&gt;начальной локации&lt;/marker&gt; вы найдете несколько дополнительных ящиков с минами. Кроме того, мы реквизировали полицейскую машину на случай, если нам понадобится быстро разделиться.&lt;br /&gt;&lt;br /&gt;Миссия будет провалена, если хоть одно вражеское подразделение покинет район.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_15_BRIEFING_01">
 				<Original>Team versus Team Multiplayer Game Mode&lt;br /&gt;&lt;br /&gt;- Select various classes of gear when respawning. Some classes have a limit.&lt;br /&gt;- Vehicles respawn after 60 seconds if they are destroyed or abandoned.&lt;br /&gt;- The Command APCs act as mobile respawn locations. Protect them from the enemy and don't use them as taxis.&lt;br /&gt;- Each side's spawn area is indicated by a solid filled marker. You will instantly die if you enter the enemy's base.</Original>
@@ -30888,6 +30927,7 @@
 				<German>Team gegen Team Multiplayer Spielmodus&lt;br /&gt;&lt;br /&gt;- Wählen Sie eine Spielerklasse beim Respawn. Einige Klassen haben eine maximale Anzahl.&lt;br /&gt;- Fahrzeuge erscheinen 60 Sekunden nach dem Zerstören wieder in der Basis.&lt;br /&gt;- Die Führungspanzer funktionieren als mobilie Respawn-Punkte. Schützen Sie diese besonders vor dem Feind und nutzen Sie diese nicht fahrlässig als Taxis.&lt;br /&gt;- Die Basis jeder Seite ist mit einer großen Zone auf der Karte eingezeichnet. Betreten Sie dieses Gebiet des Feindes nicht.</German>
 				<Chinesesimp>团队对战的多人游戏模式&lt;br /&gt;&lt;br /&gt;- 重生时选择各个等级的装备。有些等级具有限制。&lt;br /&gt;- 如果车辆被摧毁或被遗弃，其将在60秒后重生。&lt;br /&gt;- 指挥部的APC是移动重生点。保护它们不被敌人发现，不要把它们当作一次性出租车使用。&lt;br /&gt;- 每一方的重生区域是由一个实心的填充标记表示。如果你进入了敌方基地，你会立即死亡。</Chinesesimp>
 				<Japanese>チーム対チームのマルチプレイヤーゲームモード&lt;br /&gt;&lt;br /&gt;- リスポーン時にプレイヤーの役職を選択します。役職によっては、定員を設けているものもあります。&lt;br /&gt;- 車両は破壊されてから60秒後に基地内にリスポーンします。&lt;br /&gt;- 指揮車両は移動式のリスポーン地点として機能する。特に敵から守り、タクシーとして不用意に使用しないこと。&lt;br /&gt;- 各勢力の基地は、地図上に大きな範囲で表示されている。この敵の地域には進入してはいけない。</Japanese>
+				<Russian>Многопользовательский режим игры Команда против Команды&lt;br /&gt;&lt;br /&gt;- Выбирайте различные классы снаряжения при возрождении. У некоторых классов есть ограничение.&lt;br /&gt;- Транспортные средства возрождаются через 60 секунд, если они уничтожены или брошены.&lt;br /&gt;- Командные БТРы служат мобильными местами возрождения. Защищайте их от врага и не используйте в качестве такси.&lt;br /&gt;- Зона респауна каждой стороны обозначена сплошным маркером. Вы мгновенно погибнете, если попадете на базу противника.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_15_TITLE">
 				<Original>SC 40 East vs. West (Rennau)</Original>
@@ -30896,6 +30936,7 @@
 				<Chinesesimp>SC 40 East vs. West (Rennau)</Chinesesimp>
 				<Korean>SC 40 동독 VS. 서독 (레나우)</Korean>
 				<Japanese>SC 40 東西対決 (レンナウ)</Japanese>
+				<Russian>SC 40 Восток vs. Запад (Rennau)</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_15_OVERVIEW">
 				<Original>Two large teams are fighting over multiple sectors in a mechanized battle.</Original>
@@ -30903,6 +30944,7 @@
 				<German>Zwei große Teams kämpfen um mehrere Sektoren in einem mechanisierten Gefecht.</German>
 				<Chinesesimp>两个大团队在机械化的战斗中争夺多个地区。</Chinesesimp>
 				<Japanese>2つの大きな勢力が複数の区域で機械化戦闘を行っている。</Japanese>
+				<Russian>Две большие команды сражаются за несколько секторов в механизированном бою.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_16_OVERVIEW">
 				<Original>Two large teams are fighting over multiple sectors in a mechanized battle.</Original>
@@ -30910,6 +30952,7 @@
 				<German>Zwei große Teams kämpfen um mehrere Sektoren in einem mechanisierten Gefecht.</German>
 				<Chinesesimp>两个大团队在机械化的战斗中争夺多个地区。</Chinesesimp>
 				<Japanese>2つの大きな勢力が複数の区域で機械化戦闘を行っている。</Japanese>
+				<Russian>Две большие команды сражаются за несколько секторов в механизированном бою.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_17_OVERVIEW">
 				<Original>Two large teams are fighting over multiple sectors in a mechanized battle.</Original>
@@ -30917,6 +30960,7 @@
 				<German>Zwei große Teams kämpfen um mehrere Sektoren in einem mechanisierten Gefecht.</German>
 				<Chinesesimp>两个大团队在机械化的战斗中争夺多个地区。</Chinesesimp>
 				<Japanese>2つの大きな勢力が複数の区域で機械化戦闘を行っている。</Japanese>
+				<Russian>Две большие команды сражаются за несколько секторов в механизированном бою.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_16_TITLE">
 				<Original>SC 40 East vs. West (Buchberg)</Original>
@@ -30925,6 +30969,7 @@
 				<Chinesesimp>SC 40 East vs. West (Buchberg)</Chinesesimp>
 				<Korean>SC 40 동독 VS. 서독 (부흐베르크)</Korean>
 				<Japanese>SC 40 東西対決 (ブーフベルク)</Japanese>
+				<Russian>SC 40 Восток vs. Запад (Buchberg)</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_17_TITLE">
 				<Original>SC 40 East vs. West (Border)</Original>
@@ -30933,6 +30978,7 @@
 				<Chinesesimp>SC 40 East vs. West (Border)</Chinesesimp>
 				<Korean>SC 40 동독 VS. 서독 (국경)</Korean>
 				<Japanese>SC 40 東西対決 (国境)</Japanese>
+				<Russian>SC 40 Восток vs. Запад (Граница)</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_DELIVER_MAIL">
 				<Original>Deliver Mail</Original>
@@ -30941,6 +30987,7 @@
 				<Chinesesimp>运送邮件</Chinesesimp>
 				<Korean>우편 배달</Korean>
 				<Japanese>郵便配達</Japanese>
+				<Russian>Доставка почты</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_SCORE">
 				<Original>%1%2 Points</Original>
@@ -30949,6 +30996,7 @@
 				<Chinesesimp>%1%2 分</Chinesesimp>
 				<Korean>%1%2 포인트</Korean>
 				<Japanese>%1%2 ポイント</Japanese>
+				<Russian>%1%2 Баллы</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_EMPTY_MAILBOX">
 				<Original>Empty Mailbox</Original>
@@ -30957,6 +31005,7 @@
 				<Chinesesimp>空邮筒</Chinesesimp>
 				<Korean>빈 우편상자</Korean>
 				<Japanese>空の郵便ポスト</Japanese>
+				<Russian>Пустой Почтовый ящик</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_REPAIR_PHONELINE">
 				<Original>Repair Phoneline</Original>
@@ -30965,6 +31014,7 @@
 				<Chinesesimp>维修电话线</Chinesesimp>
 				<Korean>전화선 수리</Korean>
 				<Japanese>電話線を直す</Japanese>
+				<Russian>Ремонт телефонной линии</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_SMALL_MAIL_DELIVERY">
 				<Original>Small Mail Delivery</Original>
@@ -30973,6 +31023,7 @@
 				<Chinesesimp>小件邮件投递</Chinesesimp>
 				<Korean>소형 우편 배달</Korean>
 				<Japanese>少量郵便配達</Japanese>
+				<Russian>Доставка мелкой почты</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_SMALL_MAIL_DELIVERY_DESC">
 				<Original>Deliver three letters to the local village.&lt;br /&gt;&lt;br /&gt;100 points per delivered letter.&lt;br /&gt;&lt;br /&gt;300 points penalty if cancelled or failed.</Original>
@@ -30980,6 +31031,7 @@
 				<German>Liefern Sie drei Briefe im Dorf aus.&lt;br /&gt;&lt;br /&gt;100 Punkte pro Einwurf.&lt;br /&gt;&lt;br /&gt;300 Punkte Strafe bei Abbruch oder Scheitern.</German>
 				<Chinesesimp>为当地村庄送去三封信。&lt;br /&gt;&lt;br /&gt;每送出一封信得100分。&lt;br /&gt;&lt;br /&gt;如果取消或不合格，罚300分。</Chinesesimp>
 				<Japanese>手紙を3通、地元の村に届けよう。&lt;br /&gt;&lt;br /&gt;1通につき100ポイント。&lt;br /&gt;&lt;br /&gt;中止や失敗した場合は300ポイントのペナルティ。</Japanese>
+				<Russian>Доставить три письма в местную деревню.&lt;br /&gt;&lt;br /&gt;100 баллов за каждое доставленное письмо.&lt;br /&gt;&lt;br /&gt;Штраф 300 баллов в случае отмены или неудачи.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAIL_DELIVERY">
 				<Original>Mail Delivery</Original>
@@ -30988,6 +31040,7 @@
 				<Chinesesimp>邮件投递</Chinesesimp>
 				<Korean>우편 배달</Korean>
 				<Japanese>郵便配達</Japanese>
+				<Russian>Доставка почтой</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAIL_DELIVERY_DESC">
 				<Original>Deliver ten letters to the local village.&lt;br /&gt;&lt;br /&gt;100 points per delivered letter.&lt;br /&gt;&lt;br /&gt;1000 points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the mailbag.</Original>
@@ -30995,6 +31048,7 @@
 				<German>Liefern Sie Zehn Briefe im Dorf aus.&lt;br /&gt;&lt;br /&gt;100 Punkte pro Einwurf.&lt;br /&gt;&lt;br /&gt;1000 Punkte Strafe bei Abbruch oder Scheitern.</German>
 				<Chinesesimp>给当地村庄送去十封信。&lt;br /&gt;&lt;br /&gt;每送出一封信得100分。&lt;br /&gt;&lt;br /&gt;如果取消或失败，将被罚1000分。&lt;br /&gt;&lt;br /&gt;需要邮包。</Chinesesimp>
 				<Japanese>10通の手紙を地元の村に届けよう。&lt;br /&gt;&lt;br /&gt;1通につき100ポイント。&lt;br /&gt;&lt;br /&gt;中止や失敗した場合は1000ポイントのペナルティ。&lt;br /&gt;&lt;br /&gt;郵便かばんが必要です。</Japanese>
+				<Russian>Доставьте десять писем в местную деревню.&lt;br /&gt;&lt;br /&gt;100 баллов за доставленное письмо.&lt;br /&gt;&lt;br /&gt;Штраф 1000 баллов в случае отмены или неудачи.&lt;br /&gt;&lt;br /&gt;Требуется почтовый мешок.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAIL_COLLECTION">
 				<Original>Mail Collection</Original>
@@ -31002,6 +31056,7 @@
 				<German>Briefsammlung</German>
 				<Chinesesimp>邮件收集</Chinesesimp>
 				<Japanese>郵便集荷</Japanese>
+				<Russian>Сбор почты</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAIL_COLLECTION_DESC">
 				<Original>Empty the collection mailboxes in the area.&lt;br /&gt;&lt;br /&gt;500 Points per collected letter.&lt;br /&gt;&lt;br /&gt;1500 Points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the car.</Original>
@@ -31009,6 +31064,7 @@
 				<German>Leeren Sie die Sammelbriefkästen aus.&lt;br /&gt;&lt;br /&gt;500 Punkte pro Behälter.&lt;br /&gt;&lt;br /&gt;1500 Punkte Strafe bei Abbruch oder Scheitern.</German>
 				<Chinesesimp>清空该地区的收集邮箱。&lt;br /&gt;&lt;br /&gt;每收集一封信得500分。&lt;br /&gt;&lt;br /&gt;如果取消或失败，将被罚1500分。&lt;br /&gt;&lt;br /&gt;需要汽车。</Chinesesimp>
 				<Japanese>地域内の郵便ポストを空にしよう。&lt;br /&gt;&lt;br /&gt;回収した手紙1通につき500ポイント。&lt;br /&gt;&lt;br /&gt;中止や失敗した場合は1500ポイントのペナルティ。&lt;br /&gt;&lt;br /&gt;車が必要です。</Japanese>
+				<Russian>Соберите почту в этом районе.&lt;br /&gt;&lt;br /&gt;500 баллов за каждое собранное письмо.&lt;br /&gt;&lt;br /&gt;Штраф 1500 баллов в случае отмены или неудачи.&lt;br /&gt;&lt;br /&gt;Требуется автомобиль.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_LANDLINE_REPAIR">
 				<Original>Landline Repair</Original>
@@ -31017,6 +31073,7 @@
 				<Chinesesimp>座机维修</Chinesesimp>
 				<Korean>전화선 수리</Korean>
 				<Japanese>電話修理</Japanese>
+				<Russian>Ремонт Телефонной линии</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_LANDLINE_REPAIR_DESC">
 				<Original>Repair technical faults with landline connections.&lt;br /&gt;&lt;br /&gt;600 Points per repaired landline.&lt;br /&gt;&lt;br /&gt;1800 Points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the car.</Original>
@@ -31024,6 +31081,7 @@
 				<German>Reparieren Sie die Telefonanschlüsse der Post.&lt;br /&gt;&lt;br /&gt;600 Punkte pro Reparatur.&lt;br /&gt;&lt;br /&gt;1800 Punkte Strafe bei Abbruch oder Scheitern.</German>
 				<Chinesesimp>修理固定电话连接的技术故障。&lt;br /&gt;&lt;br /&gt;每修好一条固定电话得600分。&lt;br /&gt;&lt;br /&gt;如果取消或失败，将被罚1800分。&lt;br /&gt;&lt;br /&gt;需要汽车。</Chinesesimp>
 				<Japanese>固定電話接続の技術的な不具合を修理しよう。&lt;br /&gt;&lt;br /&gt;修理した固定電話機1台につき600ポイント。&lt;br /&gt;&lt;br /&gt;中止や失敗した場合は1800ポイントのペナルティ。&lt;br /&gt;&lt;br /&gt;車が必要です。</Japanese>
+				<Russian>Устранение технической неисправности телефонной линии.&lt;br /&gt;&lt;br /&gt;600 баллов за каждую отремонтированную телефонную линию.&lt;br /&gt;&lt;br /&gt;Штраф 1800 баллов в случае отмены или неудачи.&lt;br /&gt;&lt;br /&gt;Требуется автомобиль.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_FINAL_DELIVERY">
 				<Original>Final Delivery</Original>
@@ -31032,6 +31090,7 @@
 				<Chinesesimp>最终交付</Chinesesimp>
 				<Korean>마지막 배달</Korean>
 				<Japanese>最終配送</Japanese>
+				<Russian>Конечная доставка</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_FINAL_DELIVERY_DESC">
 				<Original>Deliver the region's collected mail to Braunschweig. Take the Autobahn to leave the region.&lt;br /&gt;&lt;br /&gt;Early Retirement if completed.&lt;br /&gt;&lt;br /&gt;100000 Points penalty if cancelled or failed.&lt;br /&gt;&lt;br /&gt;Requires the 10t truck.</Original>
@@ -31039,6 +31098,7 @@
 				<German>Liefern Sie die gesammelte Post des Tages nach Braunschweig. Fahren Sie hierfür über die Autobahn.&lt;br /&gt;&lt;br /&gt;Verdienter Ruhestand bei Erfolg.&lt;br /&gt;&lt;br /&gt;100000 Punkte Strafe bei Abbruch oder Scheitern.</German>
 				<Chinesesimp>将该地区收集的邮件运送到布伦瑞克。走高速公路离开该地区。&lt;br /&gt;&lt;br /&gt;如果完成了，就可以提前退休。&lt;br /&gt;&lt;br /&gt;如果取消或失败，将被罚100000分。&lt;br /&gt;&lt;br /&gt;需要10t卡车。</Chinesesimp>
 				<Japanese>ブラウンシュヴァイクに地域の回収した郵便物を届けよう。アウトバーンを使って地域を離れてください。&lt;br /&gt;&lt;br /&gt;完了すれば隠居生活ができる。&lt;br /&gt;&lt;br /&gt;中止や失敗すると100000ポイントのペナルティ。&lt;br /&gt;&lt;br /&gt;10tトラックが必要です。</Japanese>
+				<Russian>Доставить собранную в регионе почту в Брауншвейг. Выезжайте из региона по автобану.&lt;br /&gt;&lt;br /&gt;Досрочный выход на пенсию в случае завершения работы.&lt;br /&gt;&lt;br /&gt;Штраф 100000 баллов в случае отмены или неудачи.&lt;br /&gt;&lt;br /&gt;Требуется 10-тонный грузовик.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MISSION_ENDED">
 				<Original>Mission Ended</Original>
@@ -31047,6 +31107,7 @@
 				<Chinesesimp>任务结束</Chinesesimp>
 				<Korean>미션 종료</Korean>
 				<Japanese>ミッション終了</Japanese>
+				<Russian>Миссия выполнена</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_COMPLETED">
 				<Original>Mailman Simulator 1983 Complete</Original>
@@ -31055,6 +31116,7 @@
 				<Chinesesimp>1983年邮递员模拟器完成</Chinesesimp>
 				<Korean>우체부 시뮬레이터 1983 완료</Korean>
 				<Japanese>郵便配達員シミュレーター 1983 完了</Japanese>
+				<Russian>Симулятор Почтальона 1983 Года Завершен</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_RESUME">
 				<Original>Resume</Original>
@@ -31063,6 +31125,7 @@
 				<Chinesesimp>继续</Chinesesimp>
 				<Korean>계속</Korean>
 				<Japanese>再開</Japanese>
+				<Russian>Продолжать</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_PAUSE">
 				<Original>Pause</Original>
@@ -31071,6 +31134,7 @@
 				<Chinesesimp>暂停</Chinesesimp>
 				<Korean>일시정지</Korean>
 				<Japanese>停止</Japanese>
+				<Russian>Пауза</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MISSION_STARTED">
 				<Original>Mission Started</Original>
@@ -31079,6 +31143,7 @@
 				<Chinesesimp>任务开始</Chinesesimp>
 				<Korean>미션 시작</Korean>
 				<Japanese>ミッション開始</Japanese>
+				<Russian>Старт Миссии</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_COST">
 				<Original>%1 - %2pts</Original>
@@ -31087,6 +31152,7 @@
 				<Chinesesimp>%1 - %2分</Chinesesimp>
 				<Korean>%1 - %2pts</Korean>
 				<Japanese>%1 - %2 ポイント</Japanese>
+				<Russian>%1 - %2 балла</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TAKE_DINO">
 				<Original>Take Dinosaur</Original>
@@ -31095,6 +31161,7 @@
 				<Chinesesimp>夺取恐龙</Chinesesimp>
 				<Korean>공룡 입수</Korean>
 				<Japanese>恐竜のおもちゃを拾う</Japanese>
+				<Russian>Взять Динозавра</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAILBOX_FAILED">
 				<Original>Mailbox Failed</Original>
@@ -31102,6 +31169,7 @@
 				<German>Gescheitert</German>
 				<Chinesesimp>失败</Chinesesimp>
 				<Japanese>配達失敗</Japanese>
+				<Russian>Неудача</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MENU">
 				<Original>Menu</Original>
@@ -31110,6 +31178,7 @@
 				<Chinesesimp>菜单</Chinesesimp>
 				<Korean>메뉴</Korean>
 				<Japanese>メニュー</Japanese>
+				<Russian>Меню</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_MAILBAG">
 				<Original>Mailbag</Original>
@@ -31118,6 +31187,7 @@
 				<Chinesesimp>邮件包</Chinesesimp>
 				<Korean>우편 가방</Korean>
 				<Japanese>郵便かばん</Japanese>
+				<Russian>Почтовая сумка</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_BICYCLE">
 				<Original>Bicycle</Original>
@@ -31126,6 +31196,7 @@
 				<Chinesesimp>自行车</Chinesesimp>
 				<Korean>자전거</Korean>
 				<Japanese>自転車</Japanese>
+				<Russian>Велосипед</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_CAR">
 				<Original>Car</Original>
@@ -31134,6 +31205,7 @@
 				<Chinesesimp>汽车</Chinesesimp>
 				<Korean>차</Korean>
 				<Japanese>車</Japanese>
+				<Russian>Автомобиль</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_TRUCK">
 				<Original>Truck</Original>
@@ -31142,6 +31214,7 @@
 				<Chinesesimp>卡车</Chinesesimp>
 				<Korean>트럭</Korean>
 				<Japanese>トラック</Japanese>
+				<Russian>Грузовик</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_10TTRUCK">
 				<Original>10t Truck</Original>
@@ -31150,6 +31223,7 @@
 				<Chinesesimp>10t 卡车</Chinesesimp>
 				<Korean>10t 트럭</Korean>
 				<Japanese>10tトラック</Japanese>
+				<Russian>10т. Грузовик</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_01_FAILEDMAILMAN">
 				<Original>You failed as a Mailman.</Original>
@@ -31157,6 +31231,7 @@
 				<German>Gescheitert.</German>
 				<Chinesesimp>你作为一个邮递员是不合格的。</Chinesesimp>
 				<Japanese>郵便配達員として失敗した。</Japanese>
+				<Russian>Ты не справился с ролью почтальона.</Russian>
 			</Key>
 			<Key ID="STR_GM_C_01_M_03_CONVOYESCAPE">
 				<Original>Convoy escaped.</Original>
@@ -31165,18 +31240,21 @@
 				<Chinesesimp>车队逃走了。</Chinesesimp>
 				<Korean>수송대 탈출함.</Korean>
 				<Japanese>車列が離脱してしまった。</Japanese>
+				<Russian>Конвой скрылся.</Russian>
 			</Key>
 			<Key ID="STR_GM_ZEUS_01_GC_TITLE">
 				<Original>Zeus 16+1 Master Weferlingen (East)</Original>
 				<English>Zeus 16+1 Master Weferlingen (East)</English>
 				<German>Zeus 16+1 Master Weferlingen (Ost)</German>
 				<Chinesesimp>Zeus 16+1 Master Weferlingen (East)</Chinesesimp>
+				<Russian>Zeus 16+1 Master Weferlingen (Восток)</Russian>
 			</Key>
 			<Key ID="STR_GM_ZEUS_01_GE_TITLE">
 				<Original>Zeus 16+1 Master Weferlingen (West)</Original>
 				<English>Zeus 16+1 Master Weferlingen (West)</English>
 				<German>Zeus 16+1 Master Weferlingen (West)</German>
 				<Chinesesimp>Zeus 16+1 Master Weferlingen (West)</Chinesesimp>
+				<Russian>Zeus 16+1 Master Weferlingen (Запад)</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_01">
 				<Original>Have Vehicles Follow Exactly</Original>
@@ -31184,6 +31262,7 @@
 				<German>Panzerkolonne</German>
 				<Chinesesimp>车辆完全跟随</Chinesesimp>
 				<Japanese>戦車、縦隊!</Japanese>
+				<Russian>Бронеколонна</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_02">
 				<Original>Formation Column!</Original>
@@ -31191,6 +31270,7 @@
 				<German>Kolonnenformation</German>
 				<Chinesesimp>队列专栏！</Chinesesimp>
 				<Japanese>縦列陣形</Japanese>
+				<Russian>Построение колонны!</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_03">
 				<Original>To have your subordinate vehicles follow %11 simply order them into %14.&lt;br/&gt;&lt;br/&gt;To do so open the %12 with %13 and then select %14 with %15.</Original>
@@ -31198,6 +31278,7 @@
 				<German>Um Ihre Fahrzeuge %11 auf der Spur des Führungsfahrzeuges (Ihr Kampfpanzer) fahren zu lassen, befehlen Sie die Formation %14.&lt;br/&gt;&lt;br/&gt;Dazu öffnen Sie das %12 mit der Taste %13 und wählen dann die Formationsart %14 mit der Taste %15.</German>
 				<Chinesesimp>要让你的下属车辆跟随 %11 只需命令他们进入 %14.&lt;br/&gt;&lt;br/&gt;为此，用 %13 打开 %12 然后用 %15 选择 %14.</Chinesesimp>
 				<Japanese>指示下の車両を%11に従わせるには、単純に%14に命令します。&lt;br/&gt;&lt;br/&gt;そのためには、%12を%13で開き、%14を%15で選択します。</Japanese>
+				<Russian>Чтобы заставить подчиненные машины следовать за %11, просто прикажите им двигаться в %14.&lt;br/&gt;&lt;br/&gt;Для этого откройте %12 с помощью %13, а затем выберите %14 с помощью %15.</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_04">
 				<Original>Use this particular formation to navigate narrow and exact paths like bridges with your entire group.</Original>
@@ -31205,6 +31286,7 @@
 				<German>Mit dieser Formationsart können Brücken und andere enge Stellen sicher mit der Gruppe überquert werden.</German>
 				<Chinesesimp>利用这种特殊队形，与你的整个团队一起在狭窄而准确的路径上行驶，如桥梁。</Chinesesimp>
 				<Japanese>このような隊列であれば、橋などの狭い場所も部隊で安全に渡ることができます。</Japanese>
+				<Russian>Используйте эту особую формацию, чтобы перемещаться всей группой по узким и точным тропинкам, таким как мосты.</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_05">
 				<Original>your exact path</Original>
@@ -31212,6 +31294,7 @@
 				<German>sicher und exakt</German>
 				<Chinesesimp>你的确切路径</Chinesesimp>
 				<Japanese>安全正確</Japanese>
+				<Russian>ваш точный путь</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_06">
 				<Original>formation command menu</Original>
@@ -31219,6 +31302,7 @@
 				<German>Befehlsmenü Formation</German>
 				<Chinesesimp>队形命令菜单</Chinesesimp>
 				<Japanese>隊列メニュー</Japanese>
+				<Russian>меню команд формирования</Russian>
 			</Key>
 			<Key ID="STR_GM_ADVHINT_AIF_07">
 				<Original>formation column</Original>
@@ -31226,6 +31310,7 @@
 				<German>Kolonne</German>
 				<Chinesesimp>队列</Chinesesimp>
 				<Japanese>縦隊</Japanese>
+				<Russian>построение колонны</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TITLE">
 				<Original>COOP 04 Ninjas</Original>
@@ -31233,6 +31318,7 @@
 				<German>COOP 04 Ninjas</German>
 				<Chinesesimp>COOP 04 Ninjas</Chinesesimp>
 				<Japanese>COOP 04 忍者</Japanese>
+				<Russian>COOP 04 Ниндзя</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_OVERVIEW">
 				<Original>Two anti-tank helicopters must hold back enemy advances. Increased drawing distance settings recommended.</Original>
@@ -31240,6 +31326,7 @@
 				<German>Zwei Panzerabwehrhubschrauber müssen feindliche Vorstöße abwehren. Erhöhte Sichtweite empfohlen.</German>
 				<Chinesesimp>两架反坦克直升机必须挡住敌人的进攻。建议增加绘图距离设置。</Chinesesimp>
 				<Japanese>2機の対戦車ヘリコプターで敵の進軍を撃退しなければならない。(描画距離を高く設定する事を推奨します)</Japanese>
+				<Russian>Два противотанковых вертолета должны отразить наступление противника. Рекомендуется увеличить настройки дальности прорисовки.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_01_TITLE">
 				<Original>Northern Push</Original>
@@ -31247,6 +31334,7 @@
 				<German>Nördlicher Vorstoß</German>
 				<Chinesesimp>Northern Push</Chinesesimp>
 				<Japanese>北に前進</Japanese>
+				<Russian>Северный набег</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_02_TITLE">
 				<Original>Bahrdorf Push</Original>
@@ -31254,6 +31342,7 @@
 				<German>Vorstoß bei Bahrdorf</German>
 				<Chinesesimp>Bahrdorf Push</Chinesesimp>
 				<Japanese>バールドルフに前進</Japanese>
+				<Russian>Бросок на Бардорф</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_03_TITLE">
 				<Original>Saalsdorf Push</Original>
@@ -31261,6 +31350,7 @@
 				<German>Vorstoß bei Saalsdorf</German>
 				<Chinesesimp>Saalsdorf Push</Chinesesimp>
 				<Japanese>ザールスドルフに前進</Japanese>
+				<Russian>Набег на Зальсдорф</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_04_TITLE">
 				<Original>Grasleben Push</Original>
@@ -31268,6 +31358,7 @@
 				<German>Vorstoß bei Grasleben</German>
 				<Chinesesimp>Grasleben Push</Chinesesimp>
 				<Japanese>グラスレーベンに前進</Japanese>
+				<Russian>Бросок на Граслебен</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_05_TITLE">
 				<Original>Mariental Push</Original>
@@ -31275,6 +31366,7 @@
 				<German>Vorstoß bei Mariental</German>
 				<Chinesesimp>Mariental Push</Chinesesimp>
 				<Japanese>マリーエンタールに前進</Japanese>
+				<Russian>Набег на Мариенталь</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_06_TITLE">
 				<Original>Lappwald Push</Original>
@@ -31282,6 +31374,7 @@
 				<German>Vorstoß im Lappwald</German>
 				<Chinesesimp>Lappwald Push</Chinesesimp>
 				<Japanese>ラップヴァルトに前進</Japanese>
+				<Russian>Набег в Лаппвальд</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASK_07_TITLE">
 				<Original>Southern Push</Original>
@@ -31289,6 +31382,7 @@
 				<German>Südlicher Vorstoß</German>
 				<Chinesesimp>Southern Push</Chinesesimp>
 				<Japanese>南に前進</Japanese>
+				<Russian>Южный набег</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_TASKS_DESCRIPTION">
 				<Original>The enemy has entered our sector. Stop them from further advancing west. This marker's placement is just a rough account of the enemy's location. Do not overly rely on this.</Original>
@@ -31296,6 +31390,7 @@
 				<German>Der Feind ist in unseren Abschnitt eingedrungen. Verhindern Sie das weitere Vordrängen des Feindes nach Westen. Diese Markierung des Feindes ist nur ein grober Anhaltspunkt. Verlassen Sie sich nicht zu sehr darauf.</German>
 				<Chinesesimp>敌人已经进入我们的防区。阻止他们继续向西推进。这个标记的位置只是对敌人位置的粗略描述。不要过分依赖这点情报。</Chinesesimp>
 				<Japanese>敵は我々の区域に侵入してきた。敵の西への進出を阻止せよ。この敵の表示は、あくまでも目安であるため、参考程度に考えよ。</Japanese>
+				<Russian>Враг вошел в наш сектор. Остановите их дальнейшее продвижение на запад. Расположение этого маркера - лишь приблизительное указание местонахождения врага. Не полагайтесь на него слишком сильно.</Russian>
 			</Key>
 			<Key ID="STR_GM_MP_01_M_18_BRIEFING_01">
 				<Original>%1&lt;br /&gt;West Germany&lt;br /&gt;&lt;br /&gt;Gentlemen, it is your task to delay the enemy push onto our territory.&lt;br /&gt;&lt;br /&gt;We are preparing a defense-in-depth 20 kilometers west from your location. To increase our chance of success we must buy time! Your Army Aviation forces will have to successfully ambush, destroy, delay and obstruct the approaching enemy forces long enough for our reinforcements to assume their defensive positions.&lt;br /&gt;&lt;br /&gt;Our goal is to keep the enemy from advancing beyond this sector for 90 minutes. You must accomplish this at a minimum, but if you manage to wipe out all approaching enemy forces we will be able to quickly change over into an offensive push and bring this war back to the enemy's territory.&lt;br /&gt;&lt;br /&gt;This is truly a reckless task that we are asking from you, but your modern PAH-1 helicopters are already legendary ninjas of the air and we trust that you have the best possible equipment to quickly and decisively hit the enemy where it hurts while moving quickly from hot-spot to hot-spot. Be so vicious, so fast, so deadly that the enemy will think there are 10 of you dominating this sector.&lt;br /&gt;&lt;br /&gt;When you run out of ammo, fuel or need a quick repair, return to your forward air base &lt;marker name='base'&gt;here&lt;/marker&gt;. You will find there all you need to accomplish this task.&lt;br /&gt;&lt;br /&gt;This mission will fail should enemy units reach the western edge of this sector!</Original>
@@ -31303,6 +31398,7 @@
 				<German>%1&lt;br /&gt;Bundesrepublik Deutschland&lt;br /&gt;&lt;br /&gt;Soldaten, ihr heutiger Auftrag ist das Verzögern der Feindspitzen.&lt;br /&gt;&lt;br /&gt;20 Kilometer weiter westlich bereiten sich schon unsere Kräfte auf deren Verteidigungsauftrag vor. Wir verlassen uns auf euch Heeresflieger hier um diesen Vorbereitungen genügend Zeit zu schaffen. Dazu müssen Sie den Feind schnell und präzise schlagen, aus jeder Richtung und so plötzlich wirken, dass ihm keine Reaktion möglich ist.&lt;br /&gt;&lt;br /&gt;Halten Sie diesen Druck auf den Feind für mindestens 90 Minuten aufrecht. Sollten Sie es jedoch schaffen alle Vorstöße des Feindes abzuwehren, dann können unsere Kräfte direkt in einen Gegenangriff übergehen und diesen Krieg auf das Gebiet der DDR verlagern.&lt;br /&gt;&lt;br /&gt;Diese Aufgabe, welche vor Ihnen liegt, gleicht einem Himmelfahrtskommando. Lassen Sie sich aber nicht sagen, dass Ihre PAH-1 nicht die beste Waffe für diesen Zweck sei. Schnell, wendig, schlagkräftig. Sie werden wie Ninjas den Feind stören, zerschlagen, und letzendlich werfen. All dies mit einer solch verheerenden Wirkung, dass der Feind glauben wird, es seien zehn Maschinen in der Luft.&lt;br /&gt;&lt;br /&gt;Dieser vorgeschobene &lt;marker name='base'&gt;Versorgungspunkt&lt;/marker&gt; wird Sie mit Munition, Treibstoff und allem anderen versorgen.&lt;br /&gt;&lt;br /&gt;Diese Mission gilt als Fehlschlag sollten Teile der Feindkräfte die westliche Sektorengrenze erreichen.</German>
 				<Chinesesimp>%1&lt;br /&gt;西德&lt;br /&gt;&lt;br /&gt;先生们，你们的任务是延缓敌人向我们领土的推进。&lt;br /&gt;&lt;br /&gt;我们正准备在距离你们西边20公里的地方进行深入防御。为了增加我们成功的机会，我们必须争取时间！你们陆军航空兵必须成功地伏击、摧毁、拖延和阻挠逼近的敌军，直到我们的增援部队进入防御位置。&lt;br /&gt;&lt;br /&gt;我们的目标是让敌人在90分钟内无法推进到这个区域外。你必须至少完成这个任务，但如果你能设法消灭所有逼近的敌军，我们就能迅速转变为进攻性的推进，将这场战争带回到敌人的领土上。&lt;br /&gt;&lt;br /&gt;这确实是一项我们要求你们作战的不计后果的任务，但你们的现代PAH-1直升机已经是空中传奇忍者，我们相信你们有最好的装备，可以快速和果断地打击敌人的要害，同时快速从一处热点地区移动到另外一处热点地区。如此凶狠，如此迅速，如此致命，以至于敌人会认为有10个你们在控制这片区域。&lt;br /&gt;&lt;br /&gt;当你弹药、燃料耗尽或需要快速修理时，返回&lt;marker name='base'&gt;此处&lt;/marker&gt;的前方空军基地。你会在那里找到完成这项任务所需的一切。&lt;br /&gt;&lt;br /&gt;如果敌军部队到达该区域的西部边缘，任务将会失败!</Chinesesimp>
 				<Japanese>%1&lt;br /&gt;西ドイツ&lt;br /&gt;&lt;br /&gt;兵士たちよ、諸君の本日の任務は敵の進軍を遅滞させることだ。&lt;br /&gt;&lt;br /&gt;西20キロの地点で、我が軍はすでに防衛任務の準備をしている。この準備のために十分な時間を確保できるのは、ここにいる陸軍パイロットの諸君にかかっている。そのためには、敵が反応できないほど、あらゆる方向から、素早く、正確に、突発な攻撃しなければならない。&lt;br /&gt;&lt;br /&gt;この敵への制圧を90分以上維持せよ。また、諸君が敵の前進をすべて撃退することに成功したならば、我が軍は直接反撃に転じ、この戦争を東ドイツ領内に移行することが出来る。&lt;br /&gt;&lt;br /&gt;この仕事は、無謀で自殺行為のようなものだ。しかし、君たちの最新型ヘリコプターPAH-1が最適な武器でないとは誰にも言わせない。射点から射点へ、素早く、機敏に、パワフルに。忍者のように、敵を混乱させ、粉砕し、敵の痛いところを的確に攻撃する最高の装備だと我々は信じている。これだけで、敵は10機の敵機が空中にあると思うほどの狂暴で致命的かつ破壊的な効果を発揮するのだ。&lt;br /&gt;&lt;br /&gt;この高度な &lt;marker name='base'&gt;補給地点&lt;/marker&gt; は、弾薬や燃料など、あらゆるものを補給可能だ。&lt;br /&gt;&lt;br /&gt;このミッションは、敵軍が西端に到達した場合、失敗とみなされる。</Japanese>
+				<Russian>%1&lt;br /&gt;Западная Германия&lt;br /&gt;&lt;br /&gt;Господа, ваша задача - задержать продвижение врага на нашу территорию.&lt;br /&gt;&lt;br /&gt;Мы готовим оборону в глубину в 20 километрах к западу от вашего местоположения. Чтобы увеличить наши шансы на успех, мы должны выиграть время! Ваши силы армейской авиации должны будут успешно устраивать засады, уничтожать, задерживать и препятствовать приближению вражеских сил достаточно долго, чтобы наши подкрепления заняли свои оборонительные позиции.&lt;br /&gt;&lt;br /&gt;Наша цель - не дать врагу продвинуться дальше этого сектора в течение 90 минут. Вы должны выполнить эту задачу как минимум, но если вам удастся уничтожить все приближающиеся силы противника, мы сможем быстро перейти в наступление и вернуть войну на территорию противника.&lt;br /&gt;&lt;br /&gt;Это действительно безрассудная задача, которую мы требуем от вас, но ваши современные вертолеты PAH-1 уже стали легендарными ниндзя воздуха, и мы верим, что у вас есть лучшее возможное оборудование, чтобы быстро и решительно поразить врага в самое больное место, быстро перемещаясь из горячей точки в горячую точку. Будьте настолько злобны, настолько быстры, настолько смертоносны, что враг будет думать, что в этом секторе доминируют 10 из вас.&lt;br /&gt;&lt;br /&gt;Когда у вас закончатся боеприпасы, топливо или потребуется быстрый ремонт, возвращайтесь на передовую авиабазу &lt;marker name='base'&gt;here&lt;/marker&gt;. Там вы найдете все необходимое для выполнения этой задачи.&lt;br /&gt;&lt;br /&gt;Эта миссия будет провалена, если вражеские подразделения достигнут западного края этого сектора!</Russian>
 			</Key>
 			<Key ID="STR_GM_CAMPAIGN_TANK_MISSION_DIFFICULTY_TEXT">
 				<Original>Play this mission with friendly AI companion tanks? (Squad leader mode)&lt;br/&gt;&lt;br/&gt;This changes the mission difficulty and increases the amount of enemy forces encountered.</Original>
@@ -31310,6 +31406,7 @@
 				<German>Möchten Sie diese Mission mit zusätzlichen eigenen KI Panzern spielen? (Gruppenführermodus)&lt;br/&gt;&lt;br/&gt;Dadurch erhöht sich der Schwierigkeitsgrad der Mission durch eine größere Anzahl von Feinden auf dem Feld.</German>
 				<Chinesesimp>同友军AI坦克一起玩这个任务？(队长模式)&lt;br/&gt;&lt;br/&gt;这将改变任务难度，并增加遭遇的敌军数量。</Chinesesimp>
 				<Japanese>このミッションを友軍の随伴戦車有りでプレイしますか? (分隊長モード)&lt;br/&gt;&lt;br/&gt;これによりミッションの難易度が変わり、遭遇する敵軍の量も増えます。</Japanese>
+				<Russian>Хотели бы вы сыграть в эту миссию с дружественными танками, под управлением ИИ? (Режим командира отряда)&lt;br/&gt;&lt;br/&gt;Это изменяет сложность миссии и увеличивает количество встречающихся вражеских сил.</Russian>
 			</Key>
 			<Key ID="STR_GM_CAMPAIGN_TANK_MISSION_DIFFICULTY_TITLE">
 				<Original>Mission Difficulty</Original>
@@ -31317,6 +31414,7 @@
 				<German>Schwierigkeitsgrad</German>
 				<Chinesesimp>任务难度</Chinesesimp>
 				<Japanese>ミッション難易度</Japanese>
+				<Russian>Сложность миссии</Russian>
 			</Key>
 			<Key ID="STR_GM_CAMPAIGN_TANK_MISSION_DIFFICULTY_YES">
 				<Original>Yes</Original>
@@ -31324,6 +31422,7 @@
 				<German>Ja</German>
 				<Chinesesimp>是</Chinesesimp>
 				<Japanese>はい</Japanese>
+				<Russian>Да</Russian>
 			</Key>
 			<Key ID="STR_GM_CAMPAIGN_TANK_MISSION_DIFFICULTY_NO">
 				<Original>No</Original>
@@ -31331,42 +31430,49 @@
 				<German>Nein</German>
 				<Chinesesimp>否</Chinesesimp>
 				<Japanese>いいえ</Japanese>
+				<Russian>Нет</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WARLORDS_01A">
 				<Original>SC 16 Warlords (Groß Twülpstedt)</Original>
 				<English>SC 16 Warlords (Groß Twülpstedt)</English>
 				<German>SC 16 Warlords (Groß Twülpstedt)</German>
 				<Chinesesimp>SC 16 Warlords (Groß Twülpstedt)</Chinesesimp>
+				<Russian>SC 16 Warlords (Грос-Твюльпштедт)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WARLORDS_01B">
 				<Original>SC 16 Warlords (Rennau)</Original>
 				<English>SC 16 Warlords (Rennau)</English>
 				<German>SC 16 Warlords (Rennau)</German>
 				<Chinesesimp>SC 16 Warlords (Rennau)</Chinesesimp>
+				<Russian>SC 16 Warlords (Реннау)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WARLORDS_01C">
 				<Original>SC 16 Warlords (Klinze)</Original>
 				<English>SC 16 Warlords (Klinze)</English>
 				<German>SC 16 Warlords (Klinze)</German>
 				<Chinesesimp>SC 16 Warlords (Klinze)</Chinesesimp>
+				<Russian>SC 16 Warlords (Клинце)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WARLORDS_01D">
 				<Original>SC 16 Warlords (Velpke)</Original>
 				<English>SC 16 Warlords (Velpke)</English>
 				<German>SC 16 Warlords (Velpke)</German>
 				<Chinesesimp>SC 16 Warlords (Velpke)</Chinesesimp>
+				<Russian>SC 16 Warlords (Фельпке)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WARLORDS_02A">
 				<Original>SC 16 Warlords (Western Half)</Original>
 				<English>SC 16 Warlords (Western Half)</English>
 				<German>SC 16 Warlords (Westliche Seite)</German>
 				<Chinesesimp>SC 16 Warlords (Western Half)</Chinesesimp>
+				<Russian>SC 16 Warlords (Западная Часть)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_WARLORDS_02B">
 				<Original>SC 16 Warlords (Eastern Half)</Original>
 				<English>SC 16 Warlords (Eastern Half)</English>
 				<German>SC 16 Warlords (Östliche Hälfte)</German>
 				<Chinesesimp>SC 16 Warlords (Eastern Half)</Chinesesimp>
+				<Russian>SC 16 Warlords (Восточная Часть)</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -31377,12 +31483,14 @@
 				<English>Structures (Weferlingen)</English>
 				<German>Gebäude (Weferlingen)</German>
 				<Chinesesimp>建筑物(韦弗林根)</Chinesesimp>
+				<Russian>Структуры (Веферлинген)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_EDCAT_STRUCTURES_WEFERLINGEN_WINTER">
 				<Original>Structures (Weferlingen Winter)</Original>
 				<English>Structures (Weferlingen Winter)</English>
 				<German>Gebäude (Weferlingen Winter)</German>
 				<Chinesesimp>建筑物(韦弗林根,冬季)</Chinesesimp>
+				<Russian>Структуры (Веферлинген Зимний)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_EDCAT_RUINS_WEFERLINGEN">
 				<Original>Ruins (Weferlingen)</Original>
@@ -31390,6 +31498,7 @@
 				<German>Ruinen (Weferlingen)</German>
 				<Chinesesimp>废墟(韦弗林根)</Chinesesimp>
 				<Korean>폐허 (벨페르링겐)</Korean>
+				<Russian>Руины (Веферлинген)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_BARGATE">
 				<Original>Open Bargate</Original>
@@ -31397,6 +31506,7 @@
 				<German>Schlagbaum Öffnen</German>
 				<Chinesesimp>打开高速公路</Chinesesimp>
 				<Korean>바리게이트 열기</Korean>
+				<Russian>Открыть Шлагбаум</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CLOSE_BARGATE">
 				<Original>Close Bargate</Original>
@@ -31404,6 +31514,7 @@
 				<German>Schlagbaum Schließen</German>
 				<Chinesesimp>关闭高速公路</Chinesesimp>
 				<Korean>바리게이트 닫기</Korean>
+				<Russian>Закрыть Шлагбаум</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_GATE">
 				<Original>Open Gate</Original>
@@ -31411,6 +31522,7 @@
 				<German>Tor Öffnen</German>
 				<Chinesesimp>开门</Chinesesimp>
 				<Korean>문 열기</Korean>
+				<Russian>Открыть Ворота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CLOSE_GATE">
 				<Original>Close Gate</Original>
@@ -31418,48 +31530,56 @@
 				<German>Tor Schließen</German>
 				<Chinesesimp>关门</Chinesesimp>
 				<Korean>문 닫기</Korean>
+				<Russian>Закрыть Ворота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_OPEN_LID">
 				<Original>Open Lid</Original>
 				<English>Open Lid</English>
 				<German>Deckel Öffnen</German>
 				<Chinesesimp>打开盖板</Chinesesimp>
+				<Russian>Открыть Крышку</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_CLOSE_LID">
 				<Original>Close Lid</Original>
 				<English>Close Lid</English>
 				<German>Deckel Schließen</German>
 				<Chinesesimp>合上盖板</Chinesesimp>
+				<Russian>Закрыть Крышку</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_EDSUBCAT_STRUCTURE">
 				<Original>Structures</Original>
 				<English>Structures</English>
 				<German>Gebäude</German>
 				<Chinesesimp>建筑物</Chinesesimp>
+				<Russian>Структуры</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_STRUCTURE_EURO_80">
 				<Original>Structures (European, '80)</Original>
 				<English>Structures (European, '80)</English>
 				<German>Gebäude (Europäisch, '80)</German>
 				<Chinesesimp>建筑(欧洲,80年代)</Chinesesimp>
+				<Russian>Структуры (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_COMMERCIAL_EURO_80">
 				<Original>Commercial (European, '80)</Original>
 				<English>Commercial (European, '80)</English>
 				<German>Gewerbe (Europäisch, '80)</German>
 				<Chinesesimp>商业(欧洲,80年代)</Chinesesimp>
+				<Russian>Коммерческие (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_HOUSE_EURO_80">
 				<Original>Housing (European, '80)</Original>
 				<English>Housing (European, '80)</English>
 				<German>Wohnungen (Europäisch, '80)</German>
 				<Chinesesimp>住房(欧洲,80年代)</Chinesesimp>
+				<Russian>Дома (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_INFRASTRUCTURE_EURO_80">
 				<Original>Infrastructure (European, '80)</Original>
 				<English>Infrastructure (European, '80)</English>
 				<German>Infrastruktur (Europäisch, '80)</German>
 				<Chinesesimp>基础设施(欧洲,80年代)</Chinesesimp>
+				<Russian>Инфраструктуры (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_WALL_EURO_80">
 				<Original>Walls (European, '80)</Original>
@@ -31467,30 +31587,35 @@
 				<German>Mauern (Europäisch, '80)</German>
 				<Chinesesimp>墙壁(欧洲,80年代)</Chinesesimp>
 				<Korean>벽 (유럽, '80)</Korean>
+				<Russian>Стены (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_SIGN_EURO_80">
 				<Original>Signs (European, '80)</Original>
 				<English>Signs (European, '80)</English>
 				<German>Schilder (Europäisch, '80)</German>
 				<Chinesesimp>指示牌(欧洲,80年代)</Chinesesimp>
+				<Russian>Знаки (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_SIGN_GE_80">
 				<Original>Signs (West Germany, '80)</Original>
 				<English>Signs (West Germany, '80)</English>
 				<German>Schilder (BRD, '80)</German>
 				<Chinesesimp>指示牌(西德,80年代)</Chinesesimp>
+				<Russian>Знаки (ФРГ, '70)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_SIGN_GC_70">
 				<Original>Signs (East Germany, '70)</Original>
 				<English>Signs (East Germany, '70)</English>
 				<German>Schilder (DDR, '70)</German>
 				<Chinesesimp>指示牌(东德,70年代)</Chinesesimp>
+				<Russian>Знаки (ГДР, '70)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_DETAIL_EURO_80">
 				<Original>Details (European, '80)</Original>
 				<English>Details (European, '80)</English>
 				<German>Details (Europäisch, '80)</German>
 				<Chinesesimp>画详图(欧洲,80年代)</Chinesesimp>
+				<Russian>Вещи (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_RAIL_EURO_80">
 				<Original>Rail (European, '80)</Original>
@@ -31498,18 +31623,21 @@
 				<German>Schienen (Europäisch, '80)</German>
 				<Chinesesimp>铁路(欧洲,80年代)</Chinesesimp>
 				<Korean>레일 (유럽, '80)</Korean>
+				<Russian>Железная Дорога (Европейская, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_SURFACESEAL_EURO_80">
 				<Original>Surface Sealing (European, '80)</Original>
 				<English>Surface Sealing (European, '80)</English>
 				<German>Versiegelungen (Europäisch, '80)</German>
 				<Chinesesimp>路面建筑(欧洲,80年代)</Chinesesimp>
+				<Russian>Создание Тротуара (Европейский, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_FURNITURE_EURO_80">
 				<Original>Furniture (European, '80)</Original>
 				<English>Furniture (European, '80)</English>
 				<German>Möbel (Europäisch, '80)</German>
 				<Chinesesimp>家具(欧洲,80年代)</Chinesesimp>
+				<Russian>Мебель (Европейская, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_VC_RUBBLE_EURO_80">
 				<Original>Rubble (European, '80)</Original>
@@ -31517,6 +31645,7 @@
 				<German>Ruinen (Europäisch, '80)</German>
 				<Chinesesimp>废墟(欧洲,80年代)</Chinesesimp>
 				<Korean>루블 (유럽, '80)</Korean>
+				<Russian>Руины (Европейские, '80)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_BARRACKS_01">
 				<Original>Barracks (Beige)</Original>
@@ -31524,6 +31653,7 @@
 				<German>Kasernengebäude (Beige)</German>
 				<Chinesesimp>兵营(米黄色)</Chinesesimp>
 				<Korean>병영 (베이지)</Korean>
+				<Russian>Казармы (Бежевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_BARRACKS_02">
 				<Original>Barracks (Grey)</Original>
@@ -31531,12 +31661,14 @@
 				<German>Kasernengebäude (Grau)</German>
 				<Chinesesimp>兵营(灰色)</Chinesesimp>
 				<Korean>병영 (회색</Korean>
+				<Russian>Казармы (Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_CHURCH_01">
 				<Original>Chapel</Original>
 				<English>Chapel</English>
 				<German>Kapelle</German>
 				<Chinesesimp>小教堂</Chinesesimp>
+				<Russian>Часовня</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_CHURCH_02">
 				<Original>Church</Original>
@@ -31544,6 +31676,7 @@
 				<German>Kirche</German>
 				<Chinesesimp>教堂</Chinesesimp>
 				<Korean>교회</Korean>
+				<Russian>Церковь</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_DEST_01">
 				<Original>Garage (Large)</Original>
@@ -31551,78 +31684,91 @@
 				<German>Garagenkomplex</German>
 				<Chinesesimp>车库(大)</Chinesesimp>
 				<Korean>차고 (대형)</Korean>
+				<Russian>Гараж (Большой)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FACTORY_01_01">
 				<Original>Factory Hall</Original>
 				<English>Factory Hall</English>
 				<German>Fabirkhalle</German>
 				<Chinesesimp>工厂车间</Chinesesimp>
+				<Russian>Заводской Цех</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FACTORY_01_02">
 				<Original>Factory Hall 2</Original>
 				<English>Factory Hall 2</English>
 				<German>Fabirkhalle 2</German>
 				<Chinesesimp>工厂车间2</Chinesesimp>
+				<Russian>Заводской Цех 2</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FACTORY_02">
 				<Original>Factory Building</Original>
 				<English>Factory Building</English>
 				<German>Fabrikgebäude</German>
 				<Chinesesimp>厂房</Chinesesimp>
+				<Russian>Фабричное Здание</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FARMHOUSE_01">
 				<Original>Framework Shed</Original>
 				<English>Framework Shed</English>
 				<German>Fachwerkschuppen</German>
 				<Chinesesimp>半木结构棚屋</Chinesesimp>
+				<Russian>Фахверковый Сарай</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FARMHOUSE_02">
 				<Original>Framework Shelter</Original>
 				<English>Framework Shelter</English>
 				<German>Fachwerkunterstand</German>
 				<Chinesesimp>半木结构住所</Chinesesimp>
+				<Russian>Фахверковый Навес</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FARMHOUSE_03">
 				<Original>Framework Home</Original>
 				<English>Framework Home</English>
 				<German>Fachwerkhaus</German>
 				<Chinesesimp>半木结构房屋</Chinesesimp>
+				<Russian>Фахверковый Дом</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FUELSTATION_01_W">
 				<Original>Fuel Station</Original>
 				<English>Fuel Station</English>
 				<German>Tankstelle</German>
 				<Chinesesimp>加油站</Chinesesimp>
+				<Russian>Заправочная Станция</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_FUELSTATION_02">
 				<Original>Garage Shelter</Original>
 				<English>Garage Shelter</English>
 				<German>Unterstand</German>
 				<Chinesesimp>车库掩体</Chinesesimp>
+				<Russian>Навес Автозаправки</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_01_D">
 				<Original>House (Square, Decayed)</Original>
 				<English>House (Square, Decayed)</English>
 				<German>Haus (Quadratisch, Verw.)</German>
 				<Chinesesimp>房屋(方形,衰败)</Chinesesimp>
+				<Russian>Дом (Квадратный, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_01_E">
 				<Original>House (Square, Grey)</Original>
 				<English>House (Square, Grey)</English>
 				<German>Haus (Quadratisch, Grau)</German>
 				<Chinesesimp>房屋(方形,灰色)</Chinesesimp>
+				<Russian>Дом (Квадратный, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_01_W">
 				<Original>House (Square, Brick)</Original>
 				<English>House (Square, Brick)</English>
 				<German>Haus (Quadratisch, Ziegel)</German>
 				<Chinesesimp>房屋(方形,砖块)</Chinesesimp>
+				<Russian>Дом (Квадратный, Кирпичный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_02_D">
 				<Original>House (Long, Decayed)</Original>
 				<English>House (Long, Decayed)</English>
 				<German>Haus (Lang, Verw.)</German>
 				<Chinesesimp>房屋(长,衰败)</Chinesesimp>
+				<Russian>Дом (Длинный, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_02_E">
 				<Original>House (Long, Grey)</Original>
@@ -31630,36 +31776,42 @@
 				<German>Haus (Lang, Grau)</German>
 				<Chinesesimp>房屋(长,灰色)</Chinesesimp>
 				<Korean>집 (김, 회색)</Korean>
+				<Russian>Дом (Длинный, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_02_W">
 				<Original>House (Long, Stone)</Original>
 				<English>House (Long, Stone)</English>
 				<German>Haus (Lang, Stein)</German>
 				<Chinesesimp>房屋(长,石块)</Chinesesimp>
+				<Russian>Дом (Длинный, Каменный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_03_E">
 				<Original>House (Bungalow, Decayed)</Original>
 				<English>House (Bungalow, Decayed)</English>
 				<German>Haus (Bungalow, Verw.)</German>
 				<Chinesesimp>房屋(平房,衰败)</Chinesesimp>
+				<Russian>Дом (Бунгало, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_03_W">
 				<Original>House (Bungalow, White)</Original>
 				<English>House (Bungalow, White)</English>
 				<German>Haus (Bungalow, Weiß)</German>
 				<Chinesesimp>房屋(平房,白色)</Chinesesimp>
+				<Russian>Дом (Бунгало, Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_04_D">
 				<Original>House (Big, Decayed)</Original>
 				<English>House (Big, Decayed)</English>
 				<German>Haus (Groß, Verw.)</German>
 				<Chinesesimp>房屋(大，衰败)</Chinesesimp>
+				<Russian>Дом (Большой, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_04_E">
 				<Original>House (Big, Grey)</Original>
 				<English>House (Big, Grey)</English>
 				<German>Haus (Groß, Grau)</German>
 				<Chinesesimp>房屋(大，灰色)</Chinesesimp>
+				<Russian>Дом (Большой, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_04_W">
 				<Original>House (Big, Red)</Original>
@@ -31667,48 +31819,56 @@
 				<German>Haus (Groß, Rot)</German>
 				<Chinesesimp>房屋(大，红色)</Chinesesimp>
 				<Korean>집 (큼, 빨강)</Korean>
+				<Russian>Дом (Большой, Красный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_05_D">
 				<Original>House (Tall, Decayed)</Original>
 				<English>House (Tall, Decayed)</English>
 				<German>Haus (Hoch, Verw.)</German>
 				<Chinesesimp>房屋(高大,衰败)</Chinesesimp>
+				<Russian>Дом (Высокий, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_05_E">
 				<Original>House (Tall, Grey)</Original>
 				<English>House (Tall, Grey)</English>
 				<German>Haus (Hoch, Grau)</German>
 				<Chinesesimp>房屋(高大,灰色)</Chinesesimp>
+				<Russian>Дом (Высокий, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_05_W">
 				<Original>House (Tall, White)</Original>
 				<English>House (Tall, White)</English>
 				<German>Haus (Hoch, Weiß)</German>
 				<Chinesesimp>房屋(高大,白色)</Chinesesimp>
+				<Russian>Дом (Высокий, Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_06_D">
 				<Original>House (Medium, Decayed)</Original>
 				<English>House (Medium, Decayed)</English>
 				<German>Haus (Medium, Verw.)</German>
 				<Chinesesimp>房屋(中型,衰败)</Chinesesimp>
+				<Russian>Дом (Средний, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_06_E">
 				<Original>House (Medium, Grey)</Original>
 				<English>House (Medium, Grey)</English>
 				<German>Haus (Medium, Grau)</German>
 				<Chinesesimp>房屋(中型,灰色)</Chinesesimp>
+				<Russian>Дом (Средний, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_06_W">
 				<Original>House (Medium, Brick)</Original>
 				<English>House (Medium, Brick)</English>
 				<German>Haus (Medium, Ziegel)</German>
 				<Chinesesimp>房屋(中型,砖块)</Chinesesimp>
+				<Russian>Дом (Средний, Кирпичный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_07_D">
 				<Original>House (Small, Decayed)</Original>
 				<English>House (Small, Decayed)</English>
 				<German>Haus (Klein, Verw.)</German>
 				<Chinesesimp>房屋(小型,衰败)</Chinesesimp>
+				<Russian>Дом (Маленький, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_07_E">
 				<Original>House (Small, Grey)</Original>
@@ -31716,18 +31876,21 @@
 				<German>Haus (Klein, Grau)</German>
 				<Chinesesimp>房屋(小型,灰色)</Chinesesimp>
 				<Korean>집 (작음, 회색)</Korean>
+				<Russian>Дом (Маленький, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_07_W">
 				<Original>House (Small, Stone)</Original>
 				<English>House (Small, Stone)</English>
 				<German>Haus (Klein, Stein)</German>
 				<Chinesesimp>房屋(小型,石块)</Chinesesimp>
+				<Russian>Дом (Маленький, Каменный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_08_D">
 				<Original>House (Villa, Decayed)</Original>
 				<English>House (Villa, Decayed)</English>
 				<German>Haus (Villa, Verw.)</German>
 				<Chinesesimp>房屋(别墅,衰败)</Chinesesimp>
+				<Russian>Дом (Вилла, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_08_E">
 				<Original>House (Villa, Grey)</Original>
@@ -31735,6 +31898,7 @@
 				<German>Haus (Villa, Grau)</German>
 				<Chinesesimp>房屋(别墅,灰色)</Chinesesimp>
 				<Korean>집 (빌라, 회색)</Korean>
+				<Russian>Дом (Вилла, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_08_W">
 				<Original>House (Villa, Beige)</Original>
@@ -31742,96 +31906,112 @@
 				<German>Haus (Villa, Beige)</German>
 				<Chinesesimp>房屋(别墅,砖块)</Chinesesimp>
 				<Korean>집 (빌라, 베이지)</Korean>
+				<Russian>Дом (Вилла, Бежевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_09_D">
 				<Original>House (Semi, Decayed)</Original>
 				<English>House (Semi, Decayed)</English>
 				<German>Haus (Halb, Verw.)</German>
 				<Chinesesimp>房屋(半分离,衰败)</Chinesesimp>
+				<Russian>Дом (Полуотделенный, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_09_E">
 				<Original>House (Semi, Grey)</Original>
 				<English>House (Semi, Grey)</English>
 				<German>Haus (Halb, Grau)</German>
 				<Chinesesimp>房屋((半分离,灰色)</Chinesesimp>
+				<Russian>Дом (Полуотделенный, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_09_W">
 				<Original>House (Semi, White)</Original>
 				<English>House (Semi, White)</English>
 				<German>Haus (Halb, Weiß)</German>
 				<Chinesesimp>房屋((半分离,白色)</Chinesesimp>
+				<Russian>Дом (Полуотделенный, Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_10_D">
 				<Original>House (Single 1, Decayed)</Original>
 				<English>House (Single 1, Decayed)</English>
 				<German>Haus (Einzeln 1, Verw.)</German>
 				<Chinesesimp>房屋(单个1,衰败)</Chinesesimp>
+				<Russian>Дом (Отдельный 1, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_10_E">
 				<Original>House (Single 1, Grey)</Original>
 				<English>House (Single 1, Grey)</English>
 				<German>Haus (Einzeln 1, Grau)</German>
 				<Chinesesimp>房屋(单个1,灰色)</Chinesesimp>
+				<Russian>Дом (Отдельный 1, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_10_W">
 				<Original>House (Single 1, Brick)</Original>
 				<English>House (Single 1, Brick)</English>
 				<German>Haus (Einzeln 1, Ziegel)</German>
 				<Chinesesimp>房屋(单个1,砖块)</Chinesesimp>
+				<Russian>Дом (Отдельный 1, Кирпичный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_11_D">
 				<Original>House (Corner, Decayed)</Original>
 				<English>House (Corner, Decayed)</English>
 				<German>Haus (Ecke, Verw.)</German>
 				<Chinesesimp>房屋(拐角,衰败)</Chinesesimp>
+				<Russian>Дом (Угловой, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_11_E">
 				<Original>House (Corner, Grey)</Original>
 				<English>House (Corner, Grey)</English>
 				<German>Haus (Ecke, Grau)</German>
 				<Chinesesimp>房屋(拐角,灰色)</Chinesesimp>
+				<Russian>Дом (Угловой, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_11_W">
 				<Original>House (Corner, Stone)</Original>
 				<English>House (Corner, Stone)</English>
 				<German>Haus (Ecke, Stein)</German>
 				<Chinesesimp>房屋(拐角,石块)</Chinesesimp>
+				<Russian>Дом (Угловой, Каменный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_12_D">
 				<Original>House (Single 2, Decayed)</Original>
 				<English>House (Single 2, Decayed)</English>
 				<German>Haus (Einzeln 2, Verw.)</German>
 				<Chinesesimp>房屋(单个2,衰败)</Chinesesimp>
+				<Russian>Дом (Отдельный 2, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_12_E">
 				<Original>House (Single 2, Grey)</Original>
 				<English>House (Single 2, Grey)</English>
 				<German>Haus (Einzeln 2, Grau)</German>
 				<Chinesesimp>房屋(单个2,灰色)</Chinesesimp>
+				<Russian>Дом (Отдельный 2, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_12_W">
 				<Original>House (Single 2, White)</Original>
 				<English>House (Single 2, White)</English>
 				<German>Haus (Einzeln 2, Weiß)</German>
 				<Chinesesimp>房屋(单个2,白色)</Chinesesimp>
+				<Russian>Дом (Отдельный 2, Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_13_D">
 				<Original>House (Tiny, Decayed)</Original>
 				<English>House (Tiny, Decayed)</English>
 				<German>Haus (Klein, Verw.)</German>
 				<Chinesesimp>房屋(蜗居,衰败)</Chinesesimp>
+				<Russian>Дом (Жилище, Ветхий)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_13_E">
 				<Original>House (Tiny, Grey)</Original>
 				<English>House (Tiny, Grey)</English>
 				<German>Haus (Klein, Grau)</German>
 				<Chinesesimp>房屋(蜗居,灰色)</Chinesesimp>
+				<Russian>Дом (Жилище, Серый)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_HOUSE_13_W">
 				<Original>House (Tiny, Brick)</Original>
 				<English>House (Tiny, Brick)</English>
 				<German>Haus (Klein, Ziegel)</German>
 				<Chinesesimp>房屋(蜗居,砖块)</Chinesesimp>
+				<Russian>Дом (Жилище, Кирпичный)</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MINE_01">
 				<Original>Mine</Original>
@@ -31839,6 +32019,7 @@
 				<German>Schachtgebäude</German>
 				<Chinesesimp>矿井</Chinesesimp>
 				<Korean>광산</Korean>
+				<Russian>Здание Шахты</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_MINE_01_EXTRA">
 				<Original>Mining Rig</Original>
@@ -31846,6 +32027,7 @@
 				<German>Schachtaufzug</German>
 				<Chinesesimp>采矿机</Chinesesimp>
 				<Korean>채굴 기계</Korean>
+				<Russian>Вышка Шахты</Russian>
 			</Key>
 			<Key ID="STR_DN_LAND_GM_EURO_OFFICE_01">
 				<Original>Office Building</Original>
@@ -38955,6 +39137,7 @@
 				<German>Fahrrad</German>
 				<Chinesesimp>自行车</Chinesesimp>
 				<Korean>자전거</Korean>
+				<Russian>Велосипед</Russian>
 			</Key>
 			<Key ID="STR_DN_COVER_01_UNHIDE">
 				<Original>Add Rear Cover</Original>
@@ -38998,6 +39181,7 @@
 				<German>Postfahrrad</German>
 				<Chinesesimp>邮政自行车</Chinesesimp>
 				<Korean>우체부 자전거</Korean>
+				<Russian>Почтовый велосипед</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_POL_BICYCLE_01_GRN">
 				<Original>Police Bicycle</Original>
@@ -39005,6 +39189,7 @@
 				<German>Polizeifahrrad</German>
 				<Chinesesimp>警用自行车</Chinesesimp>
 				<Korean>경찰 자전거</Korean>
+				<Russian>Полицейский велосипед</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GE_ARMY_BICYCLE_01_OLI">
 				<Original>Service Bicycle</Original>
@@ -39012,6 +39197,7 @@
 				<German>Dienstfahrrad</German>
 				<Chinesesimp>服务自行车</Chinesesimp>
 				<Korean>제식 자전거</Korean>
+				<Russian>Военный велосипед</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_GC_ARMY_BICYCLE_01_OLI">
 				<Original>Army Bicycle</Original>
@@ -39019,6 +39205,7 @@
 				<German>Armeefahrrad</German>
 				<Chinesesimp>军用自行车</Chinesesimp>
 				<Korean>군용 자전거</Korean>
+				<Russian>Армейский велосипед</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -40400,6 +40587,7 @@
 				<German>USA, Stern</German>
 				<Chinesesimp>美国,星空</Chinesesimp>
 				<Korean>미국, 장성</Korean>
+				<Russian>США, Звезда</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UR_STAR_01">
 				<Original>Soviet Union, Star</Original>
@@ -40407,6 +40595,7 @@
 				<German>Sowjetunion, Stern</German>
 				<Chinesesimp>苏联,星空</Chinesesimp>
 				<Korean>소련, 장성</Korean>
+				<Russian>СССР, Звезда</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_VN_ARMY_01">
 				<Original>Vietnam, Army</Original>
@@ -40414,6 +40603,7 @@
 				<German>Vietnam, Heer</German>
 				<Chinesesimp>越南,陆军</Chinesesimp>
 				<Korean>베트남, 육군</Korean>
+				<Russian>Вьетнам, Армия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_FI_ARMY_01">
 				<Original>Finland, Army</Original>
@@ -40421,6 +40611,7 @@
 				<German>Finland, Heer</German>
 				<Chinesesimp>芬兰,陆军</Chinesesimp>
 				<Korean>핀란드, 육군</Korean>
+				<Russian>Финляндия, Армия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_NL_AIRFORCE_01">
 				<Original>Netherlands, Airforce</Original>
@@ -40428,108 +40619,126 @@
 				<German>Niederlande, Luftwaffe</German>
 				<Chinesesimp>荷兰,空军</Chinesesimp>
 				<Korean>네덜란드, 공군</Korean>
+				<Russian>Нидерланды, ВВС</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_ANGLE_01_BLK">
 				<Original>Chevron (Black)</Original>
 				<English>Chevron (Black)</English>
 				<German>Chevron (Schwarz)</German>
 				<Korean>쉐브론 (검정)</Korean>
+				<Russian>Шеврон (Черный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_ANGLE_01_ORG">
 				<Original>Chevron (Orange)</Original>
 				<English>Chevron (Orange)</English>
 				<German>Chevron (Orange)</German>
 				<Korean>쉐브론 (오렌지)</Korean>
+				<Russian>Шеврон (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_ANGLE_01_RED">
 				<Original>Chevron (Red)</Original>
 				<English>Chevron (Red)</English>
 				<German>Chevron (Red)</German>
 				<Korean>쉐브론 (빨강)</Korean>
+				<Russian>Шеврон (Красный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_ANGLE_01_WHT">
 				<Original>Chevron (White)</Original>
 				<English>Chevron (White)</English>
 				<German>Chevron (Weiß)</German>
 				<Korean>쉐브론 (하양)</Korean>
+				<Russian>Шеврон (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_ANGLE_01_YEL">
 				<Original>Chevron (Yellow)</Original>
 				<English>Chevron (Yellow)</English>
 				<German>Chevron (Gelb)</German>
 				<Korean>쉐브론 (노랑)</Korean>
+				<Russian>Шеврон (Желтый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_ISAF_01_WHT">
 				<Original>ISAF 01 (White)</Original>
 				<English>ISAF 01 (White)</English>
 				<German>ISAF 01 (Weiß)</German>
 				<Korean>ISAF 01 (하양)</Korean>
+				<Russian>ISAF 01 (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_OCTAGON_14_ORG">
 				<Original>Octagon 14 (Orange)</Original>
 				<English>Octagon 14 (Orange)</English>
 				<German>Octagon 14 (Orange)</German>
 				<Korean>팔각형 14 (오렌지)</Korean>
+				<Russian>Октагон 14 (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_OCTAGON_17_ORG">
 				<Original>Octagon 17 (Orange)</Original>
 				<English>Octagon 17 (Orange)</English>
 				<German>Octagon 17 (Orange)</German>
 				<Korean>팔각형 17 (오렌지)</Korean>
+				<Russian>Октагон 17 (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_OCTAGON_21_ORG">
 				<Original>Octagon 21 (Orange)</Original>
 				<English>Octagon 21 (Orange)</English>
 				<German>Octagon 21 (Orange)</German>
 				<Korean>팔각형 21 (오렌지)</Korean>
+				<Russian>Октагон 21 (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_OCTAGON_24_ORG">
 				<Original>Octagon 24 (Orange)</Original>
 				<English>Octagon 24 (Orange)</English>
 				<German>Octagon 24 (Orange)</German>
 				<Korean>팔각형 24 (오렌지)</Korean>
+				<Russian>Октагон 24 (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_OCTAGON_90_ORG">
 				<Original>Octagon 90 (Orange)</Original>
 				<English>Octagon 90 (Orange)</English>
 				<German>Octagon 90 (Orange)</German>
 				<Korean>팔각형 90 (오렌지)</Korean>
+				<Russian>Октагон 90 (Оранжевый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_SQUARE_13_BLU">
 				<Original>Square 13 (Blue)</Original>
 				<English>Square 13 (Blue)</English>
 				<German>Rechteck 13 (Blau)</German>
 				<Korean>사각형 13 (파랑)</Korean>
+				<Russian>Квадрат 13 (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_SQUARE_18_BLU">
 				<Original>Square 18 (Blue)</Original>
 				<English>Square 18 (Blue)</English>
 				<German>Rechteck 18 (Blau)</German>
 				<Korean>사각형 18 (파랑)</Korean>
+				<Russian>Квадрат 18 (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_SQUARE_22_BLU">
 				<Original>Square 22 (Blue)</Original>
 				<English>Square 22 (Blue)</English>
 				<German>Rechteck 22 (Blau)</German>
 				<Korean>사각형 22 (파랑)</Korean>
+				<Russian>Квадрат 22 (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_SQUARE_74_BLU">
 				<Original>Square 74 (Blue)</Original>
 				<English>Square 74 (Blue)</English>
 				<German>Rechteck 74 (Blau)</German>
 				<Korean>사각형 74 (파랑)</Korean>
+				<Russian>Квадрат 74 (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_SQUARE_83_BLU">
 				<Original>Square 83 (Blue)</Original>
 				<English>Square 83 (Blue)</English>
 				<German>Rechteck 83 (Blau)</German>
 				<Korean>사각형 83 (파랑)</Korean>
+				<Russian>Квадрат 83 (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_SQUARE_UN_WHT">
 				<Original>Square UN (White)</Original>
 				<English>Square UN (White)</English>
 				<German>Rechteck UN (Weiß)</German>
 				<Korean>사각형 UN (하양)</Korean>
+				<Russian>Квадрат ООН (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_PL_MC_BLU">
 				<Original>Polish Naval Infantry (Blue)</Original>
@@ -40537,6 +40746,7 @@
 				<German>Polnische Marine Infantrie (Blau)</German>
 				<Chinesesimp>波兰海军步兵(蓝色)</Chinesesimp>
 				<Korean>폴란드 해군보병 (파랑)</Korean>
+				<Russian>Польская Морская Пехота (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_X_01_RED">
 				<Original>X (Red)</Original>
@@ -40544,6 +40754,7 @@
 				<German>X (Rot)</German>
 				<Chinesesimp>X (红色)</Chinesesimp>
 				<Korean>X (빨강)</Korean>
+				<Russian>X (Красный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_RECON_X_01_WHT">
 				<Original>X (White)</Original>
@@ -40551,6 +40762,7 @@
 				<German>X (Weiß)</German>
 				<Chinesesimp>X (白色)</Chinesesimp>
 				<Korean>X (하양)</Korean>
+				<Russian>X (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_INSTKP20_COL">
 				<Original>InstKp 20</Original>
@@ -40558,6 +40770,7 @@
 				<German>InstKp 20</German>
 				<Chinesesimp>第20维修连</Chinesesimp>
 				<Korean>20 보급수송중대</Korean>
+				<Russian>20-я РМО</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBRIG2_COL">
 				<Original>PzBrig 2</Original>
@@ -40565,6 +40778,7 @@
 				<German>PzBrig 2</German>
 				<Chinesesimp>第2装甲旅</Chinesesimp>
 				<Korean>2 전차여단</Korean>
+				<Russian>2-я Бронетанк. бригада</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBRIG3_COL">
 				<Original>PzBrig 3</Original>
@@ -40572,6 +40786,7 @@
 				<German>PzBrig 3</German>
 				<Chinesesimp>第3装甲旅</Chinesesimp>
 				<Korean>3 전차여단</Korean>
+				<Russian>3-я Бронетанк. бригада</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBTL21_COL">
 				<Original>PzBtl 21</Original>
@@ -40579,6 +40794,7 @@
 				<German>PzBtl 21</German>
 				<Chinesesimp>第21坦克营</Chinesesimp>
 				<Korean>21 전차대대</Korean>
+				<Russian>21-й Танковый батальон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBTL23_COL">
 				<Original>PzBtl 23</Original>
@@ -40586,6 +40802,7 @@
 				<German>PzBtl 23</German>
 				<Chinesesimp>第23坦克营</Chinesesimp>
 				<Korean>23 전차대대</Korean>
+				<Russian>23-й Танковый батальон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZBTL24_COL">
 				<Original>PzBtl 24</Original>
@@ -40593,6 +40810,7 @@
 				<German>PzBtl 24</German>
 				<Chinesesimp>第24坦克营</Chinesesimp>
 				<Korean>24 전차대대</Korean>
+				<Russian>24-й Танковый батальон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZDIV1_COL">
 				<Original>PzDiv 1</Original>
@@ -40600,6 +40818,7 @@
 				<German>PzDiv 1</German>
 				<Chinesesimp>第1装甲师</Chinesesimp>
 				<Korean>1 전차사단</Korean>
+				<Russian>1-я Бронетанковая дивизия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZGRENBRIG1_COL">
 				<Original>PzGrenBrig 1</Original>
@@ -40607,6 +40826,7 @@
 				<German>PzGrenBrig 1</German>
 				<Chinesesimp>第1装甲掷弹兵旅</Chinesesimp>
 				<Korean>1 기갑척탄여단</Korean>
+				<Russian>1-я Панцергренадерская бригада</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZGRENBTL22_COL">
 				<Original>PzGrenBtl 22</Original>
@@ -40614,6 +40834,7 @@
 				<German>PzGrenBtl 22</German>
 				<Chinesesimp>第22装甲掷弹兵营</Chinesesimp>
 				<Korean>22 기갑척탄대대</Korean>
+				<Russian>22-й Панцергренадерский батальон</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZPIKP20_COL">
 				<Original>PzPiKp 20</Original>
@@ -40621,6 +40842,7 @@
 				<German>PzPiKp 20</German>
 				<Chinesesimp>第20坦克工程部队</Chinesesimp>
 				<Korean>20 기갑공병중대</Korean>
+				<Russian>20-я Бронетанк. инженерная рота</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_HFLGRGT16_COL">
 				<Original>HFlgRgt 16</Original>
@@ -40628,6 +40850,7 @@
 				<German>HFlgRgt 16</German>
 				<Chinesesimp>第16反坦克直升机团</Chinesesimp>
 				<Korean>16 육군항공대</Korean>
+				<Russian>16-й Армейский авиационный корпус</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_LTG62_COL">
 				<Original>LTG 63</Original>
@@ -40635,6 +40858,7 @@
 				<German>LTG 63</German>
 				<Chinesesimp>第63空运联队</Chinesesimp>
 				<Korean>63 공수여단</Korean>
+				<Russian>63-я Авиатранспортная эскадрилья</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_HFLGRGT10_COL">
 				<Original>HFlgRgt 10</Original>
@@ -40642,6 +40866,7 @@
 				<German>HFlgRgt 10</German>
 				<Chinesesimp>第10反坦克直升机团</Chinesesimp>
 				<Korean>10 육군항공대</Korean>
+				<Russian>10-й Армейский авиационный корпус</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_HFLGRGT26_COL">
 				<Original>HFlgRgt 26</Original>
@@ -40649,18 +40874,21 @@
 				<German>HFlgRgt 26</German>
 				<Chinesesimp>第26反坦克直升机团</Chinesesimp>
 				<Korean>26 육군항공대</Korean>
+				<Russian>26-й Армейский авиационный корпус</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_PZARTBTL25_COL">
 				<Original>PzArtBtl 25</Original>
 				<English>PzArtBtl 25</English>
 				<German>PzArtBtl 25</German>
 				<Chinesesimp>第25火箭炮营</Chinesesimp>
+				<Russian>25-й Танковый арт.дивизион</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_RAKARTBTL12_COL">
 				<Original>RakArtBtl 12</Original>
 				<English>RakArtBtl 12</English>
 				<German>RakArtBtl 12</German>
 				<Chinesesimp>第12火箭炮营</Chinesesimp>
+				<Russian>12-й Ракетно-артиллерийские дивизион</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_LTG61_COL">
 				<Original>LTG 61</Original>
@@ -40668,6 +40896,7 @@
 				<German>LTG 61</German>
 				<Chinesesimp>第61空运联队</Chinesesimp>
 				<Korean>61 공수여단</Korean>
+				<Russian>61-я Авиатранспортная эскадрилья</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_HFLGWAS_COL">
 				<Original>HflgWaS</Original>
@@ -40675,6 +40904,7 @@
 				<German>HflgWaS</German>
 				<Chinesesimp>反坦克直升机</Chinesesimp>
 				<Korean>육군항공학교</Korean>
+				<Russian>Школа Армейской Авиации</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_NAVY_01_WHT">
 				<Original>West German Navy (White)</Original>
@@ -40682,6 +40912,7 @@
 				<German>Bundeswehr, Marine (Weiß)</German>
 				<Chinesesimp>西德海军(白色)</Chinesesimp>
 				<Korean>서독 해군 (하양)</Korean>
+				<Russian>ВМФ ФРГ (Белый)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_NAVY_01_BLK">
 				<Original>West German Navy (Black)</Original>
@@ -40689,12 +40920,14 @@
 				<German>Bundeswehr, Marine (Schwarz)</German>
 				<Chinesesimp>西德海军(黑色)</Chinesesimp>
 				<Korean>서독 해군 (검정)</Korean>
+				<Russian>ВМФ ФРГ (Чёрный)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GC_AIRFORCE_QUALITY_01_COL">
 				<Original>East German Air Force Quality</Original>
 				<English>East German Air Force Quality</English>
 				<German>DDR LSK Qualität</German>
 				<Chinesesimp>东德空军质量</Chinesesimp>
+				<Russian>ВВС ГДР  Quality</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_VEHICLENATION_BLK">
 				<Original>West Germany</Original>
@@ -40702,6 +40935,7 @@
 				<German>Westdeutschland</German>
 				<Chinesesimp>西德</Chinesesimp>
 				<Korean>서독</Korean>
+				<Russian>ФРГ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GC_VEHICLENATION_BLK">
 				<Original>East Germany</Original>
@@ -40709,6 +40943,7 @@
 				<German>DDR</German>
 				<Chinesesimp>东德</Chinesesimp>
 				<Korean>동독</Korean>
+				<Russian>ГДР</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_PL_VEHICLENATION_BLK">
 				<Original>Poland</Original>
@@ -40716,6 +40951,7 @@
 				<German>Polen</German>
 				<Chinesesimp>波兰</Chinesesimp>
 				<Korean>폴란드</Korean>
+				<Russian>Польша</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_DK_VEHICLENATION_BLK">
 				<Original>Denmark</Original>
@@ -40723,6 +40959,7 @@
 				<German>Dänemark</German>
 				<Chinesesimp>丹麦</Chinesesimp>
 				<Korean>덴마크</Korean>
+				<Russian>Дания</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_DK_ARMY_RED">
 				<Original>Danish Army</Original>
@@ -40730,6 +40967,7 @@
 				<German>Dänische Armee</German>
 				<Chinesesimp>丹麦陆军</Chinesesimp>
 				<Korean>덴마크군</Korean>
+				<Russian>Датская Армия</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_PL_MC_BLU">
 				<Original>Polish Naval Infantry (Blue)</Original>
@@ -40737,6 +40975,7 @@
 				<German>Polnische Marine Infantrie (Blau)</German>
 				<Chinesesimp>波兰海军步兵(蓝色)</Chinesesimp>
 				<Korean>폴란드 해군보병 (파랑)</Korean>
+				<Russian>Польская Морская Пехота (Синий)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_POL_NI">
 				<Original>West German Police (Lower Saxony)</Original>
@@ -40744,6 +40983,7 @@
 				<German>Polizei Niedersachsen</German>
 				<Chinesesimp>西德警察(下萨克森州)</Chinesesimp>
 				<Korean>서독 경찰 (로어 작센주)</Korean>
+				<Russian>Полиция ФРГ (Нижняя Саксония)</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_UNITS_GE_BGS_OLI">
 				<Original>West German Borderguards</Original>
@@ -40751,6 +40991,7 @@
 				<German>Bundesgrenzschutz</German>
 				<Chinesesimp>西德边防部队</Chinesesimp>
 				<Korean>서독 국경경비대</Korean>
+				<Russian>Пограничная Служба ФРГ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_INSIGNIA_FLAG_GE_01">
 				<Original>West Germany</Original>
@@ -40758,6 +40999,7 @@
 				<German>Westdeutschland</German>
 				<Chinesesimp>西德</Chinesesimp>
 				<Korean>서독</Korean>
+				<Russian>ФРГ</Russian>
 			</Key>
 			<Key ID="STR_DN_GM_DIN_NORM_GRY">
 				<Original>West German Norm (White)</Original>
