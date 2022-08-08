@@ -7,36 +7,42 @@
         <English>Global Mobilization Extra - Chernarussian Movement of the Red Star</English>
         <German>Global Mobilization Extra - Chernarussian Movement of the Red Star</German>
         <Chinesesimp>全球动员扩展 - 黑俄罗斯红星运动</Chinesesimp>
+		<Russian>Global Mobilization Extra - Чернорусское Движение Красная Звезда</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_VERSION">
         <Original>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</Original>
         <English>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</English>
         <German>Global Mobilization Extra - Chernarussian Movement of the Red Star v1.3.28</German>
         <Chinesesimp>全球动员扩展 - 黑俄罗斯红星运动 1.3.28版本</Chinesesimp>
+		<Russian>Global Mobilization Extra - Чернорусское Движение Красная Звезда v1.3.28</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_AUTHOR">
         <Original>Global Mobilization Extra</Original>
         <English>Global Mobilization Extra</English>
         <German>Global Mobilization Extra</German>
         <Chinesesimp>全球动员扩展</Chinesesimp>
+		<Russian>Global Mobilization Extra</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_NAMESHORT">
         <Original>GMX - ChDKZ</Original>
         <English>GMX - ChDKZ</English>
         <German>GMX - ChDKZ</German>
         <Chinesesimp>GMX - ChDKZ</Chinesesimp>
+		<Russian>GMX - ЧДКЗ</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ">
         <Original>ChDKZ</Original>
         <English>ChDKZ</English>
         <German>ChDKZ</German>
         <Chinesesimp>ChDKZ</Chinesesimp>
+		<Russian>ЧДКЗ</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_ARMY">
         <Original>ChDKZ</Original>
         <English>ChDKZ</English>
         <German>ChDKZ</German>
         <Chinesesimp>ChDKZ</Chinesesimp>
+		<Russian>ЧДКЗ</Russian>
       </Key>
     </Container>
     <Container name="TextureSources">
@@ -45,12 +51,14 @@
         <English>ChDKZ (Woodland)</English>
         <German>ChDKZ (Flecktarn)</German>
         <Chinesesimp>ChDKZ (林地)</Chinesesimp>
+		<Russian>ЧДКЗ (Лесной)</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_WDR">
         <Original>ChDKZ (Woodland-Red Stripes)</Original>
         <English>ChDKZ (Woodland-Red Stripes)</English>
         <German>ChDKZ (Flecktarn - Roter Strich)</German>
         <Chinesesimp>ChDKZ (林地-红色条纹)</Chinesesimp>
+		<Russian>ЧДКЗ (Лесной- Красные Полосы)</Russian>
       </Key>
     </Container>
     <Container name="Ranks">
@@ -59,42 +67,49 @@
         <English>Private</English>
         <German>Gefreiter</German>
         <Chinesesimp>列兵</Chinesesimp>
+		<Russian>Рядовой</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_rank_02">
         <Original>Corporal</Original>
         <English>Corporal</English>
         <German>Unteroffizier</German>
         <Chinesesimp>下士</Chinesesimp>
+		<Russian>Капрал</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_rank_03">
         <Original>Sergeant</Original>
         <English>Sergeant</English>
         <German>Feldwebel</German>
         <Chinesesimp>中士</Chinesesimp>
+		<Russian>Сержант</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_rank_04">
         <Original>Lieutenant</Original>
         <English>Lieutenant</English>
         <German>Leutnant</German>
         <Chinesesimp>中尉</Chinesesimp>
+		<Russian>Лейтенант</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_rank_05">
         <Original>Captain</Original>
         <English>Captain</English>
         <German>Hauptmann</German>
         <Chinesesimp>上尉</Chinesesimp>
+		<Russian>Капитан</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_rank_06">
         <Original>Major</Original>
         <English>Major</English>
         <German>Major</German>
         <Chinesesimp>少校</Chinesesimp>
+		<Russian>Майор</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CHDKZ_rank_07">
         <Original>Colonel</Original>
         <English>Colonel</English>
         <German>Oberst</German>
         <Chinesesimp>上校</Chinesesimp>
+		<Russian>Полковник</Russian>
       </Key>
     </Container>
   <Container name="Displaynames">
@@ -103,6 +118,7 @@
         <English>ChDKZistan</English>
         <German>ChDKZistan</German>
         <Chinesesimp>ChDKZistan</Chinesesimp>
+		<Russian>ChDKZistan</Russian>
       </Key>
     </Container>
   </Package>
