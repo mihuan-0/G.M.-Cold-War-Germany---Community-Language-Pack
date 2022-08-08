@@ -6,26 +6,31 @@
         <Original>Global Mobilization Extra - Chernarussian Defence Force</Original>
         <English>Global Mobilization Extra - Chernarussian Defence Force</English>
         <German>Global Mobilization Extra - Chernarussian Defence Force</German>
+		<Russian>Global Mobilization Extra - Силы Обороны Черноруссии</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_AUTHOR">
         <Original>Global Mobilization Extra</Original>
         <English>Global Mobilization Extra</English>
         <German>Global Mobilization Extra</German>
+		<Russian>Global Mobilization Extra</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_NAMESHORT">
         <Original>GMX - CDF</Original>
         <English>GMX - CDF</English>
         <German>GMX - CDF</German>
+		<Russian>GMX - CDF</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF">
         <Original>CDF</Original>
         <English>CDF</English>
         <German>CDF</German>
+		<Russian>CDF</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_ARMY">
         <Original>CDF</Original>
         <English>CDF</English>
         <German>CDF</German>
+		<Russian>CDF</Russian>
       </Key>
     </Container>
     <Container name="TextureSources">
@@ -33,11 +38,13 @@
         <Original>CDF (Woodland)</Original>
         <English>CDF (Woodland)</English>
         <German>CDF (Flecktarn)</German>
+		<Russian>CDF (Лесной)</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_WDR">
         <Original>CDF (Woodland-Red Stripes)</Original>
         <English>CDF (Woodland-Red Stripes)</English>
         <German>CDF (Flecktarn - Roter Strich)</German>
+		<Russian>CDF (Лесной-Красные Полосы)</Russian>
       </Key>
     </Container>
     <Container name="Ranks">
@@ -45,36 +52,43 @@
         <Original>Private</Original>
         <English>Private</English>
         <German>Gefreiter</German>
+		<Russian>Рядовой</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_rank_02">
         <Original>Corporal</Original>
         <English>Corporal</English>
         <German>Unteroffizier</German>
+		<Russian>Капрал</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_rank_03">
         <Original>Sergeant</Original>
         <English>Sergeant</English>
         <German>Feldwebel</German>
+		<Russian>Сержант</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_rank_04">
         <Original>Lieutenant</Original>
         <English>Lieutenant</English>
         <German>Leutnant</German>
+		<Russian>Лейтенант</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_rank_05">
         <Original>Captain</Original>
         <English>Captain</English>
         <German>Hauptmann</German>
+		<Russian>Капитан</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_rank_06">
         <Original>Major</Original>
         <English>Major</English>
         <German>Major</German>
+		<Russian>Майор</Russian>
       </Key>
       <Key ID="STR_DN_GMX_CDF_rank_07">
         <Original>Colonel</Original>
         <English>Colonel</English>
         <German>Oberst</German>
+		<Russian>Полковник</Russian>
       </Key>
     </Container>
   <Container name="Displaynames">
@@ -82,6 +96,7 @@
         <Original>CDFistan</Original>
         <English>CDFistan</English>
         <German>CDFistan</German>
+		<Russian>CDFistan</Russian>
       </Key>
     </Container>
   </Package>
