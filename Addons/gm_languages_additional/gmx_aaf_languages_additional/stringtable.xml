@@ -7,36 +7,42 @@
         <English>Global Mobilization Extra - Altis Armed Forces</English>
         <German>Global Mobilization Extra - Altis Armed Forces</German>
         <Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军</Chinesesimp>
+		<Russian>Global Mobilization Extra - Вооруженные Силы Алтиса</Russian>
       </Key>
       <Key ID="STR_DN_GMX_AAF_VERSION">
         <Original>Global Mobilization Extra - Altis Armed Forces v1.1.28</Original>
         <English>Global Mobilization Extra - Altis Armed Forces v1.1.28</English>
         <German>Global Mobilization Extra - Altis Armed Forces v1.1.28</German>
         <Chinesesimp>全球动员扩展 - 阿尔蒂斯政府军 1.1.28版本</Chinesesimp>
+		<Russian>Global Mobilization Extra - Вооруженные Силы Алтиса v1.1.28</Russian>
       </Key>
       <Key ID="STR_DN_GMX_AAF_AUTHOR">
         <Original>Global Mobilization Extra</Original>
         <English>Global Mobilization Extra</English>
         <German>Global Mobilization Extra</German>
         <Chinesesimp>全球动员扩展</Chinesesimp>
+		<Russian>Global Mobilization Extra</Russian>
       </Key>
       <Key ID="STR_DN_GMX_AAF_NAMESHORT">
         <Original>GMX - AAF</Original>
         <English>GMX - AAF</English>
         <German>GMX - AAF</German>
         <Chinesesimp>GMX - AAF</Chinesesimp>
+		<Russian>GMX - AAF</Russian>
       </Key>
       <Key ID="STR_DN_GMX_AAF_ARMY">
         <Original>Altis Armed Forces</Original>
         <English>Altis Armed Forces</English>
         <German>Altis Armed Forces</German>
         <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+		<Russian>Вооруженные Силы Алтиса</Russian>
       </Key>
       <Key ID="STR_DN_GMX_AAF">
         <Original>Altis</Original>
         <English>Altis</English>
         <German>Altis</German>
         <Chinesesimp>阿尔蒂斯</Chinesesimp>
+		<Russian>Алтис</Russian>
       </Key>
     </Container>
     <Container name="TextureSources">
@@ -45,6 +51,7 @@
         <English>AAF (Digital Green)</English>
         <German>AAF (Digital Grün)</German>
         <Chinesesimp>AAF (数码绿)</Chinesesimp>
+		<Russian>AAF (Цифровой Зеленый)</Russian>
       </Key>
     </Container>
   <Container name="Displaynames">
@@ -53,18 +60,21 @@
         <English>Altis Armed Forces</English>
         <German>Altis Armed Forces</German>
         <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+		<Russian>Вооруженные Силы Алтиса</Russian>
       </Key>
       <Key ID="STR_DN_GMX_LICENSEPLATE_AAF_YEL">
         <Original>Altis Armed Forces</Original>
         <English>Altis Armed Forces</English>
         <German>Altis Armed Forces</German>
         <Chinesesimp>阿尔蒂斯政府军</Chinesesimp>
+		<Russian>Вооруженные Силы Алтиса</Russian>
       </Key>
       <Key ID="STR_DN_GMX_FONT_AAF_BLK_YEL">
         <Original>Altis Armed Forces - Black/Yellow</Original>
         <English>Altis Armed Forces - Black/Yellow</English>
         <German>Altis Armed Forces - Schwarz/Gelb</German>
         <Chinesesimp>阿尔蒂斯政府军 - 黑色/黄色</Chinesesimp>
+		<Russian>Вооруженные Силы Алтиса - Черный/Желтый</Russian>
       </Key>
     </Container>
   </Package>
